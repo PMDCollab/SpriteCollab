@@ -15,6 +15,7 @@ PixlHoopa	<@310773087417270272>
 	<@91001329228464128>	
 	<@493293282064072715>	
 frostibirb	<@192178759376306176>	https://github.com/frostibirb
+NeroIntruder	<@319945906600411179>	https://twitter.com/NeroIntruder
 Moo	<@276949114212712449>	https://twitter.com/MoonMoonMemes
 Anonymous	<@200318546750865418>	
 RaoKurai	<@173896352554549248>	https://twitter.com/RaoKurai

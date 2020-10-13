@@ -3736,7 +3736,7 @@
     "name": "Growlithe",
     "portrait_complete": true,
     "portrait_credit": "CHUNSOFT",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765634385369628702/portrait-0058.png",
     "portrait_modified": "2020-10-13 03:58:46.021460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -7263,7 +7263,7 @@
   "0116": {
     "name": "Horsea",
     "portrait_complete": true,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@192178759376306176>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765477884449783818/portrait-0116.png",
     "portrait_modified": "2020-10-13 03:58:46.033460",
     "portrait_pending": {},
@@ -7297,7 +7297,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": true,
-            "portrait_credit": "<@162389028061052928>",
+            "portrait_credit": "<@192178759376306176>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.033460",
             "portrait_pending": {},
@@ -43792,9 +43792,11 @@
     "name": "Espurr",
     "portrait_complete": false,
     "portrait_credit": "",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765628888080187442/portrait-0677.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "765632716607586360": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": false,
@@ -43848,9 +43850,11 @@
     "name": "Meowstic",
     "portrait_complete": false,
     "portrait_credit": "",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765631963784413275/portrait-0678.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "765632757094547456": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": false,
