@@ -43790,14 +43790,12 @@
   },
   "0677": {
     "name": "Espurr",
-    "portrait_complete": false,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765628888080187442/portrait-0677.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "765632716607586360": true
-    },
-    "portrait_recolor_link": "",
+    "portrait_complete": true,
+    "portrait_credit": "<@319945906600411179>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765667585885863936/portrait-0677.png",
+    "portrait_modified": "2020-10-13 20:09:37.768823",
+    "portrait_pending": {},
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/765668297030631514/portrait_recolor-0677-0000-0001.png",
     "portrait_required": true,
     "sprite_complete": false,
     "sprite_credit": "",
@@ -43828,7 +43826,7 @@
             "name": "Shiny",
             "portrait_complete": false,
             "portrait_credit": "",
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765668190100783144/portrait-0677.png",
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -43849,12 +43847,10 @@
   "0678": {
     "name": "Meowstic",
     "portrait_complete": false,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765631963784413275/portrait-0678.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "765632757094547456": true
-    },
+    "portrait_credit": "<@319945906600411179>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765667581218390037/portrait-0678.png",
+    "portrait_modified": "2020-10-13 20:09:36.130863",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": false,
