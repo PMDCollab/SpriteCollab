@@ -9259,12 +9259,10 @@
   "0147": {
     "name": "Dratini",
     "portrait_complete": true,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765841308429320212/portrait-0147.png",
-    "portrait_modified": "2020-10-13 03:58:46.037460",
-    "portrait_pending": {
-      "765844120262410240": true
-    },
+    "portrait_credit": "<@192178759376306176>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765949534479319050/portrait-0147.png",
+    "portrait_modified": "2020-10-14 14:49:59.522857",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": true,
@@ -9294,7 +9292,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": true,
+            "portrait_complete": false,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.037460",
