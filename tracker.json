@@ -33859,12 +33859,10 @@
   "0497": {
     "name": "Serperior",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765974601683435560/portrait-0497.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "765975130420805683": true
-    },
+    "portrait_credit": "<@319945906600411179>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766079073214136330/portrait-0497.png",
+    "portrait_modified": "2020-10-14 23:24:44.019906",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
