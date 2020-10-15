@@ -45096,12 +45096,10 @@
   "0696": {
     "name": "Tyrunt",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766323395448274994/portrait-0696.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "766326165936799744": true
-    },
+    "portrait_credit": "<@319945906600411179>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766365921765752892/portrait-0696.png",
+    "portrait_modified": "2020-10-15 18:24:33.954424",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
