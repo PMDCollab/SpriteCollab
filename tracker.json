@@ -1,7 +1,7 @@
 {
   "0000": {
     "name": "Missingno_",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@117780585635643396>",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.009459",
@@ -72,7 +72,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.009459",
@@ -299,7 +299,7 @@
   },
   "0004": {
     "name": "Charmander",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.013460",
@@ -333,7 +333,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.013460",
@@ -541,7 +541,7 @@
   },
   "0007": {
     "name": "Squirtle",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.013460",
@@ -575,7 +575,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.013460",
@@ -1698,7 +1698,7 @@
   },
   "0025": {
     "name": "Pikachu",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765433567240388608/portrait-0025.png",
     "portrait_modified": "2020-10-13 03:58:46.017460",
@@ -1769,7 +1769,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.017460",
@@ -2482,7 +2482,7 @@
   },
   "0037": {
     "name": "Vulpix",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.017460",
@@ -2516,7 +2516,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.017460",
@@ -3546,7 +3546,7 @@
   },
   "0052": {
     "name": "Meowth",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.021460",
@@ -3580,7 +3580,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@173896352554549248>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.021460",
@@ -7410,7 +7410,7 @@
   },
   "0116": {
     "name": "Horsea",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@192178759376306176>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765477884449783818/portrait-0116.png",
     "portrait_modified": "2020-10-13 03:58:46.033460",
@@ -7444,7 +7444,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@192178759376306176>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.033460",
@@ -8474,7 +8474,7 @@
   },
   "0133": {
     "name": "Eevee",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.037460",
@@ -8508,7 +8508,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.037460",
@@ -9258,7 +9258,7 @@
   },
   "0147": {
     "name": "Dratini",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@192178759376306176>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765949534479319050/portrait-0147.png",
     "portrait_modified": "2020-10-14 14:49:59.522857",
@@ -9538,7 +9538,7 @@
   },
   "0152": {
     "name": "Chikorita",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.037460",
@@ -9572,7 +9572,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.037460",
@@ -9762,7 +9762,7 @@
   },
   "0155": {
     "name": "Cyndaquil",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.041460",
@@ -9796,7 +9796,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.041460",
@@ -9930,7 +9930,7 @@
   },
   "0158": {
     "name": "Totodile",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.041460",
@@ -9964,7 +9964,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.041460",
@@ -15633,7 +15633,7 @@
   },
   "0231": {
     "name": "Phanpy",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.057460",
@@ -15667,7 +15667,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@215699178553212929>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.057460",
@@ -16865,7 +16865,7 @@
   },
   "0252": {
     "name": "Treecko",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.061460",
@@ -16899,7 +16899,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@173896352554549248>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.061460",
@@ -17033,7 +17033,7 @@
   },
   "0255": {
     "name": "Torchic",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.061460",
@@ -17067,7 +17067,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.061460",
@@ -17313,7 +17313,7 @@
   },
   "0258": {
     "name": "Mudkip",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.061460",
@@ -17347,7 +17347,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.061460",
@@ -19833,7 +19833,7 @@
   },
   "0300": {
     "name": "Skitty",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.069460",
@@ -19867,7 +19867,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.069460",
@@ -25207,7 +25207,7 @@
   },
   "0387": {
     "name": "Turtwig",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.085461",
@@ -25241,7 +25241,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@95638225439166464>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.085461",
@@ -25375,7 +25375,7 @@
   },
   "0390": {
     "name": "Chimchar",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.085461",
@@ -25409,7 +25409,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.085461",
@@ -25543,7 +25543,7 @@
   },
   "0393": {
     "name": "Piplup",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.089461",
@@ -25577,7 +25577,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.089461",
@@ -26495,7 +26495,7 @@
   },
   "0403": {
     "name": "Shinx",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.089461",
@@ -26529,7 +26529,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@162389028061052928>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.089461",
@@ -28322,11 +28322,13 @@
   },
   "0427": {
     "name": "Buneary",
-    "portrait_complete": 1,
+    "portrait_complete": 0,
     "portrait_credit": "<@192178759376306176>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765949443257794612/portrait-0427.png",
     "portrait_modified": "2020-10-14 14:49:37.729831",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "766162361517211649": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -29554,7 +29556,7 @@
   },
   "0446": {
     "name": "Munchlax",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.097461",
@@ -29588,7 +29590,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.097461",
@@ -29610,7 +29612,7 @@
   },
   "0447": {
     "name": "Riolu",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "",
     "portrait_modified": "2020-10-13 03:58:46.097461",
@@ -29644,7 +29646,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@200318546750865418>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.097461",
@@ -33746,7 +33748,7 @@
   },
   "0495": {
     "name": "Snivy",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@319945906600411179>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766079057011933214/portrait-0495.png",
     "portrait_modified": "2020-10-14 23:24:40.065505",
@@ -43938,7 +43940,7 @@
   },
   "0677": {
     "name": "Espurr",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@319945906600411179>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765667585885863936/portrait-0677.png",
     "portrait_modified": "2020-10-13 20:09:37.768823",
