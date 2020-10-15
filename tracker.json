@@ -28322,7 +28322,7 @@
   },
   "0427": {
     "name": "Buneary",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@192178759376306176>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766240812735922176/portrait-0427.png",
     "portrait_modified": "2020-10-15 10:07:25.542453",
@@ -35204,7 +35204,7 @@
     "name": "Unfezant",
     "portrait_complete": 0,
     "portrait_credit": "",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766328205963165696/portrait-0521.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -35250,7 +35250,63 @@
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "subgroups": {}
+            "subgroups": {
+              "0002": {
+                "name": "Female",
+                "portrait_complete": 0,
+                "portrait_credit": "",
+                "portrait_link": "",
+                "portrait_modified": "",
+                "portrait_pending": {},
+                "portrait_recolor_link": "",
+                "portrait_required": true,
+                "sprite_complete": 0,
+                "sprite_credit": "",
+                "sprite_link": "",
+                "sprite_modified": "",
+                "sprite_pending": {},
+                "sprite_recolor_link": "",
+                "sprite_required": true,
+                "subgroups": {}
+              }
+            }
+          },
+          "0000": {
+            "name": "",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": false,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": false,
+            "subgroups": {
+              "0002": {
+                "name": "Female",
+                "portrait_complete": 0,
+                "portrait_credit": "",
+                "portrait_link": "",
+                "portrait_modified": "",
+                "portrait_pending": {},
+                "portrait_recolor_link": "",
+                "portrait_required": true,
+                "sprite_complete": 0,
+                "sprite_credit": "",
+                "sprite_link": "",
+                "sprite_modified": "",
+                "sprite_pending": {},
+                "sprite_recolor_link": "",
+                "sprite_required": true,
+                "subgroups": {}
+              }
+            }
           }
         }
       }
@@ -45041,9 +45097,11 @@
     "name": "Tyrunt",
     "portrait_complete": 0,
     "portrait_credit": "",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766323395448274994/portrait-0696.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "766326165936799744": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -45096,9 +45154,9 @@
   "0697": {
     "name": "Tyrantrum",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "<@319945906600411179>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766365708883722290/portrait-0697.png",
+    "portrait_modified": "2020-10-15 18:23:43.170625",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
