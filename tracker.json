@@ -6159,12 +6159,10 @@
       "0001": {
         "name": "Alola",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770032781295091712/portrait-0089-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "770036047714975784": true
-        },
+        "portrait_credit": "<@319945906600411179>",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770050411851153448/portrait-0089-0001.png",
+        "portrait_modified": "2020-10-25 22:25:24.809245",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -9899,7 +9897,9 @@
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/768905202879168515/portrait-0151.png",
     "portrait_modified": "2020-10-13 03:58:46.037460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770050298621591582": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
