@@ -1361,12 +1361,10 @@
       "0001": {
         "name": "Alola",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770033923778150400/portrait-0019-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "770036077171179520": true
-        },
+        "portrait_credit": "<@319945906600411179>",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770050417601544202/portrait-0019-0001.png",
+        "portrait_modified": "2020-10-25 22:25:26.310143",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
