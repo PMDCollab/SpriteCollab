@@ -9893,9 +9893,7 @@
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/768905202879168515/portrait-0151.png",
     "portrait_modified": "2020-10-13 03:58:46.037460",
-    "portrait_pending": {
-      "770050298621591582": true
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -38483,9 +38481,9 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_credit": "<@327927398941196289>",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770106324616609812/portrait-0570-0000-0001.png",
+            "portrait_modified": "2020-10-26 02:07:35.542068",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -38542,7 +38540,9 @@
             "portrait_credit": "",
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "770092875743494144": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
