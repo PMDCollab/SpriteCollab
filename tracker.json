@@ -38537,12 +38537,10 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "770092875743494144": true
-            },
+            "portrait_credit": "<@327927398941196289>",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770106327754080266/portrait-0571-0000-0001.png",
+            "portrait_modified": "2020-10-26 02:07:36.289170",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
