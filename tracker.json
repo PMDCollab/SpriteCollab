@@ -4105,12 +4105,10 @@
   "0058": {
     "name": "Growlithe",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765634385369628702/portrait-0058.png",
-    "portrait_modified": "2020-10-13 03:58:46.021460",
-    "portrait_pending": {
-      "770725761698234388": true
-    },
+    "portrait_credit": "<@513590747694497792>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728929152991242/portrait-0058.png",
+    "portrait_modified": "2020-10-27 19:21:36.059595",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -4140,7 +4138,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@234720295292895232>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.021460",
