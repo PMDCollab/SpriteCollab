@@ -4108,7 +4108,9 @@
     "portrait_credit": "CHUNSOFT",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/765634385369628702/portrait-0058.png",
     "portrait_modified": "2020-10-13 03:58:46.021460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770725761698234388": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -35406,7 +35408,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770722000771350528": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -35462,7 +35466,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770722532474617887": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -35518,7 +35524,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770723039028969512": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -35739,12 +35747,10 @@
   "0520": {
     "name": "Tranquill",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "770716360904409090": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728889726926898/portrait-0520.png",
+    "portrait_modified": "2020-10-27 19:21:26.592692",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -35800,7 +35806,9 @@
     "portrait_credit": "",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766328205963165696/portrait-0521.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770718545067376751": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -35886,9 +35894,11 @@
                 "name": "Female",
                 "portrait_complete": 0,
                 "portrait_credit": "",
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770717530842333224/portrait-0521-0000-0000-0002.png",
                 "portrait_modified": "",
-                "portrait_pending": {},
+                "portrait_pending": {
+                  "770717657691324496": true
+                },
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 0,
@@ -35912,7 +35922,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770720123531165697": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
