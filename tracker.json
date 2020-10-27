@@ -35795,12 +35795,10 @@
   "0521": {
     "name": "Unfezant",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/766328205963165696/portrait-0521.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "770718545067376751": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728977006329887/portrait-0521.png",
+    "portrait_modified": "2020-10-27 19:21:47.415864",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
