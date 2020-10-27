@@ -35883,12 +35883,10 @@
               "0002": {
                 "name": "Female",
                 "portrait_complete": 0,
-                "portrait_credit": "",
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770717530842333224/portrait-0521-0000-0000-0002.png",
-                "portrait_modified": "",
-                "portrait_pending": {
-                  "770717657691324496": true
-                },
+                "portrait_credit": "MUCRUSH",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728981431320586/portrait-0521-0000-0000-0002.png",
+                "portrait_modified": "2020-10-27 19:21:48.497934",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 0,
