@@ -35519,12 +35519,10 @@
   "0516": {
     "name": "Simipour",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "770723039028969512": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728934425886750/portrait-0516.png",
+    "portrait_modified": "2020-10-27 19:21:37.233664",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
