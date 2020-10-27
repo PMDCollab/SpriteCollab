@@ -35461,12 +35461,10 @@
   "0515": {
     "name": "Panpour",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "770722532474617887": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728938473390110/portrait-0515.png",
+    "portrait_modified": "2020-10-27 19:21:38.274017",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
