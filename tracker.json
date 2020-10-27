@@ -35683,9 +35683,9 @@
   "0519": {
     "name": "Pidove",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770716861994106910/portrait-0519.png",
+    "portrait_modified": "2020-10-27 18:33:38.973034",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -35742,7 +35742,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "770716360904409090": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
