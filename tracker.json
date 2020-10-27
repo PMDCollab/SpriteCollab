@@ -35911,12 +35911,10 @@
   "0522": {
     "name": "Blitzle",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "770720123531165697": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728970333192242/portrait-0522.png",
+    "portrait_modified": "2020-10-27 19:21:45.844573",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
