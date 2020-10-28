@@ -36394,12 +36394,10 @@
   "0530": {
     "name": "Excadrill",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771108266834526209": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771116122057342976/portrait-0530.png",
+    "portrait_modified": "2020-10-28 21:00:10.019339",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
