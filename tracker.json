@@ -36282,12 +36282,10 @@
   "0528": {
     "name": "Swoobat",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771108255631409152": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771116094601035806/portrait-0528.png",
+    "portrait_modified": "2020-10-28 21:00:03.407443",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
