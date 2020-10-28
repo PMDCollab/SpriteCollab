@@ -301,7 +301,7 @@
     "name": "Charmander",
     "portrait_complete": 2,
     "portrait_credit": "CHUNSOFT",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771098684779528192/portrait-0004.png",
     "portrait_modified": "2020-10-13 03:58:46.013460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -23671,7 +23671,7 @@
             "name": "Shiny",
             "portrait_complete": 1,
             "portrait_credit": "<@234720295292895232>",
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771007080634384394/portrait-0352-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.077461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -23680,6 +23680,43 @@
             "sprite_credit": "<@200385851069300736>",
             "sprite_link": "",
             "sprite_modified": "2020-10-13 03:58:47.065475",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "name": "Purple",
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771020146429001758/portrait-0352-0001.png",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_link": "",
+            "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
@@ -35964,9 +36001,11 @@
     "name": "Zebstrika",
     "portrait_complete": 0,
     "portrait_credit": "",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771106794780229642/portrait-0523.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108654110736436": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36019,9 +36058,9 @@
   "0524": {
     "name": "Roggenrola",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771115992180457492/portrait-0524.png",
+    "portrait_modified": "2020-10-28 20:59:39.028546",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -36075,9 +36114,9 @@
   "0525": {
     "name": "Boldore",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_modified": "2020-10-28 20:59:43.756637",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -36134,7 +36173,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108235608326204": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36190,7 +36231,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108244755578890": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36246,7 +36289,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108255631409152": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36302,7 +36347,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108256793624576": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36358,7 +36405,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108266834526209": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36414,7 +36463,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108273147347007": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36470,7 +36521,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771108282483081216": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
