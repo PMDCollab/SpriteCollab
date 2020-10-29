@@ -36788,12 +36788,10 @@
   "0537": {
     "name": "Seismitoad",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771141653313880084": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212071748632586/portrait-0537.png",
+    "portrait_modified": "2020-10-29 03:21:26.148286",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
