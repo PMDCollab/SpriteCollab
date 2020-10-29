@@ -37566,12 +37566,10 @@
       "0001": {
         "name": "Blue",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771395204887740458/portrait-0550-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "771395417920503808": true
-        },
+        "portrait_credit": "MUCRUSH",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771396586747985950/portrait-0550-0001.png",
+        "portrait_modified": "2020-10-29 15:34:38.025351",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
