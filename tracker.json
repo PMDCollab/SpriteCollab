@@ -38038,12 +38038,10 @@
   "0558": {
     "name": "Crustle",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771498208097468456": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771510901785755698/portrait-0558.png",
+    "portrait_modified": "2020-10-29 23:08:52.633509",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
