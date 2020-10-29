@@ -36902,12 +36902,10 @@
   "0539": {
     "name": "Sawk",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771141660674490368": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212083547209748/portrait-0539.png",
+    "portrait_modified": "2020-10-29 03:21:29.047973",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
