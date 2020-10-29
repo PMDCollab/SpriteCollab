@@ -36563,7 +36563,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212113489559572/portrait-0533.png",
     "portrait_modified": "2020-10-29 03:21:36.191998",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385264710221854": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36619,7 +36621,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212061007020052/portrait-0534.png",
     "portrait_modified": "2020-10-29 03:21:23.657716",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385265431904316": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36731,7 +36735,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212067058352138/portrait-0536.png",
     "portrait_modified": "2020-10-29 03:21:25.086954",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385291759288371": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36787,7 +36793,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212071748632586/portrait-0537.png",
     "portrait_modified": "2020-10-29 03:21:26.148286",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385283030548510": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36843,7 +36851,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212087728406578/portrait-0538.png",
     "portrait_modified": "2020-10-29 03:21:30.042914",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385296809230399": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -36897,8 +36907,8 @@
     "name": "Sawk",
     "portrait_complete": 0,
     "portrait_credit": "MUCRUSH",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212083547209748/portrait-0539.png",
-    "portrait_modified": "2020-10-29 03:21:29.047973",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771395487546212372/portrait-0539.png",
+    "portrait_modified": "2020-10-29 15:30:15.927837",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -36955,7 +36965,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212092081831957/portrait-0540.png",
     "portrait_modified": "2020-10-29 03:21:31.077509",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385243319795742": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37011,7 +37023,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212108997591050/portrait-0541.png",
     "portrait_modified": "2020-10-29 03:21:35.099682",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385247379488810": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37067,7 +37081,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212095794315274/portrait-0542.png",
     "portrait_modified": "2020-10-29 03:21:31.966419",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385248339722250": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37291,7 +37307,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212116786413598/portrait-0546.png",
     "portrait_modified": "2020-10-29 03:21:36.937554",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385251233529908": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37347,7 +37365,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212129952333824/portrait-0547.png",
     "portrait_modified": "2020-10-29 03:21:40.125423",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385261028409394": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37459,7 +37479,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212125716086784/portrait-0549.png",
     "portrait_modified": "2020-10-29 03:21:39.110347",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385261720338452": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37515,7 +37537,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771395136641826896": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37562,6 +37586,45 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "name": "Blue",
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771395204887740458/portrait-0550-0001.png",
+        "portrait_modified": "",
+        "portrait_pending": {
+          "771395417920503808": true
+        },
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -37571,7 +37634,9 @@
     "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212135262847036/portrait-0551.png",
     "portrait_modified": "2020-10-29 03:21:41.365395",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771385263838199838": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
