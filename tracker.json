@@ -37833,12 +37833,10 @@
   "0555": {
     "name": "Darmanitan",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771498181992513569": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771510827312349184/portrait-0555.png",
+    "portrait_modified": "2020-10-29 23:08:35.068603",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
