@@ -37664,7 +37664,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771498213546000384": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37720,7 +37722,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771498222732181515": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37773,9 +37777,9 @@
   "0554": {
     "name": "Darumaka",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771510819338321960/portrait-0554.png",
+    "portrait_modified": "2020-10-29 23:08:33.118592",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -37832,7 +37836,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771498181992513569": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37879,6 +37885,45 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "name": "Zen",
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771496901668503562/portrait-0555-0001.png",
+        "portrait_modified": "",
+        "portrait_pending": {
+          "771498188070715392": true
+        },
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -37888,7 +37933,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771498194584207391": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -37944,7 +37991,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771498202402783244": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -38000,7 +38049,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "771498208097468456": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
