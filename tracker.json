@@ -37887,12 +37887,10 @@
       "0001": {
         "name": "Zen",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771496901668503562/portrait-0555-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "771498188070715392": true
-        },
+        "portrait_credit": "MUCRUSH",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771510843745107978/portrait-0555-0001.png",
+        "portrait_modified": "2020-10-29 23:08:38.950380",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
