@@ -37570,12 +37570,10 @@
   "0551": {
     "name": "Sandile",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771147268321050626": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212135262847036/portrait-0551.png",
+    "portrait_modified": "2020-10-29 03:21:41.365395",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
