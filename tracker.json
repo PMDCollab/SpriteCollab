@@ -37070,12 +37070,10 @@
   "0542": {
     "name": "Leavanny",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771141675065147433": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771212095794315274/portrait-0542.png",
+    "portrait_modified": "2020-10-29 03:21:31.966419",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
