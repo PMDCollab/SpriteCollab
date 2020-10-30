@@ -34320,12 +34320,10 @@
   "0494": {
     "name": "Victini",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810789610094602": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771819303141769226/portrait-0494.png",
+    "portrait_modified": "2020-10-30 19:34:21.393636",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -34546,12 +34544,10 @@
   "0498": {
     "name": "Tepig",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/769338300623486997/portrait-0498.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810799806709770": true
-    },
+    "portrait_modified": "2020-10-30 19:34:21.968029",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
