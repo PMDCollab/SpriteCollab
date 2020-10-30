@@ -35104,12 +35104,10 @@
   "0508": {
     "name": "Stoutland",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810846413553684": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771819371949588500/portrait-0508.png",
+    "portrait_modified": "2020-10-30 19:34:37.771535",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
