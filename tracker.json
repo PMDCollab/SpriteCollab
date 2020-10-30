@@ -38202,12 +38202,10 @@
   "0561": {
     "name": "Sigilyph",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771566585877889054": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771570828810649620/portrait-0561.png",
+    "portrait_modified": "2020-10-30 03:07:00.584687",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
