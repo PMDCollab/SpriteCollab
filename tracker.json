@@ -35298,12 +35298,10 @@
   "0511": {
     "name": "Pansage",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810723344809995": true
-    },
+    "portrait_modified": "2020-10-30 19:33:57.253153",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -35356,12 +35354,10 @@
   "0512": {
     "name": "Simisage",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810722153758731": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771819199286607892/portrait-0512.png",
+    "portrait_modified": "2020-10-30 19:33:56.001317",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
