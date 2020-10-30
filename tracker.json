@@ -37120,12 +37120,10 @@
   "0543": {
     "name": "Venipede",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771857020395323392/portrait-0543.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771858979378692107": true
-    },
+    "portrait_credit": "<@327927398941196289>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771859712663879710/portrait-0543.png",
+    "portrait_modified": "2020-10-30 22:14:55.619654",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
