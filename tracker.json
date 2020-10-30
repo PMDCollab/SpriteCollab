@@ -38956,12 +38956,10 @@
   "0574": {
     "name": "Gothita",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810741472460880": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771819250469044274/portrait-0574.png",
+    "portrait_modified": "2020-10-30 19:34:08.890585",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
