@@ -34936,12 +34936,10 @@
   "0505": {
     "name": "Watchog",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810835039125546": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771819354903281684/portrait-0505.png",
+    "portrait_modified": "2020-10-30 19:34:33.691815",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
