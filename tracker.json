@@ -34768,12 +34768,10 @@
   "0502": {
     "name": "Dewott",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771221596685598751/portrait-0502.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771810819259236362": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771819333629378560/portrait-0502.png",
+    "portrait_modified": "2020-10-30 19:34:28.692216",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
