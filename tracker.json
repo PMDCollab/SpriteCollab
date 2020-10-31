@@ -39098,12 +39098,10 @@
   "0577": {
     "name": "Solosis",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "771823461084561468": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771917182904041482/portrait-0577.png",
+    "portrait_modified": "2020-10-31 02:03:17.764024",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
