@@ -18199,6 +18199,43 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "name": "Galar",
+        "portrait_complete": 0,
+        "portrait_credit": "<@294668186219970562>",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773287275907776522/portrait-0263-0001.png",
+        "portrait_modified": "2020-11-03 20:47:33.385450",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
