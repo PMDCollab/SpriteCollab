@@ -18148,7 +18148,7 @@
   },
   "0263": {
     "name": "Zigzagoon",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@294668186219970562>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773194937818021908/portrait-0263.png",
     "portrait_modified": "2020-11-03 14:40:38.288224",
@@ -22573,12 +22573,10 @@
   "0336": {
     "name": "Seviper",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773165153012416512/portrait-0336.png",
-    "portrait_modified": "2020-10-13 03:58:46.077461",
-    "portrait_pending": {
-      "773168184135254026": true
-    },
+    "portrait_credit": "<@294668186219970562>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773225135058059374/portrait-0336.png",
+    "portrait_modified": "2020-11-03 16:40:37.870717",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -22608,7 +22606,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@276949114212712449>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.077461",
