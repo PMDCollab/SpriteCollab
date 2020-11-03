@@ -20482,9 +20482,9 @@
   "0301": {
     "name": "Delcatty",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770507357402693662/portrait-0301.png",
-    "portrait_modified": "2020-10-13 03:58:46.069460",
+    "portrait_credit": "<@327927398941196289>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773295486949392414/portrait-0301.png",
+    "portrait_modified": "2020-11-03 21:20:11.054572",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -20515,7 +20515,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@200318546750865418>",
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771834068009615380/portrait-0301-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.069460",
