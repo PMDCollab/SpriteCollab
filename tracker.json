@@ -41356,12 +41356,10 @@
   "0614": {
     "name": "Beartic",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024315774566401": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774040083321454593/portrait-0614.png",
+    "portrait_modified": "2020-11-05 22:38:56.518490",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
