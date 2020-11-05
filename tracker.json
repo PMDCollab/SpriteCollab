@@ -12725,7 +12725,7 @@
   },
   "0194": {
     "name": "Wooper",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "FELIS_LICHT",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774010881796603914/portrait-0194.png",
     "portrait_modified": "2020-11-05 20:42:54.515446",
@@ -39396,9 +39396,9 @@
   "0581": {
     "name": "Swanna",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019198052728902/portrait-0581.png",
+    "portrait_modified": "2020-11-05 21:15:57.257858",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -39455,7 +39455,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018207202934784": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39511,7 +39513,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774019097724977203": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39567,7 +39571,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018215445266462": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39623,7 +39629,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018218289004574": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39735,7 +39743,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018225583161354": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39791,7 +39801,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018227554091079": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39847,7 +39859,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018232411488277": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39903,7 +39917,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018234973945897": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39959,7 +39975,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018242368503861": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40015,7 +40033,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018248651046933": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40101,9 +40121,11 @@
                 "name": "Female",
                 "portrait_complete": 0,
                 "portrait_credit": "",
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774018041843286016/portrait-0592-0000-0000-0002.png",
                 "portrait_modified": "",
-                "portrait_pending": {},
+                "portrait_pending": {
+                  "774018629678530560": true
+                },
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 0,
@@ -40127,7 +40149,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018255702458398": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40215,7 +40239,9 @@
                 "portrait_credit": "",
                 "portrait_link": "",
                 "portrait_modified": "",
-                "portrait_pending": {},
+                "portrait_pending": {
+                  "774018635642830858": true
+                },
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 0,
@@ -40239,7 +40265,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018263393763348": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40295,7 +40323,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018282470375434": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40351,7 +40381,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018281446309888": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40407,7 +40439,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018287066808330": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40463,7 +40497,9 @@
     "portrait_credit": "",
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "774018293739683840": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
