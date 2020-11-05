@@ -40470,12 +40470,10 @@
   "0598": {
     "name": "Ferrothorn",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018293739683840": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019254793928734/portrait-0598.png",
+    "portrait_modified": "2020-11-05 21:16:10.803425",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
