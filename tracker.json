@@ -40248,12 +40248,10 @@
   "0594": {
     "name": "Alomomola",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018263393763348": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019234027798538/portrait-0594.png",
+    "portrait_modified": "2020-11-05 21:16:05.819811",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
