@@ -40908,12 +40908,10 @@
   "0606": {
     "name": "Beheeyem",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024266341548033": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774040032641548318/portrait-0606.png",
+    "portrait_modified": "2020-11-05 22:38:44.568228",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
