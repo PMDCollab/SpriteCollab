@@ -39508,12 +39508,10 @@
   "0583": {
     "name": "Vanillish",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774019097724977203": true
-    },
+    "portrait_modified": "2020-11-05 21:16:14.568378",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40216,12 +40214,10 @@
               "0002": {
                 "name": "Female",
                 "portrait_complete": 0,
-                "portrait_credit": "",
-                "portrait_link": "",
-                "portrait_modified": "",
-                "portrait_pending": {
-                  "774018635642830858": true
-                },
+                "portrait_credit": "MUCRUSH",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019269356814336/portrait-0593-0000-0000-0002.png",
+                "portrait_modified": "2020-11-05 21:16:14.277739",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 0,
