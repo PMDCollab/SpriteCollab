@@ -40684,12 +40684,10 @@
   "0602": {
     "name": "Tynamo",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024250054803456": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774040010503749662/portrait-0602.png",
+    "portrait_modified": "2020-11-05 22:38:39.313499",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
