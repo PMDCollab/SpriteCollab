@@ -39790,12 +39790,10 @@
   "0588": {
     "name": "Karrablast",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018227554091079": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019226478182410/portrait-0588.png",
+    "portrait_modified": "2020-11-05 21:16:03.969330",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
