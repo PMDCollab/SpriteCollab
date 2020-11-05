@@ -41244,12 +41244,10 @@
   "0612": {
     "name": "Haxorus",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024304051486792": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774040067101950022/portrait-0612.png",
+    "portrait_modified": "2020-11-05 22:38:52.764260",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
