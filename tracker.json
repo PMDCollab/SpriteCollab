@@ -3079,9 +3079,9 @@
   "0043": {
     "name": "Oddish",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770710684731441212/portrait-0043.png",
-    "portrait_modified": "2020-10-13 03:58:46.021460",
+    "portrait_credit": "FELIS_LICHT",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774005895364739102/portrait-0043.png",
+    "portrait_modified": "2020-11-05 20:23:05.660375",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -3112,7 +3112,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@200318546750865418>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.017460",
@@ -12727,7 +12727,7 @@
     "name": "Wooper",
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774005102947598336/portrait-0194.png",
     "portrait_modified": "2020-10-13 03:58:46.045460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
