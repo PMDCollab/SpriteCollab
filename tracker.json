@@ -39960,12 +39960,10 @@
   "0591": {
     "name": "Amoonguss",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018242368503861": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019229296623696/portrait-0591.png",
+    "portrait_modified": "2020-11-05 21:16:04.736532",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
