@@ -40016,12 +40016,10 @@
   "0592": {
     "name": "Frillish",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018248651046933": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019249383276616/portrait-0592.png",
+    "portrait_modified": "2020-11-05 21:16:09.530919",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -40416,12 +40414,10 @@
   "0597": {
     "name": "Ferroseed",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018287066808330": true
-    },
+    "portrait_modified": "2020-11-05 21:16:09.767213",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
