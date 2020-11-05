@@ -40630,12 +40630,10 @@
   "0601": {
     "name": "Klinklang",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024242828148746": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774039984909975612/portrait-0601.png",
+    "portrait_modified": "2020-11-05 22:38:33.183815",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
