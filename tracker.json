@@ -41076,12 +41076,10 @@
   "0609": {
     "name": "Chandelure",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024276176797706": true
-    },
+    "portrait_modified": "2020-11-05 22:38:50.049867",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -41134,12 +41132,10 @@
   "0610": {
     "name": "Axew",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774024274452807708": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774040054565175306/portrait-0610.png",
+    "portrait_modified": "2020-11-05 22:38:49.685115",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
