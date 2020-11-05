@@ -39844,12 +39844,10 @@
   "0589": {
     "name": "Escavalier",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018232411488277": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019274586193950/portrait-0589.png",
+    "portrait_modified": "2020-11-05 21:16:15.544302",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
