@@ -39622,12 +39622,10 @@
   "0585": {
     "name": "Deerling",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018218289004574": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019208819376138/portrait-0585.png",
+    "portrait_modified": "2020-11-05 21:15:59.828302",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39736,12 +39734,10 @@
   "0587": {
     "name": "Emolga",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018225583161354": true
-    },
+    "portrait_modified": "2020-11-05 21:16:00.152785",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
