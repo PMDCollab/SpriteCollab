@@ -39452,12 +39452,10 @@
   "0582": {
     "name": "Vanillite",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018207202934784": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019202487025714/portrait-0582.png",
+    "portrait_modified": "2020-11-05 21:15:58.271573",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -39568,12 +39566,10 @@
   "0584": {
     "name": "Vanilluxe",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774018215445266462": true
-    },
+    "portrait_modified": "2020-11-05 21:15:58.520989",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
