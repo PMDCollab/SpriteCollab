@@ -42009,12 +42009,10 @@
   "0625": {
     "name": "Bisharp",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654885458870315": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670662266519582/portrait-0625.png",
+    "portrait_modified": "2020-11-07 16:24:38.244793",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
