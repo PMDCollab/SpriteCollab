@@ -41673,12 +41673,10 @@
   "0619": {
     "name": "Mienfoo",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654866958057482": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670647330209842/portrait-0619.png",
+    "portrait_modified": "2020-11-07 16:24:34.793107",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -41731,12 +41729,10 @@
   "0620": {
     "name": "Mienshao",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654870603038752": true
-    },
+    "portrait_modified": "2020-11-07 16:24:35.080694",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
