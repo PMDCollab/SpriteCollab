@@ -42991,12 +42991,10 @@
   "0642": {
     "name": "Thundurus",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654844060696597": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670618397638676/portrait-0642.png",
+    "portrait_modified": "2020-11-07 16:24:27.624796",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -43049,12 +43047,10 @@
   "0643": {
     "name": "Reshiram",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654848360382485": true
-    },
+    "portrait_modified": "2020-11-07 16:24:27.894684",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
