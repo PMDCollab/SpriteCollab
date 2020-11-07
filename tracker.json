@@ -42513,12 +42513,10 @@
   "0634": {
     "name": "Zweilous",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654937505726484": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670715085258752/portrait-0634.png",
+    "portrait_modified": "2020-11-07 16:24:50.981408",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
