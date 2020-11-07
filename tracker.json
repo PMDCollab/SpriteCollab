@@ -43103,12 +43103,10 @@
   "0644": {
     "name": "Zekrom",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654854043140116": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670625427816468/portrait-0644.png",
+    "portrait_modified": "2020-11-07 16:24:29.475193",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -43161,12 +43159,10 @@
   "0645": {
     "name": "Landorus",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654857528737842": true
-    },
+    "portrait_modified": "2020-11-07 16:24:29.727490",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
