@@ -42233,12 +42233,10 @@
   "0629": {
     "name": "Vullaby",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654907260862474": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670688350896148/portrait-0629.png",
+    "portrait_modified": "2020-11-07 16:24:44.560264",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
