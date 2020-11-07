@@ -42345,12 +42345,10 @@
   "0631": {
     "name": "Heatmor",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654918479970314": true
-    },
+    "portrait_credit": "MUCRUSH",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670708403208192/portrait-0631.png",
+    "portrait_modified": "2020-11-07 16:24:49.381502",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -42573,12 +42571,10 @@
   "0635": {
     "name": "Hydreigon",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654942853070868": true
-    },
+    "portrait_modified": "2020-11-07 16:24:49.868795",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
