@@ -42768,7 +42768,7 @@
     "name": "Cobalion",
     "portrait_complete": 0,
     "portrait_credit": "MUCRUSH",
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670604695109722/portrait-0638.png",
     "portrait_modified": "2020-11-07 16:24:23.507012",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -42823,12 +42823,10 @@
   "0639": {
     "name": "Terrakion",
     "portrait_complete": 0,
-    "portrait_credit": "",
+    "portrait_credit": "MUCRUSH",
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "774654835735265301": true
-    },
+    "portrait_modified": "2020-11-07 16:24:24.793059",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
