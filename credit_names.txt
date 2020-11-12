@@ -14,7 +14,6 @@ PixlHoopa	<@310773087417270272>
 	<@195280695009083392>	
 	<@91001329228464128>	
 	<@493293282064072715>	
-frostibirb	<@192178759376306176>	https://github.com/frostibirb
 NeroIntruder	<@319945906600411179>	https://twitter.com/NeroIntruder
 Moo	<@276949114212712449>	https://twitter.com/MoonMoonMemes
 Anonymous	<@200318546750865418>	
@@ -27,9 +26,8 @@ Fable	<@225813236589527041>	https://twitter.com/fabledpainter
 mucrush	MUCRUSH	https://www.deviantart.com/mucrush
 0palite	<@327927398941196289>	https://zeropalart.tumblr.com/
 	<@589906152708505648>	
-	<@513590747694497792>	
+Deltex12	<@513590747694497792>	/u/Deltex12
 	<@637407338772299776>	
 	<@496039052370509824>	
 	<@557599571170033664>	
 felis_licht	FELIS_LICHT	https://www.deviantart.com/felis-licht
-	<@196351316681818112>	
