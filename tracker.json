@@ -44081,12 +44081,10 @@
   "0662": {
     "name": "Fletchinder",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/776244892459335700/portrait-0662.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "776252005004869672": true
-    },
+    "portrait_credit": "<@196351316681818112>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/776254637962952714/portrait-0662.png",
+    "portrait_modified": "2020-11-12 01:18:47.666602",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
