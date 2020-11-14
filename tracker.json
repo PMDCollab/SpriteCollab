@@ -14658,9 +14658,9 @@
   "0207": {
     "name": "Gligar",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/767619976626176060/portrait-0207.png",
-    "portrait_modified": "2020-10-13 03:58:46.053460",
+    "portrait_credit": "<@319945906600411179>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777168282812940308/portrait-0207.png",
+    "portrait_modified": "2020-11-14 13:49:17.609052",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -14691,7 +14691,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@95650095034273792>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.053460",
@@ -28205,7 +28205,7 @@
   },
   "0418": {
     "name": "Buizel",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@322382592202637322>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777049747315490846/portrait-0418.png",
     "portrait_modified": "2020-11-14 05:58:16.508364",
@@ -28276,7 +28276,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@322382592202637322>",
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777049752143527936/portrait-0418-0000-0001.png",
             "portrait_modified": "2020-11-14 05:58:17.664602",
