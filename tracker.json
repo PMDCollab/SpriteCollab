@@ -28209,7 +28209,9 @@
     "portrait_credit": "<@!322382592202637322>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777049747315490846/portrait-0418.png",
     "portrait_modified": "2020-11-14 05:58:16.508364",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "777239981528711178": true
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/777213832434548766/portrait_recolor-0418-0000-0001.png",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -28280,7 +28282,9 @@
             "portrait_credit": "<@!322382592202637322>",
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777049752143527936/portrait-0418-0000-0001.png",
             "portrait_modified": "2020-11-14 05:58:17.664602",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "777242779935965204": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
