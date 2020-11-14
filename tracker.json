@@ -14657,7 +14657,7 @@
   },
   "0207": {
     "name": "Gligar",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@319945906600411179>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777168282812940308/portrait-0207.png",
     "portrait_modified": "2020-11-14 13:49:17.609052",
@@ -28210,7 +28210,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777049747315490846/portrait-0418.png",
     "portrait_modified": "2020-11-14 05:58:16.508364",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/777213832434548766/portrait_recolor-0418-0000-0001.png",
     "portrait_required": true,
     "sprite_complete": 1,
     "sprite_credit": "CHUNSOFT",
