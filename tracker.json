@@ -27218,9 +27218,9 @@
   "0404": {
     "name": "Luxio",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/778324259834822656/portrait-0404.png",
-    "portrait_modified": "2020-10-13 03:58:46.089461",
+    "portrait_credit": "<@!322382592202637322>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779047230761992202/portrait-0404.png",
+    "portrait_modified": "2020-11-19 18:15:33.661701",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -27251,9 +27251,9 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!162389028061052928>",
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779043913348284426/portrait-0404-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.089461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
