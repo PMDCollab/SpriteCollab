@@ -34521,12 +34521,10 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780442718937022504/portrait-0495-0000-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "780469715277447209": true
-            },
+            "portrait_credit": "<@!319945906600411179>",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780507113159655434/portrait-0495-0000-0001.png",
+            "portrait_modified": "2020-11-23 18:56:36.744467",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
