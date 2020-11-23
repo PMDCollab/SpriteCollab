@@ -52835,12 +52835,10 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780462863408037959/portrait-0814-0000-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "780470405559353365": true
-            },
+            "portrait_credit": "<@!319945906600411179>",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780507145954525194/portrait-0814-0000-0001.png",
+            "portrait_modified": "2020-11-23 18:56:44.624522",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
