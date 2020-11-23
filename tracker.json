@@ -45073,12 +45073,10 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780440455590182912/portrait-0678-0000-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "780468609150746685": true
-            },
+            "portrait_credit": "<@!319945906600411179>",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780507105543192596/portrait-0678-0000-0001.png",
+            "portrait_modified": "2020-11-23 18:56:34.433378",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
@@ -45112,12 +45110,10 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
+            "portrait_credit": "<@!319945906600411179>",
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780441572423893042/portrait-0678-0001-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "780468790848651324": true
-            },
+            "portrait_modified": "2020-11-23 18:56:35.023684",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
