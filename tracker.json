@@ -28207,8 +28207,8 @@
     "name": "Buizel",
     "portrait_complete": 2,
     "portrait_credit": "<@!322382592202637322>",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777297715058835466/portrait-0418.png",
-    "portrait_modified": "2020-11-14 22:23:36.571327",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780588770235121674/portrait-0418.png",
+    "portrait_modified": "2020-11-24 00:21:05.353121",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -28280,7 +28280,9 @@
             "portrait_credit": "<@!322382592202637322>",
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777049752143527936/portrait-0418-0000-0001.png",
             "portrait_modified": "2020-11-14 05:58:17.664602",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "780587689086025728": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
