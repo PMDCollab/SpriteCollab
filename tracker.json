@@ -1886,8 +1886,8 @@
     "name": "Raichu",
     "portrait_complete": 2,
     "portrait_credit": "<@!322382592202637322>",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777360045444169758/portrait-0026.png",
-    "portrait_modified": "2020-11-15 02:31:17.234348",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780587594232758272/portrait-0026.png",
+    "portrait_modified": "2020-11-24 00:16:24.958735",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -1959,7 +1959,9 @@
             "portrait_credit": "<@!200318546750865418>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.017460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "780583560725659658": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
