@@ -12147,12 +12147,10 @@
   "0185": {
     "name": "Sudowoodo",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "",
-    "portrait_modified": "2020-10-13 03:58:46.045460",
-    "portrait_pending": {
-      "782130356333182976": true
-    },
+    "portrait_credit": "<@!589906152708505648>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/782201510817431573/portrait-0185.png",
+    "portrait_modified": "2020-11-28 11:09:32.613162",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -12182,7 +12180,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.045460",
@@ -17515,7 +17513,7 @@
   },
   "0253": {
     "name": "Grovyle",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!457965696190513152>",
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/782169793130004510/portrait-0253.png",
     "portrait_modified": "2020-11-28 09:03:30.543023",
