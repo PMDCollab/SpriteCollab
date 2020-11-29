@@ -33616,9 +33616,9 @@
   "0492": {
     "name": "Shaymin",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/782337275328856115/portrait-0492.png",
-    "portrait_modified": "2020-10-13 03:58:46.121461",
+    "portrait_credit": "<@!314519507869761556>",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/782414850378563624/portrait-0492.png",
+    "portrait_modified": "2020-11-29 01:17:16.695839",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -33649,7 +33649,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774009573924143114/portrait-0492-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.117461",
@@ -33715,7 +33715,7 @@
         "portrait_required": true,
         "sprite_complete": 0,
         "sprite_credit": "",
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/782398318008598548/sprite-0492-0002.zip",
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
