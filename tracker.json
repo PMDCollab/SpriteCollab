@@ -2668,7 +2668,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
@@ -6167,7 +6167,7 @@
   },
   "0066": {
     "name": "Machop",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "FELIS_LICHT",
     "portrait_files": [
       "Sigh.png",
@@ -10518,7 +10518,7 @@
               "Stunned.png",
               "Happy.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/784128757623291954/portrait-0116-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.033460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -22341,7 +22341,7 @@
   },
   "0238": {
     "name": "Smoochum",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!637407338772299776>",
     "portrait_files": [
       "Sigh.png",
@@ -37877,7 +37877,7 @@
   },
   "0418": {
     "name": "Buizel",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
       "Sigh.png",
@@ -37979,7 +37979,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 2,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
@@ -39139,7 +39139,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/784145311576621056/portrait-0429-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.093461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -44966,7 +44966,7 @@
   },
   "0492": {
     "name": "Shaymin",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!314519507869761556>",
     "portrait_files": [
       "Sigh.png",
