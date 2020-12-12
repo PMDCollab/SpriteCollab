@@ -13423,8 +13423,8 @@
       "Worried.png",
       "Stunned.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787356724289863710/portrait-0150.png",
-    "portrait_modified": "2020-12-12 16:34:31.344148",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787360869313937408/portrait-0150.png",
+    "portrait_modified": "2020-12-12 16:50:59.597427",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -45053,7 +45053,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/776234452475969544/portrait-0491.png",
     "portrait_modified": "2020-10-13 03:58:46.117461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "787359897259868221": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
