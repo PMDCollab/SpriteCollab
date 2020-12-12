@@ -45046,16 +45046,27 @@
   "0491": {
     "name": "Darkrai",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!288067476963721216>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
       "Normal.png",
-      "Normal^.png"
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/776234452475969544/portrait-0491.png",
-    "portrait_modified": "2020-10-13 03:58:46.117461",
-    "portrait_pending": {
-      "787359897259868221": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787360874070409226/portrait-0491.png",
+    "portrait_modified": "2020-12-12 16:51:00.715691",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -45091,7 +45102,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_files": [
               "Normal.png",
