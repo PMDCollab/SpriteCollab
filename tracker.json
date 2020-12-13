@@ -11753,7 +11753,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787814567332937738/portrait-0130.png",
     "portrait_modified": "2020-10-13 03:58:46.033460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -13870,7 +13870,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787785824451297330/portrait-0154.png",
     "portrait_modified": "2020-10-13 03:58:46.037460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -46230,7 +46230,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": [],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/787790217611313212/sprite-0494.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -54506,6 +54506,47 @@
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": false,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": [],
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": [],
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
+      },
+      "0001": {
+        "name": "Galar",
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_files": [],
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": [],
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
         "subgroups": {
           "0001": {
             "name": "Shiny",
@@ -68133,7 +68174,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787784592442392597/portrait-0831.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -69373,7 +69414,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787798111845744682/portrait-0851.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -70425,10 +70466,12 @@
   "0868": {
     "name": "Milcery",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "EZERART",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787819514585808947/portrait-0868.png",
+    "portrait_modified": "2020-12-13 23:13:29.167385",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -71832,7 +71875,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787811945515319297/portrait-0890.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
