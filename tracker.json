@@ -45298,8 +45298,8 @@
       },
       "0001": {
         "name": "Sky",
-        "portrait_complete": 1,
-        "portrait_credit": "<@!288402314253959169>",
+        "portrait_complete": 2,
+        "portrait_credit": "CHILD_OF_HADES",
         "portrait_files": [
           "Sigh.png",
           "Joyous.png",
@@ -45319,8 +45319,8 @@
           "Stunned.png",
           "Happy.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787676154785300490/portrait-0492-0001.png",
-        "portrait_modified": "2020-12-13 13:43:49.511706",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787678166956507166/portrait-0492-0001.png",
+        "portrait_modified": "2020-12-13 13:51:49.231938",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
