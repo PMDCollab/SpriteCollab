@@ -31332,15 +31332,14 @@
   "0345": {
     "name": "Lileep",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!196351316681818112>",
     "portrait_files": [
-      "Normal.png"
+      "Normal.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787157165726629898/portrait-0345.png",
-    "portrait_modified": "2020-10-13 03:58:46.077461",
-    "portrait_pending": {
-      "788162209023787049": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788164813192298496/portrait-0345.png",
+    "portrait_modified": "2020-12-14 22:05:34.761732",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -31376,7 +31375,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_files": [
               "Normal.png"
