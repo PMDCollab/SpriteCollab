@@ -13561,7 +13561,7 @@
   },
   "0151": {
     "name": "Mew",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!314519507869761556>",
     "portrait_files": [
       "Sigh.png",
@@ -31338,7 +31338,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787157165726629898/portrait-0345.png",
     "portrait_modified": "2020-10-13 03:58:46.077461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788162209023787049": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -38491,7 +38493,7 @@
       "Normal.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788154292409335828/portrait-0420.png",
     "portrait_modified": "2020-10-13 03:58:46.093461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -58994,7 +58996,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/768877067038752798/portrait-0686.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788162461672538122": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -63343,7 +63347,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773100168350400512/portrait-0753.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788162228863762462": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -64207,10 +64213,13 @@
   "0767": {
     "name": "Wimpod",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_credit": "<@!196351316681818112>",
+    "portrait_files": [
+      "Normal.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788164803297935360/portrait-0767.png",
+    "portrait_modified": "2020-12-14 22:05:32.382442",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
