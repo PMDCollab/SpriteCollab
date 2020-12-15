@@ -2688,11 +2688,9 @@
               "Stunned.png",
               "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787428606250975242/portrait-0026-0000-0001.png",
-            "portrait_modified": "2020-12-12 21:20:09.317974",
-            "portrait_pending": {
-              "788188249838321684": true
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788212136315846676/portrait-0026-0000-0001.png",
+            "portrait_modified": "2020-12-15 01:13:37.471710",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
