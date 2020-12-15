@@ -11763,15 +11763,28 @@
               "0002": {
                 "name": "Female",
                 "portrait_complete": 0,
-                "portrait_credit": "<@!234720295292895232>",
+                "portrait_credit": "<@!408301000445788180>",
                 "portrait_files": [
-                  "Normal.png"
+                  "Sigh.png",
+                  "Joyous.png",
+                  "Sad.png",
+                  "Shouting.png",
+                  "Determined.png",
+                  "Pain.png",
+                  "Crying.png",
+                  "Normal.png",
+                  "Teary-Eyed.png",
+                  "Dizzy.png",
+                  "Inspired.png",
+                  "Surprised.png",
+                  "Angry.png",
+                  "Worried.png",
+                  "Stunned.png",
+                  "Happy.png"
                 ],
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788408404783136778/portrait-0129-0000-0001-0002.png",
-                "portrait_modified": "2020-10-13 03:58:46.033460",
-                "portrait_pending": {
-                  "788441666389409802": true
-                },
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788443232522338304/portrait-0129-0000-0001-0002.png",
+                "portrait_modified": "2020-12-15 16:31:55.073194",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 1,
