@@ -46,3 +46,4 @@ Vex	<@!157339721729572864>
 Child-Of-Hades	CHILD_OF_HADES	https://www.deviantart.com/child-of-hades
 	<@!136476806055198720>	
 DonkinDo	<@!702275233125630042>	DonkinDo#9030
+	<@!408301000445788180>	

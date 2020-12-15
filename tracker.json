@@ -2588,7 +2588,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787484547914530826/portrait-0026.png",
     "portrait_modified": "2020-12-13 01:02:26.786309",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788188069391892490": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -2690,7 +2692,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787428606250975242/portrait-0026-0000-0001.png",
             "portrait_modified": "2020-12-12 21:20:09.317974",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "788188249838321684": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -11605,12 +11609,27 @@
   "0129": {
     "name": "Magikarp",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!408301000445788180>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788136720813522994/portrait-0129.png",
-    "portrait_modified": "2020-10-13 03:58:46.033460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788206860623806474/portrait-0129.png",
+    "portrait_modified": "2020-12-15 00:52:39.620889",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -11671,9 +11690,11 @@
                 "portrait_files": [
                   "Normal.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788204579749756959/portrait-0129-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.033460",
-                "portrait_pending": {},
+                "portrait_pending": {
+                  "788206385795563541": true
+                },
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 1,
@@ -11693,7 +11714,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": [
               "Normal.png"
@@ -12910,7 +12931,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788200562965086218/portrait-0144.png",
     "portrait_modified": "2020-10-13 03:58:46.037460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -40434,7 +40455,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787125560471322644/portrait-0443.png",
     "portrait_modified": "2020-10-13 03:58:46.097461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788203939429613568": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
