@@ -13049,10 +13049,12 @@
       "0001": {
         "name": "Galar",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_credit": "<@!183561486893842432>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788902309366071296/portrait-0144-0001.png",
+        "portrait_modified": "2020-12-16 22:56:07.471500",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -13166,7 +13168,9 @@
         "portrait_files": [],
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "788900673495498782": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -13279,7 +13283,9 @@
         "portrait_files": [],
         "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788895499871584266/portrait-0146-0001.png",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "788901320848572427": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -44742,7 +44748,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788881776919314462/portrait-0481.png",
     "portrait_modified": "2020-10-13 03:58:46.117461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788901474645442620": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
