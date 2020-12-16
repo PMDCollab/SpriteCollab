@@ -13187,13 +13187,13 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "788903043286040576": true
-            },
+            "portrait_credit": "<@!183561486893842432>",
+            "portrait_files": [
+              "Normal.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788903578831814667/portrait-0145-0001-0001.png",
+            "portrait_modified": "2020-12-16 23:01:10.146659",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
