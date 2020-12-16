@@ -13881,7 +13881,7 @@
   },
   "0153": {
     "name": "Bayleef",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
       "Sigh.png",
@@ -39233,7 +39233,7 @@
   "0425": {
     "name": "Drifloon",
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "<@!273958644788363265>",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
@@ -39268,8 +39268,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788434446642184202/portrait-0425.png",
-    "portrait_modified": "2020-12-15 15:57:00.329338",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788835727525543986/portrait-0425.png",
+    "portrait_modified": "2020-12-16 18:31:33.183371",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
