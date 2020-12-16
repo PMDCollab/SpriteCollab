@@ -13277,7 +13277,7 @@
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": [],
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788895499871584266/portrait-0146-0001.png",
         "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -13296,7 +13296,7 @@
             "portrait_complete": 0,
             "portrait_credit": "",
             "portrait_files": [],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788896502130671667/portrait-0146-0001-0001.png",
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -13939,7 +13939,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
@@ -17763,7 +17763,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!314519507869761556>",
             "portrait_files": [
               "Sigh.png",
@@ -23732,22 +23732,29 @@
   "0251": {
     "name": "Celebi",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!314519507869761556>",
     "portrait_files": [
       "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
       "Shouting.png",
+      "Determined.png",
       "Pain.png",
+      "Special0.png",
       "Crying.png",
       "Normal.png",
       "Teary-Eyed.png",
-      "Special2.png",
+      "Dizzy.png",
+      "Special1.png",
+      "Inspired.png",
       "Surprised.png",
       "Angry.png",
+      "Worried.png",
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773869738287431721/portrait-0251.png",
-    "portrait_modified": "2020-10-13 03:58:46.061460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788898206527389706/portrait-0251.png",
+    "portrait_modified": "2020-12-16 22:39:49.325751",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -23784,7 +23791,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!117780585635643396>",
             "portrait_files": [
               "Sigh.png",
@@ -34853,7 +34860,7 @@
   },
   "0385": {
     "name": "Jirachi",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!314519507869761556>",
     "portrait_files": [
       "Sigh.png",
@@ -65320,7 +65327,7 @@
   },
   "0778": {
     "name": "Mimikyu",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
