@@ -13048,7 +13048,7 @@
       },
       "0001": {
         "name": "Galar",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!183561486893842432>",
         "portrait_files": [
           "Normal.png"
@@ -13070,10 +13070,12 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_credit": "<@!183561486893842432>",
+            "portrait_files": [
+              "Normal.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788903573526020126/portrait-0144-0001-0001.png",
+            "portrait_modified": "2020-12-16 23:01:08.871754",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -13163,7 +13165,7 @@
       },
       "0001": {
         "name": "Galar",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!183561486893842432>",
         "portrait_files": [
           "Normal.png"
@@ -13189,7 +13191,9 @@
             "portrait_files": [],
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "788903043286040576": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
@@ -13278,7 +13282,7 @@
       },
       "0001": {
         "name": "Galar",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!183561486893842432>",
         "portrait_files": [
           "Normal.png"
@@ -13304,7 +13308,9 @@
             "portrait_files": [],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788896502130671667/portrait-0146-0001-0001.png",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "788903059518521354": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
@@ -44740,7 +44746,7 @@
   },
   "0481": {
     "name": "Mesprit",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!314519507869761556>",
     "portrait_files": [
       "Sigh.png",
