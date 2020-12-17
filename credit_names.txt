@@ -45,7 +45,7 @@ Vex	<@!157339721729572864>
 	<@!288402314253959169>	
 Child-Of-Hades	CHILD_OF_HADES	https://www.deviantart.com/child-of-hades
 	<@!136476806055198720>	
-DonkinDo	<@!702275233125630042>	DonkinDo#9030
+DonkinDo	<@!702275233125630042>	https://twitter.com/DonkinDo
 	<@!408301000445788180>	
 Sunny	<@!273341077874802689>	https://twitter.com/temporalsunrise
 Deleca7755	<@!273958644788363265>	Deleca7755#2927

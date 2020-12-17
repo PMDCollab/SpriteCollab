@@ -4115,7 +4115,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788970531009200168/portrait-0042.png",
     "portrait_modified": "2020-10-13 03:58:46.017460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -4842,7 +4842,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788951535886794792/portrait-0049.png",
     "portrait_modified": "2020-10-13 03:58:46.021460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -5994,13 +5994,43 @@
   "0061": {
     "name": "Poliwhirl",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Angry^.png",
+      "Shouting^.png",
+      "Sigh^.png",
+      "Determined.png",
+      "Determined^.png",
+      "Inspired^.png",
+      "Crying^.png",
+      "Pain.png",
+      "Happy^.png",
+      "Teary-Eyed^.png",
+      "Sad^.png",
+      "Pain^.png",
+      "Crying.png",
+      "Dizzy^.png",
+      "Worried^.png",
+      "Stunned^.png",
       "Normal.png",
-      "Normal^.png"
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Surprised^.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Joyous^.png",
+      "Worried.png",
+      "Normal^.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/784478691006087218/portrait-0061.png",
-    "portrait_modified": "2020-10-13 03:58:46.021460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789017203366297610/portrait-0061.png",
+    "portrait_modified": "2020-12-17 06:32:40.348527",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -6037,7 +6067,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_files": [
               "Normal.png",
@@ -6073,7 +6103,7 @@
       "Normal.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788951689109307402/portrait-0062.png",
     "portrait_modified": "2020-10-13 03:58:46.021460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -7620,7 +7650,7 @@
       "Joyous^.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788934828158484510/portrait-0081.png",
     "portrait_modified": "2020-10-13 03:58:46.025460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -9323,7 +9353,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788951127105470494/portrait-0100.png",
     "portrait_modified": "2020-10-13 03:58:46.029460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -9898,7 +9928,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788938657771946044/portrait-0107-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.029460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -22440,7 +22470,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788935124750303322/portrait-0233.png",
     "portrait_modified": "2020-10-13 03:58:46.057460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -23429,7 +23459,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788935655861256192/portrait-0246.png",
     "portrait_modified": "2020-10-13 03:58:46.061460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -36866,7 +36896,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788936531305824281/portrait-0402.png",
     "portrait_modified": "2020-10-13 03:58:46.089461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -43076,7 +43106,7 @@
       "Normal.png",
       "Surprised.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788934886395346984/portrait-0462.png",
     "portrait_modified": "2020-10-13 03:58:46.101461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -44079,7 +44109,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788935243729338388/portrait-0474.png",
     "portrait_modified": "2020-10-13 03:58:46.113461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -69304,7 +69334,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789002786019737610/portrait-0840.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -71292,7 +71322,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787246388693827584/portrait-0872.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "788940200193687582": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
