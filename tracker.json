@@ -9950,13 +9950,13 @@
       },
       "0001": {
         "name": "Alternate",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!739154982044958801>",
         "portrait_files": [
           "Normal.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788915954842730536/portrait-0107-0001.png",
-        "portrait_modified": "2020-12-16 23:50:20.852320",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789148243870613534/portrait-0107-0001.png",
+        "portrait_modified": "2020-12-17 15:13:22.843280",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -56448,7 +56448,7 @@
   },
   "0640": {
     "name": "Virizion",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!557599571170033664>",
     "portrait_files": [
       "Sigh.png",
@@ -59478,7 +59478,7 @@
   },
   "0686": {
     "name": "Inkay",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!196351316681818112>",
     "portrait_files": [
       "Pain.png",
@@ -64741,7 +64741,7 @@
   },
   "0767": {
     "name": "Wimpod",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!196351316681818112>",
     "portrait_files": [
       "Normal.png",
@@ -69331,7 +69331,7 @@
   },
   "0840": {
     "name": "Applin",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!441903700571717640>",
     "portrait_files": [
       "Normal.png"
