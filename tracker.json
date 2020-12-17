@@ -201,12 +201,31 @@
   "0002": {
     "name": "Ivysaur",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!421379254077620225>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special3.png",
+      "Special0.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Special1.png",
+      "Special2.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773303541275688970/portrait-0002.png",
-    "portrait_modified": "2020-10-13 03:58:46.009459",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789273299313623091/portrait-0002.png",
+    "portrait_modified": "2020-12-17 23:30:18.431518",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -243,7 +262,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": [
               "Normal.png"
