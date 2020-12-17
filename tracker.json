@@ -5993,7 +5993,7 @@
   },
   "0061": {
     "name": "Poliwhirl",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -21787,7 +21787,7 @@
       "Normal.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789140192086720542/portrait-0225.png",
     "portrait_modified": "2020-10-13 03:58:46.057460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -69332,10 +69332,12 @@
   "0840": {
     "name": "Applin",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789002786019737610/portrait-0840.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!441903700571717640>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789141115428536320/portrait-0840.png",
+    "portrait_modified": "2020-12-17 14:45:03.336116",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -71317,7 +71319,7 @@
   },
   "0872": {
     "name": "Snom",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
