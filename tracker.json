@@ -1896,7 +1896,7 @@
             "portrait_complete": 0,
             "portrait_credit": "",
             "portrait_files": [],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789261745692737566/portrait-0019-0001-0001.png",
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -22699,12 +22699,27 @@
   "0236": {
     "name": "Tyrogue",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779455958774317127/portrait-0236.png",
-    "portrait_modified": "2020-10-13 03:58:46.057460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789262402377875456/portrait-0236.png",
+    "portrait_modified": "2020-12-17 22:47:00.377758",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -22741,7 +22756,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_files": [
               "Normal.png"
@@ -26390,7 +26405,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789190577777410058/portrait-0278.png",
     "portrait_modified": "2020-10-13 03:58:46.065460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -26905,7 +26920,7 @@
       "Normal.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789191035116847114/portrait-0285.png",
     "portrait_modified": "2020-10-13 03:58:46.065460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -28623,7 +28638,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789190433670430750/portrait-0307.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -28733,7 +28748,7 @@
                 "portrait_files": [
                   "Normal.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789190730735550544/portrait-0307-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.073461",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -31331,7 +31346,7 @@
       "Normal.png",
       "Worried.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789241878541238292/portrait-0341.png",
     "portrait_modified": "2020-10-13 03:58:46.077461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -32870,7 +32885,7 @@
       "Surprised.png",
       "Happy.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789242293332869120/portrait-0358.png",
     "portrait_modified": "2020-10-13 03:58:46.081461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -42056,7 +42071,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789242374626082816/portrait-0453.png",
     "portrait_modified": "2020-10-13 03:58:46.101461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
