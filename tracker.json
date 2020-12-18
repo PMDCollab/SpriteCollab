@@ -200,7 +200,7 @@
   },
   "0002": {
     "name": "Ivysaur",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!421379254077620225>",
     "portrait_files": [
       "Sigh.png",
@@ -29093,7 +29093,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/781256724531249182/portrait-0311.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "789578644401422366": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -29134,7 +29136,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789578537857843290/portrait-0311-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.073461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -29159,12 +29161,27 @@
   "0312": {
     "name": "Minun",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/781151676841066497/portrait-0312.png",
-    "portrait_modified": "2020-10-13 03:58:46.073461",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789580479094980668/portrait-0312.png",
+    "portrait_modified": "2020-12-18 19:50:55.431879",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -29201,12 +29218,12 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!200385851069300736>",
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789578566551339048/portrait-0312-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.073461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
