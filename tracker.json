@@ -12486,8 +12486,10 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787161142589653013/portrait-0136.png",
     "portrait_modified": "2020-10-13 03:58:46.037460",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_pending": {
+      "789678986288037928": true
+    },
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/789676848397287474/portrait_recolor-0136-0000-0001.png",
     "portrait_required": true,
     "sprite_complete": 1,
     "sprite_credit": "CHUNSOFT",
@@ -23798,12 +23800,27 @@
   "0250": {
     "name": "Ho_Oh",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "CAMUSZEKESIRIUS",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789608598039691264/portrait-0250.png",
-    "portrait_modified": "2020-10-13 03:58:46.061460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789679152936124416/portrait-0250.png",
+    "portrait_modified": "2020-12-19 02:23:01.471951",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -23840,7 +23857,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!200385851069300736>",
             "portrait_files": [
               "Normal.png"
