@@ -3895,7 +3895,7 @@
   },
   "0040": {
     "name": "Wigglytuff",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!421379254077620225>",
     "portrait_files": [
       "Sigh.png",
@@ -3998,7 +3998,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789614220249530408/portrait-0041.png",
     "portrait_modified": "2020-10-13 03:58:46.017460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -20621,7 +20621,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789651012674650132/portrait-0212.png",
     "portrait_modified": "2020-10-13 03:58:46.053460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -21055,6 +21055,8 @@
                   "Teary-Eyed^.png",
                   "Sad^.png",
                   "Pain^.png",
+                  "Special0^.png",
+                  "Special0.png",
                   "Crying.png",
                   "Dizzy^.png",
                   "Worried^.png",
@@ -21072,8 +21074,8 @@
                   "Stunned.png",
                   "Happy.png"
                 ],
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788434657648574484/portrait-0215-0000-0000-0002.png",
-                "portrait_modified": "2020-12-15 15:57:50.683970",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789661534506319923/portrait-0215-0000-0000-0002.png",
+                "portrait_modified": "2020-12-19 01:13:00.910870",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
