@@ -3992,13 +3992,22 @@
       "0001": {
         "name": "Mama",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789954175328452608/portrait-0040-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "789954286645805099": true
-        },
+        "portrait_credit": "CHUNSOFT",
+        "portrait_files": [
+          "Sigh.png",
+          "Sad.png",
+          "Crying.png",
+          "Normal.png",
+          "Teary-Eyed.png",
+          "Special2.png",
+          "Surprised.png",
+          "Worried.png",
+          "Stunned.png",
+          "Happy.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789976100243111977/portrait-0040-0001.png",
+        "portrait_modified": "2020-12-19 22:02:59.200841",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
