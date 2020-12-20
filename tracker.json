@@ -1540,7 +1540,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790141107698270220/portrait-0016.png",
     "portrait_modified": "2020-10-13 03:58:46.013460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -10664,7 +10664,7 @@
   },
   "0114": {
     "name": "Tangela",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -37218,7 +37218,7 @@
             "subgroups": {
               "0002": {
                 "name": "Female",
-                "portrait_complete": 1,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!95650095034273792>",
                 "portrait_files": [
                   "Normal.png"
@@ -37262,12 +37262,27 @@
               "0002": {
                 "name": "Female",
                 "portrait_complete": 1,
-                "portrait_credit": "CHUNSOFT",
+                "portrait_credit": "<@!702275233125630042>",
                 "portrait_files": [
-                  "Normal.png"
+                  "Sigh.png",
+                  "Joyous.png",
+                  "Sad.png",
+                  "Shouting.png",
+                  "Determined.png",
+                  "Pain.png",
+                  "Crying.png",
+                  "Normal.png",
+                  "Teary-Eyed.png",
+                  "Dizzy.png",
+                  "Inspired.png",
+                  "Surprised.png",
+                  "Angry.png",
+                  "Worried.png",
+                  "Stunned.png",
+                  "Happy.png"
                 ],
-                "portrait_link": "",
-                "portrait_modified": "2020-10-13 03:58:46.089461",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790206935810441246/portrait-0402-0000-0000-0002.png",
+                "portrait_modified": "2020-12-20 13:20:14.700513",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
@@ -44136,7 +44151,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790141198953480222/portrait-0471.png",
     "portrait_modified": "2020-10-13 03:58:46.113461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
