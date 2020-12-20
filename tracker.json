@@ -17090,9 +17090,11 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790272932277911592/portrait-0188.png",
     "portrait_modified": "2020-10-13 03:58:46.045460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "790296251664695296": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -21442,7 +21444,7 @@
       "Normal.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790290379332255754/portrait-0219.png",
     "portrait_modified": "2020-10-13 03:58:46.053460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -27158,7 +27160,7 @@
   },
   "0286": {
     "name": "Breloom",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -38885,7 +38887,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787439882767040513/portrait-0418-0000-0001.png",
             "portrait_modified": "2020-12-12 22:04:57.832317",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "790294277980160080": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -38935,10 +38939,12 @@
     "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
       "Normal.png",
-      "Teary-Eyed.png"
+      "Teary-Eyed.png",
+      "Inspired.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789987245758873640/portrait-0419.png",
-    "portrait_modified": "2020-12-19 22:47:16.501966",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790298756620746772/portrait-0419.png",
+    "portrait_modified": "2020-12-20 19:25:06.517485",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -45153,7 +45159,7 @@
   },
   "0481": {
     "name": "Mesprit",
-    "portrait_complete": 2,
+    "portrait_complete": 0,
     "portrait_credit": "<@!314519507869761556>",
     "portrait_files": [
       "Sigh.png",
