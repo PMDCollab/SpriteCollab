@@ -10671,7 +10671,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788357531709341696/portrait-0114.png",
     "portrait_modified": "2020-10-13 03:58:46.033460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "790077750060384297": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -42591,7 +42593,7 @@
   },
   "0455": {
     "name": "Carnivine",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -52865,6 +52867,7 @@
       "Shouting.png",
       "Determined.png",
       "Pain.png",
+      "Special3.png",
       "Crying.png",
       "Normal.png",
       "Teary-Eyed.png",
@@ -52876,11 +52879,9 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788540476826976317/portrait-0582.png",
-    "portrait_modified": "2020-12-15 22:58:19.881432",
-    "portrait_pending": {
-      "790059117367918633": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790078960292724736/portrait-0582.png",
+    "portrait_modified": "2020-12-20 04:51:42.962591",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
