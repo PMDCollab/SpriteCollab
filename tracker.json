@@ -70,29 +70,78 @@
     "sprite_required": true,
     "subgroups": {
       "0001": {
-        "name": "Substitute",
-        "portrait_complete": 1,
-        "portrait_credit": "<@!225813236589527041>",
+        "name": "Kotora",
+        "portrait_complete": 0,
+        "portrait_credit": "<@!227594271794921472>",
         "portrait_files": [
-          "Normal.png"
+          "Sigh.png",
+          "Joyous.png",
+          "Sad.png",
+          "Shouting.png",
+          "Angry^.png",
+          "Shouting^.png",
+          "Sigh^.png",
+          "Determined.png",
+          "Determined^.png",
+          "Inspired^.png",
+          "Crying^.png",
+          "Pain.png",
+          "Happy^.png",
+          "Teary-Eyed^.png",
+          "Sad^.png",
+          "Pain^.png",
+          "Crying.png",
+          "Dizzy^.png",
+          "Worried^.png",
+          "Stunned^.png",
+          "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Surprised^.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Joyous^.png",
+          "Worried.png",
+          "Normal^.png",
+          "Stunned.png",
+          "Happy.png"
         ],
-        "portrait_link": "",
-        "portrait_modified": "2020-10-13 03:58:46.009459",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790629752352145438/portrait-0000-0001.png",
+        "portrait_modified": "2020-12-21 17:20:22.032455",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "sprite_complete": 1,
-        "sprite_credit": "CHUNSOFT",
-        "sprite_files": [
-          "animations.xml",
-          "sheet.png"
-        ],
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": [],
         "sprite_link": "",
-        "sprite_modified": "2020-10-13 03:58:46.121461",
+        "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
-        "subgroups": {}
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": [],
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": [],
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -10454,7 +10503,7 @@
   },
   "0112": {
     "name": "Rhydon",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -32675,7 +32724,7 @@
   },
   "0352": {
     "name": "Kecleon",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!227883321227476992>",
     "portrait_files": [
       "Sigh.png",
@@ -34783,7 +34832,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790578905010536458/portrait-0378.png",
     "portrait_modified": "2020-10-13 03:58:46.081461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -37828,7 +37877,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790612342122872832/portrait-0408.png",
     "portrait_modified": "2020-10-13 03:58:46.093461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
