@@ -32676,17 +32676,28 @@
   "0352": {
     "name": "Kecleon",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!227883321227476992>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
       "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
       "Normal.png",
-      "Angry.png"
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771226513688363018/portrait-0352.png",
-    "portrait_modified": "2020-10-13 03:58:46.077461",
-    "portrait_pending": {
-      "790519939551330304": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790527501457293332/portrait-0352.png",
+    "portrait_modified": "2020-12-21 10:34:03.488501",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -32722,7 +32733,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": [
               "Sad.png",
