@@ -233,7 +233,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!227594271794921472>",
             "portrait_files": [
               "Sigh.png",
@@ -21151,7 +21151,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/791058474707582986/portrait-0213.png",
     "portrait_modified": "2020-10-13 03:58:46.053460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -39211,10 +39211,10 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780588770235121674/portrait-0418.png",
-    "portrait_modified": "2020-11-24 00:21:05.353121",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/791142510243217488/portrait-0418.png",
+    "portrait_modified": "2020-12-23 03:17:52.899007",
     "portrait_pending": {},
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/787778452061028442/portrait_recolor-0418-0000-0001.png",
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
     "sprite_credit": "CHUNSOFT",
@@ -39293,7 +39293,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
@@ -39315,7 +39315,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790299290735345664/portrait-0418-0000-0001.png",
             "portrait_modified": "2020-12-20 19:27:13.845150",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "791088047294382200": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
