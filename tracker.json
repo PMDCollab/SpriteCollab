@@ -45128,13 +45128,13 @@
       "0001": {
         "name": "Beta",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "791430909948592129": true
-        },
+        "portrait_credit": "<@!702275233125630042>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/791436509034840084/portrait-0476-0001.png",
+        "portrait_modified": "2020-12-23 22:46:07.831969",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
