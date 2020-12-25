@@ -37176,22 +37176,29 @@
   "0399": {
     "name": "Bidoof",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!637407338772299776>",
     "portrait_files": [
       "Sigh.png",
+      "Joyous.png",
       "Sad.png",
+      "Shouting.png",
       "Determined.png",
       "Pain.png",
+      "Special0.png",
+      "Crying.png",
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
       "Special2.png",
+      "Inspired.png",
       "Surprised.png",
+      "Angry.png",
+      "Worried.png",
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779886862008320029/portrait-0399.png",
-    "portrait_modified": "2020-10-13 03:58:46.089461",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/791832539098382366/portrait-0399.png",
+    "portrait_modified": "2020-12-25 00:59:48.190931",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -37272,7 +37279,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": [
               "Sigh.png",
@@ -65162,7 +65169,7 @@
   },
   "0758": {
     "name": "Salazzle",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
