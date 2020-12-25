@@ -3594,13 +3594,27 @@
   "0034": {
     "name": "Nidoking",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
       "Normal.png",
-      "Surprised.png"
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787450447089893436/portrait-0034.png",
-    "portrait_modified": "2020-10-13 03:58:46.017460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792106390666870824/portrait-0034.png",
+    "portrait_modified": "2020-12-25 19:07:58.899374",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -3637,7 +3651,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": [
               "Normal.png",
@@ -22403,7 +22417,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
