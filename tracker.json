@@ -22334,7 +22334,7 @@
   },
   "0225": {
     "name": "Delibird",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
       "Sigh.png",
@@ -22365,8 +22365,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792043854684618752/portrait-0225.png",
-    "portrait_modified": "2020-12-25 14:59:30.239261",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792051865319505930/portrait-0225.png",
+    "portrait_modified": "2020-12-25 15:31:20.176148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
