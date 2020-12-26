@@ -30755,9 +30755,11 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792246455682727986/portrait-0323.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "792269011789676565": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -40813,7 +40815,7 @@
   },
   "0431": {
     "name": "Glameow",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -60042,10 +60044,31 @@
   "0679": {
     "name": "Honedge",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779458387468877834/portrait-0679.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!208313475246718976>",
+    "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special3.png",
+      "Special0.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Special1.png",
+      "Special2.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792395551907381288/portrait-0679.png",
+    "portrait_modified": "2020-12-26 14:17:01.409298",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
