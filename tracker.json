@@ -22443,11 +22443,9 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792051865319505930/portrait-0225.png",
-    "portrait_modified": "2020-12-25 15:31:20.176148",
-    "portrait_pending": {
-      "792790942175330315": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792830153432498247/portrait-0225.png",
+    "portrait_modified": "2020-12-27 19:03:58.497574",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -22483,7 +22481,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
