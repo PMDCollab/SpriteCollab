@@ -16034,7 +16034,7 @@
   },
   "0170": {
     "name": "Chinchou",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -55931,10 +55931,13 @@
   "0613": {
     "name": "Cubchoo",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/786516162338226196/portrait-0613.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!343474614820667392>",
+    "portrait_files": [
+      "Normal.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793921562432241664/portrait-0613.png",
+    "portrait_modified": "2020-12-30 19:20:50.263994",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
