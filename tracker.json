@@ -3492,7 +3492,7 @@
   },
   "0032": {
     "name": "Nidoran_M",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -15849,15 +15849,28 @@
   "0167": {
     "name": "Spinarak",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788243174061637692/portrait-0167.png",
-    "portrait_modified": "2020-10-13 03:58:46.041460",
-    "portrait_pending": {
-      "794117857071857704": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/794177751196106752/portrait-0167.png",
+    "portrait_modified": "2020-12-31 12:18:50.866695",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -15893,7 +15906,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!200318546750865418>",
             "portrait_files": [
               "Normal.png"
