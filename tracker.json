@@ -1809,7 +1809,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790141107698270220/portrait-0016.png",
     "portrait_modified": "2020-10-13 03:58:46.013460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "794007766468395098": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -18561,7 +18563,7 @@
   },
   "0198": {
     "name": "Murkrow",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -27883,7 +27885,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793940186878312458/portrait-0287.png",
     "portrait_modified": "2020-10-13 03:58:46.069460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -35193,7 +35195,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793942715423391744/portrait-0375.png",
     "portrait_modified": "2020-10-13 03:58:46.081461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
