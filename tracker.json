@@ -16327,15 +16327,28 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!95650095034273792>",
+            "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780420294569492492/portrait-0172-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.041460",
-            "portrait_pending": {
-              "794239347158155264": true
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/794359167279300718/portrait-0172-0000-0001.png",
+            "portrait_modified": "2021-01-01 00:19:43.851568",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -31538,7 +31551,7 @@
   },
   "0330": {
     "name": "Flygon",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
