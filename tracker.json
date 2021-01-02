@@ -18284,7 +18284,7 @@
                 "portrait_files": [
                   "Normal.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/794716217108725800/portrait-0194-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.045460",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -22421,7 +22421,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/794647013094064138/portrait-0222-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.057460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -22860,12 +22860,27 @@
   "0228": {
     "name": "Houndour",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774111810822340668/portrait-0228.png",
-    "portrait_modified": "2020-10-13 03:58:46.057460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/794744076028870656/portrait-0228.png",
+    "portrait_modified": "2021-01-02 01:49:13.245799",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -22902,7 +22917,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!200318546750865418>",
             "portrait_files": [
               "Normal.png"
@@ -41884,7 +41899,7 @@
   },
   "0441": {
     "name": "Chatot",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!637407338772299776>",
     "portrait_files": [
       "Sigh.png",
