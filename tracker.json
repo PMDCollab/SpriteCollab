@@ -29777,9 +29777,11 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795687199819169852/portrait-0165.png",
     "portrait_modified": "2020-10-13 03:58:46.041460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "795770623821479978": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -31252,7 +31254,7 @@
   },
   "0173": {
     "name": "Cleffa",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -50040,7 +50042,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/795661564861874176/sprite-0261-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.428022",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -52538,7 +52540,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795686351626436658/portrait-0276.png",
     "portrait_modified": "2020-10-13 03:58:46.065460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -64104,7 +64106,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795683949229506600/portrait-0349.png",
     "portrait_modified": "2020-10-13 03:58:46.077461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -116074,10 +116076,16 @@
     "portrait_complete": 1,
     "portrait_credit": "<@!441903700571717640>",
     "portrait_files": [
-      "Normal.png"
+      "Sad.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Angry.png",
+      "Worried.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789141115428536320/portrait-0840.png",
-    "portrait_modified": "2020-12-17 14:45:03.336116",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795771298529148968/portrait-0840.png",
+    "portrait_modified": "2021-01-04 21:51:02.146799",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
