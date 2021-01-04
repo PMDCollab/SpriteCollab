@@ -34562,12 +34562,27 @@
   "0193": {
     "name": "Yanma",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787141908568473600/portrait-0193.png",
-    "portrait_modified": "2020-10-13 03:58:46.045460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795466970781974528/portrait-0193.png",
+    "portrait_modified": "2021-01-04 01:41:44.759085",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -34636,7 +34651,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": [
               "Normal.png"
@@ -42913,7 +42928,7 @@
   },
   "0223": {
     "name": "Remoraid",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -84545,7 +84560,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/795426073654853673/sprite-0451.zip",
     "sprite_modified": "2021-01-03 21:07:18.092046",
     "sprite_pending": {},
     "sprite_recolor_link": "",
