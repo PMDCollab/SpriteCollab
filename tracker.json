@@ -17307,7 +17307,7 @@
   },
   "0092": {
     "name": "Gastly",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -45876,7 +45876,7 @@
   },
   "0240": {
     "name": "Magby",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -117024,7 +117024,7 @@
   },
   "0854": {
     "name": "Sinistea",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Normal.png"
