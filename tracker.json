@@ -17314,7 +17314,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788124265148317786/portrait-0092.png",
     "portrait_modified": "2020-10-13 03:58:46.029460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "796410982980386846": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -31319,7 +31321,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795587181959446548/portrait-0173.png",
     "portrait_modified": "2021-01-04 09:39:25.303437",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "796411291886551100": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -45861,12 +45865,27 @@
   "0240": {
     "name": "Magby",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/784524628508934144/portrait-0240.png",
-    "portrait_modified": "2020-10-13 03:58:46.057460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796411883685937172/portrait-0240.png",
+    "portrait_modified": "2021-01-06 16:16:29.560020",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -45938,7 +45957,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": [
               "Normal.png"
@@ -57713,7 +57732,7 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796410544844308560/portrait-0308.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -77255,7 +77274,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788501406625693716/portrait-0416.png",
     "portrait_modified": "2020-12-15 20:23:04.820726",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "796411247306211370": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -116995,9 +117016,11 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796411123082985482/portrait-0854.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "796411358387634196": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
