@@ -23773,7 +23773,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/796823874473426964/sprite-0131.zip",
     "sprite_modified": "2021-01-03 21:07:15.380007",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -34286,7 +34286,7 @@
   "0191": {
     "name": "Sunkern",
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "MEEP_THE_MAREEP",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
@@ -34298,6 +34298,7 @@
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
+      "Special1.png",
       "Inspired.png",
       "Surprised.png",
       "Angry.png",
@@ -34305,8 +34306,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796528810958127104/portrait-0191.png",
-    "portrait_modified": "2021-01-07 00:01:07.203733",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796892967859519548/portrait-0191.png",
+    "portrait_modified": "2021-01-08 00:08:08.996630",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -48238,7 +48239,7 @@
       "Hop-Offsets.png",
       "Special12-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/796824056120868864/sprite-0253.zip",
     "sprite_modified": "2021-01-03 21:07:16.336021",
     "sprite_pending": {},
     "sprite_recolor_link": "",
