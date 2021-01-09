@@ -47577,7 +47577,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789686109038051328/portrait-0250-0000-0001.png",
             "portrait_modified": "2020-12-19 02:50:38.951547",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "797508653790789673": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
