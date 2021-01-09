@@ -47556,7 +47556,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "CAMUSZEKESIRIUS",
+            "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
               "Sigh.png",
               "Joyous.png",
@@ -47575,11 +47575,9 @@
               "Stunned.png",
               "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789686109038051328/portrait-0250-0000-0001.png",
-            "portrait_modified": "2020-12-19 02:50:38.951547",
-            "portrait_pending": {
-              "797508653790789673": true
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797509252406181928/portrait-0250-0000-0001.png",
+            "portrait_modified": "2021-01-09 16:57:02.597087",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
