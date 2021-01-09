@@ -42547,7 +42547,7 @@
   },
   "0220": {
     "name": "Swinub",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -91340,7 +91340,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/768894308068622366/portrait-0487.png",
     "portrait_modified": "2020-10-13 03:58:46.117461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "797385996840861737": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -91480,7 +91482,9 @@
         ],
         "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787639114001416212/portrait-0487-0001.png",
         "portrait_modified": "2020-10-13 03:58:46.117461",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "797386126704377856": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 1,
