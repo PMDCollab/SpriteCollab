@@ -91476,7 +91476,7 @@
   },
   "0487": {
     "name": "Giratina",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!533406104256905257>",
     "portrait_files": [
       "Sigh.png",
@@ -91592,7 +91592,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797500016586522624/portrait-0487-0000-0001.png",
             "portrait_modified": "2021-01-09 16:20:20.677277",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "797910245745754182": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -91647,7 +91649,7 @@
       },
       "0001": {
         "name": "Origin",
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Sigh.png",
@@ -113988,11 +113990,9 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797890607251062805/portrait-0801.png",
-    "portrait_modified": "2021-01-10 18:12:24.753575",
-    "portrait_pending": {
-      "797909764729602139": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797910300384821269/portrait-0801.png",
+    "portrait_modified": "2021-01-10 19:30:39.908130",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
