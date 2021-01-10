@@ -50797,7 +50797,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797893022855331900/portrait-0265.png",
     "portrait_modified": "2020-10-13 03:58:46.065460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -113977,7 +113977,7 @@
   },
   "0801": {
     "name": "Magearna",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!421379254077620225>",
     "portrait_files": [
       "Normal.png"
