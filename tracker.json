@@ -41540,6 +41540,7 @@
                   "Shouting.png",
                   "Determined.png",
                   "Pain.png",
+                  "Special3.png",
                   "Crying.png",
                   "Normal.png",
                   "Teary-Eyed.png",
@@ -41552,11 +41553,9 @@
                   "Stunned.png",
                   "Happy.png"
                 ],
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/795082404171743253/portrait-0214-0000-0000-0002.png",
-                "portrait_modified": "2021-01-03 00:13:36.977709",
-                "portrait_pending": {
-                  "797907013014126602": true
-                },
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797907131592343582/portrait-0214-0000-0000-0002.png",
+                "portrait_modified": "2021-01-10 19:18:04.464911",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 1,
@@ -41686,7 +41685,7 @@
             "subgroups": {
               "0002": {
                 "name": "Female",
-                "portrait_complete": 2,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!702275233125630042>",
                 "portrait_files": [
                   "Sigh.png",
