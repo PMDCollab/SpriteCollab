@@ -2975,7 +2975,7 @@
   },
   "0013": {
     "name": "Weedle",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "VGSTAR",
     "portrait_files": [
       "Sigh.png",
@@ -3069,12 +3069,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!234720295292895232>",
+            "portrait_credit": "VGSTAR",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798034259314999316/portrait-0013-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.013460",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798223153217273856/portrait-0013-0000-0001.png",
+            "portrait_modified": "2021-01-11 16:13:49.885037",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -50819,7 +50834,7 @@
   },
   "0265": {
     "name": "Wurmple",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "VGSTAR",
     "portrait_files": [
       "Sigh.png",
@@ -50916,7 +50931,9 @@
             ],
             "portrait_link": "",
             "portrait_modified": "2020-10-13 03:58:46.065460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "798223025514086468": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -113529,7 +113546,7 @@
   },
   "0793": {
     "name": "Nihilego",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!421379254077620225>",
     "portrait_files": [
       "Normal.png"
