@@ -3068,7 +3068,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "VGSTAR",
             "portrait_files": [
               "Sigh.png",
@@ -50924,7 +50924,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "VGSTAR",
             "portrait_files": [
               "Sigh.png",
@@ -66280,7 +66280,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/798240766610636839/sprite-0357.zip",
     "sprite_modified": "2021-01-03 21:07:17.160033",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -90862,7 +90862,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/798240741519654933/sprite-0483.zip",
     "sprite_modified": "2021-01-03 21:07:18.424051",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -114062,8 +114062,8 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797910300384821269/portrait-0801.png",
-    "portrait_modified": "2021-01-10 19:30:39.908130",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798253294170538025/portrait-0801.png",
+    "portrait_modified": "2021-01-11 18:13:36.059557",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -114100,9 +114100,11 @@
             "portrait_complete": 0,
             "portrait_credit": "",
             "portrait_files": [],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798252254067032095/portrait-0801-0000-0001.png",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "798252547743023104": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
