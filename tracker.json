@@ -42741,9 +42741,7 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797917673659826237/portrait-0220-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.053460",
-            "portrait_pending": {
-              "797919470605565952": true
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -100574,12 +100572,27 @@
   "0595": {
     "name": "Joltik",
     "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774019278013857823/portrait-0595.png",
-    "portrait_modified": "2020-11-05 21:16:16.346171",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798293835737202708/portrait-0595.png",
+    "portrait_modified": "2021-01-11 20:54:41.686459",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
