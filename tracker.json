@@ -3058,7 +3058,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798034259314999316/portrait-0013-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.013460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -24214,7 +24214,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/798010367468765245/sprite-0133.zip",
     "sprite_modified": "2021-01-03 21:07:15.396007",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -31441,9 +31441,11 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797913206579789834/portrait-0173-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.041460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "797917070158463046": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -33182,7 +33184,7 @@
       "Normal.png",
       "Normal^.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797923195461566534/portrait-0184.png",
     "portrait_modified": "2020-10-13 03:58:46.045460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -34443,7 +34445,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797681400982536212/portrait-0191-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.045460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "797912814411841546": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -40684,7 +40688,7 @@
   },
   "0209": {
     "name": "Snubbull",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -42707,9 +42711,11 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797917673659826237/portrait-0220-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.053460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "797919470605565952": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -45950,7 +45956,7 @@
               "Normal.png",
               "Normal^.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797923759653781544/portrait-0239-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.057460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -61326,9 +61332,11 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797920647018971167/portrait-0328-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.073461",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "797922393125421106": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -68218,7 +68226,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797923274301898772/portrait-0370.png",
     "portrait_modified": "2020-10-13 03:58:46.081461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -91570,7 +91578,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
               "Sigh.png",
@@ -91723,7 +91731,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
               "Sigh.png",
@@ -103613,7 +103621,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": [],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/798018658835496980/sprite-0643.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
