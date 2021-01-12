@@ -31532,7 +31532,7 @@
   },
   "0174": {
     "name": "Igglybuff",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -68947,7 +68947,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/798487420630466591/sprite-0373-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:17.260034",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -104385,13 +104385,10 @@
     "portrait_complete": 1,
     "portrait_credit": "<@!177074597315870720>",
     "portrait_files": [
-      "Sad.png",
-      "Crying.png",
-      "Normal.png",
-      "Happy.png"
+      "Normal.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798312866012463144/portrait-0653.png",
-    "portrait_modified": "2021-01-11 22:10:19.090045",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798542135913218068/portrait-0653.png",
+    "portrait_modified": "2021-01-12 13:21:21.288283",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
