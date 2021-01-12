@@ -120322,13 +120322,13 @@
   "0892": {
     "name": "Urshifu",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787126091046584390/portrait-0892.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "798698273128448070": true
-    },
+    "portrait_credit": "EZERART",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798699692082069504/portrait-0892.png",
+    "portrait_modified": "2021-01-12 23:47:25.601983",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -120448,13 +120448,13 @@
   "0894": {
     "name": "Regieleki",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
+    "portrait_credit": "EZERART",
+    "portrait_files": [
+      "Normal.png"
+    ],
     "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "798698334486396959": true
-    },
+    "portrait_modified": "2021-01-12 23:47:25.996076",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
