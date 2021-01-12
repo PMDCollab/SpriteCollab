@@ -91079,7 +91079,7 @@
   "0484": {
     "name": "Palkia",
     "portrait_complete": 2,
-    "portrait_credit": "<@!533406104256905257>",
+    "portrait_credit": "TAYLORTRAP622",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
@@ -91099,11 +91099,9 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798546205981540362/portrait-0484.png",
-    "portrait_modified": "2021-01-12 13:37:31.672592",
-    "portrait_pending": {
-      "798547463606763531": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798548797986177034/portrait-0484.png",
+    "portrait_modified": "2021-01-12 13:47:49.632059",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
