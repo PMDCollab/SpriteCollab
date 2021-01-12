@@ -84258,7 +84258,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/798362662836240384/sprite-0448.zip",
     "sprite_modified": "2021-01-03 21:07:18.060045",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -86536,7 +86536,7 @@
                 "portrait_files": [
                   "Normal.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798369642703486996/portrait-0459-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.101461",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -104352,7 +104352,7 @@
   },
   "0653": {
     "name": "Fennekin",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!177074597315870720>",
     "portrait_files": [
       "Sad.png",
@@ -117498,12 +117498,12 @@
   "0854": {
     "name": "Sinistea",
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "EZERART",
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796411971229974559/portrait-0854.png",
-    "portrait_modified": "2021-01-06 16:16:50.419310",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798376810798252062/portrait-0854.png",
+    "portrait_modified": "2021-01-12 02:24:24.645136",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
