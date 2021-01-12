@@ -119916,13 +119916,13 @@
   "0889": {
     "name": "Zamazenta",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787147949796098069/portrait-0889.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "798559133837033522": true
-    },
+    "portrait_credit": "<@!533406104256905257>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798568398921138246/portrait-0889.png",
+    "portrait_modified": "2021-01-12 15:05:42.888259",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
