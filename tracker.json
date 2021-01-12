@@ -33718,12 +33718,28 @@
   "0187": {
     "name": "Hoppip",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special0.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774054790946750525/portrait-0187.png",
-    "portrait_modified": "2020-10-13 03:58:46.045460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798421245317480468/portrait-0187.png",
+    "portrait_modified": "2021-01-12 05:20:58.710530",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -33795,7 +33811,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_files": [
               "Normal.png"
@@ -46429,7 +46445,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798402871934320650/portrait-0242.png",
     "portrait_modified": "2020-10-13 03:58:46.057460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
