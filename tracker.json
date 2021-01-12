@@ -120023,13 +120023,13 @@
   "0890": {
     "name": "Eternatus",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787811945515319297/portrait-0890.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "798559228704849920": true
-    },
+    "portrait_credit": "<@!533406104256905257>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798568435239878697/portrait-0890.png",
+    "portrait_modified": "2021-01-12 15:05:51.507182",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
