@@ -54024,7 +54024,7 @@
               "Jump-Shadow.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/799257133001474078/sprite-0282-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.612025",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -104847,11 +104847,9 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798801455008055326/portrait-0653.png",
-    "portrait_modified": "2021-01-13 06:31:47.773495",
-    "portrait_pending": {
-      "799254279637565460": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799259262885822504/portrait-0653.png",
+    "portrait_modified": "2021-01-14 12:50:57.657673",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -111148,7 +111146,7 @@
       },
       "0001": {
         "name": "Midnight",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!427858231956733963>",
         "portrait_files": [
           "Normal.png",
