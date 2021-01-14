@@ -92947,10 +92947,26 @@
       "0002": {
         "name": "Shadow",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_credit": "<@!761638251937136641>",
+        "portrait_files": [
+          "Sigh.png",
+          "Joyous.png",
+          "Sad.png",
+          "Shouting.png",
+          "Determined.png",
+          "Pain.png",
+          "Crying.png",
+          "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Worried.png",
+          "Stunned.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799378328314052618/portrait-0491-0002.png",
+        "portrait_modified": "2021-01-14 20:44:05.041875",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -92959,7 +92975,9 @@
         "sprite_files": [],
         "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/799369014798581810/sprite-0491-0002.zip",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "799369446082871346": true
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
