@@ -104234,8 +104234,8 @@
           "Stunned.png",
           "Happy.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799000198415646800/portrait-0646-0001.png",
-        "portrait_modified": "2021-01-13 19:41:31.881760",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799076081147576390/portrait-0646-0001.png",
+        "portrait_modified": "2021-01-14 00:43:03.733395",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -104250,7 +104250,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
               "Sigh.png",
