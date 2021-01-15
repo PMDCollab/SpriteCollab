@@ -109316,7 +109316,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
               "Sigh.png",
@@ -111308,13 +111308,27 @@
       "0001": {
         "name": "Midnight",
         "portrait_complete": 1,
-        "portrait_credit": "<@!427858231956733963>",
+        "portrait_credit": "<@!702275233125630042>",
         "portrait_files": [
+          "Sigh.png",
+          "Joyous.png",
+          "Sad.png",
+          "Shouting.png",
+          "Determined.png",
+          "Pain.png",
+          "Crying.png",
           "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Worried.png",
+          "Stunned.png",
           "Happy.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799306758790709268/portrait-0745-0001.png",
-        "portrait_modified": "2021-01-14 15:59:41.556753",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799584843956617236/portrait-0745-0001.png",
+        "portrait_modified": "2021-01-15 10:24:42.243013",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
