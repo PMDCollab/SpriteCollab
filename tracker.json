@@ -7615,7 +7615,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800147648116031528/sprite-0037.zip",
     "sprite_modified": "2021-01-03 21:07:14.699997",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -11342,7 +11342,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800173344312918026/portrait-0055.png",
     "portrait_modified": "2020-10-13 03:58:46.021460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -109209,10 +109209,12 @@
   "0716": {
     "name": "Xerneas",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/781299406934507560/portrait-0716.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!427858231956733963>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800186882247360552/portrait-0716.png",
+    "portrait_modified": "2021-01-17 02:16:59.388573",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -109273,7 +109275,9 @@
         "portrait_files": [],
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "800127066179239976": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -112907,7 +112911,7 @@
   },
   "0769": {
     "name": "Sandygast",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Normal.png"
