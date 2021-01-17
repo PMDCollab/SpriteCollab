@@ -28420,8 +28420,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799836758929309716/portrait-0156.png",
-    "portrait_modified": "2021-01-16 03:05:43.286251",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800504628848492604/portrait-0156.png",
+    "portrait_modified": "2021-01-17 23:19:35.982005",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -28493,7 +28493,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
@@ -28515,7 +28515,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799836768533741568/portrait-0156-0000-0001.png",
             "portrait_modified": "2021-01-16 03:05:44.927114",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "800492872285028403": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -45997,7 +45999,7 @@
   },
   "0239": {
     "name": "Elekid",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "ANGELS_SNACK",
     "portrait_files": [
       "Sigh.png",
@@ -61041,7 +61043,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800474657073528872/portrait-0325.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -61087,7 +61089,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800474803248955432/sprite-0325.zip",
     "sprite_modified": "2021-01-03 21:07:16.936029",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -77298,7 +77300,7 @@
       },
       "0002": {
         "name": "Trash",
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": "<@!702275233125630042>",
         "portrait_files": [
           "Sigh.png",
