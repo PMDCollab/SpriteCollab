@@ -13270,12 +13270,27 @@
   "0067": {
     "name": "Machoke",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788799825218502666/portrait-0067.png",
-    "portrait_modified": "2020-10-13 03:58:46.025460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800291662231633950/portrait-0067.png",
+    "portrait_modified": "2021-01-17 09:13:20.836925",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -13347,7 +13362,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": [
               "Normal.png"
@@ -76935,7 +76950,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790406415482748998/portrait-0413.png",
     "portrait_modified": "2020-10-13 03:58:46.093461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "800281169115086878": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -77209,7 +77226,7 @@
         "portrait_files": [
           "Normal.png"
         ],
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800259865745293312/portrait-0413-0002.png",
         "portrait_modified": "2020-10-13 03:58:46.093461",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -91850,7 +91867,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800195539479822376/sprite-0487.zip",
     "sprite_modified": "2021-01-03 21:07:18.504052",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -109208,7 +109225,7 @@
   },
   "0716": {
     "name": "Xerneas",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!427858231956733963>",
     "portrait_files": [
       "Normal.png"
@@ -109270,7 +109287,7 @@
       },
       "0001": {
         "name": "Neutral",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!427858231956733963>",
         "portrait_files": [
           "Normal.png"
