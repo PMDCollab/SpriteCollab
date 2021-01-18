@@ -7822,10 +7822,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787469531567620096/portrait-0037-0001-0001.png",
-            "portrait_modified": "",
+            "portrait_credit": "<@!336650663293616140>",
+            "portrait_files": [
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800691260503228426/portrait-0037-0001-0001.png",
+            "portrait_modified": "2021-01-18 11:41:12.473597",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -7942,7 +7959,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!336650663293616140>",
             "portrait_files": [
               "Sigh.png",
@@ -8023,7 +8040,7 @@
       },
       "0001": {
         "name": "Alola",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!319945906600411179>",
         "portrait_files": [
           "Normal.png"
@@ -11369,7 +11386,7 @@
   },
   "0055": {
     "name": "Golduck",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -30717,7 +30734,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800653400621449266/portrait-0168.png",
     "portrait_modified": "2020-10-13 03:58:46.041460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -75730,9 +75747,11 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800656037786419220/portrait-0405-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.089461",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "800660212402356275": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -89461,7 +89480,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800652896743063572/portrait-0474-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.113461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -105176,7 +105195,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!336650663293616140>",
             "portrait_files": [
               "Sigh.png",
