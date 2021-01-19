@@ -35646,7 +35646,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!327927398941196289>",
             "portrait_files": [
               "Sigh.png",
@@ -47704,7 +47704,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800456967440040036/portrait-0249.png",
     "portrait_modified": "2021-01-17 20:10:12.664891",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "801161153899659294": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -47799,8 +47801,8 @@
               "Stunned.png",
               "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800458232384061450/portrait-0249-0000-0001.png",
-            "portrait_modified": "2021-01-17 20:15:14.265017",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801206603784388608/portrait-0249-0000-0001.png",
+            "portrait_modified": "2021-01-19 21:48:59.828853",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -47882,7 +47884,9 @@
         ],
         "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800528897727791124/portrait-0249-0001.png",
         "portrait_modified": "2021-01-18 00:56:02.139879",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "801161607681540187": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -50276,7 +50280,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801179021265600562/sprite-0259.zip",
     "sprite_modified": "2021-01-03 21:07:16.416022",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -50389,7 +50393,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790005779578486795/portrait-0260.png",
     "portrait_modified": "2020-10-13 03:58:46.065460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "801202269361799228": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -86953,7 +86959,7 @@
             "subgroups": {
               "0002": {
                 "name": "Female",
-                "portrait_complete": 1,
+                "portrait_complete": 2,
                 "portrait_credit": "JARLEYPENO",
                 "portrait_files": [
                   "Sigh.png",
@@ -100245,7 +100251,9 @@
     ],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800890076414214194/sprite-0582.zip",
     "sprite_modified": "2021-01-19 00:51:13.886359",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "801201825621344327": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -101218,7 +101226,9 @@
     "sprite_files": [],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801014891518623744/sprite-0595.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "801201743882354779": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -110978,7 +110988,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801165655838687272/portrait-0736.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -118768,7 +118778,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801202916223483934/portrait-0852.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
