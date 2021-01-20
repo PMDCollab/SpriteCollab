@@ -116979,12 +116979,13 @@
   "0821": {
     "name": "Rookidee",
     "portrait_complete": 0,
-    "portrait_credit": "EZERART",
+    "portrait_credit": "<@!755070698753359913>",
     "portrait_files": [
-      "Normal.png"
+      "Normal.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801475130667565086/portrait-0821.png",
-    "portrait_modified": "2021-01-20 15:36:01.720070",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801476320918896730/portrait-0821.png",
+    "portrait_modified": "2021-01-20 15:40:45.505512",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
