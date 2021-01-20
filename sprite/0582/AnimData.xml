@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AnimData>
-  <ShadowSize>1</ShadowSize>
+  <ShadowSize>0</ShadowSize>
   <Anims>
     <Anim>
       <Name>Walk</Name>

@@ -50382,15 +50382,15 @@
   "0260": {
     "name": "Swampert",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!755070698753359913>",
     "portrait_files": [
-      "Normal.png"
+      "Pain.png",
+      "Normal.png",
+      "Happy.png"
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/790005779578486795/portrait-0260.png",
-    "portrait_modified": "2020-10-13 03:58:46.065460",
-    "portrait_pending": {
-      "801202269361799228": true
-    },
+    "portrait_modified": "2021-01-20 00:25:27.735973",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -100245,10 +100245,8 @@
       "Hop-Offsets.png"
     ],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800890076414214194/sprite-0582.zip",
-    "sprite_modified": "2021-01-19 00:51:13.886359",
-    "sprite_pending": {
-      "801201825621344327": true
-    },
+    "sprite_modified": "2021-01-20 00:25:28.074200",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -101217,13 +101215,46 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": [],
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801014891518623744/sprite-0595.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "801201743882354779": true
-    },
+    "sprite_credit": "<@!702275233125630042>",
+    "sprite_files": [
+      "Double-Offsets.png",
+      "Sleep-Offsets.png",
+      "Hurt-Shadow.png",
+      "Sleep-Anim.png",
+      "Shoot-Shadow.png",
+      "Walk-Anim.png",
+      "Walk-Offsets.png",
+      "Rotate-Shadow.png",
+      "AnimData.xml",
+      "Attack-Anim.png",
+      "Hurt-Anim.png",
+      "Double-Shadow.png",
+      "Attack-Offsets.png",
+      "Sleep-Shadow.png",
+      "Idle-Anim.png",
+      "Idle-Shadow.png",
+      "Double-Anim.png",
+      "Swing-Anim.png",
+      "Charge-Offsets.png",
+      "Swing-Offsets.png",
+      "Charge-Shadow.png",
+      "Rotate-Offsets.png",
+      "Swing-Shadow.png",
+      "Hop-Anim.png",
+      "Idle-Offsets.png",
+      "Hurt-Offsets.png",
+      "Attack-Shadow.png",
+      "Walk-Shadow.png",
+      "Charge-Anim.png",
+      "Shoot-Anim.png",
+      "Shoot-Offsets.png",
+      "Hop-Shadow.png",
+      "Rotate-Anim.png",
+      "Hop-Offsets.png"
+    ],
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801245978417037392/sprite-0595.zip",
+    "sprite_modified": "2021-01-20 00:25:27.501223",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
