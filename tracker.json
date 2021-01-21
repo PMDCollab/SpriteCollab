@@ -21589,7 +21589,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801830276229365808/sprite-0116.zip",
     "sprite_modified": "2021-01-03 21:07:15.228005",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -65179,7 +65179,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801853703015366736/sprite-0350.zip",
     "sprite_modified": "2021-01-03 21:07:17.104032",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -81810,7 +81810,7 @@
   "0434": {
     "name": "Stunky",
     "portrait_complete": 2,
-    "portrait_credit": "<@!322382592202637322>",
+    "portrait_credit": "JARLEYPENO",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
@@ -81829,8 +81829,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801317393250385920/portrait-0434.png",
-    "portrait_modified": "2021-01-20 05:09:14.136379",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801853869894139974/portrait-0434.png",
+    "portrait_modified": "2021-01-21 16:41:00.114062",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
