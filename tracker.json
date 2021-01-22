@@ -48395,13 +48395,31 @@
       "0001": {
         "name": "Alternate",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801951466835279902/portrait-0251-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "801956690861359104": true
-        },
+        "portrait_credit": "<@!149282718578901001>",
+        "portrait_files": [
+          "Sigh.png",
+          "Joyous.png",
+          "Sad.png",
+          "Shouting.png",
+          "Determined.png",
+          "Pain.png",
+          "Special0.png",
+          "Crying.png",
+          "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Special1.png",
+          "Special2.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Worried.png",
+          "Stunned.png",
+          "Happy.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/802034881088454716/portrait-0251-0001.png",
+        "portrait_modified": "2021-01-22 04:40:16.521441",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -119249,9 +119267,7 @@
     "sprite_files": [],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801954310262095893/sprite-0854.zip",
     "sprite_modified": "",
-    "sprite_pending": {
-      "801965344386056212": true
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
