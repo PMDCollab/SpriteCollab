@@ -81523,6 +81523,7 @@
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
+      "Special1.png",
       "Inspired.png",
       "Surprised.png",
       "Angry.png",
@@ -81530,11 +81531,9 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/792230471437123584/portrait-0431.png",
-    "portrait_modified": "2020-12-26 03:21:03.188096",
-    "portrait_pending": {
-      "802788650408345651": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/802860859235237928/portrait-0431.png",
+    "portrait_modified": "2021-01-24 11:22:25.158154",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
