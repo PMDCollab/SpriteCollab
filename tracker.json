@@ -27144,7 +27144,7 @@
   },
   "0150": {
     "name": "Mewtwo",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!288067476963721216>",
     "portrait_files": [
       "Sigh.png",
@@ -27347,10 +27347,12 @@
       "0002": {
         "name": "Mega_Y",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_credit": "<@!702275233125630042>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/802721122935242783/portrait-0150-0002.png",
+        "portrait_modified": "2021-01-24 02:07:09.381774",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
