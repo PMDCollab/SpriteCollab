@@ -1602,10 +1602,7 @@
     ],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/801968181169094686/sprite-0005.zip",
     "sprite_modified": "2021-01-03 21:07:14.515994",
-    "sprite_pending": {
-      "803020276454391888": true,
-      "803071256357371915": true
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/801936148733100072/sprite_recolor-0005-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
@@ -27364,9 +27361,7 @@
         "sprite_files": [],
         "sprite_link": "",
         "sprite_modified": "",
-        "sprite_pending": {
-          "803058533913853982": true
-        },
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -94718,9 +94713,7 @@
     "sprite_files": [],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/787790217611313212/sprite-0494.zip",
     "sprite_modified": "",
-    "sprite_pending": {
-      "803061766765412362": true
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -113431,13 +113424,28 @@
   "0763": {
     "name": "Tsareena",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/775347869020323870/portrait-0763.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "803108475936178227": true
-    },
+    "portrait_credit": "<@!702275233125630042>",
+    "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803154774341058560/portrait-0763.png",
+    "portrait_modified": "2021-01-25 06:50:19.906505",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
