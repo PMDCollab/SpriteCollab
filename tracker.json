@@ -19751,15 +19751,15 @@
   "0105": {
     "name": "Marowak",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Joyous.png",
+      "Normal.png",
+      "Surprised.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/791504728483692554/portrait-0105.png",
-    "portrait_modified": "2020-10-13 03:58:46.029460",
-    "portrait_pending": {
-      "803390776318885918": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803413796801478666/portrait-0105.png",
+    "portrait_modified": "2021-01-25 23:59:35.768592",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -19830,7 +19830,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": [
               "Normal.png"
