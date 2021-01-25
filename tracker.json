@@ -15619,13 +15619,13 @@
       "0001": {
         "name": "Galar",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803266603395186728/portrait-0080-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "803361907482034226": true
-        },
+        "portrait_credit": "<@!469728607636422656>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803413792276348958/portrait-0080-0001.png",
+        "portrait_modified": "2021-01-25 23:59:34.655794",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -48443,7 +48443,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803392626556141568/sprite-0251.zip",
     "sprite_modified": "2021-01-03 21:07:16.312020",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -76918,7 +76918,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803406542459895848/portrait-0410.png",
     "portrait_modified": "2020-10-13 03:58:46.093461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -94857,7 +94857,9 @@
     "sprite_files": [],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/802411533568704512/sprite-0495.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "803411558016352276": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
