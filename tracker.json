@@ -73966,15 +73966,29 @@
   "0396": {
     "name": "Starly",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!533406104256905257>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special3.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789491646408425502/portrait-0396.png",
-    "portrait_modified": "2020-10-13 03:58:46.089461",
-    "portrait_pending": {
-      "803431017531834418": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803433237388328980/portrait-0396.png",
+    "portrait_modified": "2021-01-26 01:16:50.727362",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -74048,7 +74062,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": [
               "Normal.png"
