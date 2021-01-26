@@ -1666,11 +1666,9 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803434550268788736/sprite-0005.zip",
-    "sprite_modified": "2021-01-26 01:22:03.704872",
-    "sprite_pending": {
-      "803420912215916605": true
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803587687009222679/sprite-0005.zip",
+    "sprite_modified": "2021-01-26 11:30:34.385182",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -69999,7 +69997,7 @@
   },
   "0375": {
     "name": "Metang",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -103244,7 +103242,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793921562432241664/portrait-0613.png",
     "portrait_modified": "2020-12-30 19:20:50.263994",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "803579557860737036": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -113898,7 +113898,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!702275233125630042>",
             "portrait_files": [
               "Sigh.png",
