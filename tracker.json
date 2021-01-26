@@ -103262,14 +103262,14 @@
     "portrait_complete": 1,
     "portrait_credit": "<@!343474614820667392>",
     "portrait_files": [
+      "Happy^.png",
       "Normal.png",
+      "Normal^.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793921562432241664/portrait-0613.png",
-    "portrait_modified": "2020-12-30 19:20:50.263994",
-    "portrait_pending": {
-      "803579557860737036": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803613714439340042/portrait-0613.png",
+    "portrait_modified": "2021-01-26 13:13:59.811608",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
