@@ -95019,7 +95019,7 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "sprite_complete": 0,
+    "sprite_complete": 2,
     "sprite_credit": "<@!324999377946935297>",
     "sprite_files": [
       "Sleep-Offsets.png",
@@ -95052,7 +95052,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803860982644342834/sprite-0494.zip",
     "sprite_modified": "2021-01-27 05:36:33.171762",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/803863609918226462/sprite_recolor-0494-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -95331,7 +95331,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": [],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803894864001368094/sprite-0496.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -95397,7 +95397,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": [],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803894760011333652/sprite-0497.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -100212,12 +100212,31 @@
   "0570": {
     "name": "Zorua",
     "portrait_complete": 0,
-    "portrait_credit": "<@!327927398941196289>",
+    "portrait_credit": "<@!192118698859954178>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special3.png",
+      "Special0.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Special1.png",
+      "Special2.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/769712634613334095/portrait-0570.png",
-    "portrait_modified": "2020-10-25 00:03:12.554573",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803953383584825364/portrait-0570.png",
+    "portrait_modified": "2021-01-27 11:43:43.231427",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -106305,7 +106324,9 @@
     ],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/802871610880950282/sprite-0653.zip",
     "sprite_modified": "2021-01-24 12:05:08.503667",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "803911131683880970": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
