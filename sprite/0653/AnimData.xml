@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
-  <Anims>
+   <Anims>
 	<Anim>
       <Name>Walk</Name>
       <Index>0</Index>
@@ -40,18 +40,11 @@
 		<Duration>3</Duration>
       </Durations>
     </Anim>
-    <Anim>
-      <Name>Idle</Name>
-      <Index>2</Index>
-      <FrameWidth>40</FrameWidth>
-      <FrameHeight>40</FrameHeight>
-      <Durations>
-        <Duration>36</Duration>
-        <Duration>12</Duration>
-		<Duration>12</Duration>
-        <Duration>12</Duration>
-      </Durations>
-    </Anim>
+	<Anim>
+		<Name>Strike</Name>
+		<Index>2</Index>
+		<CopyOf>Attack</CopyOf>
+	</Anim>
 	<Anim>
 	  <Name>Shoot</Name>
       <Index>3</Index>
@@ -100,6 +93,18 @@
       <Durations>
         <Duration>4</Duration>
         <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Idle</Name>
+      <Index>7</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>36</Duration>
+        <Duration>12</Duration>
+		<Duration>12</Duration>
+        <Duration>12</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -180,5 +185,50 @@
         <Duration>2</Duration>
       </Durations>
     </Anim>
+		<Anim>
+			<Name>EventSleep</Name>
+			<Index>13</Index>
+			<FrameWidth>40</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<Durations>
+				<Duration>30</Duration>
+				<Duration>35</Duration>
+			</Durations> 
+		</Anim>
+		<Anim>
+			<Name>Wake</Name>
+			<Index>14</Index>
+			<FrameWidth>40</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>4</Duration>
+				<Duration>12</Duration>
+				<Duration>4</Duration>
+				<Duration>10</Duration>
+				<Duration>4</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Float</Name>
+			<Index>20</Index>
+			<FrameWidth>40</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<Durations>
+				<Duration>9</Duration>
+				<Duration>18</Duration>
+				<Duration>9</Duration>
+				<Duration>14</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Laying</Name>
+			<Index>27</Index>
+			<FrameWidth>40</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<Durations>
+				<Duration>12</Duration>
+			</Durations>
+		</Anim>
   </Anims>
 </AnimData>
