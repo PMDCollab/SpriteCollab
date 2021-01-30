@@ -81148,28 +81148,43 @@
   "0427": {
     "name": "Buneary",
     "portrait_complete": 1,
-    "portrait_credit": "<@!192178759376306176>",
+    "portrait_credit": "SMBMASTER99",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
       "Sad.png",
       "Shouting.png",
+      "Angry^.png",
+      "Shouting^.png",
+      "Sigh^.png",
       "Determined.png",
+      "Determined^.png",
+      "Inspired^.png",
+      "Crying^.png",
       "Pain.png",
+      "Happy^.png",
+      "Teary-Eyed^.png",
+      "Sad^.png",
+      "Pain^.png",
       "Crying.png",
+      "Dizzy^.png",
+      "Worried^.png",
+      "Stunned^.png",
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
+      "Surprised^.png",
       "Inspired.png",
       "Surprised.png",
       "Angry.png",
+      "Joyous^.png",
       "Worried.png",
       "Normal^.png",
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/775917733409587200/portrait-0427.png",
-    "portrait_modified": "2020-11-11 03:00:03.210734",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/804958345629925406/portrait-0427.png",
+    "portrait_modified": "2021-01-30 06:17:04.864519",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -81217,7 +81232,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/804934514341052416/sprite-0427.zip",
     "sprite_modified": "2021-01-03 21:07:17.820042",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -81244,7 +81259,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!589906152708505648>",
             "portrait_files": [
               "Sigh.png",
@@ -115404,7 +115419,7 @@
   },
   "0786": {
     "name": "Tapu_Lele",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!192118698859954178>",
     "portrait_files": [
       "Normal.png"
