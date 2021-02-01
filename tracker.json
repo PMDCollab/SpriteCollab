@@ -74537,7 +74537,7 @@
             "subgroups": {
               "0002": {
                 "name": "Female",
-                "portrait_complete": 1,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!95650095034273792>",
                 "portrait_files": [
                   "Normal.png"
@@ -74581,15 +74581,29 @@
               "0002": {
                 "name": "Female",
                 "portrait_complete": 1,
-                "portrait_credit": "CHUNSOFT",
+                "portrait_credit": "<@!533406104256905257>",
                 "portrait_files": [
-                  "Normal.png"
+                  "Sigh.png",
+                  "Joyous.png",
+                  "Sad.png",
+                  "Shouting.png",
+                  "Determined.png",
+                  "Pain.png",
+                  "Special3.png",
+                  "Crying.png",
+                  "Normal.png",
+                  "Teary-Eyed.png",
+                  "Dizzy.png",
+                  "Inspired.png",
+                  "Surprised.png",
+                  "Angry.png",
+                  "Worried.png",
+                  "Stunned.png",
+                  "Happy.png"
                 ],
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803460563735674900/portrait-0397-0000-0000-0002.png",
-                "portrait_modified": "2020-10-13 03:58:46.089461",
-                "portrait_pending": {
-                  "805604536274255923": true
-                },
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/805605664491307018/portrait-0397-0000-0000-0002.png",
+                "portrait_modified": "2021-02-01 01:09:17.723270",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_complete": 0,
