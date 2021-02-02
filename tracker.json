@@ -110660,7 +110660,7 @@
   },
   "0714": {
     "name": "Noibat",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!150809243816165377>",
     "portrait_files": [
       "Pain.png",
@@ -110727,10 +110727,14 @@
   "0715": {
     "name": "Noivern",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787158312717123644/portrait-0715.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!150809243816165377>",
+    "portrait_files": [
+      "Pain.png",
+      "Normal.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806114074772897843/portrait-0715.png",
+    "portrait_modified": "2021-02-02 10:49:31.997590",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
