@@ -93169,7 +93169,7 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 1,
-        "sprite_credit": "CHUNSOFT",
+        "sprite_credit": "<@!117780585635643396>",
         "sprite_files": [
           "Double-Offsets.png",
           "Sleep-Offsets.png",
@@ -93209,11 +93209,9 @@
           "Rotate-Anim.png",
           "Hop-Offsets.png"
         ],
-        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/806983829885026324/sprite-0487-0001.zip",
-        "sprite_modified": "2021-01-03 21:07:18.500052",
-        "sprite_pending": {
-          "806984612827365446": true
-        },
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/806984693572435978/sprite-0487-0001.zip",
+        "sprite_modified": "2021-02-04 20:29:03.795616",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -93245,7 +93243,7 @@
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": "<@!276949114212712449>",
             "sprite_files": [
               "Double-Offsets.png",
