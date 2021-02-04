@@ -74700,7 +74700,7 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
-    "sprite_credit": "CHUNSOFT",
+    "sprite_credit": "<@!117780585635643396>",
     "sprite_files": [
       "Double-Offsets.png",
       "Sleep-Offsets.png",
@@ -74743,8 +74743,8 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
-    "sprite_modified": "2021-01-03 21:07:17.516038",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/806984656133947392/sprite-0398.zip",
+    "sprite_modified": "2021-02-04 20:28:54.903068",
     "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
@@ -74797,7 +74797,7 @@
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": "<@!95650095034273792>",
             "sprite_files": [
               "Double-Offsets.png",
@@ -93209,9 +93209,11 @@
           "Rotate-Anim.png",
           "Hop-Offsets.png"
         ],
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/806983829885026324/sprite-0487-0001.zip",
         "sprite_modified": "2021-01-03 21:07:18.500052",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "806984612827365446": true
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -121679,7 +121681,7 @@
       },
       "0001": {
         "name": "Female",
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": "<@!702275233125630042>",
         "portrait_files": [
           "Sigh.png",
