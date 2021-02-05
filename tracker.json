@@ -31928,9 +31928,7 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797913206579789834/portrait-0173-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.041460",
-            "portrait_pending": {
-              "797917070158463046": true
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -48481,8 +48479,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/807021501257351208/portrait-0251.png",
-    "portrait_modified": "2021-02-04 22:55:19.403120",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/807057466579615755/portrait-0251.png",
+    "portrait_modified": "2021-02-05 01:18:14.250613",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
