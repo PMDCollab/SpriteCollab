@@ -36324,7 +36324,7 @@
       },
       "0001": {
         "name": "Altcolor",
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": "<@!702275233125630042>",
         "portrait_files": [
           "Sigh.png",
@@ -58481,6 +58481,67 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "name": "Alternate",
+        "portrait_complete": 0,
+        "portrait_credit": "<@!150809243816165377>",
+        "portrait_files": [
+          "Sigh.png",
+          "Joyous.png",
+          "Sad.png",
+          "Shouting.png",
+          "Determined.png",
+          "Pain.png",
+          "Special3.png",
+          "Special0.png",
+          "Crying.png",
+          "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Special1.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Worried.png",
+          "Stunned.png",
+          "Happy.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/807692764287467541/portrait-0304-0001.png",
+        "portrait_modified": "2021-02-06 19:22:41.094964",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": [],
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": [],
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": [],
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -60003,7 +60064,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/807675463358611517/sprite-0312-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.804027",
             "sprite_pending": {},
             "sprite_recolor_link": "",
