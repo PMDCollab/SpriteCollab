@@ -21613,7 +21613,7 @@
       "Normal.png",
       "Happy.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808399568123199533/portrait-0115.png",
     "portrait_modified": "2020-10-13 03:58:46.033460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -23469,12 +23469,27 @@
   "0128": {
     "name": "Tauros",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808173233692999737/portrait-0128.png",
-    "portrait_modified": "2020-10-13 03:58:46.033460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808429012275822622/portrait-0128.png",
+    "portrait_modified": "2021-02-08 20:08:16.296327",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -23543,7 +23558,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": [
               "Normal.png"
@@ -54993,7 +55008,7 @@
       "Jump-Shadow.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808412116134002752/sprite-0282.zip",
     "sprite_modified": "2021-01-03 21:07:16.616025",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -58532,7 +58547,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808392975750922290/sprite-0303-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.740026",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -111250,7 +111265,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": [],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808409288144977937/sprite-0714.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
