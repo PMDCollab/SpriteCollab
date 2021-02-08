@@ -4913,17 +4913,27 @@
   "0024": {
     "name": "Arbok",
     "portrait_complete": 1,
-    "portrait_credit": "<@!128989288665710592>",
+    "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
       "Shouting.png",
+      "Determined.png",
       "Pain.png",
+      "Crying.png",
       "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
       "Surprised.png",
       "Angry.png",
+      "Worried.png",
+      "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801206631605862430/portrait-0024.png",
-    "portrait_modified": "2021-01-19 21:49:06.547466",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808228058330693642/portrait-0024.png",
+    "portrait_modified": "2021-02-08 06:49:45.143968",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -23463,7 +23473,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808173233692999737/portrait-0128.png",
     "portrait_modified": "2020-10-13 03:58:46.033460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -51147,7 +51157,7 @@
   },
   "0260": {
     "name": "Swampert",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -105587,7 +105597,7 @@
   },
   "0637": {
     "name": "Volcarona",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "MUCRUSH",
     "portrait_files": [
       "Normal.png"
