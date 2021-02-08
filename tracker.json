@@ -54911,7 +54911,7 @@
   },
   "0282": {
     "name": "Gardevoir",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -58195,7 +58195,7 @@
   "0302": {
     "name": "Sableye",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!128989288665710592>",
     "portrait_files": [
       "Sigh.png",
       "Pain.png",
@@ -58203,10 +58203,11 @@
       "Teary-Eyed.png",
       "Surprised.png",
       "Angry.png",
-      "Stunned.png"
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787288523647483944/portrait-0302.png",
-    "portrait_modified": "2020-10-13 03:58:46.069460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808387659604951130/portrait-0302.png",
+    "portrait_modified": "2021-02-08 17:23:57.035299",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -58272,7 +58273,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808378046683021413/sprite-0302.zip",
     "sprite_modified": "2021-01-03 21:07:16.736026",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -58299,7 +58300,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!162389028061052928>",
             "portrait_files": [
               "Sigh.png",
@@ -68489,7 +68490,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808364430357299200/portrait-0362-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.081461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -68535,7 +68536,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808364475832598558/sprite-0362-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:17.184033",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -79435,7 +79436,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808365722026770452/sprite-0416-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:17.692040",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -91075,7 +91076,7 @@
   },
   "0475": {
     "name": "Gallade",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -91176,7 +91177,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808357717047377960/portrait-0475-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.117461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -91225,7 +91226,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808357604983832586/sprite-0475-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:18.344050",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -92037,7 +92038,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808359512020353064/sprite-0479-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:18.380050",
             "sprite_pending": {},
             "sprite_recolor_link": "",
