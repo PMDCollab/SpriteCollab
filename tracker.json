@@ -30072,7 +30072,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808549863012040774/sprite-0162.zip",
     "sprite_modified": "2021-01-03 21:07:15.576010",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -77646,12 +77646,27 @@
   "0409": {
     "name": "Rampardos",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/768903928405426206/portrait-0409.png",
-    "portrait_modified": "2020-10-13 03:58:46.093461",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808571752996536360/portrait-0409.png",
+    "portrait_modified": "2021-02-09 05:35:28.247021",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -77723,7 +77738,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": [
               "Normal.png"
@@ -107642,7 +107657,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808527131986231296/portrait-0661.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
