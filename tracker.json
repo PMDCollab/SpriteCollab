@@ -51345,7 +51345,7 @@
   "0261": {
     "name": "Poochyena",
     "portrait_complete": 2,
-    "portrait_credit": "<@!294668186219970562>",
+    "portrait_credit": "<@!177074597315870720>",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
@@ -51353,10 +51353,12 @@
       "Shouting.png",
       "Determined.png",
       "Pain.png",
+      "Special3.png",
       "Crying.png",
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
+      "Special2.png",
       "Inspired.png",
       "Surprised.png",
       "Angry.png",
@@ -51364,10 +51366,10 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/769954976003784704/portrait-0261.png",
-    "portrait_modified": "2020-10-25 16:06:11.184915",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809378953864675328/portrait-0261.png",
+    "portrait_modified": "2021-02-11 11:03:00.012700",
     "portrait_pending": {},
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/769955173299650580/portrait_recolor-0261-0000-0001.png",
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
     "sprite_credit": "CHUNSOFT",
@@ -64137,7 +64139,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809377287359168582/portrait-0337-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.077461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -64183,7 +64185,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/809377268568293436/sprite-0337-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:17.012030",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -64279,7 +64281,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809377246275436574/portrait-0338-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.077461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -64325,7 +64327,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/809377224427175976/sprite-0338-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:17.016031",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -67967,7 +67969,7 @@
   },
   "0359": {
     "name": "Absol",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
