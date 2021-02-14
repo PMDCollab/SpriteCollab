@@ -14214,7 +14214,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810298021740544070/portrait-0072.png",
     "portrait_modified": "2020-10-13 03:58:46.025460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -51568,7 +51568,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/769997658009632768/portrait-0261-0000-0001.png",
             "portrait_modified": "2020-10-25 16:21:55.717357",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "810294236527460353": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -64590,13 +64592,29 @@
   "0340": {
     "name": "Whiscash",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
       "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Special1.png",
+      "Special2.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809688227988504576/portrait-0340.png",
-    "portrait_modified": "2020-10-13 03:58:46.077461",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810301989698535454/portrait-0340.png",
+    "portrait_modified": "2021-02-14 00:10:48.881831",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -64668,7 +64686,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!162389028061052928>",
             "portrait_files": [
               "Normal.png",
@@ -65434,7 +65452,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810288359963492382/portrait-0345-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.077461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
