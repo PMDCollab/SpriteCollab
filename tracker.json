@@ -116725,7 +116725,7 @@
   },
   "0788": {
     "name": "Tapu_Fini",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!192118698859954178>",
     "portrait_files": [
       "Normal.png"
@@ -116766,10 +116766,12 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_credit": "<@!192118698859954178>",
+            "portrait_files": [
+              "Normal.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810369228107808828/portrait-0788-0000-0001.png",
+            "portrait_modified": "2021-02-14 04:37:59.808346",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
