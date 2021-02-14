@@ -48728,7 +48728,9 @@
         "sprite_files": [],
         "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800776744520515584/sprite-0249-0001.zip",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "810303546938884126": true
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -51547,7 +51549,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!294668186219970562>",
+            "portrait_credit": "<@!177074597315870720>",
             "portrait_files": [
               "Sigh.png",
               "Joyous.png",
@@ -51555,10 +51557,12 @@
               "Shouting.png",
               "Determined.png",
               "Pain.png",
+              "Special3.png",
               "Crying.png",
               "Normal.png",
               "Teary-Eyed.png",
               "Dizzy.png",
+              "Special2.png",
               "Inspired.png",
               "Surprised.png",
               "Angry.png",
@@ -51566,11 +51570,9 @@
               "Stunned.png",
               "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/769997658009632768/portrait-0261-0000-0001.png",
-            "portrait_modified": "2020-10-25 16:21:55.717357",
-            "portrait_pending": {
-              "810294236527460353": true
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810310950241566770/portrait-0261-0000-0001.png",
+            "portrait_modified": "2021-02-14 00:46:25.285483",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
