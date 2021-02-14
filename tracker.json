@@ -24624,7 +24624,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810365759996952627/sprite-0132-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:15.384007",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -40570,7 +40570,7 @@
                   "Normal.png",
                   "Happy.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810367868268183593/portrait-0202-0000-0001-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.053460",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -40622,7 +40622,7 @@
                   "Rotate-Anim.png",
                   "Hop-Offsets.png"
                 ],
-                "sprite_link": "",
+                "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810367925860433940/sprite-0202-0000-0001-0002.zip",
                 "sprite_modified": "2021-01-03 21:07:15.900014",
                 "sprite_pending": {},
                 "sprite_recolor_link": "",
@@ -48728,9 +48728,7 @@
         "sprite_files": [],
         "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800776744520515584/sprite-0249-0001.zip",
         "sprite_modified": "",
-        "sprite_pending": {
-          "810303546938884126": true
-        },
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -68380,7 +68378,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810367447152459776/portrait-0360-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.081461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -68429,7 +68427,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810367767748018186/sprite-0360-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:17.172033",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -116728,10 +116726,12 @@
   "0788": {
     "name": "Tapu_Fini",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787820866426634240/portrait-0788.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!192118698859954178>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810368019820970004/portrait-0788.png",
+    "portrait_modified": "2021-02-14 04:33:11.725462",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
