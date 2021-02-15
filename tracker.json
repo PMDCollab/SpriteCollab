@@ -15514,7 +15514,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810901816820367400/portrait-0078-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.025460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -15560,7 +15560,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810901757035151380/sprite-0078-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:14.944000",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -72250,12 +72250,28 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!117780585635643396>",
+            "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Special3.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770159367889616946/portrait-0384-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.085461",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810911212820889640/portrait-0384-0000-0001.png",
+            "portrait_modified": "2021-02-15 16:31:39.000510",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
