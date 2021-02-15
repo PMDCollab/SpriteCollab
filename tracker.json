@@ -45303,7 +45303,7 @@
   },
   "0230": {
     "name": "Kingdra",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -45397,12 +45397,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!234720295292895232>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810743742628888596/portrait-0230-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.057460",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810851398954516510/portrait-0230-0000-0001.png",
+            "portrait_modified": "2021-02-15 12:33:58.201974",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -47502,7 +47517,7 @@
   },
   "0242": {
     "name": "Blissey",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -47603,7 +47618,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810820464799645706/portrait-0242-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.057460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -47652,7 +47667,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810820485280825374/sprite-0242-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.216019",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -60544,7 +60559,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810818835141623808/portrait-0313-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.073461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -60593,7 +60608,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810818807030611978/sprite-0313-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.812027",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -60695,7 +60710,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810818884927750214/portrait-0314-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.073461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -60747,7 +60762,7 @@
               "Rotate-Anim.png",
               "Hop-Offsets.png"
             ],
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810818862202486814/sprite-0314-0000-0001.zip",
             "sprite_modified": "2021-01-03 21:07:16.824028",
             "sprite_pending": {},
             "sprite_recolor_link": "",
