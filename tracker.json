@@ -65847,20 +65847,27 @@
   "0348": {
     "name": "Armaldo",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
       "Sigh.png",
+      "Joyous.png",
       "Sad.png",
       "Shouting.png",
+      "Determined.png",
       "Pain.png",
       "Crying.png",
       "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
       "Surprised.png",
       "Angry.png",
-      "Worried.png"
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/775384950299164682/portrait-0348.png",
-    "portrait_modified": "2020-10-13 03:58:46.077461",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/811571337969008680/portrait-0348.png",
+    "portrait_modified": "2021-02-17 12:14:45.140317",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -65950,7 +65957,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": [
               "Sigh.png",
@@ -118424,7 +118431,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787774655427248138/portrait-0807.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "811538015733284864": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -120142,7 +120151,7 @@
   },
   "0834": {
     "name": "Drednaw",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!150809243816165377>",
     "portrait_files": [
       "Normal.png"
