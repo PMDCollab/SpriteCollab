@@ -31678,7 +31678,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793908627165413416/portrait-0170.png",
     "portrait_modified": "2020-12-30 18:29:26.703548",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "811763644844212289": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -41775,8 +41777,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/796942881355989015/portrait-0209.png",
-    "portrait_modified": "2021-01-08 03:26:29.205538",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/811763937087324181/portrait-0209.png",
+    "portrait_modified": "2021-02-18 01:00:04.280536",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -110627,7 +110629,7 @@
   },
   "0695": {
     "name": "Heliolisk",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
       "Sigh.png",
