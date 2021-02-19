@@ -92848,13 +92848,13 @@
       "0002": {
         "name": "Wash",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/799385561101107260/portrait-0479-0002.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "812174935929126952": true
-        },
+        "portrait_credit": "<@!225813236589527041>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812175506015125544/portrait-0479-0002.png",
+        "portrait_modified": "2021-02-19 04:15:30.032988",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
