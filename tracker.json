@@ -92804,7 +92804,7 @@
       },
       "0001": {
         "name": "Heat",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!225813236589527041>",
         "portrait_files": [
           "Normal.png"
@@ -92847,7 +92847,7 @@
       },
       "0002": {
         "name": "Wash",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!225813236589527041>",
         "portrait_files": [
           "Normal.png"
@@ -92890,7 +92890,7 @@
       },
       "0003": {
         "name": "Frost",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!225813236589527041>",
         "portrait_files": [
           "Normal.png"
@@ -92933,7 +92933,7 @@
       },
       "0004": {
         "name": "Fan",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!225813236589527041>",
         "portrait_files": [
           "Normal.png"
@@ -92976,7 +92976,7 @@
       },
       "0005": {
         "name": "Mow",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!225813236589527041>",
         "portrait_files": [
           "Normal.png"
@@ -108602,7 +108602,7 @@
   },
   "0661": {
     "name": "Fletchling",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!225813236589527041>",
     "portrait_files": [
       "Normal.png"
@@ -113248,10 +113248,12 @@
   "0728": {
     "name": "Popplio",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/777962479846162512/portrait-0728.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!225813236589527041>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812176646525550592/portrait-0728.png",
+    "portrait_modified": "2021-02-19 04:20:01.895151",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -114601,7 +114603,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789380464141139998/portrait-0745.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "812175827198410762": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
