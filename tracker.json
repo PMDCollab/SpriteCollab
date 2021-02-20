@@ -69299,7 +69299,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
               "Sigh.png",
@@ -95103,7 +95103,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
               "Sigh.png",
@@ -114710,10 +114710,27 @@
   "0744": {
     "name": "Rockruff",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787101536236863498/portrait-0744.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!365627932888268800>",
+    "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812662111125766214/portrait-0744.png",
+    "portrait_modified": "2021-02-20 12:29:05.607971",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -121460,7 +121477,7 @@
   },
   "0842": {
     "name": "Appletun",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -123748,7 +123765,9 @@
         "sprite_files": [],
         "sprite_link": "",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "812570571317051422": true
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
