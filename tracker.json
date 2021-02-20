@@ -69306,7 +69306,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812504520360984616/portrait-0364-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.081461",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "812506075566964846": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -95099,7 +95101,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774009066967269426/portrait-0489-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.117461",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "812511529203138561": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -101833,7 +101837,7 @@
   },
   "0568": {
     "name": "Trubbish",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!810524028871114762>",
     "portrait_files": [
       "Sigh.png",
