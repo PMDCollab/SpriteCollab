@@ -69300,15 +69300,28 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!95638225439166464>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812504520360984616/portrait-0364-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.081461",
-            "portrait_pending": {
-              "812506075566964846": true
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812562361775816744/portrait-0364-0000-0001.png",
+            "portrait_modified": "2021-02-20 05:52:43.617331",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
