@@ -29892,16 +29892,44 @@
   "0159": {
     "name": "Croconaw",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Angry^.png",
+      "Shouting^.png",
+      "Sigh^.png",
+      "Determined.png",
+      "Determined^.png",
+      "Inspired^.png",
+      "Crying^.png",
+      "Pain.png",
+      "Happy^.png",
+      "Teary-Eyed^.png",
+      "Sad^.png",
+      "Pain^.png",
+      "Crying.png",
+      "Dizzy^.png",
+      "Worried^.png",
+      "Stunned^.png",
       "Normal.png",
-      "Normal^.png"
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Surprised^.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Joyous^.png",
+      "Worried.png",
+      "Normal^.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788842386855559238/portrait-0159.png",
-    "portrait_modified": "2020-10-13 03:58:46.041460",
-    "portrait_pending": {
-      "812819143437975603": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812927139786784768/portrait-0159.png",
+    "portrait_modified": "2021-02-21 06:02:13.443174",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -29972,7 +30000,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": [
               "Normal.png",
@@ -120585,7 +120613,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/803096228736270398/portrait-0827.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "812904754911903744": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
