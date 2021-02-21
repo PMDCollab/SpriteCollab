@@ -120645,7 +120645,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812873334014476318/portrait-0828.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -122460,13 +122460,13 @@
   },
   "0855": {
     "name": "Polteageist",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!604644469685354526>",
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812872255184437278/portrait-0855.png",
-    "portrait_modified": "2021-02-21 02:24:07.977137",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812884632571084820/portrait-0855.png",
+    "portrait_modified": "2021-02-21 03:13:18.915168",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -122505,7 +122505,9 @@
             "portrait_files": [],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812865907264192533/portrait-0855-0000-0001.png",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "812876321977794611": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
