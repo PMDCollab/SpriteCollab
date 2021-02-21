@@ -16345,7 +16345,7 @@
   },
   "0083": {
     "name": "Farfetch_d",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
       "Sigh.png",
@@ -16459,7 +16459,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812834996137230376/portrait-0083-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.025460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "812835963293663262": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -51629,8 +51631,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/808169491048693760/portrait-0260.png",
-    "portrait_modified": "2021-02-08 02:57:01.583076",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812840410682621972/portrait-0260.png",
+    "portrait_modified": "2021-02-21 00:17:35.622403",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -51709,7 +51711,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801333727224922139/portrait-0260-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.065460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "812835927596466196": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
