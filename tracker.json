@@ -16538,6 +16538,49 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "name": "Galar",
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_files": [],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812948824917540884/portrait-0083-0001.png",
+        "portrait_modified": "",
+        "portrait_pending": {
+          "812949124605149236": true
+        },
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": [],
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "name": "Shiny",
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": [],
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": [],
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -29891,7 +29934,7 @@
   },
   "0159": {
     "name": "Croconaw",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!322382592202637322>",
     "portrait_files": [
       "Sigh.png",
@@ -120608,7 +120651,7 @@
   },
   "0827": {
     "name": "Nickit",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!604644469685354526>",
     "portrait_files": [
       "Normal.png"
@@ -120649,10 +120692,12 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_credit": "<@!604644469685354526>",
+            "portrait_files": [
+              "Normal.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812950553226117150/portrait-0827-0000-0001.png",
+            "portrait_modified": "2021-02-21 07:35:15.687388",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -122530,7 +122575,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!604644469685354526>",
             "portrait_files": [
               "Normal.png"
