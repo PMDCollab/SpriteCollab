@@ -16541,7 +16541,7 @@
       },
       "0001": {
         "name": "Galar",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!217899432652308480>",
         "portrait_files": [
           "Normal.png",
@@ -25830,7 +25830,7 @@
   },
   "0138": {
     "name": "Omanyte",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!173505019268694016>",
     "portrait_files": [
       "Sigh.png",
@@ -120734,10 +120734,12 @@
   "0828": {
     "name": "Thievul",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812873334014476318/portrait-0828.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!604644469685354526>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813202187005198346/portrait-0828.png",
+    "portrait_modified": "2021-02-22 00:15:09.852512",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
