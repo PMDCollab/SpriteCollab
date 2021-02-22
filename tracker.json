@@ -12073,7 +12073,7 @@
   "0058": {
     "name": "Growlithe",
     "portrait_complete": 2,
-    "portrait_credit": "<@!513590747694497792>",
+    "portrait_credit": "<@!120852359676035072>",
     "portrait_files": [
       "Sigh.png",
       "Joyous.png",
@@ -12092,8 +12092,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/770728929152991242/portrait-0058.png",
-    "portrait_modified": "2020-10-27 19:21:36.059595",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813336610367209532/portrait-0058.png",
+    "portrait_modified": "2021-02-22 09:09:18.844636",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -116950,7 +116950,7 @@
   },
   "0772": {
     "name": "Type_Null",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!327927398941196289>",
     "portrait_files": [
       "Normal.png"
