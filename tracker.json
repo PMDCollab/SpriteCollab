@@ -58096,7 +58096,7 @@
   },
   "0298": {
     "name": "Azurill",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!225813236589527041>",
     "portrait_files": [
       "Sigh.png",
@@ -58119,9 +58119,7 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813501884308389980/portrait-0298.png",
     "portrait_modified": "2021-02-22 20:06:03.212778",
-    "portrait_pending": {
-      "813503044682907658": true
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -117221,7 +117219,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813267789325533185/portrait-0772.png",
     "portrait_modified": "2021-02-22 04:35:50.628400",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "813514102608756796": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -117279,10 +117279,12 @@
   "0773": {
     "name": "Silvally",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787439308612567040/portrait-0773.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!327927398941196289>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813526501022498836/portrait-0773.png",
+    "portrait_modified": "2021-02-22 21:43:52.251170",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
