@@ -116951,10 +116951,12 @@
   "0772": {
     "name": "Type_Null",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813208515534913556/portrait-0772.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!327927398941196289>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813267789325533185/portrait-0772.png",
+    "portrait_modified": "2021-02-22 04:35:50.628400",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
