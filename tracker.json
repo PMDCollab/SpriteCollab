@@ -30049,8 +30049,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/812927139786784768/portrait-0159.png",
-    "portrait_modified": "2021-02-21 06:02:13.443174",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813411805287809064/portrait-0159.png",
+    "portrait_modified": "2021-02-22 14:08:06.694165",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -61357,7 +61357,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!173896352554549248>",
             "portrait_files": [
               "Normal.png",
@@ -124785,7 +124785,7 @@
   },
   "0887": {
     "name": "Dragapult",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "EZERART",
     "portrait_files": [
       "Normal.png"
