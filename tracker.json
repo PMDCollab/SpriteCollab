@@ -75396,7 +75396,7 @@
   },
   "0395": {
     "name": "Empoleon",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!327927398941196289>",
     "portrait_files": [
       "Sigh.png",
@@ -75494,7 +75494,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813209027432939520/portrait-0395-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.089461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -116938,7 +116938,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813208515534913556/portrait-0772.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -120748,7 +120748,7 @@
   },
   "0828": {
     "name": "Thievul",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!604644469685354526>",
     "portrait_files": [
       "Normal.png"
@@ -120788,7 +120788,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!604644469685354526>",
             "portrait_files": [
               "Normal.png"
@@ -123982,13 +123982,46 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
-        "sprite_credit": "",
-        "sprite_files": [],
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {
-          "812570571317051422": true
-        },
+        "sprite_credit": "<@!702275233125630042>",
+        "sprite_files": [
+          "Double-Offsets.png",
+          "Sleep-Offsets.png",
+          "Hurt-Shadow.png",
+          "Sleep-Anim.png",
+          "Walk-Anim.png",
+          "Walk-Offsets.png",
+          "Dance-Offsets.png",
+          "Rotate-Shadow.png",
+          "AnimData.xml",
+          "Attack-Anim.png",
+          "Hurt-Anim.png",
+          "Double-Shadow.png",
+          "Attack-Offsets.png",
+          "Sleep-Shadow.png",
+          "Idle-Anim.png",
+          "Idle-Shadow.png",
+          "Double-Anim.png",
+          "Swing-Anim.png",
+          "Charge-Offsets.png",
+          "Swing-Offsets.png",
+          "Charge-Shadow.png",
+          "Rotate-Offsets.png",
+          "Dance-Shadow.png",
+          "Swing-Shadow.png",
+          "Dance-Anim.png",
+          "Hop-Anim.png",
+          "Idle-Offsets.png",
+          "Hurt-Offsets.png",
+          "Attack-Shadow.png",
+          "Walk-Shadow.png",
+          "Charge-Anim.png",
+          "Hop-Shadow.png",
+          "Rotate-Anim.png",
+          "Hop-Offsets.png"
+        ],
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/813210333732798524/sprite-0876-0001.zip",
+        "sprite_modified": "2021-02-22 00:47:32.104729",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
