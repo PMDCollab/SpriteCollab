@@ -16585,7 +16585,7 @@
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": [],
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/813563581916381254/sprite-0083-0001.zip",
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
@@ -50204,7 +50204,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780885940112588800/portrait-0253-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.061460",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "813540822762258432": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -72073,7 +72075,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/813558896186097664/sprite-0379.zip",
     "sprite_modified": "2021-01-03 21:07:17.324035",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -85896,12 +85898,28 @@
               "0002": {
                 "name": "Female",
                 "portrait_complete": 1,
-                "portrait_credit": "CHUNSOFT",
+                "portrait_credit": "<@!225813236589527041>",
                 "portrait_files": [
-                  "Normal.png"
+                  "Sigh.png",
+                  "Joyous.png",
+                  "Sad.png",
+                  "Shouting.png",
+                  "Determined.png",
+                  "Pain.png",
+                  "Crying.png",
+                  "Normal.png",
+                  "Teary-Eyed.png",
+                  "Dizzy.png",
+                  "Special2.png",
+                  "Inspired.png",
+                  "Surprised.png",
+                  "Angry.png",
+                  "Worried.png",
+                  "Stunned.png",
+                  "Happy.png"
                 ],
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788417527054991370/portrait-0443-0000-0000-0002.png",
-                "portrait_modified": "2020-10-13 03:58:46.097461",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813575068969992282/portrait-0443-0000-0000-0002.png",
+                "portrait_modified": "2021-02-23 00:56:51.813594",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
@@ -86016,12 +86034,12 @@
             "subgroups": {
               "0002": {
                 "name": "Female",
-                "portrait_complete": 1,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!95650095034273792>",
                 "portrait_files": [
                   "Normal.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813545070417412136/portrait-0443-0000-0001-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.097461",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -117276,7 +117294,7 @@
   },
   "0773": {
     "name": "Silvally",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!327927398941196289>",
     "portrait_files": [
       "Normal.png"
