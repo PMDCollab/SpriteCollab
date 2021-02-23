@@ -119057,7 +119057,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787125985408712766/portrait-0800.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "813843948136562689": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -124708,13 +124710,13 @@
   "0882": {
     "name": "Dracovish",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/804899118110867461/portrait-0882.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "813839125345599498": true
-    },
+    "portrait_credit": "<@!327927398941196289>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813846935911268413/portrait-0882.png",
+    "portrait_modified": "2021-02-23 18:57:09.957663",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
