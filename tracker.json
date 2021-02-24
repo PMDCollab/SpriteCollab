@@ -91619,7 +91619,7 @@
   },
   "0470": {
     "name": "Leafeon",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -91722,7 +91722,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814030463445631006/portrait-0470-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.113461",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "814038143442485258": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -122261,15 +122263,29 @@
     "portrait_complete": 1,
     "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
       "Determined.png",
+      "Pain.png",
+      "Special3.png",
+      "Crying.png",
       "Normal.png",
-      "Special1.png"
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Special1.png",
+      "Special2.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813713283894870046/portrait-0845.png",
-    "portrait_modified": "2021-02-23 10:06:04.831519",
-    "portrait_pending": {
-      "814035229105717278": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814041415578288158/portrait-0845.png",
+    "portrait_modified": "2021-02-24 07:49:57.544773",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -122305,7 +122321,7 @@
             "portrait_complete": 0,
             "portrait_credit": "",
             "portrait_files": [],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814037401206652938/portrait-0845-0000-0001.png",
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
