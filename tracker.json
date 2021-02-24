@@ -88292,7 +88292,7 @@
       "Surprised.png",
       "Angry.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814134016533463070/portrait-0452.png",
     "portrait_modified": "2020-10-13 03:58:46.101461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -106165,7 +106165,7 @@
   },
   "0619": {
     "name": "Mienfoo",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
       "Sigh.png",
@@ -118542,7 +118542,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806626447774318612/portrait-0791.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "814186238532911145": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -118600,10 +118602,12 @@
   "0792": {
     "name": "Lunala",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/800405135154086018/portrait-0792.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!327927398941196289>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814191113459728394/portrait-0792.png",
+    "portrait_modified": "2021-02-24 17:44:48.128362",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
