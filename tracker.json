@@ -106166,12 +106166,27 @@
   "0619": {
     "name": "Mienfoo",
     "portrait_complete": 1,
-    "portrait_credit": "MUCRUSH",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/774670647330209842/portrait-0619.png",
-    "portrait_modified": "2020-11-07 16:24:34.793107",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814091081419456512/portrait-0619.png",
+    "portrait_modified": "2021-02-24 11:07:18.678334",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -122331,7 +122346,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!217899432652308480>",
             "portrait_files": [
               "Sigh.png",
