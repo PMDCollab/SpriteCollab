@@ -5765,8 +5765,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788212131837116416/portrait-0026.png",
-    "portrait_modified": "2020-12-15 01:13:36.382288",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814670693065162752/portrait-0026.png",
+    "portrait_modified": "2021-02-26 01:30:28.860377",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -28915,7 +28915,7 @@
                 "portrait_files": [
                   "Normal.png"
                 ],
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814611460948099112/portrait-0154-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 03:58:46.037460",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -91321,7 +91321,7 @@
   },
   "0468": {
     "name": "Togekiss",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!436940337865293834>",
     "portrait_files": [
       "Sigh.png",
