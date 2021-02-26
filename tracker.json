@@ -5923,7 +5923,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!322382592202637322>",
             "portrait_files": [
               "Sigh.png",
@@ -61533,7 +61533,7 @@
   },
   "0316": {
     "name": "Gulpin",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -71306,8 +71306,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801499995969945610/portrait-0374.png",
-    "portrait_modified": "2021-01-20 17:14:50.036696",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814823368384577556/portrait-0374.png",
+    "portrait_modified": "2021-02-26 11:37:09.471671",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -117736,7 +117736,7 @@
             "portrait_complete": 0,
             "portrait_credit": "",
             "portrait_files": [],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814720264519680030/portrait-0777-0000-0001.png",
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
