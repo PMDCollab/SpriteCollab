@@ -12999,15 +12999,14 @@
   "0064": {
     "name": "Kadabra",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!327927398941196289>",
     "portrait_files": [
-      "Normal.png"
+      "Normal.png",
+      "Surprised.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/794374773685616650/portrait-0064.png",
-    "portrait_modified": "2020-10-13 03:58:46.025460",
-    "portrait_pending": {
-      "814682349584908328": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814706935156703232/portrait-0064.png",
+    "portrait_modified": "2021-02-26 03:54:29.723575",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -13078,7 +13077,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": [
               "Normal.png"
@@ -61636,7 +61635,9 @@
             ],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814688193387429918/portrait-0316-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.073461",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "814694763688362034": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
