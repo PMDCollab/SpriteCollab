@@ -3451,7 +3451,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/789381466584383508/portrait-0015.png",
     "portrait_modified": "2020-10-13 03:58:46.013460",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "815070785902608394": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -64223,7 +64225,9 @@
     ],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787142188517425192/portrait-0333.png",
     "portrait_modified": "2020-10-13 03:58:46.077461",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "815087809794277386": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 1,
@@ -117784,10 +117788,29 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814720264519680030/portrait-0777-0000-0001.png",
-            "portrait_modified": "",
+            "portrait_credit": "<@!356635814668664832>",
+            "portrait_files": [
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Special3.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Special2.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/815139607535943680/portrait-0777-0000-0001.png",
+            "portrait_modified": "2021-02-27 08:33:46.892414",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -122698,7 +122721,9 @@
     "portrait_files": [],
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788857685776924692/portrait-0849.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "815102996920139826": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
@@ -122753,7 +122778,7 @@
       },
       "0001": {
         "name": "Lowkey",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!217899432652308480>",
         "portrait_files": [
           "Normal.png"
