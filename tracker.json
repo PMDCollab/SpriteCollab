@@ -3444,7 +3444,7 @@
   },
   "0015": {
     "name": "Beedrill",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!225813236589527041>",
     "portrait_files": [
       "Sigh.png",
@@ -31336,12 +31336,27 @@
   "0166": {
     "name": "Ledian",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/769302204032614400/portrait-0166.png",
-    "portrait_modified": "2020-10-13 03:58:46.041460",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/815232167436353557/portrait-0166.png",
+    "portrait_modified": "2021-02-27 14:41:34.883841",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -31500,7 +31515,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": [
               "Normal.png"
@@ -64231,7 +64246,7 @@
   },
   "0333": {
     "name": "Swablu",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -117813,7 +117828,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
               "Sigh.png",
@@ -122742,7 +122757,7 @@
   },
   "0849": {
     "name": "Toxtricity",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
       "Normal.png"
