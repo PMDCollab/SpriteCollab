@@ -33722,7 +33722,7 @@
   },
   "0180": {
     "name": "Flaaffy",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!436940337865293834>",
     "portrait_files": [
       "Sigh.png",
@@ -71337,8 +71337,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/814823368384577556/portrait-0374.png",
-    "portrait_modified": "2021-02-26 11:37:09.471671",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/815016398228291633/portrait-0374.png",
+    "portrait_modified": "2021-02-27 00:24:11.471194",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
