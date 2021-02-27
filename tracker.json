@@ -122743,13 +122743,13 @@
   "0849": {
     "name": "Toxtricity",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788857685776924692/portrait-0849.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "815102996920139826": true
-    },
+    "portrait_credit": "<@!217899432652308480>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/815139730881642526/portrait-0849.png",
+    "portrait_modified": "2021-02-27 08:34:16.273204",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
