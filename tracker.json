@@ -62644,7 +62644,7 @@
   },
   "0322": {
     "name": "Numel",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -62738,12 +62738,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!162389028061052928>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/815800133513117702/portrait-0322-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.073461",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816120170786717736/portrait-0322-0000-0001.png",
+            "portrait_modified": "2021-03-02 01:30:11.371995",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
