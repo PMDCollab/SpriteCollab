@@ -910,12 +910,27 @@
   "0003": {
     "name": "Venusaur",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!276175146304405514>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/773303587181690930/portrait-0003.png",
-    "portrait_modified": "2020-10-13 03:58:46.009459",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816415672380817448/portrait-0003.png",
+    "portrait_modified": "2021-03-02 21:04:24.386794",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -1066,7 +1081,7 @@
           },
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": [
               "Normal.png"
@@ -49084,7 +49099,7 @@
               "Normal.png",
               "Surprised.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816413227587600444/portrait-0248-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.061460",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -53412,7 +53427,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816398544189653062/portrait-0268.png",
     "portrait_modified": "2020-10-13 03:58:46.065460",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -62737,7 +62752,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
               "Sigh.png",
@@ -82237,7 +82252,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816164816829808680/portrait-0422.png",
     "portrait_modified": "2020-10-13 03:58:46.093461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
