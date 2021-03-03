@@ -909,7 +909,7 @@
   },
   "0003": {
     "name": "Venusaur",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!276175146304405514>",
     "portrait_files": [
       "Sigh.png",
@@ -73367,6 +73367,7 @@
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
+      "Special1.png",
       "Inspired.png",
       "Surprised.png",
       "Angry.png",
@@ -73374,8 +73375,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810900981637709875/portrait-0384.png",
-    "portrait_modified": "2021-02-15 15:50:59.702959",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816653894469025832/portrait-0384.png",
+    "portrait_modified": "2021-03-03 12:51:00.987501",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -73450,7 +73451,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": [
               "Sigh.png",
