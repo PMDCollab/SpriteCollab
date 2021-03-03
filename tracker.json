@@ -73465,6 +73465,7 @@
               "Normal.png",
               "Teary-Eyed.png",
               "Dizzy.png",
+              "Special1.png",
               "Inspired.png",
               "Surprised.png",
               "Angry.png",
@@ -73472,8 +73473,8 @@
               "Stunned.png",
               "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/810911212820889640/portrait-0384-0000-0001.png",
-            "portrait_modified": "2021-02-15 16:31:39.000510",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816654205820469268/portrait-0384-0000-0001.png",
+            "portrait_modified": "2021-03-03 12:52:15.265882",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
