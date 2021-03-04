@@ -61342,7 +61342,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816755700046364742/portrait-0314.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -62380,7 +62380,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816756345343574056/portrait-0320.png",
     "portrait_modified": "2020-10-13 03:58:46.073461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -65872,7 +65872,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816753615712550922/portrait-0342.png",
     "portrait_modified": "2020-10-13 03:58:46.077461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -70374,7 +70374,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816754644340310026/portrait-0367.png",
     "portrait_modified": "2020-10-13 03:58:46.081461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -78902,7 +78902,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/816917764752277534/sprite-0407.zip",
     "sprite_modified": "2021-01-03 21:07:17.612039",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -87956,7 +87956,7 @@
     "portrait_files": [
       "Normal.png"
     ],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816756111843524608/portrait-0449.png",
     "portrait_modified": "2020-10-13 03:58:46.101461",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -114203,10 +114203,28 @@
   "0722": {
     "name": "Rowlet",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787013255070744596/portrait-0722.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!356635814668664832>",
+    "portrait_files": [
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special0.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/816946378995138570/portrait-0722.png",
+    "portrait_modified": "2021-03-04 08:13:14.702605",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
