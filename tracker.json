@@ -3103,15 +3103,28 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!200318546750865418>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817259429082562580/portrait-0012-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.013460",
-            "portrait_pending": {
-              "817270485431353345": true
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817289167124955156/portrait-0012-0000-0001.png",
+            "portrait_modified": "2021-03-05 06:55:21.754084",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 1,
@@ -107867,7 +107880,7 @@
   },
   "0638": {
     "name": "Cobalion",
-    "portrait_complete": 0,
+    "portrait_complete": 2,
     "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
       "Sigh.png",
@@ -107927,7 +107940,9 @@
             "portrait_files": [],
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817267411820216330/portrait-0638-0000-0001.png",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "817288462985330738": true
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
