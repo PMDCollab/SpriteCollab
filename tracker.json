@@ -3102,7 +3102,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
               "Sigh.png",
@@ -69878,7 +69878,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817504122684964895/portrait-0363-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.081461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -107935,7 +107935,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!217899432652308480>",
             "portrait_files": [
               "Sigh.png",
@@ -108096,10 +108096,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_credit": "<@!217899432652308480>",
+            "portrait_files": [
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817525522149670923/portrait-0640-0000-0001.png",
+            "portrait_modified": "2021-03-05 22:34:33.194956",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -120730,7 +120747,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": [],
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817520279060348959/portrait-0812.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
