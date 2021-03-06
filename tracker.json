@@ -68185,18 +68185,29 @@
       "0001": {
         "name": "Purple",
         "portrait_complete": 0,
-        "portrait_credit": "<@!162389028061052928>",
+        "portrait_credit": "<@!217899432652308480>",
         "portrait_files": [
+          "Sigh.png",
+          "Joyous.png",
           "Sad.png",
+          "Shouting.png",
+          "Determined.png",
+          "Pain.png",
+          "Crying.png",
           "Normal.png",
-          "Angry.png"
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Worried.png",
+          "Stunned.png",
+          "Happy.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771225482003611688/portrait-0352-0001.png",
-        "portrait_modified": "2020-10-29 04:14:43.424072",
-        "portrait_pending": {
-          "817619087382544384": true
-        },
-        "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/771226910419189761/portrait_recolor-0352-0001-0001.png",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817630098370723850/portrait-0352-0001.png",
+        "portrait_modified": "2021-03-06 05:30:06.152322",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
         "sprite_credit": "",
