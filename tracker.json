@@ -63243,7 +63243,7 @@
   },
   "0325": {
     "name": "Spoink",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -63337,12 +63337,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "<@!215699178553212929>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
-              "Normal.png"
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
             ],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/817952144035938335/portrait-0325-0000-0001.png",
-            "portrait_modified": "2020-10-13 03:58:46.073461",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818083025463672862/portrait-0325-0000-0001.png",
+            "portrait_modified": "2021-03-07 11:29:52.399190",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -106845,7 +106860,9 @@
     "sprite_files": [],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808973695481282580/sprite-0619.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "818042723826663434": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
