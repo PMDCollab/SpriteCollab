@@ -97786,13 +97786,13 @@
       "0012": {
         "name": "Poison",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/811101057195311114/portrait-0493-0012.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "818577865025126401": true
-        },
+        "portrait_credit": "<@!533406104256905257>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818579893527904316/portrait-0493-0012.png",
+        "portrait_modified": "2021-03-08 20:24:14.976551",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
