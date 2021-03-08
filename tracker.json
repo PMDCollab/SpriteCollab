@@ -97872,10 +97872,12 @@
       "0014": {
         "name": "Rock",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_credit": "<@!533406104256905257>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818586978671919184/portrait-0493-0014.png",
+        "portrait_modified": "2021-03-08 20:52:24.202171",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -97915,9 +97917,11 @@
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": [],
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818583156928020480/portrait-0493-0015.png",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "818582510455750698": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -97958,7 +97962,9 @@
         "portrait_files": [],
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "818582570081321060": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -97999,7 +98005,9 @@
         "portrait_files": [],
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "818582627250208831": true
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
