@@ -97700,13 +97700,13 @@
       "0010": {
         "name": "Ground",
         "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": [],
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "818576752829792347": true
-        },
+        "portrait_credit": "<@!533406104256905257>",
+        "portrait_files": [
+          "Normal.png"
+        ],
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818579850901061712/portrait-0493-0010.png",
+        "portrait_modified": "2021-03-08 20:24:04.761525",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
