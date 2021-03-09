@@ -93160,12 +93160,28 @@
   "0474": {
     "name": "Porygon_Z",
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!225813236589527041>",
     "portrait_files": [
-      "Normal.png"
+      "Sigh.png",
+      "Joyous.png",
+      "Sad.png",
+      "Shouting.png",
+      "Determined.png",
+      "Pain.png",
+      "Special0.png",
+      "Crying.png",
+      "Normal.png",
+      "Teary-Eyed.png",
+      "Dizzy.png",
+      "Inspired.png",
+      "Surprised.png",
+      "Angry.png",
+      "Worried.png",
+      "Stunned.png",
+      "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/788935243729338388/portrait-0474.png",
-    "portrait_modified": "2020-10-13 03:58:46.113461",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818680286677696552/portrait-0474.png",
+    "portrait_modified": "2021-03-09 03:03:10.468562",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -93210,7 +93226,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/818618192162455572/sprite-0474.zip",
     "sprite_modified": "2021-01-03 21:07:18.336050",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -93237,7 +93253,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!215699178553212929>",
             "portrait_files": [
               "Normal.png"
@@ -97288,7 +97304,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!457965696190513152>",
             "portrait_files": [
               "Normal.png"
@@ -97312,7 +97328,7 @@
       },
       "0001": {
         "name": "Bug",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97355,7 +97371,7 @@
       },
       "0002": {
         "name": "Dark",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97398,7 +97414,7 @@
       },
       "0003": {
         "name": "Dragon",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97441,7 +97457,7 @@
       },
       "0004": {
         "name": "Electric",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97484,7 +97500,7 @@
       },
       "0005": {
         "name": "Fighting",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97527,7 +97543,7 @@
       },
       "0006": {
         "name": "Fire",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97570,7 +97586,7 @@
       },
       "0007": {
         "name": "Flying",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97613,7 +97629,7 @@
       },
       "0008": {
         "name": "Ghost",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97656,7 +97672,7 @@
       },
       "0009": {
         "name": "Grass",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97699,7 +97715,7 @@
       },
       "0010": {
         "name": "Ground",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97742,7 +97758,7 @@
       },
       "0011": {
         "name": "Ice",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97785,7 +97801,7 @@
       },
       "0012": {
         "name": "Poison",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97828,7 +97844,7 @@
       },
       "0013": {
         "name": "Psychic",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97871,7 +97887,7 @@
       },
       "0014": {
         "name": "Rock",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97914,7 +97930,7 @@
       },
       "0015": {
         "name": "Steel",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -97957,7 +97973,7 @@
       },
       "0016": {
         "name": "Water",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
@@ -98000,7 +98016,7 @@
       },
       "0017": {
         "name": "Fairy",
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": "<@!533406104256905257>",
         "portrait_files": [
           "Normal.png"
