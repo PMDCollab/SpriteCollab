@@ -74065,7 +74065,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818984872936079360/portrait-0386-0000-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.085461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -74202,7 +74202,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818984989705240606/portrait-0386-0001-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.085461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -74323,7 +74323,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818985096488943646/portrait-0386-0002-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.085461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -74447,7 +74447,7 @@
             "portrait_files": [
               "Normal.png"
             ],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818985199445737502/portrait-0386-0003-0001.png",
             "portrait_modified": "2020-10-13 03:58:46.085461",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -118233,7 +118233,7 @@
   },
   "0769": {
     "name": "Sandygast",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -118289,10 +118289,27 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": [],
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818725284564041748/portrait-0769-0000-0001.png",
-            "portrait_modified": "",
+            "portrait_credit": "<@!356635814668664832>",
+            "portrait_files": [
+              "Sigh.png",
+              "Joyous.png",
+              "Sad.png",
+              "Shouting.png",
+              "Determined.png",
+              "Pain.png",
+              "Crying.png",
+              "Normal.png",
+              "Teary-Eyed.png",
+              "Dizzy.png",
+              "Inspired.png",
+              "Surprised.png",
+              "Angry.png",
+              "Worried.png",
+              "Stunned.png",
+              "Happy.png"
+            ],
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/818985949975019560/portrait-0769-0000-0001.png",
+            "portrait_modified": "2021-03-09 23:17:46.400406",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
