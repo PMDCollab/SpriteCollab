@@ -34585,7 +34585,7 @@
   },
   "0184": {
     "name": "Azumarill",
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": [
       "Sigh.png",
@@ -34694,7 +34694,7 @@
         "subgroups": {
           "0001": {
             "name": "Shiny",
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": [
               "Sigh.png",
@@ -99102,7 +99102,7 @@
             "portrait_complete": 0,
             "portrait_credit": "",
             "portrait_files": [],
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/820080779853824020/portrait-0502-0000-0001.png",
             "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -120948,10 +120948,12 @@
   "0803": {
     "name": "Poipole",
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": [],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809654781592207360/portrait-0803.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!192118698859954178>",
+    "portrait_files": [
+      "Normal.png"
+    ],
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/820088929448624128/portrait-0803.png",
+    "portrait_modified": "2021-03-13 00:20:37.170027",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
