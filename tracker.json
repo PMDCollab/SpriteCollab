@@ -28183,13 +28183,26 @@
         "portrait_complete": 1,
         "portrait_credit": "<@!702275233125630042>",
         "portrait_files": [
-          "Normal.png"
+          "Sigh.png",
+          "Joyous.png",
+          "Sad.png",
+          "Shouting.png",
+          "Determined.png",
+          "Pain.png",
+          "Crying.png",
+          "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Inspired.png",
+          "Surprised.png",
+          "Angry.png",
+          "Worried.png",
+          "Stunned.png",
+          "Happy.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/802721122935242783/portrait-0150-0002.png",
-        "portrait_modified": "2021-01-24 02:07:09.381774",
-        "portrait_pending": {
-          "820615619820912661": true
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/820632395320655952/portrait-0150-0002.png",
+        "portrait_modified": "2021-03-14 12:20:09.526624",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
@@ -125059,7 +125072,7 @@
   },
   "0861": {
     "name": "Grimmsnarl",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "EZERART",
     "portrait_files": [
       "Pain.png",
