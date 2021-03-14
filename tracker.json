@@ -28180,7 +28180,7 @@
       },
       "0002": {
         "name": "Mega_Y",
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": "<@!702275233125630042>",
         "portrait_files": [
           "Sigh.png",
@@ -30540,16 +30540,29 @@
         "portrait_complete": 1,
         "portrait_credit": "<@!150809243816165377>",
         "portrait_files": [
+          "Sigh.png",
+          "Joyous.png",
           "Sad.png",
+          "Shouting.png",
           "Determined.png",
           "Pain.png",
+          "Special3.png",
+          "Special0.png",
+          "Crying.png",
           "Normal.png",
+          "Teary-Eyed.png",
+          "Dizzy.png",
+          "Special1.png",
+          "Special2.png",
+          "Inspired.png",
           "Surprised.png",
+          "Angry.png",
           "Worried.png",
+          "Stunned.png",
           "Happy.png"
         ],
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/819412795196047390/portrait-0160-0001.png",
-        "portrait_modified": "2021-03-11 03:33:54.236184",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/820730836759347220/portrait-0160-0001.png",
+        "portrait_modified": "2021-03-14 18:51:19.777785",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -86743,7 +86756,9 @@
     ],
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/807374343536508968/sprite-0443.zip",
     "sprite_modified": "2021-01-03 21:07:17.972044",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "820682040617730058": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -99108,7 +99123,7 @@
   },
   "0501": {
     "name": "Oshawott",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "MUCRUSH",
     "portrait_files": [
       "Normal.png"
@@ -110019,7 +110034,7 @@
   },
   "0650": {
     "name": "Chespin",
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!217899432652308480>",
     "portrait_files": [
       "Normal.png"
