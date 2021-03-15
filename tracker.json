@@ -7918,7 +7918,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/800147648116031528/sprite-0037.zip",
     "sprite_modified": "2021-01-03 21:07:14.699997",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/820833925639176215/sprite_recolor-0037-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -30537,7 +30537,7 @@
       },
       "0001": {
         "name": "Alternate",
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": "<@!150809243816165377>",
         "portrait_files": [
           "Sigh.png",
@@ -37181,7 +37181,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/807782613267513394/sprite-0197.zip",
     "sprite_modified": "2021-02-07 01:19:42.641207",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/820834406180585552/sprite_recolor-0197-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -47406,7 +47406,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/820827136058327080/sprite-0236.zip",
     "sprite_modified": "2021-01-03 21:07:16.164018",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -56778,6 +56778,7 @@
       "Normal.png",
       "Teary-Eyed.png",
       "Dizzy.png",
+      "Special1.png",
       "Inspired.png",
       "Surprised.png",
       "Angry.png",
@@ -56785,8 +56786,8 @@
       "Stunned.png",
       "Happy.png"
     ],
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/797906225383473202/portrait-0286.png",
-    "portrait_modified": "2021-01-10 19:14:28.392331",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/820844160042270780/portrait-0286.png",
+    "portrait_modified": "2021-03-15 02:21:38.175068",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -79528,7 +79529,7 @@
       "Rotate-Anim.png",
       "Hop-Offsets.png"
     ],
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/820736899097690122/sprite-0408.zip",
     "sprite_modified": "2021-01-03 21:07:17.620039",
     "sprite_pending": {},
     "sprite_recolor_link": "",
