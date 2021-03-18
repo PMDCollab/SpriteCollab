@@ -70490,13 +70490,29 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_complete": 0,
-        "sprite_credit": "",
-        "sprite_files": {},
-        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/821404769025130496/sprite-0491-0002.zip",
-        "sprite_modified": "",
-        "sprite_pending": {
-          "821410756737761372": true
+        "sprite_credit": "<@!224976040265646082>",
+        "sprite_files": {
+          "Walk": false,
+          "Attack": false,
+          "QuickStrike": false,
+          "Shoot": false,
+          "SpAttack": false,
+          "RearUp": false,
+          "Sleep": false,
+          "Hurt": false,
+          "Idle": false,
+          "Swing": false,
+          "Double": false,
+          "Hop": false,
+          "Charge": false,
+          "Rotate": false,
+          "Pose": false,
+          "Special0": false,
+          "Special1": false
         },
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/821908889560678400/sprite-0491-0002.zip",
+        "sprite_modified": "2021-03-18 00:52:29.377475",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -75981,7 +75997,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/821884794530955285/sprite-0551.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -78726,7 +78742,9 @@
         "portrait_bounty": {}
       }
     },
-    "sprite_bounty": {}
+    "sprite_bounty": {
+      "2": 5
+    }
   },
   "0588": {
     "name": "Karrablast",
@@ -92345,7 +92363,9 @@
     "portrait_files": {},
     "portrait_link": "",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "821899136907345940": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_complete": 0,
