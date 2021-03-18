@@ -25536,7 +25536,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/822012678784548884/sprite-0186.zip",
     "sprite_modified": "2021-03-16 02:59:04.558026",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -32890,7 +32890,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": {
               "Normal": true,
@@ -71982,7 +71982,7 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/822011602223890452/sprite-0495.zip",
     "sprite_modified": "2021-03-16 03:38:18.257840",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -84357,7 +84357,7 @@
       "Float": false,
       "Laying": false
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/822011669223309342/sprite-0653.zip",
     "sprite_modified": "2021-03-16 03:38:18.426401",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -90105,13 +90105,13 @@
           "0001": {
             "name": "Shiny",
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "821937640395374643": true
+            "portrait_credit": "<@!388808249165479939>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822017373124952104/portrait-0728-0000-0001.png",
+            "portrait_modified": "2021-03-18 08:03:34.002902",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_complete": 0,
@@ -96619,7 +96619,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/822011849460678706/sprite-0810.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
