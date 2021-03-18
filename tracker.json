@@ -32817,7 +32817,7 @@
   "0222": {
     "name": "Corsola",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
       "Normal": true,
@@ -32891,12 +32891,27 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "<@!234720295292895232>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": {
-              "Normal": true
+              "Normal": true,
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
-            "portrait_link": "",
-            "portrait_modified": "2020-10-13 04:45:21.316859",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822002386960646144/portrait-0222-0000-0001.png",
+            "portrait_modified": "2021-03-18 07:04:00.965621",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -40602,7 +40617,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!388808249165479939>",
             "portrait_files": {
               "Normal": true,
