@@ -91556,13 +91556,13 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822482036727349288/portrait-0745-0000-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "822483894967861298": true
+            "portrait_credit": "<@!388808249165479939>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822539888120823898/portrait-0745-0000-0001.png",
+            "portrait_modified": "2021-03-19 18:39:51.246386",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
