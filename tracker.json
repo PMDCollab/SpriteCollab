@@ -84980,13 +84980,13 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "822253456735731742": true
+            "portrait_credit": "<@!388808249165479939>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822558561593851934/portrait-0661-0000-0001.png",
+            "portrait_modified": "2021-03-19 19:54:03.366631",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
