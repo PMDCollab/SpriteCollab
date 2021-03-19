@@ -84636,13 +84636,13 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "822247671170596915": true
+            "portrait_credit": "<@!388808249165479939>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822558548620738600/portrait-0656-0000-0001.png",
+            "portrait_modified": "2021-03-19 19:54:00.213320",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
