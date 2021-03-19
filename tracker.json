@@ -38512,7 +38512,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822541383502921738/portrait-0263-0001.png",
         "portrait_modified": "2021-03-16 02:58:51.981554",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -77663,13 +77663,13 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "822229354960126002": true
+            "portrait_credit": "<@!388808249165479939>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822558437581389834/portrait-0572-0000-0001.png",
+            "portrait_modified": "2021-03-19 19:53:33.788118",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -91555,7 +91555,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!388808249165479939>",
             "portrait_files": {
               "Normal": false
@@ -94160,7 +94160,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!388808249165479939>",
             "portrait_files": {
               "Sigh": false,
@@ -100084,7 +100084,9 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787311737732464680/portrait-0856.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "822547033524928523": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -100943,7 +100945,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!388808249165479939>",
             "portrait_files": {
               "Normal": false
