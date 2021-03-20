@@ -89906,13 +89906,14 @@
     "name": "Litten",
     "portrait_bounty": {},
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/771732880475947008/portrait-0725.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "822662309758500874": true
+    "portrait_credit": "<@!388808249165479939>",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822692690926895144/portrait-0725.png",
+    "portrait_modified": "2021-03-20 04:47:02.321994",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
