@@ -87932,30 +87932,32 @@
     "portrait_complete": 1,
     "portrait_credit": "<@!225813236589527041>",
     "portrait_files": {
-      "Normal": true
+      "Normal": false
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822224141100777542/portrait-0700.png",
     "portrait_modified": "2020-10-13 04:45:23.057409",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "822707499600969748": true
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": "<@!493293282064072715>",
     "sprite_files": {
-      "Walk": true,
-      "Attack": true,
+      "Walk": false,
+      "Attack": false,
       "QuickStrike": true,
-      "Shoot": true,
+      "Shoot": false,
       "SpAttack": true,
-      "Sleep": true,
-      "Hurt": true,
-      "Idle": true,
-      "Swing": true,
-      "Double": true,
-      "Hop": true,
-      "Charge": true,
-      "Rotate": true
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
     "sprite_link": "",
     "sprite_modified": "2021-03-16 02:59:23.714101",
@@ -87990,7 +87992,7 @@
             "portrait_complete": 1,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": {
-              "Normal": true
+              "Normal": false
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822657961963814982/portrait-0700-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:23.055414",
@@ -88001,19 +88003,19 @@
             "sprite_complete": 1,
             "sprite_credit": "<@!95650095034273792>",
             "sprite_files": {
-              "Walk": true,
-              "Attack": true,
+              "Walk": false,
+              "Attack": false,
               "QuickStrike": true,
-              "Shoot": true,
+              "Shoot": false,
               "SpAttack": true,
-              "Sleep": true,
-              "Hurt": true,
-              "Idle": true,
-              "Swing": true,
-              "Double": true,
-              "Hop": true,
-              "Charge": true,
-              "Rotate": true
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
             "sprite_link": "",
             "sprite_modified": "2021-03-16 02:59:23.693157",
