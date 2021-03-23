@@ -20242,7 +20242,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!356635814668664832>",
             "portrait_files": {
               "Normal": true,
@@ -20363,7 +20363,7 @@
             "portrait_files": {
               "Normal": true
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823782351330082857/portrait-0148-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.711478",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -33020,7 +33020,7 @@
       "0001": {
         "name": "Galar",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": "<@!356635814668664832>",
         "portrait_files": {
           "Sigh": false,
@@ -33060,10 +33060,28 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_credit": "<@!356635814668664832>",
+            "portrait_files": {
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Special0": false,
+              "Crying": false,
+              "Normal": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
+            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823786124958105600/portrait-0222-0001-0001.png",
+            "portrait_modified": "2021-03-23 05:11:57.289972",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
