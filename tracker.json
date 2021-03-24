@@ -77490,7 +77490,7 @@
     "name": "Trubbish",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!810524028871114762>",
+    "portrait_credit": "POWERCRISTAL",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -77512,11 +77512,9 @@
       "Special1": false,
       "Special2": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823745687971168276/portrait-0568.png",
-    "portrait_modified": "2021-03-23 02:31:16.276212",
-    "portrait_pending": {
-      "824358660494852097": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824401666832728074/portrait-0568.png",
+    "portrait_modified": "2021-03-24 21:57:53.888606",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
