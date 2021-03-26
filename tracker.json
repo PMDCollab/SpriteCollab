@@ -22676,7 +22676,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824801157187633222/portrait-0163.png",
     "portrait_modified": "2021-03-17 03:28:27.615149",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -64792,7 +64792,7 @@
       "Sigh": false,
       "Stunned": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824800133328797696/portrait-0451.png",
     "portrait_modified": "2021-03-17 03:28:27.631149",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -72301,13 +72301,25 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/803894864001368094/sprite-0496.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "824696096538361937": true
+    "sprite_credit": "<@!319945906600411179>",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Slice": false,
+      "Shoot": false,
+      "Twirl": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/824861393966202931/sprite-0496.zip",
+    "sprite_modified": "2021-03-26 04:24:41.338486",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -88567,7 +88579,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824781600876920842/portrait-0704.png",
     "portrait_modified": "2021-03-16 03:38:17.109353",
     "portrait_pending": {},
     "portrait_recolor_link": "",
