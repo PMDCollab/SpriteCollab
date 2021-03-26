@@ -27019,7 +27019,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825074970148864000/portrait-0195.png",
     "portrait_modified": "2021-03-17 03:28:27.619148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -43530,7 +43530,7 @@
       "Surprised": true,
       "Worried": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825140412972531772/portrait-0303.png",
     "portrait_modified": "2020-10-13 04:45:21.814734",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -52186,7 +52186,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825090275847176212/portrait-0371.png",
     "portrait_modified": "2021-03-17 03:28:27.623148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -53127,7 +53127,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825078466545582140/portrait-0379.png",
     "portrait_modified": "2021-03-17 03:28:27.627149",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -69928,7 +69928,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825016053117354054/portrait-0486-0001.png",
         "portrait_modified": "2021-03-16 03:38:16.273059",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -73512,7 +73512,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825084034878013460/sprite-0512.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -86554,7 +86554,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825048314923581460/portrait-0678.png",
     "portrait_modified": "2021-03-16 02:58:53.050809",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -86624,7 +86624,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825048537552650240/portrait-0678-0001.png",
         "portrait_modified": "2021-03-16 02:58:53.049811",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -86633,7 +86633,7 @@
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": {},
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825048615486619648/sprite-0678-0001.zip",
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
@@ -93279,13 +93279,13 @@
     "name": "Steenee",
     "portrait_bounty": {},
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824877452454658069/portrait-0762.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "824877588593901619": true
+    "portrait_credit": "<@!702275233125630042>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825147159418109963/portrait-0762.png",
+    "portrait_modified": "2021-03-26 23:20:13.204684",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -95774,7 +95774,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": "<@!702275233125630042>",
             "portrait_files": {
               "Sigh": false,
