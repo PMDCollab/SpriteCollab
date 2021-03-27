@@ -607,7 +607,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825178123522932756/portrait-0002.png",
     "portrait_modified": "2021-03-17 03:28:27.607148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -23808,7 +23808,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825213565434069032/portrait-0171.png",
     "portrait_modified": "2020-10-13 04:45:20.869057",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -35920,7 +35920,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825191464359297024/portrait-0245.png",
     "portrait_modified": "2020-10-13 04:45:21.442034",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -37370,7 +37370,7 @@
       "Faint": true,
       "HitGround": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825305212558114846/sprite-0255.zip",
     "sprite_modified": "2021-03-16 02:59:09.278400",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -38153,7 +38153,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825198234023493632/portrait-0259.png",
     "portrait_modified": "2021-03-17 03:28:27.619148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -38446,7 +38446,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825219367872102441/sprite-0261.zip",
     "sprite_modified": "2021-03-17 03:28:27.635149",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -50560,7 +50560,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825243199659311104/portrait-0358.png",
     "portrait_modified": "2021-03-17 03:28:27.623148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -52902,7 +52902,7 @@
       "Normal": true,
       "Normal^": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825208687940862012/portrait-0377.png",
     "portrait_modified": "2020-10-13 04:45:22.196712",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -67466,7 +67466,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825208379025653780/portrait-0470.png",
     "portrait_modified": "2021-03-17 03:28:27.631149",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -68327,7 +68327,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825181524474724352/portrait-0476-0001.png",
         "portrait_modified": "2021-03-16 03:38:16.181305",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -77680,7 +77680,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825220990476222464/portrait-0569.png",
     "portrait_modified": "2021-03-16 02:58:52.916169",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -93278,7 +93278,7 @@
   "0762": {
     "name": "Steenee",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": {
       "Normal": false
@@ -93965,10 +93965,27 @@
     "name": "Pyukumuku",
     "portrait_bounty": {},
     "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824389394345230386/portrait-0771.png",
-    "portrait_modified": "",
+    "portrait_credit": "<@!356635814668664832>",
+    "portrait_files": {
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Normal": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825311023468773476/portrait-0771.png",
+    "portrait_modified": "2021-03-27 10:11:21.376701",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -99645,7 +99662,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825293635658579995/portrait-0845.png",
     "portrait_modified": "2021-03-16 03:38:17.628524",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -99656,7 +99673,9 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/823630942240768020/sprite-0845.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "825294835333464144": true
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
