@@ -72520,7 +72520,7 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/826311688688107540/portrait-0496-0000-0001.png",
             "portrait_modified": "2021-03-16 02:58:52.821420",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -99821,7 +99821,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/823630942240768020/sprite-0845.zip",
     "sprite_modified": "",
     "sprite_pending": {
-      "825874300220604466": true
+      "826314438231457832": true
     },
     "sprite_recolor_link": "",
     "sprite_required": true,
