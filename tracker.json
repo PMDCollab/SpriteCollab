@@ -78881,16 +78881,14 @@
   "0583": {
     "name": "Vanillish",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "MUCRUSH",
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825623897591382036/portrait-0583.png",
-    "portrait_modified": "2021-03-16 02:58:52.944136",
-    "portrait_pending": {
-      "825626104109858837": true
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/826300100112023552/portrait-0583.png",
+    "portrait_modified": "2021-03-30 03:41:35.678183",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
