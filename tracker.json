@@ -18783,7 +18783,7 @@
             "portrait_files": {
               "Normal": true
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/826267358887804969/portrait-0134-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.664604",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -40923,7 +40923,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/826283372070043678/sprite-0280.zip",
     "sprite_modified": "2021-03-16 02:59:10.850196",
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/821080436633632798/sprite_recolor-0280-0000-0001.png",
@@ -95234,13 +95234,28 @@
   "0786": {
     "name": "Tapu_Lele",
     "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": "<@!192118698859954178>",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "",
-    "portrait_modified": "2021-03-16 03:38:17.411592",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/826299974177259520/portrait-0786.png",
+    "portrait_modified": "2021-03-30 03:41:05.633312",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
