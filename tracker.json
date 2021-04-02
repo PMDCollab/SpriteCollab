@@ -15250,7 +15250,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827342211347513394/portrait-0107.png",
     "portrait_modified": "2020-10-13 04:45:20.535948",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -15363,7 +15363,7 @@
           "Teary-Eyed": false,
           "Worried": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827342244611883038/portrait-0107-0001.png",
         "portrait_modified": "2021-03-16 02:58:51.448979",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -27088,7 +27088,7 @@
     "name": "Quagsire",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!421379254077620225>",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -27107,11 +27107,9 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825074970148864000/portrait-0195.png",
-    "portrait_modified": "2021-03-17 03:28:27.619148",
-    "portrait_pending": {
-      "827056743589609502": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827355304975007744/portrait-0195.png",
+    "portrait_modified": "2021-04-02 01:34:36.007049",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
