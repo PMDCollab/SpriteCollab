@@ -25377,12 +25377,10 @@
       "Surprised": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825508907349835857/portrait-0183.png",
-    "portrait_modified": "2021-03-17 03:28:27.615149",
-    "portrait_pending": {
-      "827116454528286720": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/827114982133989412/portrait_recolor-0183-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827355316701364234/portrait-0183.png",
+    "portrait_modified": "2021-04-02 01:34:38.884456",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -25433,7 +25431,7 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": {
               "Joyous": true,
