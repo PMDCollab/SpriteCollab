@@ -5724,7 +5724,7 @@
       "Teary-Eyed": true,
       "Worried": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827574097084678194/portrait-0037.png",
     "portrait_modified": "2020-10-13 04:45:20.138782",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -41349,21 +41349,30 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
-            "portrait_credit": "<@!276949114212712449>",
+            "portrait_complete": 2,
+            "portrait_credit": "<@!702275233125630042>",
             "portrait_files": {
               "Happy": true,
               "Inspired": true,
               "Normal": true,
               "Sigh": true,
               "Surprised": true,
-              "Worried": true
+              "Worried": true,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Special2": false,
+              "Angry": false,
+              "Stunned": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827456928514048020/portrait-0282-0000-0001.png",
-            "portrait_modified": "2020-10-13 04:45:21.678099",
-            "portrait_pending": {
-              "827456929990574081": 764610870357131265
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827574716323332146/portrait-0282-0000-0001.png",
+            "portrait_modified": "2021-04-02 16:06:27.841683",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
