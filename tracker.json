@@ -4441,7 +4441,9 @@
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "sprite_bounty": {},
+        "sprite_bounty": {
+          "1": 3
+        },
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": {},
@@ -4454,14 +4456,29 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "827635362133704717": 764610870357131265
+            "portrait_complete": 2,
+            "portrait_credit": "<@!356635814668664832>",
+            "portrait_files": {
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Normal": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827699416420843581/portrait-0026-0001-0001.png",
+            "portrait_modified": "2021-04-03 00:21:58.674451",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -18899,7 +18916,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/787777623613898762/portrait_recolor-0135-0000-0001.png",
     "portrait_required": true,
-    "sprite_bounty": {},
+    "sprite_bounty": {
+      "2": 1
+    },
     "sprite_complete": 1,
     "sprite_credit": "CHUNSOFT",
     "sprite_files": {
@@ -22661,7 +22680,7 @@
             "portrait_files": {
               "Normal": true
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827680314176176208/portrait-0161-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.819191",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -36220,7 +36239,9 @@
   },
   "0246": {
     "name": "Larvitar",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 5
+    },
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
     "portrait_files": {
@@ -84089,7 +84110,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "sprite_bounty": {},
+    "sprite_bounty": {
+      "1": 4
+    },
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
@@ -89203,7 +89226,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "sprite_bounty": {},
+    "sprite_bounty": {
+      "1": 2
+    },
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
@@ -92875,7 +92900,9 @@
   },
   "0753": {
     "name": "Fomantis",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 4
+    },
     "portrait_complete": 1,
     "portrait_credit": "<@!196351316681818112>",
     "portrait_files": {
@@ -96028,7 +96055,9 @@
   },
   "0794": {
     "name": "Buzzwole",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "1": 4
+    },
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": {},
@@ -96270,7 +96299,7 @@
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": {},
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827675839545999420/portrait-0797.png",
     "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -96402,7 +96431,9 @@
   },
   "0799": {
     "name": "Guzzlord",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "1": 4
+    },
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": {},
