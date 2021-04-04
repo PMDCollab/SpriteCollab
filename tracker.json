@@ -6216,14 +6216,14 @@
           "0001": {
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806886453564145704/portrait-0038-0001-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "828150991018131526": 764610870357131265
+            "portrait_complete": 1,
+            "portrait_credit": "<@!117780585635643396>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/828226915902816286/portrait-0038-0001-0001.png",
+            "portrait_modified": "2021-04-04 11:18:04.375682",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
