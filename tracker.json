@@ -76807,15 +76807,13 @@
     "name": "Tepig",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "MUCRUSH",
+    "portrait_credit": "<@!150809243816165377>",
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823545512954822656/portrait-0498.png",
-    "portrait_modified": "2021-03-16 02:58:52.825410",
-    "portrait_pending": {
-      "828904956450439168": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/828930929984012309/portrait-0498.png",
+    "portrait_modified": "2021-04-06 09:55:34.371287",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
