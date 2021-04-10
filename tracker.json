@@ -106924,15 +106924,17 @@
     "name": "Toxtricity",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!217899432652308480>",
+    "portrait_credit": "<@!340299853345325056>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Joyous": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827581173629976656/portrait-0849.png",
-    "portrait_modified": "2021-03-16 03:38:17.630519",
-    "portrait_pending": {
-      "830204697322455041": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830479034625425408/portrait-0849.png",
+    "portrait_modified": "2021-04-10 16:27:11.293712",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
