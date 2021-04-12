@@ -3191,7 +3191,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830879606377545728/portrait-0019.png",
     "portrait_modified": "2021-03-17 03:28:27.611148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -22801,7 +22801,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/830846784078086264/sprite-0154.zip",
     "sprite_modified": "2021-03-16 02:59:02.304057",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -23300,7 +23300,7 @@
               "Charge": true,
               "Rotate": true
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/830847880599961610/sprite-0156-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:02.457645",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -24955,7 +24955,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830850557517365309/portrait-0167.png",
     "portrait_modified": "2021-03-17 03:28:27.615149",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -25061,7 +25061,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830850506250256425/portrait-0168.png",
     "portrait_modified": "2020-10-13 04:45:20.856092",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -27686,7 +27686,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830874058475175966/portrait-0188.png",
     "portrait_modified": "2021-03-17 03:28:27.619148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -34932,7 +34932,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830879510458793984/portrait-0221.png",
     "portrait_modified": "2020-10-13 04:45:21.314866",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -35610,7 +35610,7 @@
       "Worried": false,
       "Worried^": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830879675084832798/portrait-0225.png",
     "portrait_modified": "2021-03-17 03:28:27.619148",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -37115,7 +37115,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/830873913797509130/sprite-0236.zip",
     "sprite_modified": "2021-03-16 02:59:08.183329",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -64037,7 +64037,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830874128192897025/portrait-0422.png",
     "portrait_modified": "2020-10-13 04:45:22.611603",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -95260,11 +95260,13 @@
     "modreward": false,
     "name": "Avalugg",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!150809243816165377>",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830986393991643157/portrait-0713.png",
+    "portrait_modified": "2021-04-12 02:03:15.043082",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
