@@ -66094,7 +66094,9 @@
     "canon": true,
     "modreward": false,
     "name": "Skuntank",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 3
+    },
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
     "portrait_files": {
@@ -66237,7 +66239,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/831947315655868437/sprite-0436.zip",
     "sprite_modified": "2021-03-16 02:59:20.095779",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -98979,7 +98981,9 @@
     "canon": true,
     "modreward": false,
     "name": "Lurantis",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "1": 5
+    },
     "portrait_complete": 0,
     "portrait_credit": "",
     "portrait_files": {},
@@ -105521,11 +105525,28 @@
     "modreward": false,
     "name": "Wooloo",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787784592442392597/portrait-0831.png",
-    "portrait_modified": "",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!356635814668664832>",
+    "portrait_files": {
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Normal": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/831990332346204181/portrait-0831.png",
+    "portrait_modified": "2021-04-14 20:32:32.706960",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -106253,7 +106274,7 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {
-      "1": 6
+      "1": 20
     },
     "sprite_complete": 0,
     "sprite_credit": "",
