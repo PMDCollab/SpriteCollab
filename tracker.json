@@ -20089,7 +20089,7 @@
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/787777623613898762/portrait_recolor-0135-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {
-      "2": 3
+      "2": 6
     },
     "sprite_complete": 1,
     "sprite_credit": "CHUNSOFT",
@@ -50101,7 +50101,7 @@
     "modreward": false,
     "name": "Cacnea",
     "portrait_bounty": {
-      "2": 8
+      "2": 20
     },
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
@@ -84143,8 +84143,7 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {
-      "2": 5,
-      "1": 5
+      "2": 5
     },
     "sprite_complete": 1,
     "sprite_credit": "<@!702275233125630042>",
@@ -100423,11 +100422,28 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_complete": 2,
+            "portrait_credit": "<@!356635814668664832>",
+            "portrait_files": {
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Normal": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
+            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/831876189147758622/portrait-0770-0000-0001.png",
+            "portrait_modified": "2021-04-14 12:58:58.865503",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -102266,9 +102282,7 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/828888503253336074/portrait-0793.png",
     "portrait_modified": "2021-03-16 03:38:17.422563",
-    "portrait_pending": {
-      "831662264791728148": 764610870357131265
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -105521,7 +105535,9 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/810661421158367313/sprite-0831.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "831720129574338570": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
