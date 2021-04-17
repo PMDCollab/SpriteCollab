@@ -91888,7 +91888,9 @@
     "sprite_files": {},
     "sprite_link": "",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "832821997239140372": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -105588,7 +105590,9 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/832117193000484884/sprite-0831.zip",
     "sprite_modified": "2021-04-15 04:56:38.679749",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "832828638063231016": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/832298974823055379/sprite_recolor-0831-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
@@ -105646,14 +105650,26 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": "",
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {
-              "832299667588775936": 764610870357131265
+            "sprite_complete": 1,
+            "sprite_credit": "<@!356635814668664832>",
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Strike": false,
+              "Shoot": false,
+              "Stomp": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/832842606949171200/sprite-0831-0000-0001.zip",
+            "sprite_modified": "2021-04-17 04:59:10.833827",
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
