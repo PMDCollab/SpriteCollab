@@ -92743,7 +92743,7 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
-        "sprite_complete": 0,
+        "sprite_complete": 1,
         "sprite_credit": "<@!319945906600411179>",
         "sprite_files": {
           "Walk": false,
@@ -92761,7 +92761,7 @@
           "Charge": false,
           "Rotate": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825048615486619648/sprite-0678-0001.zip",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/834557834233380894/sprite-0678-0001.zip",
         "sprite_modified": "2021-04-21 22:34:51.850359",
         "sprite_pending": {},
         "sprite_recolor_link": "",
