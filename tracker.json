@@ -105696,13 +105696,16 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "834341561688915998": 764610870357131265
+    "sprite_credit": "<@!177074597315870720>",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Idle": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/834691471625814036/sprite-0828.zip",
+    "sprite_modified": "2021-04-22 07:25:54.544683",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
