@@ -38427,8 +38427,8 @@
     "sprite_bounty": {
       "2": 6
     },
-    "sprite_complete": 1,
-    "sprite_credit": "CHUNSOFT",
+    "sprite_complete": 2,
+    "sprite_credit": "<@!702275233125630042>",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -38442,13 +38442,33 @@
       "Double": true,
       "Hop": true,
       "Charge": true,
-      "Rotate": true
+      "Rotate": true,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/826462174024695818/sprite-0246.zip",
-    "sprite_modified": "2021-03-16 02:59:08.678009",
-    "sprite_pending": {
-      "833984475700002847": 764610870357131265
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/834601089315504178/sprite-0246.zip",
+    "sprite_modified": "2021-04-22 01:26:45.622242",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -38507,7 +38527,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": "<@!95650095034273792>",
             "sprite_files": {
               "Walk": true,
@@ -98340,7 +98360,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825385220043702272/portrait-0744.png",
     "portrait_modified": "2021-03-16 03:38:17.274213",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "834570033455562812": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
