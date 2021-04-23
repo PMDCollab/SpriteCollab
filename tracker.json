@@ -86463,16 +86463,19 @@
     "modreward": false,
     "name": "Chandelure",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!340299853345325056>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/830269751971938324/portrait-0609.png",
-    "portrait_modified": "2021-03-16 02:58:52.976008",
-    "portrait_pending": {
-      "834961047702077490": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/834963316966817792/portrait-0609.png",
+    "portrait_modified": "2021-04-23 01:26:07.480408",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
