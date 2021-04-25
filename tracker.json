@@ -96293,14 +96293,14 @@
     "modreward": false,
     "name": "Diancie",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/793124046216232960/portrait-0719.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "835670309767086120": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/835672060461973526/portrait-0719.png",
+    "portrait_modified": "2021-04-25 00:22:25.131666",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
