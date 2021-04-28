@@ -108856,14 +108856,14 @@
     "modreward": false,
     "name": "Cursola",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/811102360943984700/portrait-0864.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "836516559878488088": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/836780414546870332/portrait-0864.png",
+    "portrait_modified": "2021-04-28 01:46:37.290134",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
