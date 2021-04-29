@@ -13192,14 +13192,26 @@
         "sprite_bounty": {
           "1": 5
         },
-        "sprite_complete": 0,
-        "sprite_credit": "",
-        "sprite_files": {},
-        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/813563581916381254/sprite-0083-0001.zip",
-        "sprite_modified": "",
-        "sprite_pending": {
-          "836142463508545546": 764610870357131265
+        "sprite_complete": 1,
+        "sprite_credit": "<@!702275233125630042>",
+        "sprite_files": {
+          "Walk": false,
+          "Attack": false,
+          "Strike": false,
+          "Shoot": false,
+          "Twirl": false,
+          "Sleep": false,
+          "Hurt": false,
+          "Idle": false,
+          "Swing": false,
+          "Double": false,
+          "Hop": false,
+          "Charge": false,
+          "Rotate": false
         },
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/837148130805022751/sprite-0083-0001.zip",
+        "sprite_modified": "2021-04-29 02:07:47.715545",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -39834,7 +39846,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/837148115780763708/portrait-0254.png",
     "portrait_modified": "2021-04-29 02:07:44.103911",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/837148123549663283/portrait_recolor-0254-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -39895,8 +39907,10 @@
             },
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:21.510851",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "837148127453511681": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/837148126157733898/portrait_recolor-0254-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
