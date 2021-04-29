@@ -13189,9 +13189,7 @@
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "sprite_bounty": {
-          "1": 5
-        },
+        "sprite_bounty": {},
         "sprite_complete": 1,
         "sprite_credit": "<@!702275233125630042>",
         "sprite_files": {
@@ -95429,14 +95427,14 @@
     "modreward": false,
     "name": "Phantump",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/780311669619949568/portrait-0708.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "837127161869369384": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/837148151936319499/portrait-0708.png",
+    "portrait_modified": "2021-04-29 02:07:52.744886",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
