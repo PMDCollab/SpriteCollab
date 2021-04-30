@@ -39944,14 +39944,14 @@
         "modreward": false,
         "name": "Mega",
         "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/837734934059417660/portrait-0254-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "837735275433295892": 764610870357131265
+        "portrait_complete": 1,
+        "portrait_credit": "<@!327927398941196289>",
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/837756285478764594/portrait-0254-0001.png",
+        "portrait_modified": "2021-04-30 18:24:23.033744",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
