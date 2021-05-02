@@ -13190,7 +13190,7 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
-        "sprite_complete": 1,
+        "sprite_complete": 2,
         "sprite_credit": "<@!702275233125630042>",
         "sprite_files": {
           "Walk": false,
@@ -13205,13 +13205,33 @@
           "Double": false,
           "Hop": false,
           "Charge": false,
-          "Rotate": false
+          "Rotate": false,
+          "EventSleep": false,
+          "Wake": false,
+          "Eat": false,
+          "Tumble": false,
+          "Pose": false,
+          "Pull": false,
+          "Pain": false,
+          "Float": false,
+          "DeepBreath": false,
+          "Nod": false,
+          "Sit": false,
+          "LookUp": false,
+          "Sink": false,
+          "Trip": false,
+          "Laying": false,
+          "LeapForth": false,
+          "Head": false,
+          "Cringe": false,
+          "LostBalance": false,
+          "TumbleBack": false,
+          "Faint": false,
+          "HitGround": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/837148130805022751/sprite-0083-0001.zip",
-        "sprite_modified": "2021-04-29 02:07:47.715545",
-        "sprite_pending": {
-          "837172738380005426": 764610870357131265
-        },
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/838479790398636052/sprite-0083-0001.zip",
+        "sprite_modified": "2021-05-02 18:19:19.894099",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -92349,7 +92369,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/838472528229040138/sprite-0672.zip",
     "sprite_modified": "2021-05-02 17:50:28.510209",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/838472660370849842/sprite_recolor-0672-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -92411,7 +92431,9 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "838473160067776562": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
