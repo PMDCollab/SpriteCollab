@@ -1963,7 +1963,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/839228429680377890/portrait-0009.png",
     "portrait_modified": "2021-05-04 19:54:09.526677",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/839228442598703134/portrait_recolor-0009-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -2027,8 +2027,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823322008644223006/portrait-0009-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:19.959262",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "839228447371821146": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/839228445745348618/portrait_recolor-0009-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -99070,14 +99072,14 @@
     "modreward": false,
     "name": "Mareanie",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/839073232723378186/portrait-0747.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "839086186122182687": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!196351316681818112>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/839228472361615360/portrait-0747.png",
+    "portrait_modified": "2021-05-04 19:54:19.751596",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
