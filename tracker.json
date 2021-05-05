@@ -97661,14 +97661,14 @@
     "modreward": false,
     "name": "Toucannon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787377753640796180/portrait-0733.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "839480036855775252": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!196351316681818112>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/839507622746521680/portrait-0733.png",
+    "portrait_modified": "2021-05-05 14:23:34.383501",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
