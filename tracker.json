@@ -20239,8 +20239,8 @@
     "sprite_bounty": {
       "2": 6
     },
-    "sprite_complete": 1,
-    "sprite_credit": "CHUNSOFT",
+    "sprite_complete": 2,
+    "sprite_credit": "<@!474262233442942995>",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -20254,14 +20254,34 @@
       "Double": true,
       "Hop": true,
       "Charge": true,
-      "Rotate": true
+      "Rotate": true,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/834838815373525002/sprite-0135.zip",
-    "sprite_modified": "2021-03-16 02:59:00.915770",
-    "sprite_pending": {
-      "840072577895759874": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/803012216215306240/sprite_recolor-0135-0000-0001.png",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/840861468748808212/sprite-0135.zip",
+    "sprite_modified": "2021-05-09 08:03:16.469986",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -20303,7 +20323,7 @@
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/840148179986153482/portrait_recolor-0135-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": "<@!95650095034273792>",
             "sprite_files": {
               "Walk": false,
