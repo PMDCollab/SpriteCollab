@@ -20236,9 +20236,7 @@
     "portrait_pending": {},
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/840148176757194762/portrait_recolor-0135-0000-0001.png",
     "portrait_required": true,
-    "sprite_bounty": {
-      "2": 6
-    },
+    "sprite_bounty": {},
     "sprite_complete": 2,
     "sprite_credit": "<@!474262233442942995>",
     "sprite_files": {
@@ -20281,7 +20279,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/840861468748808212/sprite-0135.zip",
     "sprite_modified": "2021-05-09 08:03:16.469986",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/840861490022055946/sprite_recolor-0135-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -88480,14 +88478,26 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/839636354655584296/sprite-0630.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "839850703765110795": 764610870357131265
+    "sprite_complete": 1,
+    "sprite_credit": "POWERCRISTAL",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "SpAttack": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/840863419623931934/sprite-0630.zip",
+    "sprite_modified": "2021-05-09 08:11:01.578602",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
