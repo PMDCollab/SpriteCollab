@@ -84258,12 +84258,10 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/823628876558368798/sprite-0582.zip",
-    "sprite_modified": "2021-03-16 03:38:18.311695",
-    "sprite_pending": {
-      "840786857620144134": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/828165837550387208/sprite_recolor-0582-0000-0001.png",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/841130017512751124/sprite-0582.zip",
+    "sprite_modified": "2021-05-10 01:50:23.475884",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
       "0000": {

@@ -6,7 +6,7 @@
       <Name>Walk</Name>
       <Index>0</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
         <Duration>8</Duration>
@@ -73,7 +73,7 @@
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -93,7 +93,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>10</Duration>
         <Duration>8</Duration>
@@ -171,7 +171,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
@@ -191,7 +191,7 @@
       <Name>Rotate</Name>
       <Index>12</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
         <Duration>2</Duration>
@@ -260,7 +260,7 @@
       <Name>Pose</Name>
       <Index>17</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>2</Duration>
@@ -286,7 +286,7 @@
       <Name>Pain</Name>
       <Index>19</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>1</Duration>
