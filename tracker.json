@@ -84384,15 +84384,18 @@
     "name": "Vanillish",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "MUCRUSH",
+    "portrait_credit": "<@!340299853345325056>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Sad": false,
+      "Crying": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/841280931473260574/portrait-0583.png",
-    "portrait_modified": "2021-03-31 02:57:37.648715",
-    "portrait_pending": {
-      "841759109165744160": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/841940757116092416/portrait-0583.png",
+    "portrait_modified": "2021-05-12 07:31:58.796384",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
