@@ -44201,7 +44201,7 @@
     "name": "Surskit",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "<@!801938240562397194>",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -44220,11 +44220,9 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824717858759245862/portrait-0283.png",
-    "portrait_modified": "2021-03-17 03:28:27.623148",
-    "portrait_pending": {
-      "841855410972393493": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/841940799703744542/portrait-0283.png",
+    "portrait_modified": "2021-05-12 07:32:08.949055",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
