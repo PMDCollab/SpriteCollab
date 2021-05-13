@@ -65245,7 +65245,7 @@
         "name": "Altcolor",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "<@!273958644788363265>",
         "portrait_files": {
           "Angry": false,
           "Angry^": false,
@@ -65280,11 +65280,9 @@
           "Worried": false,
           "Worried^": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842214774532341810/portrait-0425-0001.png",
-        "portrait_modified": "2021-03-16 02:58:52.613976",
-        "portrait_pending": {
-          "842215485869391872": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275705424183296/portrait-0425-0001.png",
+        "portrait_modified": "2021-05-13 05:42:56.759184",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
