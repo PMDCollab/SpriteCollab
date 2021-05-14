@@ -50,7 +50,7 @@ JemDragons	<@!408301000445788180>	https://twitter.com/JemDragons?s=09
 Sunny	<@!273341077874802689>	https://twitter.com/temporalsunrise
 Deleca7755	<@!273958644788363265>	Deleca7755#2927
 Atwer	<@!371674727183286272>	
-	<@!183561486893842432>	
+chime	<@!183561486893842432>	<@!183561486893842432>
 RibbonDove	<@!739154982044958801>	https://twitter.com/ribbondove
 namu	<@!208313475246718976>	
 eon	<@!441903700571717640>	https://twitter.com/eon_exists
@@ -112,4 +112,4 @@ LornaWR	<@!598484619897077761>	https://twitter.com/LornaWR_
 	<@!340299853345325056>	
 Mr_L	<@!177522243985866754>	
 "motherhenna(Helen)"	MOTHERHENNA	<@!543717476421074945>
-	<@!801938240562397194>	
+Fearless-Quit	<@!801938240562397194>	

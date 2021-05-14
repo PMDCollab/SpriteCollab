@@ -2763,7 +2763,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842560741121851412/sprite-0015.zip",
     "sprite_modified": "2021-03-16 02:58:54.167819",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -8049,7 +8049,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842560644917624832/portrait-0047.png",
     "portrait_modified": "2020-10-13 04:45:20.210590",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -21561,7 +21561,7 @@
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": {},
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842536168482668584/sprite-0145-0001.zip",
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
@@ -25884,7 +25884,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842489918197596200/portrait-0173.png",
     "portrait_modified": "2021-03-17 03:28:27.615149",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -27185,7 +27185,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275713172373504/portrait-0183.png",
     "portrait_modified": "2021-05-13 05:42:58.618307",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275722206117908/portrait_recolor-0183-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -27263,7 +27263,7 @@
             "portrait_link": "",
             "portrait_modified": "2021-04-03 23:21:18.954256",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275725780058112/portrait_recolor-0183-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -29018,7 +29018,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842725555900383242/portrait-0195.png",
     "portrait_modified": "2021-04-03 23:21:18.992025",
     "portrait_pending": {},
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/827355512189354004/portrait_recolor-0195-0000-0001.png",
@@ -35368,7 +35368,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/841475069524180992/portrait-0222.png",
     "portrait_modified": "2021-03-19 02:23:14.508281",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "842780042345709569": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -38538,7 +38540,7 @@
               "Rotate": false,
               "Roar": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842458831291809792/sprite-0245-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:08.613179",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -40025,7 +40027,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842299450688274462/portrait-0254-0001.png",
         "portrait_modified": "2021-05-04 19:21:12.468134",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -40362,7 +40364,9 @@
                 },
                 "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/838259010053472276/portrait-0256-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 04:45:21.539468",
-                "portrait_pending": {},
+                "portrait_pending": {
+                  "842787079691829268": 764610870357131265
+                },
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
@@ -56162,7 +56166,7 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842593442449326140/sprite-0373-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:15.864784",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -56858,7 +56862,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842525756353675264/sprite-0379.zip",
     "sprite_modified": "2021-03-16 02:59:16.178942",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -75729,7 +75733,7 @@
           "Special0": false,
           "Special1": false
         },
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842792803120447558/sprite-0491-0002.zip",
         "sprite_modified": "2021-03-19 02:23:14.584078",
         "sprite_pending": {},
         "sprite_recolor_link": "",
@@ -90972,7 +90976,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/841515860974764092/sprite-0653.zip",
     "sprite_modified": "2021-05-11 03:23:35.663205",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/842580255737774090/sprite_recolor-0653-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -91035,7 +91039,9 @@
             "sprite_files": {},
             "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/837394298030784532/sprite-0653-0000-0001.zip",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "842580649054437396": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
@@ -98869,11 +98875,13 @@
     "modreward": false,
     "name": "Ribombee",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779458462429741106/portrait-0743.png",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842794606566965268/portrait-0743.png",
+    "portrait_modified": "2021-05-14 16:04:52.416021",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -104354,7 +104362,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842425322704207882/sprite-0802.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -106295,7 +106303,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842513354000957460/sprite-0827.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -106379,7 +106387,7 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842513391335374868/portrait-0828.png",
     "portrait_modified": "2021-04-09 19:38:01.223659",
     "portrait_pending": {},
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/828930934492495902/portrait_recolor-0828-0000-0001.png",
