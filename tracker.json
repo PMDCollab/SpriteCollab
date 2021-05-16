@@ -20231,12 +20231,10 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/840148167827390484/portrait-0135.png",
-    "portrait_modified": "2021-05-07 08:48:52.218076",
-    "portrait_pending": {
-      "843119652569219123": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/840148176757194762/portrait_recolor-0135-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/843369826771795988/portrait-0135.png",
+    "portrait_modified": "2021-05-16 06:10:35.583985",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
