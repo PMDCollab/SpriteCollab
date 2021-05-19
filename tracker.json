@@ -3305,7 +3305,7 @@
                 "modreward": false,
                 "name": "Female",
                 "portrait_bounty": {},
-                "portrait_complete": 1,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!200318546750865418>",
                 "portrait_files": {
                   "Normal": true
@@ -3356,16 +3356,29 @@
                 "modreward": false,
                 "name": "Female",
                 "portrait_bounty": {},
-                "portrait_complete": 1,
-                "portrait_credit": "CHUNSOFT",
+                "portrait_complete": 2,
+                "portrait_credit": "<@!593113130213572610>",
                 "portrait_files": {
-                  "Normal": true
+                  "Normal": true,
+                  "Sigh": false,
+                  "Joyous": false,
+                  "Sad": false,
+                  "Shouting": false,
+                  "Determined": false,
+                  "Pain": false,
+                  "Crying": false,
+                  "Teary-Eyed": false,
+                  "Dizzy": false,
+                  "Inspired": false,
+                  "Surprised": false,
+                  "Angry": false,
+                  "Worried": false,
+                  "Stunned": false,
+                  "Happy": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/838097968996941854/portrait-0019-0000-0000-0002.png",
-                "portrait_modified": "2020-10-13 04:45:20.001151",
-                "portrait_pending": {
-                  "844464088876056577": 764610870357131265
-                },
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844628911031582800/portrait-0019-0000-0000-0002.png",
+                "portrait_modified": "2021-05-19 17:33:44.510831",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
