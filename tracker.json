@@ -25090,12 +25090,10 @@
                   "Stunned": false,
                   "Happy": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844079021054230538/portrait-0166-0000-0000-0002.png",
-                "portrait_modified": "2021-05-18 05:08:40.584323",
-                "portrait_pending": {
-                  "844429003179032586": 764610870357131265
-                },
-                "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844079049008480266/portrait_recolor-0166-0000-0001-0002.png",
+                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844623556444422185/portrait-0166-0000-0000-0002.png",
+                "portrait_modified": "2021-05-19 17:12:27.863508",
+                "portrait_pending": {},
+                "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
                 "sprite_complete": 1,
