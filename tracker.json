@@ -91134,7 +91134,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629030480773120/sprite-0653.zip",
     "sprite_modified": "2021-05-19 17:34:13.141227",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629050249052180/sprite_recolor-0653-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -91214,8 +91214,10 @@
             },
             "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842803089588617276/sprite-0653-0000-0001.zip",
             "sprite_modified": "2021-05-14 16:38:34.913883",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_pending": {
+              "844629076504477696": 764610870357131265
+            },
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629074361974839/sprite_recolor-0653-0000-0001.png",
             "sprite_required": true,
             "subgroups": {}
           }
@@ -96393,14 +96395,14 @@
     "modreward": false,
     "name": "Bergmite",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "844365405950836746": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!150809243816165377>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629078232530964/portrait-0712.png",
+    "portrait_modified": "2021-05-19 17:34:24.534061",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
