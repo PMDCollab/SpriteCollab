@@ -54141,9 +54141,7 @@
     "canon": true,
     "modreward": false,
     "name": "Tropius",
-    "portrait_bounty": {
-      "2": 9
-    },
+    "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": "<@!702275233125630042>",
     "portrait_files": {
@@ -54167,7 +54165,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844937082181910528/portrait-0357.png",
     "portrait_modified": "2021-05-20 13:58:18.435993",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844937093783355412/portrait_recolor-0357-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -54229,7 +54227,7 @@
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:22.096980",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844937097324527616/portrait_recolor-0357-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -91210,12 +91208,10 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629030480773120/sprite-0653.zip",
-    "sprite_modified": "2021-05-19 17:34:13.141227",
-    "sprite_pending": {
-      "844631456622182421": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629050249052180/sprite_recolor-0653-0000-0001.png",
+    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/844937313519403008/sprite-0653.zip",
+    "sprite_modified": "2021-05-20 13:59:13.469267",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
       "0000": {
