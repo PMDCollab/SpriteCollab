@@ -77698,7 +77698,7 @@
     "modreward": false,
     "name": "Tepig",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
       "Normal": false,
@@ -77718,8 +77718,8 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "",
-    "portrait_modified": "2021-05-24 07:54:16.448204",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/846420576658784266/portrait-0498.png",
+    "portrait_modified": "2021-05-24 16:13:10.866274",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
