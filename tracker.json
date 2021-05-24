@@ -25220,9 +25220,7 @@
                 },
                 "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844693233517985882/portrait-0166-0000-0001-0002.png",
                 "portrait_modified": "2021-05-19 21:49:20.315721",
-                "portrait_pending": {
-                  "844429046435938314": 764610870357131265
-                },
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
@@ -29859,8 +29857,8 @@
                   "Stunned": false,
                   "Happy": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/845566671736406046/portrait-0198-0000-0000-0002.png",
-                "portrait_modified": "2021-05-22 07:40:04.292214",
+                "portrait_link": "",
+                "portrait_modified": "2021-05-24 07:54:12.652146",
                 "portrait_pending": {
                   "845714315880955913": 764610870357131265
                 },
@@ -77709,12 +77707,27 @@
     "name": "Tepig",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!150809243816165377>",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/843537733602508830/portrait-0498.png",
-    "portrait_modified": "2021-04-09 19:38:01.169804",
+    "portrait_link": "",
+    "portrait_modified": "2021-05-24 07:54:16.448204",
     "portrait_pending": {
       "845882899856883753": 764610870357131265
     },
@@ -77939,12 +77952,27 @@
     "name": "Oshawott",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "MUCRUSH",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/824491551962693682/portrait-0501.png",
-    "portrait_modified": "2021-03-16 02:58:52.828402",
+    "portrait_link": "",
+    "portrait_modified": "2021-05-24 07:54:17.168215",
     "portrait_pending": {
       "845884339362332682": 764610870357131265
     },
@@ -83665,7 +83693,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822229305375326248/portrait-0572.png",
     "portrait_modified": "2021-03-16 02:58:52.922153",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "846187913016115240": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -90949,12 +90979,27 @@
     "name": "Chespin",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!217899432652308480>",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822224323682631710/portrait-0650.png",
-    "portrait_modified": "2021-03-16 03:38:16.957287",
+    "portrait_link": "",
+    "portrait_modified": "2021-05-24 07:54:18.284231",
     "portrait_pending": {
       "845885965561626657": 764610870357131265
     },
@@ -91322,11 +91367,31 @@
               "EventSleep": false,
               "Wake": false,
               "Float": false,
-              "Laying": false
+              "Laying": false,
+              "Eat": false,
+              "Tumble": false,
+              "Pose": false,
+              "Pull": false,
+              "Pain": false,
+              "DeepBreath": false,
+              "Nod": false,
+              "Sit": false,
+              "LookUp": false,
+              "Sink": false,
+              "Trip": false,
+              "LeapForth": false,
+              "Head": false,
+              "Cringe": false,
+              "LostBalance": false,
+              "TumbleBack": false,
+              "Faint": false,
+              "HitGround": false
             },
-            "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842803089588617276/sprite-0653-0000-0001.zip",
-            "sprite_modified": "2021-05-14 16:38:34.913883",
-            "sprite_pending": {},
+            "sprite_link": "",
+            "sprite_modified": "2021-05-24 14:32:09.663179",
+            "sprite_pending": {
+              "846234416418390076": 764610870357131265
+            },
             "sprite_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844629074361974839/sprite_recolor-0653-0000-0001.png",
             "sprite_required": true,
             "subgroups": {}
