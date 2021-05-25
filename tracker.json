@@ -5111,7 +5111,7 @@
     "name": "Nidoran_F",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "<@!801938240562397194>",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -5128,13 +5128,14 @@
       "Stunned": false,
       "Surprised": false,
       "Teary-Eyed": false,
-      "Worried": false
+      "Worried": false,
+      "Special0": false,
+      "Special1": false,
+      "Special2": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823617682347130970/portrait-0029.png",
-    "portrait_modified": "2021-03-17 03:28:27.611148",
-    "portrait_pending": {
-      "846538299857174588": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/846822753054752828/portrait-0029.png",
+    "portrait_modified": "2021-05-25 18:51:17.126446",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -5189,7 +5190,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!702275233125630042>",
             "portrait_files": {
               "Normal": false,
