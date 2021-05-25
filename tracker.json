@@ -92943,14 +92943,15 @@
     "modreward": false,
     "name": "Florges",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/785385584528457760/portrait-0671.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "846486936322965575": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/846745445765742602/portrait-0671.png",
+    "portrait_modified": "2021-05-25 13:44:05.851265",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
