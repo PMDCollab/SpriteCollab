@@ -3378,12 +3378,10 @@
                   "Stunned": false,
                   "Happy": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844628911031582800/portrait-0019-0000-0000-0002.png",
-                "portrait_modified": "2021-05-19 17:33:44.510831",
-                "portrait_pending": {
-                  "846422457224658974": 764610870357131265
-                },
-                "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/844628921583796234/portrait_recolor-0019-0000-0001-0002.png",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/846745363821625364/portrait-0019-0000-0000-0002.png",
+                "portrait_modified": "2021-05-25 13:43:46.240403",
+                "portrait_pending": {},
+                "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
                 "sprite_complete": 0,
