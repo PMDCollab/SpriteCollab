@@ -34877,16 +34877,29 @@
     "name": "Teddiursa",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!637407338772299776>",
     "portrait_files": {
       "Normal": true,
-      "Normal^": true
+      "Normal^": true,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823437900229771284/portrait-0216.png",
-    "portrait_modified": "2020-10-13 04:45:21.289931",
-    "portrait_pending": {
-      "846767464809627688": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/847475062474801193/portrait-0216.png",
+    "portrait_modified": "2021-05-27 14:03:19.979570",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -34941,7 +34954,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!200385851069300736>",
             "portrait_files": {
               "Normal": false,
@@ -103849,7 +103862,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/847424393650896916/portrait-0789.png",
     "portrait_modified": "2021-03-16 03:38:17.418574",
     "portrait_pending": {},
     "portrait_recolor_link": "",
