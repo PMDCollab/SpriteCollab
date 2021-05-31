@@ -53520,7 +53520,7 @@
         "portrait_files": {
           "Normal": true
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/848782392546033684/portrait-0351-0002.png",
         "portrait_modified": "2020-10-13 04:45:22.057085",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -69500,7 +69500,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/848781941993504778/sprite-0450.zip",
     "sprite_modified": "2021-03-16 02:59:21.148964",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -94256,7 +94256,7 @@
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/805590815417565214/portrait_recolor-0679-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 1,
+    "sprite_complete": 2,
     "sprite_credit": "<@!702275233125630042>",
     "sprite_files": {
       "Walk": false,
@@ -94271,13 +94271,33 @@
       "Double": false,
       "Hop": false,
       "Charge": false,
-      "Rotate": false
+      "Rotate": false,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/844769773665517568/sprite-0679.zip",
-    "sprite_modified": "2021-05-20 02:53:28.939479",
-    "sprite_pending": {
-      "847132889967230990": 764610870357131265
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/848858775113039933/sprite-0679.zip",
+    "sprite_modified": "2021-05-31 09:41:42.691575",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -108072,7 +108092,9 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/805260801166409738/sprite-0835.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "848751100114108437": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
