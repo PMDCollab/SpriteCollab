@@ -96026,7 +96026,7 @@
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/841735425751253073/portrait_recolor-0699-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 1,
     "sprite_credit": "<@!356635814668664832>",
     "sprite_files": {
       "Walk": false,
@@ -96044,7 +96044,7 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/811696365154861066/sprite-0699.zip",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/848858789510774794/sprite-0699.zip",
     "sprite_modified": "2021-05-31 09:41:44.796042",
     "sprite_pending": {},
     "sprite_recolor_link": "",
