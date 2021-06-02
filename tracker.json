@@ -26197,9 +26197,7 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844637632730497094/portrait-0173-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.875041",
-            "portrait_pending": {
-              "797917070158463046": 767436242752110622
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -75690,7 +75688,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/845033381179162664/sprite-0489.zip",
     "sprite_modified": "2021-03-16 02:59:23.459779",
     "sprite_pending": {
-      "849539910494060574": 764610870357131265
+      "849719750586269727": 764610870357131265
     },
     "sprite_recolor_link": "",
     "sprite_required": true,
@@ -78401,9 +78399,7 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {
-              "849404705041940510": 764610870357131265
-            },
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
@@ -83743,9 +83739,7 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825725148245000222/sprite-0568.zip",
     "sprite_modified": "",
-    "sprite_pending": {
-      "849297140039942225": 764610870357131265
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -84006,9 +84000,7 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/821965479551303750/portrait-0571.png",
     "portrait_modified": "2021-03-16 02:58:52.921154",
-    "portrait_pending": {
-      "846468563211517982": 764610870357131265
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -85299,9 +85291,7 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/848373852047409152/sprite-0585.zip",
     "sprite_modified": "",
-    "sprite_pending": {
-      "849153188871405588": 764610870357131265
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -91599,9 +91589,7 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {
-              "849404733798350868": 764610870357131265
-            },
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
@@ -96733,11 +96721,13 @@
     "modreward": false,
     "name": "Sliggoo",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/849767513721012234/portrait-0705.png",
+    "portrait_modified": "2021-06-02 21:52:43.003888",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -97430,9 +97420,7 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/808409288144977937/sprite-0714.zip",
     "sprite_modified": "",
-    "sprite_pending": {
-      "848664046210121729": 764610870357131265
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -108215,9 +108203,7 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/805260801166409738/sprite-0835.zip",
     "sprite_modified": "",
-    "sprite_pending": {
-      "848751100114108437": 764610870357131265
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
