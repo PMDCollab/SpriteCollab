@@ -27116,9 +27116,7 @@
     "canon": true,
     "modreward": false,
     "name": "Ampharos",
-    "portrait_bounty": {
-      "2": 39
-    },
+    "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": "<@!182636701460594688>",
     "portrait_files": {
@@ -27142,7 +27140,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/850359132048982066/portrait-0181.png",
     "portrait_modified": "2021-06-04 13:03:35.841969",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/850359146489839657/portrait_recolor-0181-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -27204,8 +27202,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/826138745995788398/portrait-0181-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.947847",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "850359151414738944": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/850359150001258556/portrait_recolor-0181-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -63771,13 +63771,12 @@
       "Stunned": false,
       "Surprised": false,
       "Teary-Eyed": false,
-      "Worried": false
+      "Worried": false,
+      "Special2": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823589791806390342/portrait-0416.png",
-    "portrait_modified": "2021-03-17 03:28:27.627149",
-    "portrait_pending": {
-      "850302541472464926": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/850359321618546698/portrait-0416.png",
+    "portrait_modified": "2021-06-04 13:04:20.976181",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -63832,7 +63831,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!702275233125630042>",
             "portrait_files": {
               "Normal": false,
