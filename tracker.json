@@ -4398,7 +4398,7 @@
               "Teary-Eyed": false,
               "Worried": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/851475848456699994/portrait-0025-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.050020",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -4443,7 +4443,7 @@
               "Faint": false,
               "HitGround": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/851475450076463115/sprite-0025-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:58:54.844011",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -4502,7 +4502,7 @@
                   "Faint": false,
                   "HitGround": false
                 },
-                "sprite_link": "",
+                "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/851475736383979530/sprite-0025-0000-0001-0002.zip",
                 "sprite_modified": "2021-03-16 02:58:54.781179",
                 "sprite_pending": {},
                 "sprite_recolor_link": "",
@@ -20299,7 +20299,7 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/851658235194114058/sprite-0134-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:00.837977",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -26061,7 +26061,7 @@
               "Teary-Eyed": false,
               "Worried": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/851476280880529429/portrait-0172-0000-0001.png",
             "portrait_modified": "2021-03-17 03:28:27.615149",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -26085,7 +26085,7 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/851476202652172308/sprite-0172-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:03.484898",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -26271,7 +26271,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844013818199539712/portrait-0174.png",
     "portrait_modified": "2021-03-17 03:28:27.615149",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "851639537423876106": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -28717,8 +28719,8 @@
     "modreward": false,
     "name": "Sunflora",
     "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!724070439051329616>",
     "portrait_files": {
       "Angry": true,
       "Determined": true,
@@ -28730,13 +28732,16 @@
       "Stunned": true,
       "Surprised": true,
       "Teary-Eyed": true,
-      "Worried": true
+      "Worried": true,
+      "Sad": false,
+      "Shouting": false,
+      "Crying": false,
+      "Dizzy": false,
+      "Inspired": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823150242059780116/portrait-0192.png",
-    "portrait_modified": "2020-10-13 04:45:21.030625",
-    "portrait_pending": {
-      "851362644878819379": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/851662628966629436/portrait-0192.png",
+    "portrait_modified": "2021-06-08 03:23:13.720749",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -28800,7 +28805,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": {
               "Angry": false,
@@ -101390,9 +101395,7 @@
     "canon": true,
     "modreward": false,
     "name": "Lurantis",
-    "portrait_bounty": {
-      "1": 5
-    },
+    "portrait_bounty": {},
     "portrait_complete": 1,
     "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
