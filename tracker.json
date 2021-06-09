@@ -26305,13 +26305,13 @@
       "Special1": false,
       "Special1^": false,
       "Special3": false,
-      "Special3^": false
+      "Special3^": false,
+      "Special0^": false,
+      "Special0": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844013818199539712/portrait-0174.png",
-    "portrait_modified": "2021-03-17 03:28:27.615149",
-    "portrait_pending": {
-      "851639537423876106": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/852265167722643506/portrait-0174.png",
+    "portrait_modified": "2021-06-09 19:17:30.137857",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
