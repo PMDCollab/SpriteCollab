@@ -94147,13 +94147,12 @@
         "portrait_complete": 1,
         "portrait_credit": "<@!593113130213572610>",
         "portrait_files": {
-          "Normal": false
+          "Normal": false,
+          "Normal^": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/849312577418297373/portrait-0648-0001.png",
-        "portrait_modified": "2021-06-01 15:44:57.787379",
-        "portrait_pending": {
-          "852626810016366613": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/852640837116493844/portrait-0648-0001.png",
+        "portrait_modified": "2021-06-10 20:10:16.716441",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
