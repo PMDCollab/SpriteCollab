@@ -12710,7 +12710,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/853397323069390888/portrait-0077.png",
     "portrait_modified": "2021-06-12 22:16:17.043087",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/853397332782874664/portrait_recolor-0077-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -12771,8 +12771,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/831074197337800744/portrait-0077-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.382358",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "853397336658542602": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/853397335325147176/portrait_recolor-0077-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -101696,14 +101698,15 @@
     "modreward": false,
     "name": "Brionne",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/832279705579290624/portrait-0729.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "853378687952355358": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Joyous": false,
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/853406035456294922/portrait-0729.png",
+    "portrait_modified": "2021-06-12 22:50:54.240700",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
