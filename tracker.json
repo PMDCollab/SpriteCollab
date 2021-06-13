@@ -106466,14 +106466,14 @@
     "modreward": false,
     "name": "Drampa",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/805166641725177866/portrait-0780.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "853446164896808961": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/853508949143977984/portrait-0780.png",
+    "portrait_modified": "2021-06-13 05:39:50.806137",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
