@@ -13062,7 +13062,7 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854411756910411776/portrait-0078-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.385351",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -16138,7 +16138,7 @@
                 "portrait_files": {
                   "Normal": true
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854187787157766154/portrait-0097-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.484088",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -91566,11 +91566,14 @@
     "modreward": false,
     "name": "Golurk",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/851796434311577626/portrait-0623.png",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854416890280935454/portrait-0623.png",
+    "portrait_modified": "2021-06-15 17:47:40.826837",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -104913,7 +104916,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/854283063173447711/sprite-0761.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
