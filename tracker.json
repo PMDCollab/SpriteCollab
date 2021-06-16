@@ -25565,7 +25565,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/834936770733801532/portrait-0161.png",
     "portrait_modified": "2021-03-17 03:28:27.615149",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "854460761673957406": 764610870357131265
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/827232728621645824/portrait_recolor-0161-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -28659,7 +28661,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275713172373504/portrait-0183.png",
     "portrait_modified": "2021-05-13 05:42:58.618307",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "854438474656514068": 764610870357131265
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275722206117908/portrait_recolor-0183-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -94255,8 +94259,8 @@
       "Normal": false,
       "Normal^": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/852943589788352602/portrait-0648.png",
-    "portrait_modified": "2021-06-11 16:13:18.626160",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854595126017654834/portrait-0648.png",
+    "portrait_modified": "2021-06-16 05:35:55.495675",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -94298,7 +94302,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!273958644788363265>",
             "portrait_files": {
               "Normal": false,
@@ -101474,7 +101478,9 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787167785872654377/portrait-0724.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "854538392934416434": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
