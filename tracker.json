@@ -28667,7 +28667,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854948369578852392/portrait-0183.png",
     "portrait_modified": "2021-06-17 04:59:35.355061",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/854948383227641856/portrait_recolor-0183-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -28745,8 +28745,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/846822700327763988/portrait-0183-0000-0001.png",
             "portrait_modified": "2021-05-25 18:51:04.769138",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "854948387405430824": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/854948386017247232/portrait_recolor-0183-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -59440,14 +59442,13 @@
       "Angry": false,
       "Worried": false,
       "Stunned": false,
-      "Happy": false
+      "Happy": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/852382307851829298/portrait-0378.png",
-    "portrait_modified": "2021-06-10 03:02:58.554204",
-    "portrait_pending": {
-      "854605208578686986": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/852382323886260244/portrait_recolor-0378-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854948544892370944/portrait-0378.png",
+    "portrait_modified": "2021-06-17 05:00:17.137913",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -59503,7 +59504,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": {
               "Normal": false,
