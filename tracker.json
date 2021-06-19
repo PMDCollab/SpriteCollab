@@ -116223,14 +116223,15 @@
     "modreward": false,
     "name": "Arctozolt",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/836133432694145097/portrait-0881.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "855794789303713822": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!479369543958003731>",
+    "portrait_files": {
+      "Normal": false,
+      "Happy": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855835697079124008/portrait-0881.png",
+    "portrait_modified": "2021-06-19 15:45:30.582077",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
