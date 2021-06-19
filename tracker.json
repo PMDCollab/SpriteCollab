@@ -21413,7 +21413,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/843369826771795988/portrait-0135.png",
     "portrait_modified": "2021-05-16 06:10:35.583985",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "855699798636101653": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -26862,7 +26864,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855815118524776498/portrait-0169.png",
     "portrait_modified": "2020-10-13 04:45:20.860081",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -75292,7 +75294,7 @@
               "Teary-Eyed": false,
               "Worried": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855772895568855050/portrait-0470-0000-0001.png",
             "portrait_modified": "2021-03-16 03:38:16.128445",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -75437,7 +75439,7 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855772997310742558/portrait-0471-0000-0001.png",
             "portrait_modified": "2021-03-31 06:13:52.934144",
             "portrait_pending": {},
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/826704289044627506/portrait_recolor-0471-0000-0001.png",
@@ -115210,11 +115212,13 @@
     "modreward": false,
     "name": "Falinks",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806014847480496158/portrait-0870.png",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855832405368635423/portrait-0870.png",
+    "portrait_modified": "2021-06-19 15:32:25.921110",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -116224,7 +116228,9 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/836133432694145097/portrait-0881.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "855794789303713822": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
