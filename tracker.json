@@ -62005,7 +62005,7 @@
     "name": "Chimchar",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
       "Angry": true,
       "Angry^": true,
@@ -62038,13 +62038,12 @@
       "Teary-Eyed": true,
       "TearyEyed^": true,
       "Worried": true,
-      "Worried^": true
+      "Worried^": true,
+      "Teary-Eyed^": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/831293915688206396/portrait-0390.png",
-    "portrait_modified": "2020-10-13 04:45:22.325369",
-    "portrait_pending": {
-      "856015559456194582": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/856116704094191626/portrait-0390.png",
+    "portrait_modified": "2021-06-20 10:22:07.994886",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -62121,7 +62120,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": {
               "Angry": false,
