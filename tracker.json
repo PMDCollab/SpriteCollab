@@ -62284,14 +62284,16 @@
       "Joyous^": false,
       "Worried": false,
       "Stunned": false,
-      "Happy": false
+      "Happy": false,
+      "Angry^": false,
+      "Shouting^": false,
+      "Pain^": false,
+      "Worried^": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/856008856283119616/portrait-0391.png",
-    "portrait_modified": "2021-06-20 03:13:35.075033",
-    "portrait_pending": {
-      "856299115138908160": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/856008864440123413/portrait_recolor-0391-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/856564208871276614/portrait-0391.png",
+    "portrait_modified": "2021-06-21 16:00:21.430074",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -109582,7 +109584,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/856564122564821012/portrait-0795.png",
     "portrait_modified": "2021-06-21 16:00:00.857148",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/856564136841707571/portrait_recolor-0795-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {
       "1": 15
@@ -109646,8 +109648,10 @@
             },
             "portrait_link": "",
             "portrait_modified": "2021-03-29 23:50:48.115730",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "856564143460188160": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/856564141225803805/portrait_recolor-0795-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 0,
