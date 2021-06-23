@@ -30482,7 +30482,7 @@
     "name": "Sunkern",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "MEEP_THE_MAREEP",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -30500,13 +30500,12 @@
       "Stunned": false,
       "Surprised": false,
       "Teary-Eyed": false,
-      "Worried": false
+      "Worried": false,
+      "Special2": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/848376517149982730/portrait-0191.png",
-    "portrait_modified": "2021-03-17 03:28:27.619148",
-    "portrait_pending": {
-      "856305477943296001": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857089328194125904/portrait-0191.png",
+    "portrait_modified": "2021-06-23 02:46:59.679287",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -80350,7 +80349,7 @@
         "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857089297403084840/portrait-0493-0003.png",
         "portrait_modified": "2021-06-23 02:46:52.340787",
         "portrait_pending": {},
-        "portrait_recolor_link": "",
+        "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/857089305859063809/portrait_recolor-0493-0003-0001.png",
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 0,
@@ -80374,8 +80373,10 @@
             },
             "portrait_link": "",
             "portrait_modified": "2021-03-16 03:38:16.421667",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "857089310107762688": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/857089308513927168/portrait_recolor-0493-0003-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 0,
