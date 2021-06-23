@@ -1553,9 +1553,7 @@
         "portrait_files": {},
         "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779533630388305970/portrait-0006-0001.png",
         "portrait_modified": "",
-        "portrait_pending": {
-          "857148989468180530": 764610870357131265
-        },
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -28485,7 +28483,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/857323908708433970/sprite-0176.zip",
     "sprite_modified": "2021-06-23 18:19:07.994251",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/857323928393613382/sprite_recolor-0176-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -28561,8 +28559,10 @@
             },
             "sprite_link": "",
             "sprite_modified": "2021-03-16 02:59:03.726253",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_pending": {
+              "857323946882236427": 764610870357131265
+            },
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/857323945677160519/sprite_recolor-0176-0000-0001.png",
             "sprite_required": true,
             "subgroups": {}
           }
@@ -80119,7 +80119,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/828008930286108690/sprite-0492-0001.zip",
         "sprite_modified": "2021-03-16 02:59:23.649274",
         "sprite_pending": {
-          "857071656212103218": 764610870357131265
+          "857328350804443156": 764610870357131265
         },
         "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/851688514894168074/sprite_recolor-0492-0001-0001.png",
         "sprite_required": true,
@@ -83139,16 +83139,29 @@
     "modreward": false,
     "name": "Pansage",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857162404293902356/portrait-0511.png",
-    "portrait_modified": "2021-03-16 02:58:52.840370",
-    "portrait_pending": {
-      "857319557366677554": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857330559054381106/portrait-0511.png",
+    "portrait_modified": "2021-06-23 18:45:33.541177",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
