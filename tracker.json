@@ -95378,14 +95378,14 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857610316284559380/portrait-0641-0000-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "857619600476995604": 764610870357131265
+            "portrait_complete": 1,
+            "portrait_credit": "<@!593113130213572610>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857643726410350612/portrait-0641-0000-0001.png",
+            "portrait_modified": "2021-06-24 15:29:58.475389",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -114192,9 +114192,7 @@
     "canon": true,
     "modreward": false,
     "name": "Guzzlord",
-    "portrait_bounty": {
-      "1": 4
-    },
+    "portrait_bounty": {},
     "portrait_complete": 1,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
