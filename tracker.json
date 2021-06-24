@@ -53796,9 +53796,7 @@
     "canon": true,
     "modreward": false,
     "name": "Cacnea",
-    "portrait_bounty": {
-      "2": 50
-    },
+    "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
@@ -53822,7 +53820,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857428408497864735/portrait-0331.png",
     "portrait_modified": "2021-06-24 01:14:22.694267",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/857428416869564436/portrait_recolor-0331-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -53884,7 +53882,7 @@
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:21.952365",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/857428419825762314/portrait_recolor-0331-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -121455,14 +121453,14 @@
     "modreward": false,
     "name": "Eiscue",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801550627813326868/portrait-0875.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "857419014300368916": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857428473312051270/portrait-0875.png",
+    "portrait_modified": "2021-06-24 01:14:38.134456",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
