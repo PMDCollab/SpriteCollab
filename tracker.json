@@ -26604,7 +26604,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857644098696249384/portrait-0164.png",
     "portrait_modified": "2020-10-13 04:45:20.832156",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -43137,16 +43137,29 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "<@!276949114212712449>",
+            "portrait_complete": 2,
+            "portrait_credit": "<@!593113130213572610>",
             "portrait_files": {
-              "Normal": false
+              "Normal": false,
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857567326425448488/portrait-0256-0000-0001.png",
-            "portrait_modified": "2020-10-13 04:45:21.542459",
-            "portrait_pending": {
-              "857621827219619860": 764610870357131265
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857646251067179048/portrait-0256-0000-0001.png",
+            "portrait_modified": "2021-06-24 15:40:00.417009",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -113776,9 +113789,7 @@
     "canon": true,
     "modreward": false,
     "name": "Buzzwole",
-    "portrait_bounty": {
-      "1": 4
-    },
+    "portrait_bounty": {},
     "portrait_complete": 1,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
