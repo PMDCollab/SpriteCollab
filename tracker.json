@@ -5584,11 +5584,13 @@
         "portrait_bounty": {
           "1": 5
         },
-        "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787629450959126558/portrait-0027-0001.png",
-        "portrait_modified": "",
+        "portrait_complete": 1,
+        "portrait_credit": "<@!356635814668664832>",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857480621702119464/portrait-0027-0001.png",
+        "portrait_modified": "2021-06-24 04:41:51.323749",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
