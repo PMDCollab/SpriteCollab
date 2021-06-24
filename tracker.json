@@ -95913,12 +95913,12 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!593113130213572610>",
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857643772456206346/portrait-0645-0001-0001.png",
             "portrait_modified": "2021-06-24 15:30:07.863815",
             "portrait_pending": {},
             "portrait_recolor_link": "",
