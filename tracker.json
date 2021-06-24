@@ -5581,9 +5581,7 @@
         "canon": true,
         "modreward": false,
         "name": "Alola",
-        "portrait_bounty": {
-          "1": 5
-        },
+        "portrait_bounty": {},
         "portrait_complete": 1,
         "portrait_credit": "<@!356635814668664832>",
         "portrait_files": {
@@ -114646,14 +114644,26 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842425322704207882/sprite-0802.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "855637129745006612": 764610870357131265
+    "sprite_complete": 1,
+    "sprite_credit": "<@!702275233125630042>",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "Twirl": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/857480639087640607/sprite-0802.zip",
+    "sprite_modified": "2021-06-24 04:41:55.398878",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
