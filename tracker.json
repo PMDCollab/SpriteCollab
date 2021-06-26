@@ -99044,14 +99044,14 @@
     "modreward": false,
     "name": "Scatterbug",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858367720126283786/portrait-0664.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "858403907813900318": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858476424682536970/portrait-0664.png",
+    "portrait_modified": "2021-06-26 22:38:49.270519",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
