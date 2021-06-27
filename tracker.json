@@ -99133,14 +99133,14 @@
     "modreward": false,
     "name": "Spewpa",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858367778989932544/portrait-0665.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "858396684903907328": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!356635814668664832>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858517755036303370/portrait-0665.png",
+    "portrait_modified": "2021-06-27 01:23:03.169381",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
