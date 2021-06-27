@@ -2437,15 +2437,15 @@
     "name": "Metapod",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Pain": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857579866780860416/portrait-0011.png",
-    "portrait_modified": "2020-10-13 04:45:19.972229",
-    "portrait_pending": {
-      "858722840282923018": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858776856248975390/portrait-0011.png",
+    "portrait_modified": "2021-06-27 18:32:37.710260",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -2500,7 +2500,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!234720295292895232>",
             "portrait_files": {
               "Normal": false
