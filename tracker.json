@@ -44587,7 +44587,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859097820175138836/portrait-0262.png",
     "portrait_modified": "2021-06-28 15:48:01.453950",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/859097833448800276/portrait_recolor-0262-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -44648,8 +44648,10 @@
             },
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:21.585346",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "859097838478032936": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/859097836415090718/portrait_recolor-0262-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -106643,7 +106645,7 @@
     "name": "Yveltal",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!533406104256905257>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -106661,13 +106663,13 @@
       "Stunned": false,
       "Surprised": false,
       "Teary-Eyed": false,
-      "Worried": false
+      "Worried": false,
+      "Special0": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822059463531823114/portrait-0717.png",
-    "portrait_modified": "2021-03-16 03:38:17.157225",
-    "portrait_pending": {
-      "859094126658191410": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859097916996190229/portrait-0717.png",
+    "portrait_modified": "2021-06-28 15:48:24.425459",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -106708,7 +106710,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": {
               "Angry": false,
