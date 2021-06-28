@@ -91069,7 +91069,7 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
-        "sprite_complete": 0,
+        "sprite_complete": 1,
         "sprite_credit": "<@!356635814668664832>",
         "sprite_files": {
           "Walk": false,
@@ -91086,7 +91086,7 @@
           "Charge": false,
           "Rotate": false
         },
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/858883674429849650/sprite-0585-0003.zip",
         "sprite_modified": "2021-06-28 01:37:04.083105",
         "sprite_pending": {},
         "sprite_recolor_link": "",
