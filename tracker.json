@@ -41994,7 +41994,7 @@
     "name": "Lugia",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!533406104256905257>",
+    "portrait_credit": "<@!215504160991346689>",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -42014,12 +42014,10 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/822059109448548362/portrait-0249.png",
-    "portrait_modified": "2021-03-17 03:28:27.619148",
-    "portrait_pending": {
-      "859156500375535636": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/858524487212072990/portrait_recolor-0249-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859165403095105566/portrait-0249.png",
+    "portrait_modified": "2021-06-28 20:16:34.464605",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -42074,7 +42072,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!533406104256905257>",
             "portrait_files": {
               "Normal": false,
