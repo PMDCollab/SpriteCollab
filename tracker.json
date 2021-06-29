@@ -91301,14 +91301,14 @@
         "modreward": false,
         "name": "Autumn",
         "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "859179817106276442": 764610870357131265
+        "portrait_complete": 1,
+        "portrait_credit": "<@!544245909639397378>",
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859422276741890068/portrait-0586-0002.png",
+        "portrait_modified": "2021-06-29 13:17:17.978291",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
