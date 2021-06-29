@@ -39770,7 +39770,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859446908916596796/portrait-0232.png",
     "portrait_modified": "2021-06-29 14:55:10.682595",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/859446917762252830/portrait_recolor-0232-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -39898,8 +39898,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/852035496800550942/portrait-0232-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:21.381197",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "859460328836694036": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/859446920685289512/portrait_recolor-0232-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -40974,7 +40976,7 @@
     "name": "Miltank",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!157339721729572864>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -40991,10 +40993,11 @@
       "Stunned": false,
       "Surprised": false,
       "Teary-Eyed": false,
-      "Worried": false
+      "Worried": false,
+      "Special0": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/850460929036386355/portrait-0241.png",
-    "portrait_modified": "2021-03-17 03:28:27.619148",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859469795753984000/portrait-0241.png",
+    "portrait_modified": "2021-06-29 16:26:07.365699",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -41051,7 +41054,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!157339721729572864>",
             "portrait_files": {
               "Normal": false,
