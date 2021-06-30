@@ -11339,7 +11339,9 @@
     "canon": true,
     "modreward": false,
     "name": "Kadabra",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 10
+    },
     "portrait_complete": 1,
     "portrait_credit": "<@!327927398941196289>",
     "portrait_files": {
@@ -13572,7 +13574,7 @@
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859541776368795708/portrait-0078-0001.png",
         "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -47781,7 +47783,9 @@
     "canon": true,
     "modreward": false,
     "name": "Shroomish",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 10
+    },
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
     "portrait_files": {
@@ -54845,7 +54849,9 @@
     "canon": true,
     "modreward": false,
     "name": "Zangoose",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 10
+    },
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
     "portrait_files": {
@@ -78669,13 +78675,28 @@
     "modreward": false,
     "name": "Uxie",
     "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858098856692023316/portrait-0480.png",
-    "portrait_modified": "2020-10-13 04:45:22.970642",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859594417610424341/portrait-0480.png",
+    "portrait_modified": "2021-06-30 00:41:19.535098",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -78732,7 +78753,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!200318546750865418>",
             "portrait_files": {
               "Normal": false
@@ -97642,7 +97663,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "sprite_bounty": {},
+    "sprite_bounty": {
+      "1": 15
+    },
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
@@ -102090,7 +102113,9 @@
     "canon": true,
     "modreward": false,
     "name": "Furfrou",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "2": 15
+    },
     "portrait_complete": 1,
     "portrait_credit": "<@!196351316681818112>",
     "portrait_files": {
@@ -102102,7 +102127,7 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {
-      "1": 5
+      "1": 16
     },
     "sprite_complete": 0,
     "sprite_credit": "",
