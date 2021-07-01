@@ -117902,14 +117902,14 @@
     "modreward": false,
     "name": "Greedent",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859920366155595816/portrait-0820.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "859920792186519582": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859964497215881246/portrait-0820.png",
+    "portrait_modified": "2021-07-01 01:11:53.332287",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
