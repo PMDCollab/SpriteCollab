@@ -55085,7 +55085,7 @@
     "name": "Seviper",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!294668186219970562>",
+    "portrait_credit": "<@!283571466891427841>",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -55094,13 +55094,13 @@
       "Sad": false,
       "Sad^": false,
       "Sigh": false,
-      "Sigh^": false
+      "Sigh^": false,
+      "Surprised^": false,
+      "Surprised": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827009751769415701/portrait-0336.png",
-    "portrait_modified": "2021-03-17 03:28:27.623148",
-    "portrait_pending": {
-      "859839814899204156": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860355910080528394/portrait-0336.png",
+    "portrait_modified": "2021-07-02 03:07:13.502407",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
