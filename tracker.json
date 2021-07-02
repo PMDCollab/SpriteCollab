@@ -3295,15 +3295,14 @@
     "name": "Pidgeotto",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!283571466891427841>",
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859777490050613268/portrait-0017.png",
-    "portrait_modified": "2020-10-13 04:45:19.994169",
-    "portrait_pending": {
-      "859837152581255228": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860355940371791882/portrait-0017.png",
+    "portrait_modified": "2021-07-02 03:07:20.639788",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -3358,7 +3357,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": {
               "Normal": false
