@@ -46690,18 +46690,17 @@
     "name": "Shiftry",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Happy": true,
       "Normal": true,
       "Shocked": true,
-      "Teary-Eyed": true
+      "Teary-Eyed": true,
+      "Surprised": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844632031127404614/portrait-0275.png",
-    "portrait_modified": "2020-10-13 04:45:21.654161",
-    "portrait_pending": {
-      "860531734247899156": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861129217731461120/portrait-0275.png",
+    "portrait_modified": "2021-07-04 06:20:04.412325",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -46823,7 +46822,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": {
               "Happy": false,
@@ -85383,7 +85382,9 @@
             "portrait_files": {},
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "861115634318573638": 764610870357131265
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -89627,7 +89628,9 @@
             "portrait_files": {},
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860688767358468096/portrait-0566-0000-0001.png",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "861116061481959444": 764610870357131265
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
