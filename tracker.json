@@ -46831,9 +46831,7 @@
             },
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:21.651171",
-            "portrait_pending": {
-              "861129232582311966": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861129230296678400/portrait_recolor-0275-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -50358,7 +50356,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825140412972531772/portrait-0303.png",
     "portrait_modified": "2020-10-13 04:45:21.814734",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "861362107046952980": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -62639,7 +62639,9 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859955270439403540/portrait-0386-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:22.235609",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "861136759529537536": 764610870357131265
+            },
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/829742611370737674/portrait_recolor-0386-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -62965,9 +62967,11 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861133352387477514/portrait-0386-0003-0001.png",
             "portrait_modified": "2020-10-13 04:45:22.243586",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "861133354278846494": 764610870357131265
+            },
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/829742623145197608/portrait_recolor-0386-0003-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -81557,14 +81561,50 @@
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": "",
-        "sprite_files": {},
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/860585587047006218/sprite-0492-0002.zip",
-        "sprite_modified": "",
-        "sprite_pending": {
-          "860585822713675826": 764610870357131265
+        "sprite_complete": 2,
+        "sprite_credit": "<@!356635814668664832>",
+        "sprite_files": {
+          "Walk": false,
+          "Attack": false,
+          "Strike": false,
+          "Shoot": false,
+          "Appeal": false,
+          "TailWhip": false,
+          "Shake": false,
+          "Sleep": false,
+          "Hurt": false,
+          "Idle": false,
+          "Swing": false,
+          "Double": false,
+          "Hop": false,
+          "Charge": false,
+          "Rotate": false,
+          "EventSleep": false,
+          "Wake": false,
+          "Eat": false,
+          "Tumble": false,
+          "Pose": false,
+          "Pull": false,
+          "Pain": false,
+          "Float": false,
+          "DeepBreath": false,
+          "Nod": false,
+          "Sit": false,
+          "LookUp": false,
+          "Sink": false,
+          "Trip": false,
+          "Laying": false,
+          "LeapForth": false,
+          "Head": false,
+          "Cringe": false,
+          "LostBalance": false,
+          "TumbleBack": false,
+          "Faint": false,
+          "HitGround": false
         },
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/861365318101893160/sprite-0492-0002.zip",
+        "sprite_modified": "2021-07-04 21:58:15.060557",
+        "sprite_pending": {},
         "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
@@ -91627,7 +91667,9 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "861140359790723103": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
@@ -91724,7 +91766,9 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "861140426434412554": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
@@ -91821,7 +91865,9 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "861140495538585611": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
