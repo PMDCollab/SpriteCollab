@@ -50339,8 +50339,8 @@
     "modreward": false,
     "name": "Mawile",
     "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
       "Angry": true,
       "Happy": true,
@@ -50348,13 +50348,20 @@
       "Normal": true,
       "Sigh": true,
       "Surprised": true,
-      "Worried": true
+      "Worried": true,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825140412972531772/portrait-0303.png",
-    "portrait_modified": "2020-10-13 04:45:21.814734",
-    "portrait_pending": {
-      "861362107046952980": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861368033247625256/portrait-0303.png",
+    "portrait_modified": "2021-07-04 22:09:02.452621",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -50409,7 +50416,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": {
               "Angry": false,
@@ -81619,7 +81626,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/861365318101893160/sprite-0492-0002.zip",
         "sprite_modified": "2021-07-04 21:58:15.060557",
         "sprite_pending": {},
-        "sprite_recolor_link": "",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861366482332155914/sprite_recolor-0492-0002-0001.png",
         "sprite_required": true,
         "subgroups": {
           "0001": {
