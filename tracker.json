@@ -84408,14 +84408,25 @@
     "sprite_bounty": {
       "1": 3
     },
-    "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/851236269622951956/sprite-0502.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "860923415883284480": 764610870357131265
+    "sprite_complete": 1,
+    "sprite_credit": "<@!702275233125630042>",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762529842561074/sprite-0502.zip",
+    "sprite_modified": "2021-07-06 00:16:37.726305",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -108183,7 +108194,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762495673139229/portrait-0720.png",
     "portrait_modified": "2021-07-06 00:16:29.640866",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762504227946526/portrait_recolor-0720-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 0,
@@ -108230,8 +108241,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/856256883648102430/portrait-0720-0000-0001.png",
             "portrait_modified": "2021-06-20 19:39:09.424592",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "861762508095356938": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762506602709002/portrait_recolor-0720-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 0,
