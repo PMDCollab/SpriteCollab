@@ -125010,14 +125010,14 @@
     "modreward": false,
     "name": "Duraludon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860622606335606865/portrait-0884.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "861989370357874699": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862002567382433802/portrait-0884.png",
+    "portrait_modified": "2021-07-06 16:10:27.169309",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
