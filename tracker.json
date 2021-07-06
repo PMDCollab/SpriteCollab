@@ -64128,9 +64128,7 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857131942357368853/portrait-0392-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:22.333347",
-            "portrait_pending": {
-              "861762400662716437": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762399438766100/portrait_recolor-0392-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -118631,14 +118629,15 @@
     "modreward": false,
     "name": "Skwovet",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/787824140970885130/portrait-0819.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "860072770313650176": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Special0": false,
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762480283320360/portrait-0819.png",
+    "portrait_modified": "2021-07-06 00:16:25.971066",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
