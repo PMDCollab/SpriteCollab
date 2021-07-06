@@ -61786,7 +61786,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827110954000842752/portrait-0381.png",
     "portrait_modified": "2020-10-13 04:45:22.215662",
     "portrait_pending": {
-      "861675302521536552": 764610870357131265
+      "861750892792774656": 764610870357131265
     },
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -68812,14 +68812,29 @@
             "modreward": true,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "861617927459700756": 764610870357131265
+            "portrait_complete": 2,
+            "portrait_credit": "<@!593113130213572610>",
+            "portrait_files": {
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Normal": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762307952607252/portrait-0418-0001-0001.png",
+            "portrait_modified": "2021-07-06 00:15:44.851390",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -83602,7 +83617,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/822011602223890452/sprite-0495.zip",
     "sprite_modified": "2021-03-16 03:38:18.257840",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861708049428643850/sprite_recolor-0495-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
