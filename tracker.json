@@ -124506,14 +124506,14 @@
     "modreward": false,
     "name": "Cufant",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860622036631027723/portrait-0878.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "861997050341228554": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862002610450071582/portrait-0878.png",
+    "portrait_modified": "2021-07-06 16:10:37.423891",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
