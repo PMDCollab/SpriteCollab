@@ -124582,14 +124582,14 @@
     "modreward": false,
     "name": "Copperajah",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860622092319981578/portrait-0879.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "861999837414293504": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862002641978392596/portrait-0879.png",
+    "portrait_modified": "2021-07-06 16:10:44.950050",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
