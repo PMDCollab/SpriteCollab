@@ -61965,14 +61965,14 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "861618306354774096": 764610870357131265
+            "portrait_complete": 1,
+            "portrait_credit": "<@!593113130213572610>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762413866516500/portrait-0381-0001-0001.png",
+            "portrait_modified": "2021-07-06 00:16:10.058009",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -64066,7 +64066,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762386427641876/portrait-0392.png",
     "portrait_modified": "2021-07-06 00:16:03.555488",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762396216623129/portrait_recolor-0392-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -64128,8 +64128,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/857131942357368853/portrait-0392-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:22.333347",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "861762400662716437": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762399438766100/portrait_recolor-0392-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
