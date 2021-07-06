@@ -108174,15 +108174,15 @@
     "name": "Hoopa",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!593113130213572610>",
+    "portrait_credit": "<@!215504160991346689>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sad": false,
+      "Angry": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/849675818194960495/portrait-0720.png",
-    "portrait_modified": "2021-06-02 15:48:21.096556",
-    "portrait_pending": {
-      "859192852399652874": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861762495673139229/portrait-0720.png",
+    "portrait_modified": "2021-07-06 00:16:29.640866",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -108223,7 +108223,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!593113130213572610>",
             "portrait_files": {
               "Normal": false
