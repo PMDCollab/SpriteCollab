@@ -64443,7 +64443,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862406913828716594/portrait-0394.png",
     "portrait_modified": "2021-07-07 18:57:10.830110",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/862406923599872000/portrait_recolor-0394-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -64505,8 +64505,10 @@
             },
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:22.360274",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "862406927685648404": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/862406926343077888/portrait_recolor-0394-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -68580,7 +68582,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/825327653401002014/portrait-0417.png",
     "portrait_modified": "2020-10-13 04:45:22.580686",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "862416732734750801": 764610870357131265
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/788117352197390336/portrait_recolor-0417-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -87756,7 +87760,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855288844505317406/portrait-0540.png",
     "portrait_modified": "2021-03-16 02:58:52.879266",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "862414895638642758": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -125003,14 +125009,14 @@
     "modreward": false,
     "name": "Arctovish",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/836133406151934012/portrait-0883.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "861981837873643546": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862418134023929896/portrait-0883.png",
+    "portrait_modified": "2021-07-07 19:41:46.011948",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
