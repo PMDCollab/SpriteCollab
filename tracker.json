@@ -84028,13 +84028,12 @@
       "Angry": false,
       "Worried": false,
       "Stunned": false,
-      "Happy": false
+      "Happy": false,
+      "Special0": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860355824358653982/portrait-0497.png",
-    "portrait_modified": "2021-07-02 03:06:52.993606",
-    "portrait_pending": {
-      "862047102716215337": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862418250234462295/portrait-0497.png",
+    "portrait_modified": "2021-07-07 19:42:13.666822",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
