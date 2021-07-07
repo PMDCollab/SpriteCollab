@@ -85004,16 +85004,14 @@
     "modreward": false,
     "name": "Herdier",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/854806362038468698/portrait-0507.png",
-    "portrait_modified": "2021-03-16 02:58:52.835383",
-    "portrait_pending": {
-      "862047960951160882": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862418261379776522/portrait-0507.png",
+    "portrait_modified": "2021-07-07 19:42:16.356478",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
