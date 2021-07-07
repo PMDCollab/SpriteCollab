@@ -120965,14 +120965,14 @@
     "modreward": false,
     "name": "Flapple",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806014769831084072/portrait-0841.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "862004011225579561": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862418144093274169/portrait-0841.png",
+    "portrait_modified": "2021-07-07 19:41:48.383533",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
