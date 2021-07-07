@@ -37511,14 +37511,14 @@
       "Teary-Eyed": false,
       "Teary-Eyed^": false,
       "Worried": false,
-      "Worried^": false
+      "Worried^": false,
+      "Special0^": false,
+      "Special0": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823611668943863848/portrait-0215.png",
-    "portrait_modified": "2021-03-17 03:28:27.619148",
-    "portrait_pending": {
-      "862055200645447710": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/803012287069552640/portrait_recolor-0215-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862418276427235340/portrait-0215.png",
+    "portrait_modified": "2021-07-07 19:42:19.908741",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
