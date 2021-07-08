@@ -87793,16 +87793,19 @@
     "modreward": false,
     "name": "Sewaddle",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sad": false,
+      "Happy^": false,
+      "Sad^": false,
+      "Normal^": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/855288844505317406/portrait-0540.png",
-    "portrait_modified": "2021-03-16 02:58:52.879266",
-    "portrait_pending": {
-      "862414895638642758": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862508484842094592/portrait-0540.png",
+    "portrait_modified": "2021-07-08 01:40:47.265328",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
