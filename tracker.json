@@ -98803,16 +98803,14 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 1,
-            "portrait_credit": "<@!273958644788363265>",
+            "portrait_credit": "<@!356635814668664832>",
             "portrait_files": {
               "Normal": false,
               "Normal^": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862049455087550464/portrait-0648-0001-0001.png",
-            "portrait_modified": "2021-07-06 19:16:46.049786",
-            "portrait_pending": {
-              "862023345381441566": 764610870357131265
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862508476327788585/portrait-0648-0001-0001.png",
+            "portrait_modified": "2021-07-08 01:40:45.260318",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
