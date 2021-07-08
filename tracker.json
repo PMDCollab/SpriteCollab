@@ -85226,7 +85226,9 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/823626612137918539/sprite-0509.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "862443344482271253": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -120144,14 +120146,14 @@
     "modreward": false,
     "name": "Chewtle",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "862002376373698610": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "EZERART",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862508464983113798/portrait-0833.png",
+    "portrait_modified": "2021-07-08 01:40:42.541487",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
