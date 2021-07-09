@@ -84614,16 +84614,14 @@
     "modreward": false,
     "name": "Dewott",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/828490259825950740/portrait-0502.png",
-    "portrait_modified": "2021-03-16 02:58:52.830397",
-    "portrait_pending": {
-      "862804534513106974": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862893798887653406/portrait-0502.png",
+    "portrait_modified": "2021-07-09 03:11:53.300165",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -84677,7 +84675,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!573283158674505749>",
             "portrait_files": {
               "Normal": false
@@ -103315,9 +103313,7 @@
     "canon": true,
     "modreward": false,
     "name": "Furfrou",
-    "portrait_bounty": {
-      "2": 15
-    },
+    "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": "<@!555360707617488904>",
     "portrait_files": {
