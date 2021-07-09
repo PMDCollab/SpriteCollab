@@ -63493,7 +63493,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862893721715343370/portrait-0388.png",
     "portrait_modified": "2021-07-09 03:11:34.898612",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/862893731091185664/portrait_recolor-0388-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -63556,7 +63556,7 @@
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:22.268520",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/862893733729140736/portrait_recolor-0388-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -103318,16 +103318,30 @@
     "portrait_bounty": {
       "2": 15
     },
-    "portrait_complete": 1,
-    "portrait_credit": "<@!196351316681818112>",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!555360707617488904>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Special3": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/839718285292732446/portrait-0676.png",
-    "portrait_modified": "2021-05-04 20:06:04.280246",
-    "portrait_pending": {
-      "862835177382084608": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/862893777591992350/portrait-0676.png",
+    "portrait_modified": "2021-07-09 03:11:48.262968",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {
