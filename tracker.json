@@ -19995,7 +19995,7 @@
       "Normal": true,
       "Normal^": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863127626562404372/portrait-0120.png",
     "portrait_modified": "2020-10-13 04:45:20.591799",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -20102,7 +20102,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863127690391060520/portrait-0121.png",
     "portrait_modified": "2020-10-13 04:45:20.594790",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -123887,14 +123887,15 @@
     "modreward": false,
     "name": "Alcremie",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801442863665381396/portrait-0869.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "863107629848854568": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!356635814668664832>",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863136785487364106/portrait-0869.png",
+    "portrait_modified": "2021-07-09 19:17:25.843286",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
