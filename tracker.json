@@ -7961,8 +7961,8 @@
         "modreward": false,
         "name": "Mama",
         "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": "CHUNSOFT",
+        "portrait_complete": 2,
+        "portrait_credit": "<@!237286997645983744>",
         "portrait_files": {
           "Crying": false,
           "Happy": false,
@@ -7973,13 +7973,21 @@
           "Stunned": false,
           "Surprised": false,
           "Teary-Eyed": false,
-          "Worried": false
+          "Worried": false,
+          "Joyous": false,
+          "Shouting": false,
+          "Determined": false,
+          "Pain": false,
+          "Special3": false,
+          "Special0": false,
+          "Dizzy": false,
+          "Special1": false,
+          "Inspired": false,
+          "Angry": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/846618944823492608/portrait-0040-0001.png",
-        "portrait_modified": "2021-03-16 02:58:51.300378",
-        "portrait_pending": {
-          "863035242382229544": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863077809953308692/portrait-0040-0001.png",
+        "portrait_modified": "2021-07-09 15:23:04.984246",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
