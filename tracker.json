@@ -24408,7 +24408,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863073725082370068/portrait-0149.png",
     "portrait_modified": "2021-07-09 15:06:51.019211",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/863074520058429440/portrait_recolor-0149-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -116223,14 +116223,14 @@
     "modreward": false,
     "name": "Cosmoem",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/813849768824406055/portrait-0790.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "863002222057095189": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863075060021067817/portrait-0790.png",
+    "portrait_modified": "2021-07-09 15:12:09.364266",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
