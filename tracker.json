@@ -116478,15 +116478,17 @@
     "name": "Lunala",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!327927398941196289>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sad": false,
+      "Pain": false,
+      "Worried": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863440416781893632/portrait-0792.png",
-    "portrait_modified": "2021-07-10 15:23:57.157201",
-    "portrait_pending": {
-      "863516123130888193": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863535972784668703/portrait-0792.png",
+    "portrait_modified": "2021-07-10 21:43:39.520879",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
