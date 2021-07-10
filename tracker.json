@@ -68361,12 +68361,14 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 1,
-                "portrait_credit": "CHUNSOFT",
+                "portrait_credit": "<@!702275233125630042>",
                 "portrait_files": {
-                  "Normal": true
+                  "Normal": true,
+                  "Pain": false,
+                  "Surprised": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/836087240194129950/portrait-0415-0000-0000-0002.png",
-                "portrait_modified": "2020-10-13 04:45:22.567720",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863211655232356372/portrait-0415-0000-0000-0002.png",
+                "portrait_modified": "2021-07-10 00:14:56.183566",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
@@ -68441,7 +68443,7 @@
                 "modreward": false,
                 "name": "Female",
                 "portrait_bounty": {},
-                "portrait_complete": 1,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!95650095034273792>",
                 "portrait_files": {
                   "Normal": false
@@ -107328,7 +107330,9 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806639067424227378/portrait-0711.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "863197054166630430": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
