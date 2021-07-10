@@ -85252,13 +85252,28 @@
     "modreward": false,
     "name": "Purrloin",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "MUCRUSH",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823625492137508864/portrait-0509.png",
-    "portrait_modified": "2021-03-16 02:58:52.838375",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863534522212417566/portrait-0509.png",
+    "portrait_modified": "2021-07-10 21:37:53.669357",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -89401,7 +89416,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/863482435672211456/sprite-0556.zip",
     "sprite_modified": "2021-07-10 18:10:55.236351",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/863488004635099147/sprite_recolor-0556-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -116469,7 +116484,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863440416781893632/portrait-0792.png",
     "portrait_modified": "2021-07-10 15:23:57.157201",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "863516123130888193": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -123929,9 +123946,7 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863136785487364106/portrait-0869.png",
     "portrait_modified": "2021-07-09 19:17:25.843286",
-    "portrait_pending": {
-      "863473711104917524": 764610870357131265
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
