@@ -68370,7 +68370,7 @@
                 "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863211655232356372/portrait-0415-0000-0000-0002.png",
                 "portrait_modified": "2021-07-10 00:14:56.183566",
                 "portrait_pending": {},
-                "portrait_recolor_link": "",
+                "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/863211665192779792/portrait_recolor-0415-0000-0001-0002.png",
                 "portrait_required": true,
                 "sprite_bounty": {},
                 "sprite_complete": 1,
@@ -68450,8 +68450,10 @@
                 },
                 "portrait_link": "",
                 "portrait_modified": "2020-10-13 04:45:22.570750",
-                "portrait_pending": {},
-                "portrait_recolor_link": "",
+                "portrait_pending": {
+                  "863211670054109224": 764610870357131265
+                },
+                "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/863211668187512842/portrait_recolor-0415-0000-0001-0002.png",
                 "portrait_required": true,
                 "sprite_bounty": {},
                 "sprite_complete": 1,
@@ -107325,14 +107327,15 @@
     "modreward": false,
     "name": "Gourgeist",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/806639067424227378/portrait-0711.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "863197054166630430": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863211675733196860/portrait-0711.png",
+    "portrait_modified": "2021-07-10 00:15:01.075295",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
