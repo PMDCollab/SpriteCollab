@@ -89367,7 +89367,9 @@
     "canon": true,
     "modreward": false,
     "name": "Maractus",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "1": 10
+    },
     "portrait_complete": 0,
     "portrait_credit": "MUCRUSH",
     "portrait_files": {
@@ -116357,16 +116359,29 @@
     "modreward": false,
     "name": "Solgaleo",
     "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": "<@!327927398941196289>",
+    "portrait_complete": 2,
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863077818728316938/portrait-0791.png",
-    "portrait_modified": "2021-07-09 15:23:06.894150",
-    "portrait_pending": {
-      "863394682653245470": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863474807684333568/portrait-0791.png",
+    "portrait_modified": "2021-07-10 17:40:36.590733",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -123902,7 +123917,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863136785487364106/portrait-0869.png",
     "portrait_modified": "2021-07-09 19:17:25.843286",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "863473711104917524": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
