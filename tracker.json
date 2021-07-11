@@ -117930,14 +117930,15 @@
     "modreward": false,
     "name": "Blacephalon",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/801406855565541426/portrait-0806.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "863786986970939402": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false,
+      "Normal^": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863860685989871616/portrait-0806.png",
+    "portrait_modified": "2021-07-11 19:13:57.177059",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
