@@ -116507,20 +116507,30 @@
     "modreward": false,
     "name": "Lunala",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Normal": false,
       "Sad": false,
       "Pain": false,
       "Worried": false,
-      "Happy": false
+      "Happy": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Shouting": false,
+      "Determined": false,
+      "Special0": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863535972784668703/portrait-0792.png",
-    "portrait_modified": "2021-07-10 21:43:39.520879",
-    "portrait_pending": {
-      "863739522478637067": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863860657396121611/portrait-0792.png",
+    "portrait_modified": "2021-07-11 19:13:50.369595",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -116950,7 +116960,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/827675839545999420/portrait-0797.png",
     "portrait_modified": "",
     "portrait_pending": {
-      "863813123818389525": 764610870357131265
+      "863826661019746365": 764610870357131265
     },
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -117851,7 +117861,9 @@
     "portrait_files": {},
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809654634909007902/portrait-0805.png",
     "portrait_modified": "",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "863828096704839711": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
