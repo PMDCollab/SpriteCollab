@@ -84300,8 +84300,8 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "<@!356635814668664832>",
+            "portrait_complete": 2,
+            "portrait_credit": "<@!237286997645983744>",
             "portrait_files": {
               "Sigh": false,
               "Joyous": false,
@@ -84320,12 +84320,10 @@
               "Stunned": false,
               "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/848749130503159848/portrait-0498-0000-0001.png",
-            "portrait_modified": "2021-05-31 02:26:01.377784",
-            "portrait_pending": {
-              "864251371095195649": 764610870357131265
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/864251369853681714/portrait_recolor-0498-0000-0001.png",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864268616412430397/portrait-0498-0000-0001.png",
+            "portrait_modified": "2021-07-12 22:14:55.348141",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -89420,9 +89418,7 @@
     "canon": true,
     "modreward": false,
     "name": "Maractus",
-    "portrait_bounty": {
-      "1": 10
-    },
+    "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
