@@ -117786,14 +117786,14 @@
     "modreward": false,
     "name": "Naganadel",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/809654814354964500/portrait-0804.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "864144066752151612": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864223314922700850/portrait-0804.png",
+    "portrait_modified": "2021-07-12 19:14:54.646829",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
