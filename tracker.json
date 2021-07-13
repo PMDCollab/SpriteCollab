@@ -98849,14 +98849,14 @@
         "portrait_bounty": {
           "1": 5
         },
-        "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/858297617046175774/portrait-0647-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "860043819155062814": 764610870357131265
+        "portrait_complete": 1,
+        "portrait_credit": "<@!237286997645983744>",
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864543830728638494/portrait-0647-0001.png",
+        "portrait_modified": "2021-07-13 16:28:31.564626",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
