@@ -13418,7 +13418,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/832375596201279509/sprite-0077.zip",
     "sprite_modified": "2021-03-16 02:58:57.866924",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/864590097910202419/sprite_recolor-0077-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -15395,7 +15395,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864581699655303168/portrait-0087.png",
     "portrait_modified": "2021-07-13 18:59:00.183151",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/864581715081953291/portrait_recolor-0087-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -15457,7 +15457,7 @@
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:20.429233",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/864581719856513044/portrait_recolor-0087-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -124340,11 +124340,9 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864449782855237642/portrait-0869-0002.png",
-        "portrait_modified": "2021-07-13 10:14:48.731086",
-        "portrait_pending": {
-          "864566872749113405": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864604949521367070/portrait-0869-0002.png",
+        "portrait_modified": "2021-07-13 20:31:23.368300",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
