@@ -127116,14 +127116,14 @@
     "modreward": false,
     "name": "Zarude",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/798960930406793246/portrait-0893.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "860051566516895771": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!237286997645983744>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864543761811767296/portrait-0893.png",
+    "portrait_modified": "2021-07-13 16:28:15.144576",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
