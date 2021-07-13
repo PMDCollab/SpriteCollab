@@ -75145,7 +75145,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/864298048447971358/sprite-0454.zip",
     "sprite_modified": "2021-03-16 02:59:21.346433",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -124062,7 +124062,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/864297385126920232/sprite-0869.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -124102,7 +124102,7 @@
             "portrait_link": "",
             "portrait_modified": "",
             "portrait_pending": {
-              "864237813020229692": 764610870357131265
+              "864319204672667678": 764610870357131265
             },
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -124171,14 +124171,16 @@
       "0002": {
         "canon": true,
         "modreward": false,
-        "name": "Berry",
+        "name": "Berry_Sweet",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "864312006970441738": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -124220,14 +124222,16 @@
       "0003": {
         "canon": true,
         "modreward": false,
-        "name": "Love",
+        "name": "Love_Sweet",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "864314560135954432": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -124269,14 +124273,16 @@
       "0004": {
         "canon": true,
         "modreward": false,
-        "name": "Star",
+        "name": "Star_Sweet",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "864314593852784642": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -124318,14 +124324,16 @@
       "0005": {
         "canon": true,
         "modreward": false,
-        "name": "Clover",
+        "name": "Clover_Sweet",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "864314627528720404": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -124367,14 +124375,16 @@
       "0006": {
         "canon": true,
         "modreward": false,
-        "name": "Flower",
+        "name": "Flower_Sweet",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "864312218072776715": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -124416,14 +124426,16 @@
       "0007": {
         "canon": true,
         "modreward": false,
-        "name": "Ribbon",
+        "name": "Ribbon_Sweet",
         "portrait_bounty": {},
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "864314666464575558": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
