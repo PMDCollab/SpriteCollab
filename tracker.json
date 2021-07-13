@@ -13014,14 +13014,14 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "",
-            "portrait_files": {},
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863944782807433236/portrait-0074-0001-0001.png",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "863969457668227073": 764610870357131265
+            "portrait_complete": 1,
+            "portrait_credit": "<@!593113130213572610>",
+            "portrait_files": {
+              "Normal": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864399609551388692/portrait-0074-0001-0001.png",
+            "portrait_modified": "2021-07-13 06:55:26.503075",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
