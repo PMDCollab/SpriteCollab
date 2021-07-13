@@ -40214,16 +40214,32 @@
                 "modreward": false,
                 "name": "Female",
                 "portrait_bounty": {},
-                "portrait_complete": 1,
-                "portrait_credit": "CHUNSOFT",
+                "portrait_complete": 2,
+                "portrait_credit": "<@!237286997645983744>",
                 "portrait_files": {
-                  "Normal": true
+                  "Normal": true,
+                  "Sigh": false,
+                  "Joyous": false,
+                  "Sad": false,
+                  "Shouting": false,
+                  "Determined": false,
+                  "Pain": false,
+                  "Special3": false,
+                  "Special0": false,
+                  "Crying": false,
+                  "Teary-Eyed": false,
+                  "Dizzy": false,
+                  "Special1": false,
+                  "Inspired": false,
+                  "Surprised": false,
+                  "Angry": false,
+                  "Worried": false,
+                  "Stunned": false,
+                  "Happy": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864219635749748777/portrait-0232-0000-0000-0002.png",
-                "portrait_modified": "2020-10-13 04:45:21.377208",
-                "portrait_pending": {
-                  "864224684019417138": 764610870357131265
-                },
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864398974931697664/portrait-0232-0000-0000-0002.png",
+                "portrait_modified": "2021-07-13 06:52:55.196347",
+                "portrait_pending": {},
                 "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
@@ -40317,7 +40333,7 @@
                 "modreward": false,
                 "name": "Female",
                 "portrait_bounty": {},
-                "portrait_complete": 1,
+                "portrait_complete": 0,
                 "portrait_credit": "<@!95650095034273792>",
                 "portrait_files": {
                   "Normal": false
@@ -117962,7 +117978,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863860685989871616/portrait-0806.png",
     "portrait_modified": "2021-07-11 19:13:57.177059",
     "portrait_pending": {
-      "864213973053472769": 764610870357131265
+      "864398933832105984": 764610870357131265
     },
     "portrait_recolor_link": "",
     "portrait_required": true,
