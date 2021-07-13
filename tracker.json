@@ -40333,7 +40333,7 @@
                 "modreward": false,
                 "name": "Female",
                 "portrait_bounty": {},
-                "portrait_complete": 0,
+                "portrait_complete": 2,
                 "portrait_credit": "<@!237286997645983744>",
                 "portrait_files": {
                   "Normal": false,
@@ -40356,10 +40356,10 @@
                   "Stunned": false,
                   "Happy": false
                 },
-                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/852035723653021746/portrait-0232-0000-0001-0002.png",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864449887747047444/portrait-0232-0000-0001-0002.png",
                 "portrait_modified": "2021-07-13 10:15:11.363807",
                 "portrait_pending": {},
-                "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/864399011460808724/portrait_recolor-0232-0000-0001-0002.png",
+                "portrait_recolor_link": "",
                 "portrait_required": true,
                 "sprite_bounty": {},
                 "sprite_complete": 1,
