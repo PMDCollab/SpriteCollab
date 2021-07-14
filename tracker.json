@@ -117970,13 +117970,15 @@
     "portrait_complete": 1,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sad": false,
+      "Determined": false,
+      "Worried": false,
+      "Happy": false
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863872182403465236/portrait-0805.png",
-    "portrait_modified": "2021-07-11 19:59:38.111129",
-    "portrait_pending": {
-      "864928595151159316": 764610870357131265
-    },
+    "portrait_modified": "2021-07-14 19:00:10.172197",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -125669,7 +125671,7 @@
         "modreward": false,
         "name": "Matcha_Cream_Berry_Sweet",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": "<@!356635814668664832>",
         "portrait_files": {
           "Sigh": false,
@@ -125705,7 +125707,7 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/864944379482341396/portrait-0869-0016.png",
         "portrait_modified": "2021-07-14 19:00:04.526298",
         "portrait_pending": {},
         "portrait_recolor_link": "",
