@@ -126836,7 +126836,7 @@
         "modreward": false,
         "name": "Lemon_Cream_Berry_Sweet",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": "<@!356635814668664832>",
         "portrait_files": {
           "Sigh": false,
@@ -126872,7 +126872,7 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/865377538426404884/portrait-0869-0030.png",
         "portrait_modified": "2021-07-15 23:41:20.267749",
         "portrait_pending": {},
         "portrait_recolor_link": "",
