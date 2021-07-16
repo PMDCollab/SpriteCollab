@@ -116949,15 +116949,14 @@
     "name": "Xurkitree",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!739304144552198285>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Angry": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/851011074836791326/portrait-0796.png",
-    "portrait_modified": "2021-06-06 08:14:11.036177",
-    "portrait_pending": {
-      "865530318647722024": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/865619297706835979/portrait-0796.png",
+    "portrait_modified": "2021-07-16 15:42:02.857058",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
