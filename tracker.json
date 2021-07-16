@@ -116668,15 +116668,15 @@
     "name": "Nihilego",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!150809243816165377>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Sad": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/845925047603298314/portrait-0793.png",
-    "portrait_modified": "2021-04-18 18:18:56.902578",
-    "portrait_pending": {
-      "865529815636770827": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/865619283160727582/portrait-0793.png",
+    "portrait_modified": "2021-07-16 15:41:59.388795",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
