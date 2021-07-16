@@ -117824,14 +117824,25 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/828987393217921054/sprite-0803.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "865347045816008705": 764610870357131265
+    "sprite_complete": 1,
+    "sprite_credit": "<@!237286997645983744>",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "Rotate": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/865441933836550164/sprite-0803.zip",
+    "sprite_modified": "2021-07-16 03:57:15.991794",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
