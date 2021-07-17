@@ -117216,13 +117216,13 @@
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Normal": false,
-      "Pain": false
+      "Pain": false,
+      "Sad": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/865619267302850620/portrait-0799.png",
-    "portrait_modified": "2021-07-16 15:41:55.599269",
-    "portrait_pending": {
-      "865711526316998708": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/865770292034142228/portrait-0799.png",
+    "portrait_modified": "2021-07-17 01:42:02.532439",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
