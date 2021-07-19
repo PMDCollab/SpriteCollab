@@ -13346,12 +13346,12 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": "<@!593113130213572610>",
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/866529693154541639/portrait-0076-0001-0001.png",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/866705087958220800/portrait-0076-0001-0001.png",
             "portrait_modified": "2021-07-19 15:36:33.428619",
             "portrait_pending": {},
             "portrait_recolor_link": "",
