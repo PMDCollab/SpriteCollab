@@ -83743,7 +83743,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83760,7 +83760,7 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/867440236623691826/sprite-0493-0012-0001.zip",
             "sprite_modified": "2021-07-21 16:17:15.041389",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -84077,13 +84077,25 @@
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 0,
-            "sprite_credit": "",
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {
-              "867288277764276234": 764610870357131265
+            "sprite_credit": "<@!593113130213572610>",
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Stomp": false,
+              "Shoot": false,
+              "Bite": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
+            "sprite_link": "",
+            "sprite_modified": "2021-07-21 16:17:48.489200",
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
@@ -84176,13 +84188,25 @@
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 0,
-            "sprite_credit": "",
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {
-              "867288360061108254": 764610870357131265
+            "sprite_credit": "<@!593113130213572610>",
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Stomp": false,
+              "Shoot": false,
+              "Bite": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
+            "sprite_link": "",
+            "sprite_modified": "2021-07-21 16:17:58.505940",
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "subgroups": {}
