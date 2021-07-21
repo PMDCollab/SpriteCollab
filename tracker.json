@@ -83965,7 +83965,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83982,7 +83982,7 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/867440294760415232/sprite-0493-0014-0001.zip",
             "sprite_modified": "2021-07-21 16:17:36.858051",
             "sprite_pending": {},
             "sprite_recolor_link": "",
