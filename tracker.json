@@ -79846,7 +79846,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/867236666895499274/portrait-0481.png",
     "portrait_modified": "2021-07-21 02:48:53.696624",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/867236685733822514/portrait_recolor-0481-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -79904,8 +79904,8 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "<@!593113130213572610>",
+            "portrait_complete": 2,
+            "portrait_credit": "<@!544245909639397378>",
             "portrait_files": {
               "Normal": false,
               "Pain": false,
@@ -79924,8 +79924,8 @@
               "Stunned": false,
               "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861129242011893780/portrait-0481-0000-0001.png",
-            "portrait_modified": "2021-07-04 06:20:08.549139",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/867258629224529950/portrait-0481-0000-0001.png",
+            "portrait_modified": "2021-07-21 04:16:09.897486",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
@@ -128301,7 +128301,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867236970136207360": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128350,7 +128352,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867237669503369226": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128399,7 +128403,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867237682702581771": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128448,7 +128454,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867237694407704616": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128497,7 +128505,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867237706157260850": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128546,7 +128556,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867237718711205919": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128595,7 +128607,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867237729451900938": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128644,7 +128658,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242180782718976": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128693,7 +128709,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242474421485578": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128742,7 +128760,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242485671526461": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128791,7 +128811,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242495396937748": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128840,7 +128862,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242506789716009": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128889,7 +128913,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242520035065866": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -128938,7 +128964,9 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "867242530348859442": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
