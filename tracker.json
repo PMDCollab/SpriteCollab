@@ -64207,7 +64207,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/867490271729418240/sprite-0391.zip",
     "sprite_modified": "2021-03-16 02:59:17.119426",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -107899,11 +107899,13 @@
     "modreward": false,
     "name": "Trevenant",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/785384795567161344/portrait-0709.png",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/867592521399533568/portrait-0709.png",
+    "portrait_modified": "2021-07-22 02:22:56.060340",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
