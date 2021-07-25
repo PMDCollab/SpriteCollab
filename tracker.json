@@ -117638,7 +117638,7 @@
     "name": "Pheromosa",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "<@!544245909639397378>",
     "portrait_files": {
       "Sigh": false,
       "Joyous": false,
@@ -117658,12 +117658,10 @@
       "Happy": false,
       "Special0": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/856564122564821012/portrait-0795.png",
-    "portrait_modified": "2021-06-21 16:00:00.857148",
-    "portrait_pending": {
-      "868659900803334206": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/856564136841707571/portrait_recolor-0795-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/868665098372251668/portrait-0795.png",
+    "portrait_modified": "2021-07-25 01:24:58.297958",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -117719,7 +117717,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!702275233125630042>",
             "portrait_files": {
               "Sigh": false,
