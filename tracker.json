@@ -70689,13 +70689,13 @@
           "Teary-Eyed": false,
           "Teary-Eyed^": false,
           "Worried": false,
-          "Worried^": false
+          "Worried^": false,
+          "Special3": false,
+          "Special3^": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/842275705424183296/portrait-0425-0001.png",
-        "portrait_modified": "2021-05-13 05:42:56.759184",
-        "portrait_pending": {
-          "867662419987660810": 767436242752110622
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/869265651154448414/portrait-0425-0001.png",
+        "portrait_modified": "2021-07-26 17:11:21.245703",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
