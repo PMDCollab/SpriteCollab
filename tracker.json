@@ -101091,11 +101091,13 @@
     "modreward": false,
     "name": "Greninja",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/779458025278406676/portrait-0658.png",
-    "portrait_modified": "",
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
+    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/869421078756335677/portrait-0658.png",
+    "portrait_modified": "2021-07-27 03:28:58.134931",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
