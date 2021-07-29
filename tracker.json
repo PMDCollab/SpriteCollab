@@ -85223,16 +85223,14 @@
     "modreward": false,
     "name": "Emboar",
     "portrait_bounty": {},
-    "portrait_complete": 0,
+    "portrait_complete": 1,
     "portrait_credit": "MUCRUSH",
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860575729447337984/portrait-0500.png",
-    "portrait_modified": "2021-03-16 02:58:52.827404",
-    "portrait_pending": {
-      "870269142987603978": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/870336248038965259/portrait-0500.png",
+    "portrait_modified": "2021-07-29 16:05:31.459025",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
