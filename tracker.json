@@ -23161,7 +23161,9 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/870239360254103612/portrait-0138-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.678567",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "871564884997992490": 764610870357131265
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -117925,7 +117927,7 @@
     "modreward": false,
     "name": "Nihilego",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Normal": false,
@@ -117933,10 +117935,20 @@
       "Happy": false,
       "Sigh": false,
       "Joyous": false,
-      "Stunned": false
+      "Stunned": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/871159245096243210/portrait-0793.png",
-    "portrait_modified": "2021-07-31 22:35:49.217471",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/871565075058684004/portrait-0793.png",
+    "portrait_modified": "2021-08-02 01:28:26.640326",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
