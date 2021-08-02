@@ -43343,11 +43343,9 @@
               "Stunned": false,
               "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859978132357906442/portrait-0251-0001-0001.png",
-            "portrait_modified": "2021-07-01 02:06:04.230891",
-            "portrait_pending": {
-              "871565399811063868": 764610870357131265
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/871581984424599572/portrait-0251-0001-0001.png",
+            "portrait_modified": "2021-08-02 02:35:38.086532",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
