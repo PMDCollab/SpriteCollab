@@ -23154,16 +23154,29 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": "<@!95650095034273792>",
+            "portrait_complete": 2,
+            "portrait_credit": "<@!593113130213572610>",
             "portrait_files": {
-              "Normal": false
+              "Normal": false,
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/870239360254103612/portrait-0138-0000-0001.png",
-            "portrait_modified": "2020-10-13 04:45:20.678567",
-            "portrait_pending": {
-              "871564884997992490": 764610870357131265
-            },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/871581968683380806/portrait-0138-0000-0001.png",
+            "portrait_modified": "2021-08-02 02:35:34.337945",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -43332,7 +43345,9 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/859978132357906442/portrait-0251-0001-0001.png",
             "portrait_modified": "2021-07-01 02:06:04.230891",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "871565399811063868": 764610870357131265
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
