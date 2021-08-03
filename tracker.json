@@ -118526,13 +118526,18 @@
     "portrait_files": {
       "Normal": false,
       "Determined": false,
-      "Stunned": false
+      "Stunned": false,
+      "Sad": false,
+      "Shouting": false,
+      "Pain": false,
+      "Crying": false,
+      "Surprised": false,
+      "Worried": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/865619180668715028/portrait-0798.png",
-    "portrait_modified": "2021-07-16 15:41:34.974505",
-    "portrait_pending": {
-      "872119104797048894": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/872194837896646676/portrait-0798.png",
+    "portrait_modified": "2021-08-03 19:10:53.818513",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
