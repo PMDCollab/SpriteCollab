@@ -16290,6 +16290,73 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "canon": false,
+        "modreward": true,
+        "name": "Alternate",
+        "portrait_bounty": {},
+        "portrait_complete": 2,
+        "portrait_credit": "<@!218959749276893184>",
+        "portrait_files": {
+          "Sigh": false,
+          "Joyous": false,
+          "Sad": false,
+          "Shouting": false,
+          "Determined": false,
+          "Pain": false,
+          "Special0": false,
+          "Crying": false,
+          "Normal": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Worried": false,
+          "Stunned": false,
+          "Happy": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/872568437573034036/portrait-0092-0001.png",
+        "portrait_modified": "2021-08-04 19:55:26.927827",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "canon": false,
+            "modreward": true,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -82833,7 +82900,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -82944,7 +83011,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83055,7 +83122,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83279,7 +83346,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83390,7 +83457,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83612,7 +83679,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83723,7 +83790,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -83834,7 +83901,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -84056,7 +84123,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -84167,7 +84234,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
@@ -84278,7 +84345,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
