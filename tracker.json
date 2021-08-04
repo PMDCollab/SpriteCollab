@@ -82912,7 +82912,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/872368182114009088/sprite-0493-0002.zip",
         "sprite_modified": "2021-08-04 06:39:42.253489",
         "sprite_pending": {},
-        "sprite_recolor_link": "",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/872368250799947796/sprite_recolor-0493-0002-0001.png",
         "sprite_required": true,
         "subgroups": {
           "0001": {
@@ -82965,8 +82965,10 @@
             },
             "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/867439598598094898/sprite-0493-0002-0001.zip",
             "sprite_modified": "2021-07-21 16:15:14.578156",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_pending": {
+              "872368368689217537": 764610870357131265
+            },
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/872368364419440640/sprite_recolor-0493-0002-0001.png",
             "sprite_required": true,
             "subgroups": {}
           }
@@ -83020,12 +83022,10 @@
           "Charge": false,
           "Rotate": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/867263362085683220/sprite-0493-0003.zip",
-        "sprite_modified": "2021-07-21 04:34:58.310264",
-        "sprite_pending": {
-          "872066122080473118": 764610870357131265
-        },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/867269252833476618/sprite_recolor-0493-0003-0001.png",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/872368369251266600/sprite-0493-0003.zip",
+        "sprite_modified": "2021-08-04 06:40:26.839122",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
         "sprite_required": true,
         "subgroups": {
           "0001": {
@@ -83059,7 +83059,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": "<@!593113130213572610>",
             "sprite_files": {
               "Walk": false,
