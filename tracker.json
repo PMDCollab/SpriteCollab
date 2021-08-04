@@ -61894,7 +61894,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/851704016139583498/sprite-0378.zip",
     "sprite_modified": "2021-03-16 02:59:16.129077",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/872577970382962728/sprite_recolor-0378-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -118589,7 +118589,7 @@
     "modreward": false,
     "name": "Kartana",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Normal": false,
@@ -118601,10 +118601,16 @@
       "Crying": false,
       "Surprised": false,
       "Worried": false,
-      "Happy": false
+      "Happy": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Angry": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/872194837896646676/portrait-0798.png",
-    "portrait_modified": "2021-08-03 19:10:53.818513",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/872607498018885662/portrait-0798.png",
+    "portrait_modified": "2021-08-04 22:30:39.643399",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
