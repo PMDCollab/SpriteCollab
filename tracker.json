@@ -24888,7 +24888,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/863073725082370068/portrait-0149.png",
     "portrait_modified": "2021-07-09 15:06:51.019211",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "873666097335898142": 764610870357131265
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/863074520058429440/portrait_recolor-0149-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -25058,7 +25060,9 @@
         "portrait_files": {},
         "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/873642824917209088/portrait-0149-0002.png",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "873643558995918868": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
@@ -89896,14 +89900,26 @@
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": "",
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/873011137413808128/sprite-0547.zip",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "873049718215819284": 764610870357131265
+    "sprite_complete": 1,
+    "sprite_credit": "<@!702275233125630042>",
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Strike": false,
+      "Shoot": false,
+      "SpAttack": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/873702811127398410/sprite-0547.zip",
+    "sprite_modified": "2021-08-07 23:03:02.603525",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
