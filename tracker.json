@@ -30070,8 +30070,8 @@
     "sprite_bounty": {
       "2": 12
     },
-    "sprite_complete": 1,
-    "sprite_credit": "CHUNSOFT",
+    "sprite_complete": 2,
+    "sprite_credit": "<@!356635814668664832>",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -30086,13 +30086,33 @@
       "Double": true,
       "Hop": true,
       "Charge": true,
-      "Rotate": true
+      "Rotate": true,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/824376905935355995/sprite-0179.zip",
-    "sprite_modified": "2021-03-16 02:59:04.052380",
-    "sprite_pending": {
-      "873090090413469798": 764610870357131265
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/873754374785101894/sprite-0179.zip",
+    "sprite_modified": "2021-08-08 02:27:56.283605",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -30150,7 +30170,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": "<@!200318546750865418>",
             "sprite_files": {
               "Walk": false,
