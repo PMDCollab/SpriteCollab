@@ -27223,9 +27223,7 @@
             "portrait_files": {},
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {
-              "873794279762440202": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -29816,12 +29814,10 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/844539944835219506/portrait-0177.png",
-    "portrait_modified": "2021-03-17 03:28:27.615149",
-    "portrait_pending": {
-      "873793716794560602": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/870309956480536637/portrait_recolor-0177-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874083125775442020/portrait-0177.png",
+    "portrait_modified": "2021-08-09 00:14:16.675895",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -41239,7 +41235,7 @@
     "modreward": false,
     "name": "Porygon2",
     "portrait_bounty": {
-      "2": 3
+      "2": 24
     },
     "portrait_complete": 1,
     "portrait_credit": "CHUNSOFT",
@@ -71085,7 +71081,9 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/838102011756150814/portrait-0424.png",
     "portrait_modified": "2020-10-13 04:45:22.628557",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "874063116823060480": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -79175,7 +79173,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/826542841580879882/sprite-0474.zip",
     "sprite_modified": "2021-03-16 02:59:22.452475",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/874050667763884092/sprite_recolor-0474-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -96784,7 +96782,9 @@
     "canon": true,
     "modreward": false,
     "name": "Axew",
-    "portrait_bounty": {},
+    "portrait_bounty": {
+      "1": 13
+    },
     "portrait_complete": 0,
     "portrait_credit": "MUCRUSH",
     "portrait_files": {
