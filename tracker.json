@@ -29817,7 +29817,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874083125775442020/portrait-0177.png",
     "portrait_modified": "2021-08-09 00:14:16.675895",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/874083342616780841/portrait_recolor-0177-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -29878,7 +29878,9 @@
             },
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:20.927900",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "874083488402382929": 764610870357131265
+            },
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/870315514977714177/portrait_recolor-0177-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
@@ -71075,15 +71077,15 @@
     "name": "Ambipom",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Surprised": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/838102011756150814/portrait-0424.png",
-    "portrait_modified": "2020-10-13 04:45:22.628557",
-    "portrait_pending": {
-      "874063116823060480": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874089943276855296/portrait-0424.png",
+    "portrait_modified": "2021-08-09 00:41:22.096756",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -71139,7 +71141,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!95650095034273792>",
             "portrait_files": {
               "Normal": false
