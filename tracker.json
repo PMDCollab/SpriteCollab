@@ -100804,16 +100804,16 @@
     "name": "Meloetta",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!273958644788363265>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Normal": false,
-      "Normal^": false
+      "Normal^": false,
+      "Special1^": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861948204890193930/portrait-0648.png",
-    "portrait_modified": "2021-07-06 12:34:26.165891",
-    "portrait_pending": {
-      "874659374554046474": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874761818411778068/portrait-0648.png",
+    "portrait_modified": "2021-08-10 21:11:09.519700",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -100869,7 +100869,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!273958644788363265>",
             "portrait_files": {
               "Normal": false,
