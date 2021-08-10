@@ -51453,7 +51453,7 @@
     "name": "Mawile",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!544245909639397378>",
+    "portrait_credit": "<@!356635814668664832>",
     "portrait_files": {
       "Angry": true,
       "Happy": true,
@@ -51470,14 +51470,13 @@
       "Crying": false,
       "Teary-Eyed": false,
       "Dizzy": false,
-      "Stunned": false
+      "Stunned": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/861368033247625256/portrait-0303.png",
-    "portrait_modified": "2021-07-04 22:09:02.452621",
-    "portrait_pending": {
-      "874457594167717939": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/861368042121854976/portrait_recolor-0303-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874489861971800114/portrait-0303.png",
+    "portrait_modified": "2021-08-10 03:10:30.185590",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -51531,7 +51530,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!544245909639397378>",
             "portrait_files": {
               "Angry": false,
