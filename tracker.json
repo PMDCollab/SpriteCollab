@@ -111621,15 +111621,14 @@
     "name": "Primarina",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!225139021079117824>",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
-      "Normal": false
+      "Normal": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/868633637661343755/portrait-0730.png",
-    "portrait_modified": "2021-07-24 23:19:57.505790",
-    "portrait_pending": {
-      "874691462078541904": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874906702548435004/portrait-0730.png",
+    "portrait_modified": "2021-08-11 06:46:52.046343",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
