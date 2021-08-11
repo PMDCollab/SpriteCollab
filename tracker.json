@@ -16653,7 +16653,7 @@
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/874906768424185886/portrait-0094.png",
     "portrait_modified": "2021-08-11 06:47:08.446240",
     "portrait_pending": {},
-    "portrait_recolor_link": "",
+    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/874906784530325504/portrait_recolor-0094-0000-0001.png",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -16737,8 +16737,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/850880349545824256/portrait-0094-0000-0001.png",
             "portrait_modified": "2021-06-05 23:34:43.752327",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "874906796320493621": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/874906791509630986/portrait_recolor-0094-0000-0001.png",
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
@@ -53351,12 +53353,15 @@
     "name": "Illumise",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Joyous": false,
+      "Angry": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/853733776827088906/portrait-0314.png",
-    "portrait_modified": "2020-10-13 04:45:21.865598",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/875066503047835668/portrait-0314.png",
+    "portrait_modified": "2021-08-11 17:21:52.149288",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -53414,7 +53419,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!162389028061052928>",
             "portrait_files": {
               "Normal": false
@@ -108783,7 +108788,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/875056400848535662/sprite-0703.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
