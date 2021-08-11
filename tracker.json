@@ -53242,12 +53242,15 @@
     "name": "Volbeat",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!702275233125630042>",
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/853733736160296960/portrait-0313.png",
-    "portrait_modified": "2020-10-13 04:45:21.862605",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/875161263569776640/portrait-0313.png",
+    "portrait_modified": "2021-08-11 23:38:24.788546",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
@@ -53304,7 +53307,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": "<@!162389028061052928>",
             "portrait_files": {
               "Normal": false
@@ -69307,7 +69310,7 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/875158897994924072/portrait-0414.png",
     "portrait_modified": "2020-10-13 04:45:22.564727",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -97210,7 +97213,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/875154794359189514/sprite-0613.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -119640,9 +119643,7 @@
         },
         "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/828002871772577802/portrait-0800-0001.png",
         "portrait_modified": "2021-03-16 03:38:17.424558",
-        "portrait_pending": {
-          "874413000990281758": 764610870357131265
-        },
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
