@@ -1090,7 +1090,7 @@
     "name": "Charmander",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "CHUNSOFT",
+    "portrait_credit": "<@!237286997645983744>",
     "portrait_files": {
       "Angry": true,
       "Crying": true,
@@ -1107,14 +1107,14 @@
       "Stunned": true,
       "Surprised": true,
       "Teary-Eyed": true,
-      "Worried": true
+      "Worried": true,
+      "Special0": false,
+      "Special1": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/548721996872286219/823744900175626260/portrait-0004.png",
-    "portrait_modified": "2020-10-13 04:45:19.915797",
-    "portrait_pending": {
-      "874705889406353449": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/788228023920885760/portrait_recolor-0004-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/875194563701116969/portrait-0004.png",
+    "portrait_modified": "2021-08-12 01:50:44.094966",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
@@ -1190,7 +1190,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!276949114212712449>",
             "portrait_files": {
               "Angry": false,
