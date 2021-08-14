@@ -20454,7 +20454,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/876253532242731048/sprite-0120.zip",
     "sprite_modified": "2021-03-16 02:58:59.950352",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -23970,7 +23970,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/876248641986240512/sprite-0143.zip",
     "sprite_modified": "2021-03-16 02:59:01.423412",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -30312,7 +30312,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/876202412845715486/sprite-0180.zip",
     "sprite_modified": "2021-03-16 02:59:04.117206",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -45704,7 +45704,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/875870778850164748/sprite-0260.zip",
     "sprite_modified": "2021-08-13 22:37:46.327304",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/875870837411041301/sprite_recolor-0260-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -45780,10 +45780,12 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/876215992043319296/sprite-0260-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:09.635445",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_pending": {
+              "876217317355307038": 764610870357131265
+            },
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/876217313379123230/sprite_recolor-0260-0000-0001.png",
             "sprite_required": true,
             "subgroups": {}
           }
