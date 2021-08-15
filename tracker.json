@@ -22850,7 +22850,7 @@
     "name": "Jolteon",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!343150274795405314>",
+    "portrait_credit": "<@!593113130213572610>",
     "portrait_files": {
       "Normal": true,
       "Sigh": false,
@@ -22869,12 +22869,10 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/876487680542781510/portrait-0135.png",
-    "portrait_modified": "2021-08-15 15:29:07.220126",
-    "portrait_pending": {
-      "876497790270844928": 764610870357131265
-    },
-    "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/876487707629596723/portrait_recolor-0135-0000-0001.png",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/876498050040864788/portrait-0135.png",
+    "portrait_modified": "2021-08-15 16:10:19.465235",
+    "portrait_pending": {},
+    "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
@@ -22950,7 +22948,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": "<@!593113130213572610>",
             "portrait_files": {
               "Normal": false,
