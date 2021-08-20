@@ -46,7 +46,6 @@ Vex	<@!157339721729572864>
 	<@!288402314253959169>	
 Child-Of-Hades	CHILD_OF_HADES	https://www.deviantart.com/child-of-hades
 	<@!136476806055198720>	
-Another-fcking-spriter	<@!702275233125630042>	
 JemDragons	<@!408301000445788180>	https://twitter.com/JemDragons?s=09
 Sunny	<@!273341077874802689>	https://twitter.com/temporalsunrise
 Deleca7755	<@!273958644788363265>	Deleca7755#2927
@@ -89,7 +88,7 @@ Sharpen	<@!389193348474339338>
 Noivern	<@!150809243816165377>	https://twitter.com/notarealnoivern
 Nooga	<@!217899432652308480>	https://www.deviantart.com/ubernooga
 Emmuffin	<@!356635814668664832>	https://twitter.com/Ernmuffin
-	<@!433058189240696835>	
+SuperFabbioGuy	<@!433058189240696835>	
 Frostdrop1	<@!173505019268694016>	
 	<@!436940337865293834>	
 cyboy_bit	<@!810524028871114762>	
@@ -128,3 +127,4 @@ Blanca	<@!401608319762038794>
 	<@!225139021079117824>	
 	<@!218959749276893184>	
 	<@!104090628937220096>	
+	ANONYMOUS_0000	

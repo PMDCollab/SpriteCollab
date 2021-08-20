@@ -3228,7 +3228,7 @@
     "name": "Pidgey",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -3669,7 +3669,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877741581988421632/sprite-0019.zip",
     "sprite_modified": "2021-03-16 02:58:54.383246",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -3878,7 +3878,9 @@
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "sprite_bounty": {},
+        "sprite_bounty": {
+          "1": 10
+        },
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": {},
@@ -6326,7 +6328,7 @@
     "name": "Nidoran_M",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -6405,7 +6407,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -8279,7 +8281,7 @@
                 "portrait_files": {
                   "Normal": false
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878203966540881920/portrait-0041-0000-0001-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.169699",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -8330,7 +8332,7 @@
                 "portrait_files": {
                   "Normal": true
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878202595364200488/portrait-0041-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.167705",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -8424,7 +8426,7 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878204133226717274/portrait-0042-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.179674",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -8463,7 +8465,7 @@
                 "portrait_files": {
                   "Normal": false
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878204332187729920/portrait-0042-0000-0001-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.177678",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -8514,7 +8516,7 @@
                 "portrait_files": {
                   "Normal": true
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878203022717624320/portrait-0042-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.175685",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -8769,7 +8771,7 @@
                   "Normal": true,
                   "Normal^": true
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878211067581440070/portrait-0044-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.188649",
                 "portrait_pending": {},
                 "portrait_recolor_link": "https://cdn.discordapp.com/attachments/548721996872286219/764975646195580988/portrait_recolor-0044-0000-0001-0002.png",
@@ -8792,7 +8794,7 @@
                   "Charge": true,
                   "Rotate": true
                 },
-                "sprite_link": "",
+                "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/878211777823903754/sprite-0044-0000-0000-0002.zip",
                 "sprite_modified": "2021-03-16 02:58:55.938084",
                 "sprite_pending": {},
                 "sprite_recolor_link": "",
@@ -8812,7 +8814,7 @@
               "Normal": false,
               "Normal^": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878223523166953482/portrait-0044-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.192638",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -8852,7 +8854,7 @@
                   "Normal": false,
                   "Normal^": false
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878223830445862922/portrait-0044-0000-0001-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.191640",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -8960,7 +8962,7 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878224270336094248/portrait-0045-0000-0001.png",
             "portrait_modified": "2020-10-13 04:45:20.201615",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -8999,7 +9001,7 @@
                 "portrait_files": {
                   "Normal": false
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878224513903521873/portrait-0045-0000-0001-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.199620",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -9050,7 +9052,7 @@
                 "portrait_files": {
                   "Normal": true
                 },
-                "portrait_link": "",
+                "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878219400107409438/portrait-0045-0000-0000-0002.png",
                 "portrait_modified": "2020-10-13 04:45:20.196627",
                 "portrait_pending": {},
                 "portrait_recolor_link": "",
@@ -10629,7 +10631,7 @@
     "name": "Golduck",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -10706,7 +10708,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -11112,6 +11114,55 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "canon": true,
+        "modreward": false,
+        "name": "Hisui",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -11339,7 +11390,7 @@
     "name": "Poliwhirl",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -11615,7 +11666,7 @@
     "name": "Abra",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -12201,7 +12252,7 @@
     "name": "Machoke",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -12278,7 +12329,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -13725,7 +13776,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 2,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -13817,7 +13868,7 @@
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 2,
-            "sprite_credit": "<@!702275233125630042>",
+            "sprite_credit": "ANONYMOUS_0000",
             "sprite_files": {
               "Walk": false,
               "Attack": false,
@@ -14908,7 +14959,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 2,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -16259,7 +16310,7 @@
     "name": "Gastly",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -17547,7 +17598,7 @@
     "name": "Voltorb",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -19301,7 +19352,7 @@
     "name": "Rhydon",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -19498,7 +19549,7 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 2,
-                "portrait_credit": "<@!702275233125630042>",
+                "portrait_credit": "ANONYMOUS_0000",
                 "portrait_files": {
                   "Normal": true,
                   "Sigh": false,
@@ -19681,7 +19732,7 @@
     "name": "Tangela",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -22672,7 +22723,7 @@
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": {},
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877773763880554516/sprite-0133-0002.zip",
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
@@ -25266,7 +25317,7 @@
         "name": "Mega_Y",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Angry": false,
           "Crying": false,
@@ -25292,7 +25343,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 0,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -27579,7 +27630,7 @@
     "name": "Hoothoot",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -27656,7 +27707,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -27821,7 +27872,7 @@
     "name": "Ledyba",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -28093,7 +28144,7 @@
     "name": "Ledian",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -28250,7 +28301,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Sigh": false,
@@ -28365,7 +28416,7 @@
     "name": "Spinarak",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -28713,7 +28764,7 @@
     "name": "Chinchou",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -29284,7 +29335,7 @@
     "name": "Igglybuff",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Crying": true,
       "Crying^": true,
@@ -29363,7 +29414,7 @@
       "Special7": true,
       "Nod": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877983253615767562/sprite-0174.zip",
     "sprite_modified": "2021-03-16 02:59:03.652450",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -29493,7 +29544,7 @@
     "name": "Togepi",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -29841,7 +29892,7 @@
     "name": "Natu",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -31387,7 +31438,7 @@
     "name": "Hoppip",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -31527,7 +31578,7 @@
     "name": "Skiploom",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -31775,7 +31826,7 @@
     "name": "Aipom",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -32019,7 +32070,7 @@
     "name": "Sunkern",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -32317,7 +32368,7 @@
     "name": "Yanma",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -33082,7 +33133,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -33236,7 +33287,7 @@
         "name": "Altcolor",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Angry": false,
           "Crying": false,
@@ -33262,7 +33313,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 2,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -33341,7 +33392,7 @@
     "name": "Murkrow",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -36603,7 +36654,7 @@
     "name": "Pineco",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -36681,7 +36732,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -37392,7 +37443,7 @@
     "name": "Snubbull",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Surprised": true,
@@ -38065,7 +38116,7 @@
     "name": "Heracross",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -38167,7 +38218,7 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 2,
-                "portrait_credit": "<@!702275233125630042>",
+                "portrait_credit": "ANONYMOUS_0000",
                 "portrait_files": {
                   "Normal": true,
                   "Angry": false,
@@ -38226,7 +38277,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -38281,7 +38332,7 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 0,
-                "portrait_credit": "<@!702275233125630042>",
+                "portrait_credit": "ANONYMOUS_0000",
                 "portrait_files": {
                   "Normal": false,
                   "Angry": false,
@@ -38392,7 +38443,7 @@
     "name": "Sneasel",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -38490,7 +38541,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Normal^": false,
@@ -38615,7 +38666,7 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 2,
-                "portrait_credit": "<@!702275233125630042>",
+                "portrait_credit": "ANONYMOUS_0000",
                 "portrait_files": {
                   "Normal": true,
                   "Normal^": true,
@@ -38924,7 +38975,7 @@
     "name": "Slugma",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": true,
       "Normal": true,
@@ -39002,7 +39053,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Angry": false,
               "Normal": false,
@@ -39062,7 +39113,7 @@
     "name": "Magcargo",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -39232,7 +39283,7 @@
     "name": "Swinub",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -39717,7 +39768,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 1,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -39791,7 +39842,7 @@
     "name": "Remoraid",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -40447,7 +40498,7 @@
     "name": "Houndour",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -41670,7 +41721,7 @@
     "name": "Tyrogue",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -42220,7 +42271,7 @@
     "name": "Magby",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -42496,7 +42547,7 @@
     "name": "Blissey",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -42989,7 +43040,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -43089,7 +43140,7 @@
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 2,
-            "sprite_credit": "<@!702275233125630042>",
+            "sprite_credit": "ANONYMOUS_0000",
             "sprite_files": {
               "Walk": false,
               "Attack": false,
@@ -44625,7 +44676,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/825305212558114846/sprite-0255.zip",
     "sprite_modified": "2021-03-16 02:59:09.278400",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/877773240024576000/sprite_recolor-0255-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -44739,7 +44790,7 @@
     "name": "Combusken",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -46234,7 +46285,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877770796871843870/sprite-0263.zip",
     "sprite_modified": "2021-03-16 02:59:09.793023",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -46323,7 +46374,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 1,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -48528,7 +48579,7 @@
     "name": "Ralts",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -48554,7 +48605,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -48686,7 +48737,7 @@
     "name": "Kirlia",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -48764,7 +48815,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -48824,7 +48875,7 @@
     "name": "Gardevoir",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Happy": true,
       "Inspired": true,
@@ -48910,7 +48961,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Happy": false,
               "Inspired": false,
@@ -49366,7 +49417,7 @@
     "name": "Breloom",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Happy": true,
       "Inspired": true,
@@ -50931,7 +50982,7 @@
     "name": "Nosepass",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -51010,7 +51061,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Sigh": false,
@@ -53306,7 +53357,7 @@
     "name": "Volbeat",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -53417,7 +53468,7 @@
     "name": "Illumise",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Joyous": false,
@@ -53484,7 +53535,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 1,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Joyous": false,
@@ -53533,7 +53584,7 @@
     "name": "Roselia",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -53629,7 +53680,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Normal^": false,
@@ -53705,7 +53756,7 @@
         "name": "Alternate",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Sigh": false,
           "Joyous": false,
@@ -53749,7 +53800,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 1,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -54784,7 +54835,7 @@
     "name": "Camerupt",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -55465,7 +55516,7 @@
     "name": "Trapinch",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -55737,7 +55788,7 @@
     "name": "Flygon",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -58451,7 +58502,7 @@
     "name": "Castform",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -58863,7 +58914,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/841047934405705728/sprite-0352.zip",
     "sprite_modified": "2021-03-16 02:59:14.887396",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/877781748849717259/sprite_recolor-0352-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -58999,7 +59050,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/841515851043569674/sprite-0352-0001.zip",
         "sprite_modified": "2021-05-11 03:23:33.334921",
         "sprite_pending": {},
-        "sprite_recolor_link": "",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/877781904210952202/sprite_recolor-0352-0001-0001.png",
         "sprite_required": true,
         "subgroups": {
           "0001": {
@@ -60326,7 +60377,7 @@
     "name": "Glalie",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -60403,7 +60454,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -62112,7 +62163,7 @@
     "name": "Metang",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -62190,7 +62241,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -64819,7 +64870,7 @@
     "name": "Torterra",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Normal^": true,
@@ -67351,7 +67402,7 @@
     "name": "Kricketune",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Sigh": false,
@@ -67548,7 +67599,7 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 1,
-                "portrait_credit": "<@!702275233125630042>",
+                "portrait_credit": "ANONYMOUS_0000",
                 "portrait_files": {
                   "Normal": true,
                   "Angry": false,
@@ -68311,7 +68362,7 @@
     "name": "Cranidos",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -69056,7 +69107,7 @@
     "name": "Wormadam",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -69175,7 +69226,7 @@
         "name": "Sand",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Normal": true,
           "Angry": false,
@@ -69271,7 +69322,7 @@
         "name": "Trash",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Normal": true,
           "Angry": false,
@@ -69561,7 +69612,7 @@
                 "name": "Female",
                 "portrait_bounty": {},
                 "portrait_complete": 1,
-                "portrait_credit": "<@!702275233125630042>",
+                "portrait_credit": "ANONYMOUS_0000",
                 "portrait_files": {
                   "Normal": true,
                   "Pain": false,
@@ -69690,7 +69741,7 @@
     "name": "Vespiquen",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -69770,7 +69821,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Angry": false,
@@ -71303,7 +71354,7 @@
     "name": "Ambipom",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Surprised": false,
@@ -71368,7 +71419,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 1,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Normal": false,
               "Surprised": false,
@@ -72008,7 +72059,7 @@
     "name": "Lopunny",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": true,
       "Happy": true,
@@ -72157,7 +72208,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 1,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -72472,7 +72523,7 @@
     "name": "Glameow",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -74015,7 +74066,7 @@
     "name": "Gible",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -76519,7 +76570,7 @@
     "name": "Carnivine",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -77622,7 +77673,7 @@
     "name": "Weavile",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": true,
       "Normal": true,
@@ -77703,7 +77754,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Angry": false,
               "Normal": false,
@@ -78934,7 +78985,7 @@
     "name": "Glaceon",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -78960,7 +79011,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -79530,7 +79581,7 @@
     "name": "Gallade",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -79675,7 +79726,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 1,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -79837,7 +79888,7 @@
         "name": "Beta",
         "portrait_bounty": {},
         "portrait_complete": 1,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Normal": false
         },
@@ -79848,7 +79899,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 1,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -80084,7 +80135,7 @@
     "name": "Froslass",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": true,
       "Angry": false,
@@ -81834,7 +81885,7 @@
         "name": "Beta",
         "portrait_bounty": {},
         "portrait_complete": 1,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Normal": false
         },
@@ -82670,7 +82721,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!544245909639397378>",
+    "sprite_credit": "<@!117780585635643396>",
     "sprite_files": {
       "Walk": true,
       "Attack": true,
@@ -82686,9 +82737,9 @@
       "Hop": true,
       "Charge": true,
       "Rotate": true,
-      "Pose": true,
-      "Special0": true,
-      "Special1": true,
+      "Pose": false,
+      "Special0": false,
+      "Special1": false,
       "EventSleep": false,
       "Wake": false,
       "Cringe": false,
@@ -82710,12 +82761,13 @@
       "Faint": false,
       "Trip": false,
       "Pain": false,
-      "Special20": false
+      "Special20": false,
+      "Special2": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877058038706606081/sprite-0491.zip",
-    "sprite_modified": "2021-08-17 05:15:31.123251",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/878372821284294697/sprite-0491.zip",
+    "sprite_modified": "2021-08-20 20:19:59.777256",
     "sprite_pending": {},
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/877058126237556756/sprite_recolor-0491-0000-0001.png",
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -82796,7 +82848,7 @@
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
-            "sprite_complete": 2,
+            "sprite_complete": 0,
             "sprite_credit": "<@!544245909639397378>",
             "sprite_files": {
               "Walk": false,
@@ -82975,7 +83027,9 @@
         },
         "sprite_link": "https://cdn.discordapp.com/attachments/548721996872286219/842792803120447558/sprite-0491-0002.zip",
         "sprite_modified": "2021-03-19 02:23:14.584078",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "878372687800594544": 548723017086402561
+        },
         "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/877129811745718343/sprite_recolor-0491-0002-0001.png",
         "sprite_required": true,
         "subgroups": {
@@ -83469,7 +83523,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -86202,7 +86256,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877739918544240720/sprite-0500.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -86456,7 +86510,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -88639,7 +88693,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "sprite_bounty": {},
+    "sprite_bounty": {
+      "1": 5
+    },
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
@@ -88715,7 +88771,9 @@
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "sprite_bounty": {},
+    "sprite_bounty": {
+      "1": 5
+    },
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
@@ -88960,7 +89018,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -90203,7 +90261,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/877702636097400853/portrait-0546.png",
     "portrait_modified": "2021-03-16 02:58:52.886248",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -90301,7 +90359,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -91123,7 +91181,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/878253848559501342/sprite-0555.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -91237,7 +91295,7 @@
         "portrait_complete": 0,
         "portrait_credit": "",
         "portrait_files": {},
-        "portrait_link": "",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878253917824233582/portrait-0555-0002.png",
         "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -91361,7 +91419,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -93278,7 +93336,7 @@
     "name": "Gothorita",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": false,
       "Sigh": false,
@@ -93306,7 +93364,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -93853,7 +93911,7 @@
     "name": "Vanillite",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -93880,7 +93938,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -93953,7 +94011,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Angry": false,
               "Crying": false,
@@ -93980,7 +94038,7 @@
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 2,
-            "sprite_credit": "<@!702275233125630042>",
+            "sprite_credit": "ANONYMOUS_0000",
             "sprite_files": {
               "Walk": false,
               "Attack": false,
@@ -94051,7 +94109,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -94934,7 +94992,7 @@
       "2": 5
     },
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -95716,7 +95774,7 @@
     "name": "Joltik",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -95742,7 +95800,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -95792,7 +95850,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Angry": false,
               "Crying": false,
@@ -95818,7 +95876,7 @@
             "portrait_required": true,
             "sprite_bounty": {},
             "sprite_complete": 1,
-            "sprite_credit": "<@!702275233125630042>",
+            "sprite_credit": "ANONYMOUS_0000",
             "sprite_files": {
               "Walk": false,
               "Attack": false,
@@ -95861,7 +95919,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -97120,7 +97178,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -97865,7 +97923,7 @@
     "name": "Mienfoo",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -97891,7 +97949,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -97962,7 +98020,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Angry": false,
               "Crying": false,
@@ -98262,7 +98320,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -98712,6 +98770,55 @@
             "subgroups": {}
           }
         }
+      },
+      "0001": {
+        "canon": true,
+        "modreward": false,
+        "name": "Hisui",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": "",
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {},
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": "",
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "subgroups": {
+          "0001": {
+            "canon": true,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": "",
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": "",
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "subgroups": {}
+          }
+        }
       }
     }
   },
@@ -98891,7 +98998,7 @@
     "portrait_files": {
       "Normal": false
     },
-    "portrait_link": "",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/877699714450063370/portrait-0631.png",
     "portrait_modified": "2021-03-16 02:58:52.998948",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -99889,7 +99996,7 @@
     "sprite_complete": 0,
     "sprite_credit": "",
     "sprite_files": {},
-    "sprite_link": "",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/877936119780618290/sprite-0642.zip",
     "sprite_modified": "",
     "sprite_pending": {},
     "sprite_recolor_link": "",
@@ -105066,7 +105173,9 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/870304613369274418/sprite-0671.zip",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "878082012370571344": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "subgroups": {
@@ -106634,7 +106743,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -106733,7 +106842,7 @@
         "name": "Alternate",
         "portrait_bounty": {},
         "portrait_complete": 1,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Normal": false
         },
@@ -110144,7 +110253,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -113074,7 +113183,7 @@
     "name": "Rockruff",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -113100,7 +113209,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -114693,7 +114802,7 @@
     "name": "Salazzle",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -114719,7 +114828,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -115040,7 +115149,7 @@
     "name": "Steenee",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": false,
       "Pain": false,
@@ -115066,7 +115175,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -115146,7 +115255,7 @@
     "name": "Tsareena",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -115210,7 +115319,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 2,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Angry": false,
               "Crying": false,
@@ -117676,7 +117785,7 @@
     "name": "Mimikyu",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -119265,7 +119374,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -119318,7 +119427,7 @@
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
-            "portrait_credit": "<@!702275233125630042>",
+            "portrait_credit": "ANONYMOUS_0000",
             "portrait_files": {
               "Sigh": false,
               "Joyous": false,
@@ -120189,7 +120298,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -122992,7 +123101,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 2,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -123980,7 +124089,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -124589,7 +124698,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -125437,7 +125546,7 @@
     "name": "Sinistea",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -125463,7 +125572,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -125771,7 +125880,7 @@
     "name": "Hatterene",
     "portrait_bounty": {},
     "portrait_complete": 1,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Normal": false,
       "Normal^": false,
@@ -125800,7 +125909,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -126363,7 +126472,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -132367,7 +132476,7 @@
     "name": "Snom",
     "portrait_bounty": {},
     "portrait_complete": 2,
-    "portrait_credit": "<@!702275233125630042>",
+    "portrait_credit": "ANONYMOUS_0000",
     "portrait_files": {
       "Angry": false,
       "Crying": false,
@@ -132822,7 +132931,7 @@
         "name": "Female",
         "portrait_bounty": {},
         "portrait_complete": 2,
-        "portrait_credit": "<@!702275233125630042>",
+        "portrait_credit": "ANONYMOUS_0000",
         "portrait_files": {
           "Angry": false,
           "Crying": false,
@@ -132849,7 +132958,7 @@
         "portrait_required": true,
         "sprite_bounty": {},
         "sprite_complete": 0,
-        "sprite_credit": "<@!702275233125630042>",
+        "sprite_credit": "ANONYMOUS_0000",
         "sprite_files": {
           "Walk": false,
           "Attack": false,
@@ -134684,7 +134793,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,
@@ -134826,7 +134935,7 @@
     "portrait_required": true,
     "sprite_bounty": {},
     "sprite_complete": 1,
-    "sprite_credit": "<@!702275233125630042>",
+    "sprite_credit": "ANONYMOUS_0000",
     "sprite_files": {
       "Walk": false,
       "Attack": false,

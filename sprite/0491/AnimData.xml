@@ -260,7 +260,7 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Pose</Name>
+      <Name>Special0</Name>
       <Index>13</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>80</FrameHeight>
@@ -272,7 +272,7 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Special0</Name>
+      <Name>Special1</Name>
       <Index>14</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>72</FrameHeight>
@@ -284,7 +284,7 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Special1</Name>
+      <Name>Special2</Name>
       <Index>15</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>64</FrameHeight>
