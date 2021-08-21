@@ -11120,11 +11120,13 @@
         "modreward": false,
         "name": "Hisui",
         "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_complete": 1,
+        "portrait_credit": "<@!356635814668664832>",
+        "portrait_files": {
+          "Normal": false
+        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/878447040739287040/portrait-0058-0001.png",
+        "portrait_modified": "2021-08-21 01:14:55.118076",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -82738,8 +82740,8 @@
       "Charge": true,
       "Rotate": true,
       "Pose": false,
-      "Special0": false,
-      "Special1": false,
+      "Special0": true,
+      "Special1": true,
       "EventSleep": false,
       "Wake": false,
       "Cringe": false,
@@ -82762,11 +82764,13 @@
       "Trip": false,
       "Pain": false,
       "Special20": false,
-      "Special2": false
+      "Special2": true
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/878372821284294697/sprite-0491.zip",
     "sprite_modified": "2021-08-20 20:19:59.777256",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "878390799711211600": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/878373025450434600/sprite_recolor-0491-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
@@ -82866,8 +82870,8 @@
               "Charge": false,
               "Rotate": false,
               "Pose": false,
-              "Special0": false,
-              "Special1": false,
+              "Special0": true,
+              "Special1": true,
               "EventSleep": false,
               "Wake": false,
               "Cringe": false,
@@ -82890,7 +82894,7 @@
               "Trip": false,
               "Pain": false,
               "Special20": false,
-              "Special2": false
+              "Special2": true
             },
             "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/878373670253375538/sprite-0491-0000-0001.zip",
             "sprite_modified": "2021-08-20 20:23:22.130296",
