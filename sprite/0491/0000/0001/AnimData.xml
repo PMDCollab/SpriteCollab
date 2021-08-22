@@ -260,6 +260,18 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Pose</Name>
+      <Index>39</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>80</FrameHeight>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Special0</Name>
       <Index>13</Index>
       <FrameWidth>32</FrameWidth>
