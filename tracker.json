@@ -60304,7 +60304,7 @@
               "Special1": false,
               "Jump": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/880188247525957632/sprite-0359-0000-0001.zip",
             "sprite_modified": "2021-03-16 02:59:15.218511",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -60330,7 +60330,7 @@
         "sprite_complete": 0,
         "sprite_credit": "",
         "sprite_files": {},
-        "sprite_link": "",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/880182727431827506/sprite-0359-0001.zip",
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
@@ -101377,7 +101377,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/865719850218291253/sprite-0648.zip",
     "sprite_modified": "2021-07-16 22:21:36.238909",
     "sprite_pending": {},
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/880208979228241971/sprite_recolor-0648-0000-0001.png",
     "sprite_required": true,
     "subgroups": {
       "0000": {
@@ -102687,14 +102687,14 @@
     "modreward": false,
     "name": "Frogadier",
     "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": "",
-    "portrait_files": {},
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/860608253503209502/portrait-0657.png",
-    "portrait_modified": "",
-    "portrait_pending": {
-      "880157619581505536": 764610870357131265
+    "portrait_complete": 1,
+    "portrait_credit": "<@!544245909639397378>",
+    "portrait_files": {
+      "Normal": false
     },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/880235709447942204/portrait-0657.png",
+    "portrait_modified": "2021-08-25 23:42:26.952853",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "sprite_bounty": {},
@@ -126094,9 +126094,7 @@
             "portrait_files": {},
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {
-              "879087066108014632": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "sprite_bounty": {},
