@@ -114021,14 +114021,14 @@
         "modreward": false,
         "name": "School",
         "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": "",
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/880320723879624704/portrait-0746-0001.png",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "880324866681765908": 764610870357131265
+        "portrait_complete": 1,
+        "portrait_credit": "<@!183561486893842432>",
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/880338725043863603/portrait-0746-0001.png",
+        "portrait_modified": "2021-08-26 06:31:47.767443",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "sprite_bounty": {},
