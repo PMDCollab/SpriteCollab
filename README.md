@@ -1,11 +1,11 @@
 **Key**
-:star: Fully Featured: Contains all emotions in high quality.
-:white_check_mark: Exists: Contains at least a Normal emotion in high quality.
-:white_circle: Incomplete: Contains at least a Normal emotion, but considered unfinished.
-:x: Missing
-:black_circle: Not Needed
-:grey_question: Pending Submission
-:interrobang: Finished, with Pending Revision
+* :star: Fully Featured: Contains all emotions in high quality.
+* :white_check_mark: Exists: Contains at least a Normal emotion in high quality.
+* :white_circle: Incomplete: Contains at least a Normal emotion, but considered unfinished.
+* :x: Missing
+* :black_circle: Not Needed
+* :grey_question: Pending Submission
+* :interrobang: Finished, with Pending Revision
 
 
 
@@ -38,10 +38,10 @@ Note: By submitting files to the bot, you provide permission for others to use, 
 As a rule, we do not allow modifications or overwriting of any existing Chunsoft portraits or sprites within the SpriteBot repository (with the exception of shinies), nor do we allow unofficial Pokemon/unofficial forms of Pokemon to be added to the repository.
 
 However, there are some special submission cases that warrant the creation of new sprite and portrait slots in order for them to be added to the repository:
-• Alternate versions of existing emotion portraits/entire portrait sets and/or spritesheets that are deemed to be of a high enough quality standard to be accepted can be added in a new slot created for the relevant Pokemon that is labeled Alternate.
-• Recolors of portraits and sprites that modify the existing Chunsoft color palettes to better match the canonical color palettes used for the Pokemon in the mainline game series can be added in a new slot created for the relevant Pokemon that is labeled AltColor.
-• Portraits and sprites of Pokemon that were discovered in beta versions of mainline Pokemon games can be added in a new form slot of either Missingno. in the case of there being no applicable Pokemon that it is a prototype of, or in a new form slot of the Pokemon it is a prototype of that is labeled Beta.
-• Portraits and sprites of alternate forms of Pokemon shown in official spin-off games (e.g. Shadow Lugia and similar cases) can be added in a new form slot created for the relevant Pokemon labeled with the official name of the form.
+* Alternate versions of existing emotion portraits/entire portrait sets and/or spritesheets that are deemed to be of a high enough quality standard to be accepted can be added in a new slot created for the relevant Pokemon that is labeled Alternate.
+* Recolors of portraits and sprites that modify the existing Chunsoft color palettes to better match the canonical color palettes used for the Pokemon in the mainline game series can be added in a new slot created for the relevant Pokemon that is labeled AltColor.
+* Portraits and sprites of Pokemon that were discovered in beta versions of mainline Pokemon games can be added in a new form slot of either Missingno. in the case of there being no applicable Pokemon that it is a prototype of, or in a new form slot of the Pokemon it is a prototype of that is labeled Beta.
+* Portraits and sprites of alternate forms of Pokemon shown in official spin-off games (e.g. Shadow Lugia and similar cases) can be added in a new form slot created for the relevant Pokemon labeled with the official name of the form.
 
 If a special use-case sprite or portrait does not fit into any of the above categories, it will not be accepted into the Sprite Repository.
 
