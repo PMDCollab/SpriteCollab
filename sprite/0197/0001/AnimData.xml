@@ -228,7 +228,7 @@
       <Name>EventSleep</Name>
       <Index>13</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -238,7 +238,7 @@
       <Name>Wake</Name>
       <Index>14</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>4</Duration>
@@ -252,7 +252,7 @@
       <Name>Eat</Name>
       <Index>15</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
         <Duration>8</Duration>
@@ -328,7 +328,7 @@
     <Anim>
       <Name>Float</Name>
       <Index>20</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>9</Duration>
@@ -341,7 +341,7 @@
       <Name>DeepBreath</Name>
       <Index>21</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>6</Duration>
@@ -358,7 +358,7 @@
       <Name>Nod</Name>
       <Index>22</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
         <Duration>8</Duration>
@@ -411,7 +411,7 @@
       <Name>Trip</Name>
       <Index>26</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>6</Duration>
@@ -424,7 +424,7 @@
       <Name>Laying</Name>
       <Index>27</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>12</Duration>
       </Durations>
@@ -494,7 +494,7 @@
       <Name>Faint</Name>
       <Index>33</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>12</Duration>
