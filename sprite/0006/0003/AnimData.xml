@@ -221,5 +221,17 @@
         <Duration>2</Duration>
       </Durations>
     </Anim>
+    <Anim>
+      <Name>Faint</Name>
+      <Index>13</Index>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>48</FrameHeight>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>12</Duration>
+        <Duration>4</Duration>
+        <Duration>10</Duration>
+      </Durations>
+    </Anim>
   </Anims>
 </AnimData>
