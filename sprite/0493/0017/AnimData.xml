@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <AnimData>
-  <ShadowSize>1</ShadowSize>
+  <ShadowSize>2</ShadowSize>
   <Anims>
     <Anim>
       <Name>Walk</Name>
       <Index>0</Index>
-      <FrameWidth>48</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameWidth>56</FrameWidth>
+      <FrameHeight>72</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>10</Duration>
@@ -43,8 +43,8 @@
     <Anim>
       <Name>Stomp</Name>
       <Index>2</Index>
-      <FrameWidth>80</FrameWidth>
-      <FrameHeight>96</FrameHeight>
+      <FrameWidth>88</FrameWidth>
+      <FrameHeight>104</FrameHeight>
       <HitFrame>1</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -91,8 +91,8 @@
     <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
-      <FrameWidth>32</FrameWidth>
-      <FrameHeight>64</FrameHeight>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>56</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -111,8 +111,8 @@
     <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
-      <FrameWidth>48</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameWidth>56</FrameWidth>
+      <FrameHeight>72</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>12</Duration>
@@ -144,34 +144,10 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Double</Name>
-      <Index>9</Index>
-      <FrameWidth>64</FrameWidth>
-      <FrameHeight>88</FrameHeight>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
       <Name>Hop</Name>
       <Index>10</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>104</FrameHeight>
+      <FrameHeight>112</FrameHeight>
       <HitFrame>9</HitFrame>
       <Durations>
         <Duration>2</Duration>
@@ -189,7 +165,7 @@
     <Anim>
       <Name>Charge</Name>
       <Index>11</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>48</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
@@ -209,7 +185,7 @@
     <Anim>
       <Name>Rotate</Name>
       <Index>12</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>48</FrameWidth>
       <FrameHeight>80</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
@@ -217,6 +193,30 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Double</Name>
+      <Index>9</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>104</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
