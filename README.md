@@ -14,11 +14,6 @@ http://sprites.pmdcollab.org/
 
 
 
-**REPOSITORY**
-https://github.com/PMDCollab/SpriteCollab
-
-
-
 **HOW TO SUBMIT PORTRAITS**
 1. Download the template for the Pokemon you want to submit or recolor, using `!portrait`, or `!recolorportrait`.
 2. Paste in the portraits in the correct places and save the file without changing its name.
@@ -31,7 +26,7 @@ https://github.com/PMDCollab/SpriteCollab
 2. Add the animations and XML data to the zipped folder.  Consult a full guide here: https://docs.google.com/document/d/1EceEEjyeoFwoKXdNj4vpXdoYRWp8CID64e-ZqY954_Q
 3. Re-upload the file directly to the #submissions channel and await approval.  It must be zipped with the same name as you got it.
 
-Note: By submitting files to the bot, you provide permission for others to use, copy, redistribute, or modify said files for their own projects and contributions, so long as credit to the original artist is retained.  For more info view the license on the repository.
+Note: By submitting files to the bot, you provide permission for others to use, copy, redistribute, or modify said files for their own projects and contributions, so long as credit to the original artist is retained.
 
 
 **POLICY ON OFFICIAL SPRITES**
@@ -89,6 +84,22 @@ Sets your name and contact info for use in crediting you when distributing sprit
 !profile
   !profile
 Shows your current name and contact info as used in credits.
+```
+
+
+**SUBMISSION FLAGS**
+Add these to the post of your submission if you need them.
+```
+--author <Ping of Author>
+  --author @Audino
+  --author FELIS_LICHT
+Lets you submit a sprite/portrait with credit to someone else. Also works on absentee profiles.
+
+--base <Pokemon Name> [Pokemon Form] [Gender]
+  --base Pikachu
+  --base Shaymin Sky
+  --base Pikachu Female
+Allows you to submit recolor sheets as an entirely new Pokemon, based on the old Pokemon provided in the arguments. This uses the old Pokemon's animations, shadows, etc.
 ```
 
 
