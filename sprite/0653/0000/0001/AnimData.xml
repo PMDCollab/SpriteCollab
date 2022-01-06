@@ -24,20 +24,20 @@
       <FrameHeight>64</FrameHeight>
       <RushFrame>0</RushFrame>
       <HitFrame>4</HitFrame>
-      <ReturnFrame>9</ReturnFrame>
+      <ReturnFrame>8</ReturnFrame>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
-        <Duration>4</Duration>
-        <Duration>4</Duration>
-        <Duration>4</Duration>
-        <Duration>4</Duration>
         <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -51,9 +51,9 @@
       <FrameWidth>40</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
-        <Duration>6</Duration>
-        <Duration>8</Duration>
-        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -145,14 +145,14 @@
       <FrameHeight>64</FrameHeight>
       <HitFrame>7</HitFrame>
       <Durations>
-        <Duration>3</Duration>
         <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>4</Duration>
-        <Duration>4</Duration>
-        <Duration>3</Duration>
         <Duration>2</Duration>
-        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -317,7 +317,7 @@
     <Anim>
       <Name>Nod</Name>
       <Index>22</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>40</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>6</Duration>
