@@ -84,6 +84,12 @@ Sets your name and contact info for use in crediting you when distributing sprit
 !profile
   !profile
 Shows your current name and contact info as used in credits.
+
+!help
+  !help
+  !help sprite
+  !help recolorsprite
+Shows info on available commands and specific commands.
 ```
 
 
@@ -100,72 +106,4 @@ Lets you submit a sprite/portrait with credit to someone else. Also works on abs
   --base Shaymin Sky
   --base Pikachu Female
 Allows you to submit recolor sheets as an entirely new Pokemon, based on the old Pokemon provided in the arguments. This uses the old Pokemon's animations, shadows, etc.
-```
-
-
-
-**REVIEWER COMMANDS**
-```
-!add <Pokemon Name> [Pokemon Form]
-  !add Calyrex
-  !add Mr_Mime Galar
-Adds a species, or a new form to an existing species. Auto-generates shiny slots.
-
-!rename <Pokemon Name> [Pokemon Form] <New Name>
-  !rename Calrex Calyrex
-  !rename Vulpix Aloha Alola
-Changes the existing species or form to the new name.
-
-!delete <Pokemon Name> [Pokemon Form]
-  !delete Pikablu
-  !delete Arceus Mega
-Removes a species or form. Only works if the slot its children are empty. Must be on the last slot in its list.
-
-!addgender <Pokemon Name> [Pokemon Form] <Sprite|Portrait>
-  !addgender Venusaur Sprite
-  !addgender Steelix Portrait
-  !addgender Raichu Alola Sprite
-Adds a slot for the female version of the species, or form of the species.  Must specify "sprite" or "portrait" at the end.
-
-!deletegender <Pokemon Name> [Pokemon Form] <Sprite|Portrait>
-  !deletegender Venusaur Sprite
-  !deletegender Steelix Portrait
-  !deletegender Raichu Alola Sprite
-Removes the slot for the female version of the species, or form of the species. Only works if empty.  Must specify "sprite" or "portrait" at the end.
-```
-
-
-```
-!portraitexists <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
-  !portraitexists Pikachu
-  !portraitexists Shaymin Sky Shiny
-Marks a Pokemon portrait as "Exists". Portraits are considered "Incomplete" when accepted, and this status must be marked by reviewers when they meet quality standards.
-
-!portraitfilled <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
-  !portraitfilled Pikachu
-  !portraitfilled Shaymin Sky Shiny
-Marks a Pokemon portrait as "Filled". This status must be marked by reviewers when all emotions meet quality standards.
-
-!spriteexists <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
-  !spriteexists Pikachu
-  !spriteexists Shaymin Sky Shiny
-Marks a Pokemon sprite as "Exists". Sprites are considered "Incomplete" when accepted, and this status must be marked by reviewers when they meet quality standards.
-
-!spritefilled <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
-  !spritefilled Pikachu
-  !spritefilled Shaymin Sky Shiny
-Marks a Pokemon sprite as "Filled". This status must be marked by reviewers when the sprite has the 13 basic animations, with shadows and offsets in the right place.
-```
-
-
-```
-!portraitcredit <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
-  !portraitcredit Pikachu
-  !portraitcredit Shaymin Sky Shiny
-Gets the full list of contributors for a portrait, for use in crediting.
-
-!spritecredit <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
-  !spritecredit Pikachu
-  !spritecredit Shaymin Sky Shiny
-Gets the full list of contributors for a sprite, for use in crediting.
 ```
