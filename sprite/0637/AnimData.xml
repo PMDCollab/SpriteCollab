@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -43,8 +43,8 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <FrameWidth>56</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>72</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
@@ -71,7 +71,7 @@
     <Anim>
       <Name>Shake</Name>
       <Index>4</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <HitFrame>0</HitFrame>
       <ReturnFrame>5</ReturnFrame>
@@ -139,7 +139,7 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>80</FrameWidth>
+      <FrameWidth>64</FrameWidth>
       <FrameHeight>104</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
@@ -159,7 +159,7 @@
       <Name>Double</Name>
       <Index>9</Index>
       <FrameWidth>64</FrameWidth>
-      <FrameHeight>96</FrameHeight>
+      <FrameHeight>80</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
