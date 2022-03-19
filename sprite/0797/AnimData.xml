@@ -100,7 +100,7 @@
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>56</FrameWidth>
-      <FrameHeight>104</FrameHeight>
+      <FrameHeight>112</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -110,7 +110,7 @@
       <Name>Hurt</Name>
       <Index>6</Index>
       <FrameWidth>80</FrameWidth>
-      <FrameHeight>112</FrameHeight>
+      <FrameHeight>120</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
@@ -120,7 +120,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>72</FrameWidth>
-      <FrameHeight>104</FrameHeight>
+      <FrameHeight>112</FrameHeight>
       <Durations>
         <Duration>120</Duration>
         <Duration>20</Duration>
@@ -131,7 +131,7 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>104</FrameWidth>
+      <FrameWidth>112</FrameWidth>
       <FrameHeight>152</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
@@ -214,7 +214,7 @@
       <Name>Rotate</Name>
       <Index>12</Index>
       <FrameWidth>72</FrameWidth>
-      <FrameHeight>104</FrameHeight>
+      <FrameHeight>112</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
         <Duration>2</Duration>
