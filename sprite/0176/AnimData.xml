@@ -219,7 +219,7 @@
       <Name>EventSleep</Name>
       <Index>13</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>16</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -413,7 +413,7 @@
       <Name>Laying</Name>
       <Index>27</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>16</FrameHeight>
       <Durations>
         <Duration>12</Duration>
       </Durations>
