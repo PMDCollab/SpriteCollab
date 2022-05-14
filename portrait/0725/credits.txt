@@ -1,3 +1,4 @@
 2021-03-20 04:47:02.321439	<@!388808249165479939>	?
 2021-08-28 21:32:12.967727	<@!388808249165479939>	?
 2022-02-22 22:11:00.824300	<@!330751862590406656>	?
+2022-05-14 22:22:11.901268	<@!276369635304275968>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
