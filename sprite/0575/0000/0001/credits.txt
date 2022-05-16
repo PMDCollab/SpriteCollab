@@ -1,0 +1,1 @@
+2022-05-16 17:23:19.374240	<@!593113130213572610>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,Swing,Double,Rotate,Hop,Pose
