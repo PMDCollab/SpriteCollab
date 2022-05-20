@@ -67,7 +67,6 @@ Angels-Snack	ANGELS_SNACK	https://angels-snack.tumblr.com/
 MeepTheMareep02	MEEP_THE_MAREEP	MeepTheMareep02#1222
 Smalusion	<@!177074597315870720>	https://twitter.com/Smalusion
 CamusZekeSirius	<@!533406104256905257>	
-VGStar	VGSTAR	https://www.reddit.com/user/winter_pony4
 TaylorTrap622	TAYLORTRAP622	https://www.deviantart.com/taylortrap622
 MonochromeKirby	<@!324999377946935297>	
 JkKU　(Jenrikku)	<@!427858231956733963>	
@@ -158,3 +157,4 @@ Jeongsugi	<@!537560911716810763>	정수기#1834
 	<@!967585139485999154>	
 PikaNiko	<@!675870876532736010>	https://github.com/PikAsriel
 AlexGroeger	<@!141718238336778241>	
+VGStar	<@!229363481852379136>	VGStar#7739
