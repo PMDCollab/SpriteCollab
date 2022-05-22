@@ -1,3 +1,4 @@
 2021-09-24 13:31:40.884530	JARLEYPENO
 2021-09-26 14:49:09.029694	JARLEYPENO
 2022-02-24 12:28:57.222240	<@!593113130213572610>
+2022-05-22 15:49:56.050538	<@!117780585635643396>	Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
