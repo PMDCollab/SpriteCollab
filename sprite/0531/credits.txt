@@ -1,1 +1,2 @@
 2021-04-20 02:52:45.339691	<@!702275233125630042>
+2022-05-23 03:14:14.153059	<@!544245909639397378>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Pose
