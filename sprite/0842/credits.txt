@@ -1,1 +1,1 @@
-2022-05-20 22:12:11.751680	<@!356635814668664832>
+2022-05-20 22:12:11.751680	<@!356635814668664832>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
