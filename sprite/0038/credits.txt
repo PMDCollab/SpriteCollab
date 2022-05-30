@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.454094	CHUNSOFT
-2022-05-16 17:22:46.318245	<@!544245909639397378>
+2020-10-07 17:58:43.454094	CHUNSOFT	?
+2022-05-16 17:22:46.318245	<@!544245909639397378>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
