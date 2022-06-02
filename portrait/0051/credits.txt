@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.489996	CHUNSOFT	?
+2022-06-02 05:24:19.943182	<@!861005464682889266>	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
