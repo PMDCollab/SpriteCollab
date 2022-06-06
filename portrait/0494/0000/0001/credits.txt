@@ -1,1 +1,1 @@
-2021-01-13 16:50:47.011728	<@!324999377946935297>	?
+2021-01-13 16:50:47.011728	<@!324999377946935297>	Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned

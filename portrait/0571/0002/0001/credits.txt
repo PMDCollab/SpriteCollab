@@ -1,1 +1,1 @@
-2022-05-07 07:44:58.920705	<@!593113130213572610>	?
+2022-05-07 07:44:58.920705	<@!593113130213572610>	Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned

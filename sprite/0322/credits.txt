@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.368250	CHUNSOFT	?
+2020-10-07 17:58:44.368250	CHUNSOFT	Walk,Attack,Strike,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate

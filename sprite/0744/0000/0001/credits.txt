@@ -1,1 +1,1 @@
-2021-09-14 03:15:42.269740	<@!329424896927203339>	?
+2021-09-14 03:15:42.269740	<@!329424896927203339>	Walk,Attack,Strike,Shoot,Appeal,TailWhip,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround

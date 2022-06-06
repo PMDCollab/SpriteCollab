@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.381218	CHUNSOFT	?
+2020-10-07 17:58:44.381218	CHUNSOFT	Normal,Normal^,Worried,Worried^,Shouting,Shouting^,Joyous,Joyous^,Surprised,Surprised^,Sigh,Sigh^

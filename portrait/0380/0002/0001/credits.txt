@@ -1,1 +1,1 @@
-2021-07-06 07:27:55.192010	<@!356635814668664832>	?
+2021-07-06 07:27:55.192010	<@!356635814668664832>	Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned

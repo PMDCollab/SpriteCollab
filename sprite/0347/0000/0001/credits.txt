@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.429088	<@!276949114212712449>	?
+2020-10-07 17:58:44.429088	<@!276949114212712449>	Walk,Attack,Scratch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate

@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.382214	<@!200385851069300736>	?
+2020-10-07 17:58:44.382214	<@!200385851069300736>	Normal,Normal^,Worried,Worried^,Shouting,Shouting^,Joyous,Joyous^,Surprised,Surprised^,Sigh,Sigh^

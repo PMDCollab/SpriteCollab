@@ -1,1 +1,1 @@
-2021-11-04 23:35:24.157459	<@!702275233125630042>	?
+2021-11-04 23:35:24.157459	<@!702275233125630042>	Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special1,Sigh,Stunned,Special2,Special3

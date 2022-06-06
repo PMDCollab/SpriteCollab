@@ -1,1 +1,1 @@
-2022-02-16 12:48:37.797017	<@!593113130213572610>	?
+2022-02-16 12:48:37.797017	<@!593113130213572610>	Walk,Attack,Strike,Shoot,TailWhip,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate

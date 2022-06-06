@@ -1,1 +1,1 @@
-2020-11-12 01:18:46.541340	<@!196351316681818112>	?
+2020-11-12 01:18:46.541340	<@!196351316681818112>	Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned

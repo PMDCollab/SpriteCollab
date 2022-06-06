@@ -1,1 +1,1 @@
-2021-05-07 09:39:49.963774	CHUNSOFT	?
+2021-05-07 09:39:49.963774	CHUNSOFT	Walk,Attack,Scratch,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,Faint,Special0,Fainted,Roar,Special1,Special2,StandingUp

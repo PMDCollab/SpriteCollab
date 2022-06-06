@@ -1,1 +1,1 @@
-2021-07-06 16:15:07.678946	<@!702275233125630042>	?
+2021-07-06 16:15:07.678946	<@!702275233125630042>	Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate

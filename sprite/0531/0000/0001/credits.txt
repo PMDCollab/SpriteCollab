@@ -1,1 +1,1 @@
-2022-02-27 05:41:38.184771	<@!330751862590406656>	?
+2022-02-27 05:41:38.184771	<@!330751862590406656>	Walk,Attack,Slam,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pose

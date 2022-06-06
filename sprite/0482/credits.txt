@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.827024	CHUNSOFT	?
+2020-10-07 17:58:44.827024	CHUNSOFT	Walk,Attack,Strike,Shoot,SpAttack,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Fainted
