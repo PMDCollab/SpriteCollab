@@ -135,10 +135,16 @@
       <FrameWidth>32</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
+        <Duration>40</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
         <Duration>12</Duration>
-        <Duration>10</Duration>
-        <Duration>12</Duration>
-        <Duration>10</Duration>
       </Durations>
     </Anim>
     <Anim>
