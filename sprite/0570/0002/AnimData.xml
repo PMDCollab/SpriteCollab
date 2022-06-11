@@ -20,7 +20,6 @@
       <Index>1</Index>
       <FrameWidth>72</FrameWidth>
       <FrameHeight>80</FrameHeight>
-      <RushFrame>2</RushFrame>
       <HitFrame>5</HitFrame>
       <ReturnFrame>7</ReturnFrame>
       <Durations>
@@ -64,10 +63,6 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
       </Durations>
-    </Anim>
-    <Anim>
-      <Name>SpAttack</Name>
-      <CopyOf>Shoot</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
