@@ -1,2 +1,3 @@
 2021-02-22 00:47:32.104217	<@!702275233125630042>	?
 2022-05-18 06:31:13.653915	<@!702275233125630042>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop
+2022-06-12 05:36:09.155466	<@!702275233125630042>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
