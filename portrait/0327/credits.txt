@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.381218	CHUNSOFT	Normal,Normal^,Worried,Worried^,Shouting,Shouting^,Joyous,Joyous^,Surprised,Surprised^,Sigh,Sigh^
+2022-06-15 07:47:46.291777	<@!861005464682889266>	Sad,Sad^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Pain,Stunned,Pain^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Determined,Special0,Determined^,Special0^
