@@ -1,2 +1,3 @@
 2020-10-07 17:58:44.021572	<@!200318546750865418>	?
 2022-05-18 06:20:26.708370	<@!772726854188400641>	Joyous,Crying,Sigh,Shouting,Stunned,Angry,Dizzy,Special0
+2022-06-16 03:38:19.485264	<@!593113130213572610>	Normal,Sad,Joyous,Happy,Inspired,Sigh,Pain,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special3
