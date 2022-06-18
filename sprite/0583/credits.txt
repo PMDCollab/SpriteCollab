@@ -1,1 +1,2 @@
 2021-03-30 21:57:39.242327	<@!702275233125630042>	Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-06-18 03:31:36.403392	<@!702275233125630042>	Charge,Shoot,Swing
