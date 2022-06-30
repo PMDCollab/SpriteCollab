@@ -330,7 +330,7 @@
     </Anim>
     <Anim>
       <Name>Wake</Name>
-      <Index>23</Index>
+      <Index>35</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
@@ -343,7 +343,7 @@
     </Anim>
     <Anim>
       <Name>Tumble</Name>
-      <Index>24</Index>
+      <Index>36</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -359,7 +359,7 @@
     </Anim>
     <Anim>
       <Name>Pull</Name>
-      <Index>25</Index>
+      <Index>37</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
@@ -374,7 +374,7 @@
     </Anim>
     <Anim>
       <Name>Pain</Name>
-      <Index>26</Index>
+      <Index>38</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
@@ -394,7 +394,7 @@
     </Anim>
     <Anim>
       <Name>Float</Name>
-      <Index>27</Index>
+      <Index>39</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
@@ -406,7 +406,7 @@
     </Anim>
     <Anim>
       <Name>DeepBreath</Name>
-      <Index>28</Index>
+      <Index>40</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -423,7 +423,7 @@
     </Anim>
     <Anim>
       <Name>Sit</Name>
-      <Index>29</Index>
+      <Index>23</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -434,7 +434,7 @@
     </Anim>
     <Anim>
       <Name>LookUp</Name>
-      <Index>30</Index>
+      <Index>24</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -444,7 +444,7 @@
     </Anim>
     <Anim>
       <Name>Sink</Name>
-      <Index>31</Index>
+      <Index>25</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -464,7 +464,7 @@
     </Anim>
     <Anim>
       <Name>Trip</Name>
-      <Index>32</Index>
+      <Index>26</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
@@ -477,7 +477,7 @@
     </Anim>
     <Anim>
       <Name>LeapForth</Name>
-      <Index>33</Index>
+      <Index>28</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <Durations>
@@ -491,7 +491,7 @@
     </Anim>
     <Anim>
       <Name>Head</Name>
-      <Index>34</Index>
+      <Index>29</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
@@ -500,7 +500,7 @@
     </Anim>
     <Anim>
       <Name>Cringe</Name>
-      <Index>35</Index>
+      <Index>30</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>56</FrameHeight>
       <Durations>
@@ -510,7 +510,7 @@
     </Anim>
     <Anim>
       <Name>LostBalance</Name>
-      <Index>36</Index>
+      <Index>31</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
@@ -520,7 +520,7 @@
     </Anim>
     <Anim>
       <Name>TumbleBack</Name>
-      <Index>37</Index>
+      <Index>32</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -538,7 +538,7 @@
     </Anim>
     <Anim>
       <Name>Faint</Name>
-      <Index>38</Index>
+      <Index>33</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
@@ -550,7 +550,7 @@
     </Anim>
     <Anim>
       <Name>HitGround</Name>
-      <Index>39</Index>
+      <Index>34</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
