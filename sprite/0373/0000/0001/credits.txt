@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.495910	<@!215699178553212929>	Walk,Attack,Strike,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-07-01 01:18:32.680169	<@!356635814668664832>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
