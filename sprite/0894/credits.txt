@@ -1,1 +1,2 @@
 2021-07-21 16:14:49.241321	<@!702275233125630042>	Walk,Attack,Strike,Shoot,Withdraw,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-07-08 14:44:06.868638	<@!544245909639397378>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
