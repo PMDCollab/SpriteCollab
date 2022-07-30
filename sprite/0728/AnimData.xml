@@ -18,7 +18,7 @@
       <Name>Attack</Name>
       <Index>1</Index>
       <FrameWidth>64</FrameWidth>
-      <FrameHeight>72</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <RushFrame>1</RushFrame>
       <HitFrame>3</HitFrame>
       <ReturnFrame>6</ReturnFrame>
@@ -70,7 +70,7 @@
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>18</FrameHeight>
+      <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -119,7 +119,7 @@
       <Name>Double</Name>
       <Index>9</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -162,7 +162,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>24</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
@@ -199,7 +199,7 @@
     <Anim>
       <Name>EventSleep</Name>
       <Index>13</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>16</FrameHeight>
       <Durations>
         <Duration>30</Duration>
