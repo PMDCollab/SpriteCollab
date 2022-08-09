@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.038527	<@!215699178553212929>	Walk,Attack,Punch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-08-09 20:38:42.748443	<@!330751862590406656>	Eat,Head
