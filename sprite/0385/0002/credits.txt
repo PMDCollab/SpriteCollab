@@ -1,1 +1,2 @@
 2022-08-10 00:31:03.706807	CHUNSOFT	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
+2022-08-10 20:14:00.023712	<@!217653022094786560>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
