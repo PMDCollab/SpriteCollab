@@ -1,1 +1,2 @@
 2022-08-05 21:20:11.495479	<@!544245909639397378>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2022-08-24 05:33:23.425773	<@!544245909639397378>	Joyous,Worried
