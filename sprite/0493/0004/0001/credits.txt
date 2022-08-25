@@ -3,3 +3,4 @@
 2021-11-08 20:10:01.949561	<@!593113130213572610>	?
 2022-02-16 01:00:45.920120	<@!593113130213572610>	?
 2022-08-24 18:05:01.209027	<@!593113130213572610>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2022-08-25 13:53:58.887427	<@!593113130213572610>	Idle,Walk,Sleep,Hurt,Attack,Charge,Bite,Stomp,Swing,Double,Rotate,Hop,EventSleep,Wake,Pain,Float,Nod,Trip,Laying,Head,HitGround,Faint
