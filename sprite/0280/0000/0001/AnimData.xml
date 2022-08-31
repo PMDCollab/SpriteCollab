@@ -205,13 +205,13 @@
     <Anim>
       <Name>Wake</Name>
       <Index>14</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>6</Duration>
-        <Duration>14</Duration>
-        <Duration>4</Duration>
+        <Duration>10</Duration>
+        <Duration>8</Duration>
         <Duration>10</Duration>
       </Durations>
     </Anim>
@@ -247,7 +247,7 @@
       <Name>Pose</Name>
       <Index>17</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>2</Duration>
@@ -257,7 +257,7 @@
     <Anim>
       <Name>Pull</Name>
       <Index>18</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>10</Duration>
@@ -321,7 +321,7 @@
     <Anim>
       <Name>Nod</Name>
       <Index>22</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>6</Duration>
@@ -346,7 +346,6 @@
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
-        <Duration>6</Duration>
         <Duration>6</Duration>
         <Duration>6</Duration>
       </Durations>
@@ -374,8 +373,8 @@
     <Anim>
       <Name>Trip</Name>
       <Index>26</Index>
-      <FrameWidth>32</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>6</Duration>
@@ -440,7 +439,7 @@
       <Name>TumbleBack</Name>
       <Index>32</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>3</Duration>
         <Duration>3</Duration>
@@ -457,8 +456,8 @@
     <Anim>
       <Name>Faint</Name>
       <Index>33</Index>
-      <FrameWidth>32</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>12</Duration>
@@ -469,7 +468,7 @@
     <Anim>
       <Name>HitGround</Name>
       <Index>34</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>40</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>4</Duration>
