@@ -1,0 +1,1 @@
+2022-09-01 03:13:16.358607	CHUNSOFT	Normal,Sad,Joyous,Happy,Crying,Pain,Surprised,Angry,Dizzy,Worried
