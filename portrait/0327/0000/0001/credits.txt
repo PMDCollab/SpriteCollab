@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.382214	<@!200385851069300736>	Normal,Normal^,Worried,Worried^,Shouting,Shouting^,Joyous,Joyous^,Surprised,Surprised^,Sigh,Sigh^
+2022-09-01 00:49:55.706039	<@!593113130213572610>	Sad,Sad^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Pain,Stunned,Pain^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Determined,Special0,Determined^,Special0^
