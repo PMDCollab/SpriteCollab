@@ -1,0 +1,1 @@
+2022-09-01 05:08:25.552569	CHUNSOFT	Normal,Sad,Normal^,Sad^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Shouting,Surprised,Shouting^,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
