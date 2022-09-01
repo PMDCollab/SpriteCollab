@@ -1,1 +1,2 @@
 2022-09-01 04:25:25.678948	CHUNSOFT	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Shouting,Surprised,Shouting^,Surprised^
+2022-09-01 04:30:12.713057	<@!861005464682889266>	Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Stunned,Pain^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
