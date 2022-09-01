@@ -1,0 +1,1 @@
+2022-09-01 04:25:25.678948	CHUNSOFT	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Shouting,Surprised,Shouting^,Surprised^
