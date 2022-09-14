@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.808074	<@!215699178553212929>	Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-09-14 16:11:46.702569	<@!330751862590406656>	EventSleep,Wake,Float,Laying,Head
