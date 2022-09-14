@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.807079	CHUNSOFT	Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-09-14 15:17:54.367843	<@!330751862590406656>	EventSleep,Wake,Float,Laying,Head
