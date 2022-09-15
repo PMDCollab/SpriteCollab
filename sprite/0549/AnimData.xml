@@ -43,13 +43,13 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <CopyOf>Rotate</CopyOf>
+      <CopyOf>Charge</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -81,7 +81,7 @@
       <Name>Swing</Name>
       <Index>8</Index>
       <FrameWidth>80</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameHeight>88</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -143,7 +143,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
@@ -180,7 +180,7 @@
     <Anim>
       <Name>EventSleep</Name>
       <Index>13</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>30</Duration>
@@ -190,7 +190,7 @@
     <Anim>
       <Name>Wake</Name>
       <Index>14</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
@@ -232,7 +232,7 @@
       <Name>Pose</Name>
       <Index>17</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>2</Duration>
@@ -242,7 +242,7 @@
     <Anim>
       <Name>Pull</Name>
       <Index>18</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>10</Duration>
@@ -333,6 +333,7 @@
       <Durations>
         <Duration>6</Duration>
         <Duration>6</Duration>
+        <Duration>6</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -359,7 +360,7 @@
       <Name>Trip</Name>
       <Index>26</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>6</Duration>
@@ -395,7 +396,7 @@
       <Name>Head</Name>
       <Index>29</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>4</Duration>
       </Durations>
