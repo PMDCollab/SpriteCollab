@@ -1,0 +1,1 @@
+2022-09-19 23:21:15.193733	CHUNSOFT	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Twirl,Swing,Double,Rotate,Hop
