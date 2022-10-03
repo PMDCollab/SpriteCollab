@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.595644	CHUNSOFT	Walk,Attack,Strike,Shoot,SpAttack,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-10-03 16:14:37.395844	<@!702275233125630042>	Pose
