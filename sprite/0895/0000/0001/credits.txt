@@ -1,1 +1,2 @@
 2022-02-24 16:56:37.167367	<@!779213287576436746>	Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-10-09 15:07:27.109712	<@!576876006636519434>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,SpAttack,Swing,Double,Rotate,Hop
