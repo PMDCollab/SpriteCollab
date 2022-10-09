@@ -1,1 +1,2 @@
 2022-06-05 11:15:56.453433	<@!330751862590406656>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,SpAttack,Swing,Double,Rotate,Hop
+2022-10-09 15:07:14.797114	<@!576876006636519434>	Idle,Walk,Sleep,Hurt,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
