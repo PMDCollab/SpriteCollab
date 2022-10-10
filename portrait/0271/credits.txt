@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.232615	CHUNSOFT	Normal,Normal^,Happy,Happy^,Angry,Angry^,Teary-Eyed
+2022-10-10 23:57:07.377392	<@!544245909639397378>	Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Teary-Eyed^,Worried,Worried^
