@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <AnimData>
-  <ShadowSize>2</ShadowSize>
+  <ShadowSize>1</ShadowSize>
   <Anims>
     <Anim>
       <Name>Walk</Name>
       <Index>0</Index>
-      <FrameWidth>56</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>80</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
@@ -44,7 +44,7 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <FrameWidth>72</FrameWidth>
+      <FrameWidth>64</FrameWidth>
       <FrameHeight>104</FrameHeight>
       <HitFrame>3</HitFrame>
       <ReturnFrame>6</ReturnFrame>
@@ -73,7 +73,7 @@
       <Name>Emit</Name>
       <Index>4</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>112</FrameHeight>
+      <FrameHeight>104</FrameHeight>
       <HitFrame>3</HitFrame>
       <ReturnFrame>10</ReturnFrame>
       <Durations>
@@ -106,7 +106,7 @@
     <Anim>
       <Name>Hurt</Name>
       <Index>6</Index>
-      <FrameWidth>72</FrameWidth>
+      <FrameWidth>64</FrameWidth>
       <FrameHeight>104</FrameHeight>
       <Durations>
         <Duration>2</Duration>
@@ -147,8 +147,8 @@
     <Anim>
       <Name>Double</Name>
       <Index>9</Index>
-      <FrameWidth>80</FrameWidth>
-      <FrameHeight>120</FrameHeight>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>112</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -171,8 +171,8 @@
     <Anim>
       <Name>Hop</Name>
       <Index>10</Index>
-      <FrameWidth>56</FrameWidth>
-      <FrameHeight>136</FrameHeight>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>128</FrameHeight>
       <HitFrame>9</HitFrame>
       <Durations>
         <Duration>2</Duration>
@@ -191,7 +191,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>96</FrameHeight>
+      <FrameHeight>88</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
@@ -210,7 +210,7 @@
     <Anim>
       <Name>Rotate</Name>
       <Index>12</Index>
-      <FrameWidth>56</FrameWidth>
+      <FrameWidth>48</FrameWidth>
       <FrameHeight>88</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
