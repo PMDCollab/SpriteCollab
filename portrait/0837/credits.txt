@@ -1,1 +1,2 @@
 2022-10-14 17:11:46.867739	<@!319728945920475137>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
+2022-10-15 00:13:21.300190	<@!319728945920475137>	Sad,Shouting,Teary-Eyed,Special0
