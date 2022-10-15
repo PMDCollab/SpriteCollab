@@ -1,1 +1,2 @@
 2021-08-29 15:56:22.997504	<@!388808249165479939>	Normal
+2022-10-15 00:04:46.577264	<@!576876006636519434>	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
