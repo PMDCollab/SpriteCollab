@@ -1,2 +1,3 @@
 2020-10-07 17:58:43.888928	<@!95650095034273792>	?
 2021-12-05 15:25:03.788249	<@!593113130213572610>	?
+2022-10-21 20:47:30.887447	<@!237286997645983744>	SpAttack,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,HitGround,Faint
