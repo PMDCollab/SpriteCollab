@@ -1,2 +1,3 @@
 2021-07-01 03:15:02.260279	<@!702275233125630042>	Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 2022-07-08 14:44:24.361823	<@!702275233125630042>	Idle,Walk,Sleep,Hurt,Attack,Charge,Appeal,Swing,Double,Rotate,Hop
+2022-10-30 21:54:06.991796	<@!544245909639397378>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Twirl,SpAttack,Swing,Double,Rotate,Hop
