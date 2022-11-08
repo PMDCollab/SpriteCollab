@@ -1,0 +1,1 @@
+2022-11-08 04:54:20.689727	<@!576876006636519434>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Rumble,RearUp,Swing,Double,Rotate,Hop,Faint,Fainted,Injured,Special0
