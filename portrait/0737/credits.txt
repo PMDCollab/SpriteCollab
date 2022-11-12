@@ -1,1 +1,2 @@
 2020-12-22 12:12:18.056584	<@!371674727183286272>	Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
+2022-11-12 23:52:06.207682	<@!371674727183286272>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
