@@ -1,3 +1,4 @@
 2021-02-22 04:35:50.627797	<@!327927398941196289>	?
 2021-02-22 21:44:06.156829	<@!327927398941196289>	?
 2022-10-09 23:55:25.329915	<@!330751862590406656>	Sad,Happy,Sigh,Pain,Worried
+2022-11-12 23:50:20.049752	<@!544245909639397378>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
