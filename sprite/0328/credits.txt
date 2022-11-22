@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.383215	CHUNSOFT	Walk,Attack,Bite,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2022-11-22 11:12:21.611295	<@!330751862590406656>	EventSleep,Eat,Laying,Cringe
