@@ -1,1 +1,2 @@
 2020-11-07 16:24:43.514683	MUCRUSH	Normal
+2022-11-29 05:37:01.783539	<@!356635814668664832>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
