@@ -1,1 +1,2 @@
 2022-11-28 20:55:31.338804	JHONY_REX	Idle,Walk,Sleep,Hurt,Attack,Strike
+2022-12-07 22:03:14.912968	<@!330751862590406656>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop

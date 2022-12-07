@@ -36,7 +36,7 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Strike</Name>
+      <Name>Kick</Name>
       <Index>2</Index>
       <FrameWidth>56</FrameWidth>
       <FrameHeight>56</FrameHeight>
@@ -62,11 +62,7 @@
       <CopyOf>Charge</CopyOf>
     </Anim>
     <Anim>
-      <Name>Dance</Name>
-      <CopyOf>Shake</CopyOf>
-    </Anim>
-    <Anim>
-      <Name>Shake</Name>
+      <Name>Strike</Name>
       <Index>4</Index>
       <FrameWidth>56</FrameWidth>
       <FrameHeight>56</FrameHeight>
