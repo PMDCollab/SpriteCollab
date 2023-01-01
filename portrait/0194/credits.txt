@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.869977	CHUNSOFT	?
-2020-11-05 20:42:54.514628	FELIS_LICHT	?
+2020-10-07 17:58:43.869977	CHUNSOFT	Happy,Normal,Surprised,Worried
+2020-11-05 20:42:54.514628	FELIS_LICHT	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried

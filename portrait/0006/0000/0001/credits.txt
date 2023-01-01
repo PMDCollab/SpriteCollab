@@ -1,3 +1,3 @@
-2020-10-07 17:58:43.348374	<@!218764902913802240>	?
-2021-02-13 13:38:52.849714	<@!433058189240696835>	?
-2021-08-02 16:18:24.749577	<@!593113130213572610>	?
+2020-10-07 17:58:43.348374	<@!218764902913802240>	Happy,Normal,Pain,Special0,Surprised,Teary-Eyed
+2021-02-13 13:38:52.849714	<@!433058189240696835>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+2021-08-02 16:18:24.749577	<@!593113130213572610>	Angry,Crying,Dizzy,Happy,Joyous,Normal,Pain,Shouting,Special0,Stunned,Surprised,Teary-Eyed
