@@ -1,2 +1,2 @@
-2021-05-11 03:23:33.334261	CHUNSOFT	?
-2021-10-05 01:10:55.256098	CHUNSOFT	?
+2021-05-11 03:23:33.334261	CHUNSOFT	Attack,Charge,Double,Hop,Hurt,Idle,Jump,Rotate,Shoot,Sleep,Strike,Swell,Swing,Walk
+2021-10-05 01:10:55.256098	CHUNSOFT	Attack,Charge,Double,Hop,Hurt,Idle,Jump,Rotate,Shoot,Sleep,Strike,Swell,Swing,Walk

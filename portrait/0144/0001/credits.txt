@@ -1,2 +1,2 @@
-2020-12-16 22:56:07.471065	<@!183561486893842432>	?
-2021-08-30 23:08:02.361831	<@!183561486893842432>	?
+2020-12-16 22:56:07.471065	<@!183561486893842432>	Normal
+2021-08-30 23:08:02.361831	<@!183561486893842432>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried

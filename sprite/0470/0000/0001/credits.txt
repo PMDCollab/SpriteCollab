@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.795109	<@!195280695009083392>	?
-2022-02-17 10:10:46.575759	<@!237286997645983744>	?
+2020-10-07 17:58:44.795109	<@!195280695009083392>	Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,TailWhip,Walk
+2022-02-17 10:10:46.575759	<@!237286997645983744>	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake

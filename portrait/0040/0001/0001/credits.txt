@@ -1,2 +1,2 @@
-2021-07-29 16:06:02.564659	<@!593113130213572610>	?
+2021-07-29 16:06:02.564659	<@!593113130213572610>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 2022-06-01 22:37:13.563817	<@!861005464682889266>	Special1,Inspired,Pain,Shouting,Angry,Dizzy,Determined,Special3

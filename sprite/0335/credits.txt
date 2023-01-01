@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.400165	CHUNSOFT	?
-2021-12-31 15:19:56.839632	<@!358038459237138432>	?
+2020-10-07 17:58:44.400165	CHUNSOFT	Attack,Charge,Double,Hop,Hurt,Idle,MultiScratch,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
+2021-12-31 15:19:56.839632	<@!358038459237138432>	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,MultiScratch,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Swing,Trip,Tumble,TumbleBack,Wake,Walk

@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.772170	CHUNSOFT	?
-2021-05-11 01:43:39.444667	<@!702275233125630042>	?
+2020-10-07 17:58:44.772170	CHUNSOFT	Angry,Normal,Pain,Surprised
+2021-05-11 01:43:39.444667	<@!702275233125630042>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried

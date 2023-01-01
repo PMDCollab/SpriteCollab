@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.552758	CHUNSOFT	?
-2021-07-06 00:16:03.554929	<@!237286997645983744>	?
+2020-10-07 17:58:44.552758	CHUNSOFT	Normal,Normal^
+2021-07-06 00:16:03.554929	<@!237286997645983744>	Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^

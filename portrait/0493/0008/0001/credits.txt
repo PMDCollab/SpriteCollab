@@ -1,2 +1,2 @@
-2021-03-11 05:55:04.210487	<@!533406104256905257>	?
-2021-06-23 20:13:53.880862	<@!237286997645983744>	?
+2021-03-11 05:55:04.210487	<@!533406104256905257>	Normal
+2021-06-23 20:13:53.880862	<@!237286997645983744>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried

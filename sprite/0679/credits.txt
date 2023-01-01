@@ -1,2 +1,2 @@
-2021-05-20 02:53:28.938946	<@!702275233125630042>	?
-2021-05-31 09:41:42.691057	<@!702275233125630042>	?
+2021-05-20 02:53:28.938946	<@!702275233125630042>	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+2021-05-31 09:41:42.691057	<@!702275233125630042>	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake

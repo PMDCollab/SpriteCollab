@@ -1,2 +1,2 @@
-2020-10-30 19:34:38.999140	MUCRUSH	?
-2021-07-10 21:37:53.668569	<@!544245909639397378>	?
+2020-10-30 19:34:38.999140	MUCRUSH	Normal
+2021-07-10 21:37:53.668569	<@!544245909639397378>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried

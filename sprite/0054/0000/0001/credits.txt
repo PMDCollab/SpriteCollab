@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.497972	<@!195280695009083392>	?
-2021-09-29 05:10:57.129260	<@!117780585635643396>	?
+2020-10-07 17:58:43.497972	<@!195280695009083392>	Attack,CarefulWalk,Charge,DeepBreath,Double,EventSleep,Float,Hop,Hurt,Idle,Laying,MultiScratch,Nod,Pain,Pose,RaiseArms,Rotate,Shoot,Sit,Sleep,Special0,Special1,Special2,Swing,Wake,Walk,Yawn
+2021-09-29 05:10:57.129260	<@!117780585635643396>	Special3
