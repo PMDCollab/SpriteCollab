@@ -52,7 +52,7 @@
       <Name>Shoot</Name>
       <Index>3</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <HitFrame>1</HitFrame>
       <ReturnFrame>3</ReturnFrame>
       <Durations>

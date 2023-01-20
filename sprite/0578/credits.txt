@@ -1,3 +1,4 @@
 2022-04-01 17:47:04.111409	POWERCRISTAL	Attack,Idle,Walk
 2022-04-23 04:26:04.553383	<@!330751862590406656>	Attack,Charge,Double,Hop,Hurt,Pain,RearUp,Rotate,Shoot,Sleep,Swing
 2023-01-17 20:48:13.478483	<@!544245909639397378>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Pain
+2023-01-20 21:32:00.668566	<@!356635814668664832>	Attack,Shoot
