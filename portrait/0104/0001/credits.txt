@@ -1,0 +1,1 @@
+2023-01-23 08:38:10.181997	CHUNSOFT	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried
