@@ -1,1 +1,2 @@
 2023-01-20 22:14:40.936469	<@!576876006636519434>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+2023-01-27 22:55:29.301798	<@!576876006636519434>	Idle,Walk,Hop,Eat
