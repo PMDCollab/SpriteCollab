@@ -1,1 +1,2 @@
 2022-11-24 00:15:35.478529	<@!576876006636519434>	Normal
+2023-01-27 22:56:32.124407	<@!356635814668664832>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
