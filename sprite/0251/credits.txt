@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.172783	CHUNSOFT	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,EventSleep,Special1,Special2,Special3,Special4
+2023-01-29 04:47:44.308016	<@!177074597315870720>	Wake,Eat,Pose,Pull,Pain,Float,DeepBreath,Nod,Sink,Trip,Laying,LeapForth,Cringe,LostBalance,HitGround,Faint
