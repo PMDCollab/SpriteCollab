@@ -1,1 +1,2 @@
 2022-02-16 12:48:37.797017	<@!593113130213572610>	Walk,Attack,Strike,Shoot,TailWhip,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-02-10 22:58:17.683062	<@!330751862590406656>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
