@@ -114,7 +114,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>40</Duration>
         <Duration>2</Duration>
@@ -307,7 +307,7 @@
       <Name>Pain</Name>
       <Index>19</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>1</Duration>
@@ -444,7 +444,7 @@
     <Anim>
       <Name>Head</Name>
       <Index>29</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>4</Duration>
