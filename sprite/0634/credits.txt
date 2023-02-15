@@ -1,1 +1,2 @@
 2023-01-29 04:48:39.374421	<@!872983950732165181>	Idle,Walk,Sleep,Attack,Charge,Shoot,MultiStrike,Jab,Swing,Double,Rotate,Hop
+2023-02-15 23:42:11.955099	<@!544245909639397378>	Idle,Walk,Sleep,Hurt,Attack,Charge,MultiStrike,Jab,Swing,Double,Rotate,Hop
