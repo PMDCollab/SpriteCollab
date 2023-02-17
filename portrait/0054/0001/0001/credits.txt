@@ -1,0 +1,1 @@
+2023-02-17 14:55:23.135543	<@!593113130213572610>	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried
