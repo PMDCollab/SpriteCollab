@@ -1,3 +1,4 @@
 2020-10-07 17:58:44.549826	CHUNSOFT	Normal,Normal^
 2021-06-20 03:13:35.074445	<@!544245909639397378>	Angry,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Sad,Sad^,Shouting,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried
 2021-06-21 16:00:21.429020	<@!544245909639397378>	Angry^,Happy,Happy^,Joyous,Joyous^,Pain^,Shouting,Shouting^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
+2023-02-28 21:45:56.122018	<@!544245909639397378>	Joyous,Special1,Joyous^,Special1^
