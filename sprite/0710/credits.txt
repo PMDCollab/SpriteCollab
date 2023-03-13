@@ -1,1 +1,2 @@
 2021-09-29 06:57:03.376068	<@!544245909639397378>	Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
+2023-03-13 02:50:38.155504	<@!544245909639397378>	Eat
