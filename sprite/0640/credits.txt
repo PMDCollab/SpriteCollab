@@ -1,0 +1,1 @@
+2023-03-20 04:59:04.924438	<@!544245909639397378>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
