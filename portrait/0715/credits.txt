@@ -3,3 +3,4 @@
 2023-01-11 23:54:59.459661	<@!150809243816165377>	Normal,Happy,Pain
 2023-03-04 02:43:09.695146	<@!216640380408430592>	Joyous
 2023-03-17 06:19:53.957348	<@!150809243816165377>	Joyous
+2023-03-20 00:29:43.764446	<@!350050109741858829>	Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
