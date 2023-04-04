@@ -3,3 +3,4 @@
 2023-04-04 17:15:09.168828	<@!356635814668664832>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 2023-04-04 17:26:28.037063	<@!315528859921678336>	Normal^,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
 2023-04-04 18:06:42.291835	<@!356635814668664832>	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+2023-04-04 20:42:44.043842	<@!544245909639397378>	Special0,Special0^
