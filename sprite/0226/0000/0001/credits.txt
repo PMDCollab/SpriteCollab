@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.015589	<@!215699178553212929>	Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-04-06 22:42:35.735779	<@!356635814668664832>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover
