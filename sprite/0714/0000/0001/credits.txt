@@ -1,1 +1,2 @@
 2021-12-11 10:01:01.416646	<@!217899432652308480>	Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Nod,Eat,Fainted,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+2023-04-09 19:33:10.372610	<@!217899432652308480>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted
