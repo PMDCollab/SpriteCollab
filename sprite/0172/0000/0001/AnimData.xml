@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -488,7 +488,7 @@
       <Name>TumbleBack</Name>
       <Index>32</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>3</Duration>
         <Duration>3</Duration>
