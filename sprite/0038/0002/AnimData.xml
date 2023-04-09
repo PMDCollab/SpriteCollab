@@ -236,18 +236,8 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Special0</Name>
-      <Index>13</Index>
-      <FrameWidth>40</FrameWidth>
-      <FrameHeight>32</FrameHeight>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
       <Name>EventSleep</Name>
-      <Index>35</Index>
+      <Index>13</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
