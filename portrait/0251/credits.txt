@@ -4,3 +4,4 @@
 2021-02-05 01:18:14.250163	<@!117780585635643396>	Happy,Pain
 2022-09-01 04:19:30.994418	<@!149282718578901001>	Worried,Special0,Special3
 2023-04-11 02:19:03.866858	<@!593113130213572610>	Crying,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Special2
+2023-04-11 04:14:08.192020	<@!149282718578901001>	Sad,Joyous,Special1,Inspired,Dizzy,Worried,Determined
