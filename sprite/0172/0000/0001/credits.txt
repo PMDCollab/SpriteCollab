@@ -1,3 +1,4 @@
 2020-10-07 17:58:43.814127	<@!95650095034273792>	Walk,Attack,QuickStrike,Shock,Sing,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 2023-03-31 18:19:05.072762	<@!454421330058805251>	Shock,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 2023-04-09 16:21:45.847266	<@!454421330058805251>	Tumble,Pose,Pain,Nod,Sit,LookUp,Sink,LeapForth,TumbleBack,HitGround
+2023-04-14 22:56:54.910088	<@!454421330058805251>	Wake,Pain
