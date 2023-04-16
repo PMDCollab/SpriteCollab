@@ -1,2 +1,3 @@
 2022-10-05 15:43:27.743458	<@!576876006636519434>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 2022-12-23 00:46:46.816393	<@!215638650434617345>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+2023-04-16 07:43:41.750488	<@!350050109741858829>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
