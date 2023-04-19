@@ -1,0 +1,1 @@
+2023-04-19 17:38:07.626287	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Jab,Swing,Double,Rotate,Hop
