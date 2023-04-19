@@ -1,1 +1,1 @@
-2023-01-23 08:38:06.421209	CHUNSOFT	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried
+2023-01-23 08:38:06.421209	CHUNSOFT	CUR	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried

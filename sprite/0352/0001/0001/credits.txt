@@ -1,2 +1,2 @@
-2021-08-28 21:29:48.845246	<@!593113130213572610>	Attack,Charge,Double,Hop,Hurt,Idle,Jump,Rotate,Shoot,Sleep,Strike,Swell,Swing,Walk
-2021-10-05 02:16:16.534026	<@!593113130213572610>	Attack,Charge,Double,Hop,Hurt,Idle,Jump,Rotate,Shoot,Sleep,Strike,Swell,Swing,Walk
+2021-08-28 21:29:48.845246	<@!593113130213572610>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Jump,Rotate,Shoot,Sleep,Strike,Swell,Swing,Walk
+2021-10-05 02:16:16.534026	<@!593113130213572610>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Jump,Rotate,Shoot,Sleep,Strike,Swell,Swing,Walk

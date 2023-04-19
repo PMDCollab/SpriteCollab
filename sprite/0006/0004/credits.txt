@@ -1,4 +1,4 @@
-2021-08-04 06:35:35.699903	<@!593113130213572610>	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
-2021-10-04 22:00:37.074681	<@!593113130213572610>	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
-2022-01-18 16:44:38.545258	<@!117780585635643396>	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
-2022-05-21 03:10:43.124433	<@!204460364023201793>	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
+2021-08-04 06:35:35.699903	<@!593113130213572610>	CUR	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
+2021-10-04 22:00:37.074681	<@!593113130213572610>	CUR	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
+2022-01-18 16:44:38.545258	<@!117780585635643396>	CUR	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
+2022-05-21 03:10:43.124433	<@!204460364023201793>	CUR	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint

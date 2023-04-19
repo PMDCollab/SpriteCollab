@@ -1,5 +1,5 @@
-2020-10-07 17:58:43.620644	<@!234720295292895232>	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Twirl,Walk
-2022-06-05 12:30:28.598963	<@!237286997645983744>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-2023-03-13 02:51:53.797868	<@!237286997645983744>	Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-2023-03-13 02:52:02.007739	<@!237286997645983744>	Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-2023-03-13 02:52:07.450580	<@!237286997645983744>	Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2020-10-07 17:58:43.620644	<@!234720295292895232>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Twirl,Walk
+2022-06-05 12:30:28.598963	<@!237286997645983744>	CUR	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-03-13 02:51:53.797868	<@!237286997645983744>	CUR	Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-03-13 02:52:02.007739	<@!237286997645983744>	CUR	Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-03-13 02:52:07.450580	<@!237286997645983744>	CUR	Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint

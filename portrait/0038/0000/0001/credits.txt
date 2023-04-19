@@ -1,5 +1,5 @@
-2020-10-07 17:58:43.455089	<@!95650095034273792>	Normal
-2021-01-18 08:54:10.471163	<@!336650663293616140>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-2021-06-24 16:11:16.222453	<@!237286997645983744>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
-2022-02-14 06:34:08.505450	<@!544245909639397378>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Stunned,Surprised,Teary-Eyed,Worried
-2023-04-19 00:31:51.488764	<@!544245909639397378>	Special1,Shouting,Dizzy,Determined
+2020-10-07 17:58:43.455089	<@!95650095034273792>	CUR	Normal
+2021-01-18 08:54:10.471163	<@!336650663293616140>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+2021-06-24 16:11:16.222453	<@!237286997645983744>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
+2022-02-14 06:34:08.505450	<@!544245909639397378>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Stunned,Surprised,Teary-Eyed,Worried
+2023-04-19 00:31:51.488764	<@!544245909639397378>	CUR	Special1,Shouting,Dizzy,Determined

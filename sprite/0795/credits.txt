@@ -1,2 +1,2 @@
-2021-07-21 16:14:46.216705	<@!702275233125630042>	Attack,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Swing,Walk
-2022-03-28 06:27:54.349256	<@!702275233125630042>	Attack,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Swing,Walk
+2021-07-21 16:14:46.216705	<@!702275233125630042>	CUR	Attack,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Swing,Walk
+2022-03-28 06:27:54.349256	<@!702275233125630042>	CUR	Attack,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Swing,Walk

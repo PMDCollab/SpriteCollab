@@ -1,2 +1,2 @@
-2022-12-17 00:12:51.188119	CHUNSOFT	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,Pose
-2022-12-20 11:53:56.258311	<@!237286997645983744>	EventSleep,Wake,Eat,Tumble,Pull,Pain,Float,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2022-12-17 00:12:51.188119	CHUNSOFT	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,Pose
+2022-12-20 11:53:56.258311	<@!237286997645983744>	CUR	EventSleep,Wake,Eat,Tumble,Pull,Pain,Float,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint

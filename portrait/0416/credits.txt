@@ -1,5 +1,5 @@
-2020-10-07 17:58:44.630552	CHUNSOFT	Normal
-2020-12-15 20:23:04.820138	<@!702275233125630042>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2021-01-06 16:16:40.778699	<@!702275233125630042>	Special0
-2021-01-24 11:22:27.584468	<@!702275233125630042>	Special1
-2021-06-04 13:04:20.975629	<@!702275233125630042>	Normal,Happy,Inspired,Special1,Special2
+2020-10-07 17:58:44.630552	CHUNSOFT	CUR	Normal
+2020-12-15 20:23:04.820138	<@!702275233125630042>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2021-01-06 16:16:40.778699	<@!702275233125630042>	CUR	Special0
+2021-01-24 11:22:27.584468	<@!702275233125630042>	CUR	Special1
+2021-06-04 13:04:20.975629	<@!702275233125630042>	CUR	Normal,Happy,Inspired,Special1,Special2

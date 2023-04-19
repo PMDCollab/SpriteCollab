@@ -1,2 +1,2 @@
-2020-10-30 19:34:34.882708	MUCRUSH	Normal
-2021-07-01 01:11:57.517227	<@!544245909639397378>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2020-10-30 19:34:34.882708	MUCRUSH	CUR	Normal
+2021-07-01 01:11:57.517227	<@!544245909639397378>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried

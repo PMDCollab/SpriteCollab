@@ -1,2 +1,2 @@
-2022-06-16 03:36:02.114326	<@!237286997645983744>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Eat
-2023-04-15 06:21:47.992179	<@!237286997645983744>	Eat
+2022-06-16 03:36:02.114326	<@!237286997645983744>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Eat
+2023-04-15 06:21:47.992179	<@!237286997645983744>	CUR	Eat

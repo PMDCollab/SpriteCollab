@@ -1,2 +1,2 @@
-2023-01-20 21:31:27.799256	<@!576876006636519434>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-2023-01-27 21:51:45.121025	<@!576876006636519434>	Idle,Walk,Hop,Eat
+2023-01-20 21:31:27.799256	<@!576876006636519434>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+2023-01-27 21:51:45.121025	<@!576876006636519434>	CUR	Idle,Walk,Hop,Eat

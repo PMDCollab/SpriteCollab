@@ -1,2 +1,2 @@
-2023-01-18 17:24:19.760051	<@!872983950732165181>	Idle,Walk,Attack,Charge,Strike,Dance,Withdraw,Swing,Double,Rotate,Hop
-2023-01-20 21:31:56.400251	<@!544245909639397378>	Sleep,Hurt,Charge,Dance
+2023-01-18 17:24:19.760051	<@!872983950732165181>	CUR	Idle,Walk,Attack,Charge,Strike,Dance,Withdraw,Swing,Double,Rotate,Hop
+2023-01-20 21:31:56.400251	<@!544245909639397378>	CUR	Sleep,Hurt,Charge,Dance

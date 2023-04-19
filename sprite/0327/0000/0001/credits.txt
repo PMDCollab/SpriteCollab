@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.382214	<@!200385851069300736>	Attack,Bow,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Special0,Special1,Special2,Special3,Swing,Twirl,Walk
-2022-01-28 03:56:04.962050	<@!217899432652308480>	Attack,Bow,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Special0,Special1,Special2,Special3,Swing,Twirl,Walk
+2020-10-07 17:58:44.382214	<@!200385851069300736>	CUR	Attack,Bow,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Special0,Special1,Special2,Special3,Swing,Twirl,Walk
+2022-01-28 03:56:04.962050	<@!217899432652308480>	CUR	Attack,Bow,Charge,Double,Faint,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Special0,Special1,Special2,Special3,Swing,Twirl,Walk

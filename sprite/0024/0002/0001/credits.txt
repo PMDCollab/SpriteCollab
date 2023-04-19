@@ -1,2 +1,2 @@
-2023-03-23 03:34:06.589882	<@!356635814668664832>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Faint,StandingUp
-2023-04-14 17:20:09.646160	<@!593113130213572610>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Faint,StandingUp
+2023-03-23 03:34:06.589882	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Faint,StandingUp
+2023-04-14 17:20:09.646160	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Faint,StandingUp

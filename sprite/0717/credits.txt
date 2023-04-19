@@ -1,3 +1,3 @@
-2021-12-03 15:05:18.647472	<@!273958644788363265>	Attack,Idle,Walk
-2021-12-08 23:47:48.030421	<@!276369635304275968>	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
-2021-12-31 21:32:17.748722	<@!276369635304275968>	Attack,Hurt,Idle,Walk
+2021-12-03 15:05:18.647472	<@!273958644788363265>	CUR	Attack,Idle,Walk
+2021-12-08 23:47:48.030421	<@!276369635304275968>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
+2021-12-31 21:32:17.748722	<@!276369635304275968>	CUR	Attack,Hurt,Idle,Walk

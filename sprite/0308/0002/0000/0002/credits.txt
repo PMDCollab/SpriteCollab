@@ -1,1 +1,1 @@
-2023-04-15 02:49:45.927477	CHUNSOFT	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Swing,Double,Rotate,Hop
+2023-04-15 02:49:45.927477	CHUNSOFT	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Swing,Double,Rotate,Hop

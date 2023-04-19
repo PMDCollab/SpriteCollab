@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.634538	CHUNSOFT	Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
-2021-08-28 21:30:05.736547	<@!378654902181691392>	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
+2020-10-07 17:58:44.634538	CHUNSOFT	CUR	Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
+2021-08-28 21:30:05.736547	<@!378654902181691392>	CUR	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk

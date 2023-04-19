@@ -1,1 +1,1 @@
-2023-03-03 21:38:33.613024	<@!350050109741858829>	Normal,Special1,Happy,Inspired,Teary-Eyed,Determined,Special0
+2023-03-03 21:38:33.613024	<@!350050109741858829>	CUR	Normal,Special1,Happy,Inspired,Teary-Eyed,Determined,Special0

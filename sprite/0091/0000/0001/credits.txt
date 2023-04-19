@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.595711	<@!200385851069300736>	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-2023-04-05 22:26:24.259825	<@!356635814668664832>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
+2020-10-07 17:58:43.595711	<@!200385851069300736>	CUR	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-04-05 22:26:24.259825	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop

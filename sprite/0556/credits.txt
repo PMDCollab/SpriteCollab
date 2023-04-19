@@ -1,1 +1,1 @@
-2021-07-10 18:10:55.235839	<@!702275233125630042>	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2021-07-10 18:10:55.235839	<@!702275233125630042>	CUR	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate

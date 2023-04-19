@@ -1,2 +1,2 @@
-2021-06-25 16:19:42.574794	<@!593113130213572610>	Normal
-2021-08-13 02:35:14.533474	<@!544245909639397378>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2021-06-25 16:19:42.574794	<@!593113130213572610>	CUR	Normal
+2021-08-13 02:35:14.533474	<@!544245909639397378>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried

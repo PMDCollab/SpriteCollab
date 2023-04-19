@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.459079	<@!95650095034273792>	Walk,Attack,Slam,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Tumble,Special0,Special1,Special2,Wiggle
-2023-04-09 14:41:52.906074	<@!593113130213572610>	Hurt,Shoot,Withdraw,Double,Hop,Wiggle
+2020-10-07 17:58:43.459079	<@!95650095034273792>	CUR	Walk,Attack,Slam,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Tumble,Special0,Special1,Special2,Wiggle
+2023-04-09 14:41:52.906074	<@!593113130213572610>	CUR	Hurt,Shoot,Withdraw,Double,Hop,Wiggle

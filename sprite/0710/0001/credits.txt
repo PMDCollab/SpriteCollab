@@ -1,2 +1,2 @@
-2021-11-08 22:24:17.494360	<@!544245909639397378>	Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
-2023-03-13 02:50:48.985332	<@!544245909639397378>	Eat
+2021-11-08 22:24:17.494360	<@!544245909639397378>	CUR	Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
+2023-03-13 02:50:48.985332	<@!544245909639397378>	CUR	Eat

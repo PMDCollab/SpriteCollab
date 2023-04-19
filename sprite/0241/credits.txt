@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.050496	CHUNSOFT	Walk,Attack,Stomp,Shoot,Appeal,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2020-10-07 17:58:44.050496	CHUNSOFT	CUR	Walk,Attack,Stomp,Shoot,Appeal,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate

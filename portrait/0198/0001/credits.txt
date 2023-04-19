@@ -1,5 +1,5 @@
-2022-01-20 11:51:37.813909	<@!544245909639397378>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2022-01-24 16:50:03.282006	<@!544245909639397378>	Happy
-2022-01-24 19:55:43.525694	<@!356635814668664832>	Angry,Crying,Dizzy,Happy,Inspired,Joyous,Pain,Shouting,Sigh,Surprised
-2022-04-01 03:30:32.827252	<@!702275233125630042>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2022-05-23 16:19:24.441220	CHUNSOFT	"
+2022-01-20 11:51:37.813909	<@!544245909639397378>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2022-01-24 16:50:03.282006	<@!544245909639397378>	CUR	Happy
+2022-01-24 19:55:43.525694	<@!356635814668664832>	CUR	Angry,Crying,Dizzy,Happy,Inspired,Joyous,Pain,Shouting,Sigh,Surprised
+2022-04-01 03:30:32.827252	<@!702275233125630042>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2022-05-23 16:19:24.441220	CHUNSOFT	CUR	"

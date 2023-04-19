@@ -1,6 +1,6 @@
-2020-10-07 17:58:43.348374	<@!218764902913802240>	Happy,Normal,Pain,Special0,Surprised,Teary-Eyed
-2021-02-13 13:38:52.849714	<@!433058189240696835>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-2021-08-02 16:18:24.749577	<@!593113130213572610>	Angry,Crying,Dizzy,Happy,Joyous,Normal,Pain,Shouting,Special0,Stunned,Surprised,Teary-Eyed
-2023-04-09 00:41:32.209154	<@!593113130213572610>	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-2023-04-09 07:25:59.835059	<@!593113130213572610>	Teary-Eyed
-2023-04-09 15:02:55.869668	<@!593113130213572610>	Sad,Stunned,Angry,Teary-Eyed,Worried
+2020-10-07 17:58:43.348374	<@!218764902913802240>	CUR	Happy,Normal,Pain,Special0,Surprised,Teary-Eyed
+2021-02-13 13:38:52.849714	<@!433058189240696835>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+2021-08-02 16:18:24.749577	<@!593113130213572610>	CUR	Angry,Crying,Dizzy,Happy,Joyous,Normal,Pain,Shouting,Special0,Stunned,Surprised,Teary-Eyed
+2023-04-09 00:41:32.209154	<@!593113130213572610>	CUR	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+2023-04-09 07:25:59.835059	<@!593113130213572610>	CUR	Teary-Eyed
+2023-04-09 15:02:55.869668	<@!593113130213572610>	CUR	Sad,Stunned,Angry,Teary-Eyed,Worried

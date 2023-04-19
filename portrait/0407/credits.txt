@@ -1,3 +1,3 @@
-2020-10-07 17:58:44.595644	CHUNSOFT	Normal,Normal^
-2022-11-29 00:44:38.086837	<@!544245909639397378>	Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Special2,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried,Determined,Special0,Worried^,Determined^,Special0^
-2023-02-09 05:50:06.805159	<@!350050109741858829>	Joyous,Joyous^,Crying,Inspired,Crying^,Inspired^,Surprised,Surprised^,Angry,Angry^,Special3,Special3^
+2020-10-07 17:58:44.595644	CHUNSOFT	CUR	Normal,Normal^
+2022-11-29 00:44:38.086837	<@!544245909639397378>	CUR	Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Special2,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried,Determined,Special0,Worried^,Determined^,Special0^
+2023-02-09 05:50:06.805159	<@!350050109741858829>	CUR	Joyous,Joyous^,Crying,Inspired,Crying^,Inspired^,Surprised,Surprised^,Angry,Angry^,Special3,Special3^

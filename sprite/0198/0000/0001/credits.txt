@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.882942	<@!207188665959448576>	Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
-2021-04-02 02:33:06.678647	<@!177074597315870720>	Eat,EventSleep,Float,Laying
+2020-10-07 17:58:43.882942	<@!207188665959448576>	CUR	Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+2021-04-02 02:33:06.678647	<@!177074597315870720>	CUR	Eat,EventSleep,Float,Laying

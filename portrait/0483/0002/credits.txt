@@ -1,2 +1,2 @@
-2020-11-05 14:11:28.421598	CHUNSOFT	Normal
-2021-02-18 19:23:24.314107	<@!533406104256905257>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
+2020-11-05 14:11:28.421598	CHUNSOFT	CUR	Normal
+2021-02-18 19:23:24.314107	<@!533406104256905257>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried

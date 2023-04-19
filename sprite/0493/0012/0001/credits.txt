@@ -1,5 +1,5 @@
-2021-07-21 16:17:15.040515	<@!593113130213572610>	Attack,Bite,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Stomp,Swing,Walk
-2021-11-08 20:12:22.937985	<@!593113130213572610>	Attack,Bite,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Stomp,Swing,Walk
-2022-02-16 01:05:56.906236	<@!593113130213572610>	Attack,Bite,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Stomp,Swing,Trip,Tumble,TumbleBack,Wake,Walk
-2022-08-24 17:57:55.742485	<@!593113130213572610>	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-2022-08-25 13:57:12.712067	<@!593113130213572610>	Idle,Walk,Sleep,Hurt,Attack,Charge,Bite,Stomp,Swing,Double,Rotate,Hop,EventSleep,Wake,Pain,Float,Nod,Trip,Laying,Head,HitGround,Faint
+2021-07-21 16:17:15.040515	<@!593113130213572610>	CUR	Attack,Bite,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Stomp,Swing,Walk
+2021-11-08 20:12:22.937985	<@!593113130213572610>	CUR	Attack,Bite,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Stomp,Swing,Walk
+2022-02-16 01:05:56.906236	<@!593113130213572610>	CUR	Attack,Bite,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Stomp,Swing,Trip,Tumble,TumbleBack,Wake,Walk
+2022-08-24 17:57:55.742485	<@!593113130213572610>	CUR	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2022-08-25 13:57:12.712067	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Bite,Stomp,Swing,Double,Rotate,Hop,EventSleep,Wake,Pain,Float,Nod,Trip,Laying,Head,HitGround,Faint

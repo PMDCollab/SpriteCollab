@@ -1,2 +1,2 @@
-2021-06-04 05:59:30.801070	POWERCRISTAL	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk,Withdraw
-2021-12-31 15:19:52.025150	<@!810524028871114762>	Attack,Charge,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Sleep,Trip,Tumble,TumbleBack,Wake,Walk,Withdraw
+2021-06-04 05:59:30.801070	POWERCRISTAL	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk,Withdraw
+2021-12-31 15:19:52.025150	<@!810524028871114762>	CUR	Attack,Charge,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Sleep,Trip,Tumble,TumbleBack,Wake,Walk,Withdraw

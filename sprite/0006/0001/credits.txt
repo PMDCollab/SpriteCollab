@@ -1,1 +1,1 @@
-2021-11-04 23:42:49.305726	KEVIN0ITACHI	Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
+2021-11-04 23:42:49.305726	KEVIN0ITACHI	CUR	Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe

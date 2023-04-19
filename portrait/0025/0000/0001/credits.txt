@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.418186	<@!276949114212712449>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2022-02-28 10:54:18.320981	<@!593113130213572610>	Special1,Special2
+2020-10-07 17:58:43.418186	<@!276949114212712449>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2022-02-28 10:54:18.320981	<@!593113130213572610>	CUR	Special1,Special2

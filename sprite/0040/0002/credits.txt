@@ -1,1 +1,1 @@
-2022-12-16 19:40:53.548733	CHUNSOFT	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop
+2022-12-16 19:40:53.548733	CHUNSOFT	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop

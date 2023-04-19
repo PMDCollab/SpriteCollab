@@ -1,2 +1,2 @@
-2023-03-20 18:45:11.993048	CHUNSOFT	Normal,Happy,Pain,Surprised,Teary-Eyed,Special0
-2023-03-20 19:07:39.270908	<@!544245909639397378>	Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Dizzy,Worried,Determined
+2023-03-20 18:45:11.993048	CHUNSOFT	CUR	Normal,Happy,Pain,Surprised,Teary-Eyed,Special0
+2023-03-20 19:07:39.270908	<@!544245909639397378>	CUR	Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Dizzy,Worried,Determined

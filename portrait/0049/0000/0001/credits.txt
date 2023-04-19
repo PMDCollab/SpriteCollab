@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.487002	<@!200318546750865418>	Normal
-2023-02-22 22:01:03.275615	<@!138236921980649472>	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2020-10-07 17:58:43.487002	<@!200318546750865418>	CUR	Normal
+2023-02-22 22:01:03.275615	<@!138236921980649472>	CUR	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined

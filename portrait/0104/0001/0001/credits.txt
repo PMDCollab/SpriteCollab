@@ -1,1 +1,1 @@
-2023-03-19 06:11:12.363769	<@!217899432652308480>	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried
+2023-03-19 06:11:12.363769	<@!217899432652308480>	CUR	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried

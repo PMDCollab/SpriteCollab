@@ -1,4 +1,4 @@
-2020-10-07 17:58:43.886932	CHUNSOFT	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
-2021-11-17 07:34:23.767313	<@!237286997645983744>	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
-2022-10-21 20:37:17.489734	<@!237286997645983744>	EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,HitGround,Faint
-2023-03-13 02:49:40.063252	<@!237286997645983744>	"
+2020-10-07 17:58:43.886932	CHUNSOFT	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
+2021-11-17 07:34:23.767313	<@!237286997645983744>	CUR	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
+2022-10-21 20:37:17.489734	<@!237286997645983744>	CUR	EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,HitGround,Faint
+2023-03-13 02:49:40.063252	<@!237286997645983744>	CUR	"

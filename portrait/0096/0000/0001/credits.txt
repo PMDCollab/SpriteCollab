@@ -1,3 +1,3 @@
-2020-10-07 17:58:43.606682	<@!276949114212712449>	Happy,Normal,Sad
-2022-03-19 03:20:33.498997	<@!330751862590406656>	Determined,Happy,Normal,Sad,Sigh,Special3,Stunned,Teary-Eyed
-2022-04-11 05:46:06.026813	<@!128989288665710592>	Angry,Determined,Happy,Normal,Pain,Sad,Sigh,Special3,Stunned,Teary-Eyed
+2020-10-07 17:58:43.606682	<@!276949114212712449>	CUR	Happy,Normal,Sad
+2022-03-19 03:20:33.498997	<@!330751862590406656>	CUR	Determined,Happy,Normal,Sad,Sigh,Special3,Stunned,Teary-Eyed
+2022-04-11 05:46:06.026813	<@!128989288665710592>	CUR	Angry,Determined,Happy,Normal,Pain,Sad,Sigh,Special3,Stunned,Teary-Eyed

@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.958740	<@!234720295292895232>	Attack,Charge,Double,Hop,Hurt,Idle,Pose,Rotate,Sleep,Special0,Special1,Swing,Walk,Withdraw
-2022-01-28 03:55:19.448864	<@!217899432652308480>	Attack,Charge,Double,Hop,Hurt,Idle,Pose,Rotate,Sleep,Special0,Special1,Swing,Walk,Withdraw
+2020-10-07 17:58:43.958740	<@!234720295292895232>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Pose,Rotate,Sleep,Special0,Special1,Swing,Walk,Withdraw
+2022-01-28 03:55:19.448864	<@!217899432652308480>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Pose,Rotate,Sleep,Special0,Special1,Swing,Walk,Withdraw

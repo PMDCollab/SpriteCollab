@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.233611	<@!276949114212712449>	Normal,Normal^,Happy,Happy^,Angry,Angry^,Teary-Eyed
-2022-12-27 18:02:08.321873	<@!593113130213572610>	Normal,Normal^,Happy,Happy^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Angry,Teary-Eyed,Angry^,Teary-Eyed^,Worried,Worried^
+2020-10-07 17:58:44.233611	<@!276949114212712449>	CUR	Normal,Normal^,Happy,Happy^,Angry,Angry^,Teary-Eyed
+2022-12-27 18:02:08.321873	<@!593113130213572610>	CUR	Normal,Normal^,Happy,Happy^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Angry,Teary-Eyed,Angry^,Teary-Eyed^,Worried,Worried^

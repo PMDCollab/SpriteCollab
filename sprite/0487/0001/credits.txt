@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.842982	CHUNSOFT	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Scratch,Shoot,Sleep,Swing,Walk
-2021-02-04 20:29:03.794863	<@!117780585635643396>	Shoot
+2020-10-07 17:58:44.842982	CHUNSOFT	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Scratch,Shoot,Sleep,Swing,Walk
+2021-02-04 20:29:03.794863	<@!117780585635643396>	CUR	Shoot

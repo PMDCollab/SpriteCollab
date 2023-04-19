@@ -1,2 +1,2 @@
-2022-12-29 22:13:39.764747	JHONY_REX	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-2023-01-04 01:59:01.519458	<@!330751862590406656>	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+2022-12-29 22:13:39.764747	JHONY_REX	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+2023-01-04 01:59:01.519458	<@!330751862590406656>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop

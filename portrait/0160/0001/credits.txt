@@ -1,2 +1,2 @@
-2021-03-11 03:33:54.235543	<@!150809243816165377>	Determined,Happy,Normal,Pain,Sad,Surprised,Worried
-2021-03-14 18:51:19.777296	<@!150809243816165377>	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
+2021-03-11 03:33:54.235543	<@!150809243816165377>	CUR	Determined,Happy,Normal,Pain,Sad,Surprised,Worried
+2021-03-14 18:51:19.777296	<@!150809243816165377>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried

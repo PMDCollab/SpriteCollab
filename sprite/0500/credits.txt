@@ -1,2 +1,2 @@
-2022-02-18 08:50:59.186639	<@!319945906600411179>	Attack,Idle,Walk
-2022-02-20 13:14:58.974812	<@!237286997645983744>	Attack,Charge,Double,Hop,Hurt,Rotate,Shoot,Sleep,Swing
+2022-02-18 08:50:59.186639	<@!319945906600411179>	CUR	Attack,Idle,Walk
+2022-02-20 13:14:58.974812	<@!237286997645983744>	CUR	Attack,Charge,Double,Hop,Hurt,Rotate,Shoot,Sleep,Swing

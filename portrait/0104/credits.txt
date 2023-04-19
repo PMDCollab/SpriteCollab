@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.629621	CHUNSOFT	Angry,Crying,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Special0,Surprised,Teary-Eyed,Worried
-2020-11-05 19:28:14.276753	FELIS_LICHT	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+2020-10-07 17:58:43.629621	CHUNSOFT	CUR	Angry,Crying,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Special0,Surprised,Teary-Eyed,Worried
+2020-11-05 19:28:14.276753	FELIS_LICHT	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried

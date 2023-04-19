@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.720379	<@!95650095034273792>	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shock,Shoot,Sleep,Swing,Walk
-2021-07-06 05:11:55.863140	<@!593113130213572610>	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
+2020-10-07 17:58:43.720379	<@!95650095034273792>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shock,Shoot,Sleep,Swing,Walk
+2021-07-06 05:11:55.863140	<@!593113130213572610>	CUR	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
