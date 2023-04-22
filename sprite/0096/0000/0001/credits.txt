@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.606682	<@!200385851069300736>	CUR	Walk,Attack,Slam,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Faint
+2023-04-22 02:26:42.950134	<@!200385851069300736>	CUR	Hurt
