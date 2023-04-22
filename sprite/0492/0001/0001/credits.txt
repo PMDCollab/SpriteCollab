@@ -1,4 +1,4 @@
 2020-10-07 17:58:44.859937	<@!234720295292895232>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 2021-07-06 05:31:03.513011	<@!593113130213572610>	CUR	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shake,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
-2022-01-13 05:28:16.037109	<@!365627932888268800>	CUR	Nod
+2022-01-13 05:28:16.037109	<@!365627932888268800>	OLD	Nod
 2022-03-24 00:30:35.319102	<@!356635814668664832>	CUR	Eat,Pose,Pull
