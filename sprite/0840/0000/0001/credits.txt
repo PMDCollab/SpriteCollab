@@ -1,4 +1,4 @@
-2021-11-26 16:06:46.183117	<@!237286997645983744>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Twirl,Walk
+2021-11-26 16:06:46.183117	<@!237286997645983744>	OLD	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Twirl,Walk
 2022-05-21 03:12:59.559305	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0
 2023-01-06 06:59:16.145135	<@!356635814668664832>	CUR	Special0
 2023-02-27 22:20:26.320792	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
