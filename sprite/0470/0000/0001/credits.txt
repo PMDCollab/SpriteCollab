@@ -1,3 +1,3 @@
 2020-10-07 17:58:44.795109	<@!195280695009083392>	CUR	Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,TailWhip,Walk
-2022-02-17 10:10:46.575759	<@!237286997645983744>	CUR	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
+2022-02-17 10:10:46.575759	<@!237286997645983744>	OLD	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 2023-02-18 21:52:21.708980	<@!544245909639397378>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,TailWhip,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
