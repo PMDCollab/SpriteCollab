@@ -1,2 +1,2 @@
-2021-11-14 16:33:24.233921	<@!237286997645983744>	CUR	Normal
+2021-11-14 16:33:24.233921	<@!237286997645983744>	OLD	Normal
 2022-02-16 06:28:02.163612	<@!217899432652308480>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Stunned,Surprised,Teary-Eyed,Worried
