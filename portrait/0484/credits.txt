@@ -1,5 +1,5 @@
 2020-10-07 17:58:44.832012	CHUNSOFT	CUR	Normal
-2021-01-12 13:37:31.672154	<@!533406104256905257>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
+2021-01-12 13:37:31.672154	<@!533406104256905257>	OLD	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 2021-01-12 13:47:49.631652	TAYLORTRAP622	CUR	Normal
 2022-05-13 13:10:53.428079	<@!544245909639397378>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 2022-06-16 15:47:13.512832	<@!544245909639397378>	CUR	Happy,Crying,Inspired,Surprised
