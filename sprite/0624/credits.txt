@@ -1,2 +1,2 @@
-2021-12-09 03:33:07.487662	<@!582978575486156821>	CUR	Idle,Rotate,Walk
+2021-12-09 03:33:07.487662	<@!582978575486156821>	OLD	Idle,Rotate,Walk
 2021-12-31 21:32:13.753407	<@!544245909639397378>	CUR	Appeal,Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Strike,Swing,Trip,Tumble,TumbleBack,Wake,Walk
