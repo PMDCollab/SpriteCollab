@@ -1,1 +1,2 @@
 2023-03-20 03:08:34.184866	JHONY_REX	CUR	Idle,Walk,Hurt,Attack,Charge,Swing,Double,Rotate
+2023-04-30 22:18:57.070691	<@!544245909639397378>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Rumble,Swing,Double,Rotate,Hop
