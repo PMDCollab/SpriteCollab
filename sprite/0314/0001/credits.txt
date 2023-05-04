@@ -1,0 +1,1 @@
+2023-05-04 17:19:14.561678	CHUNSOFT	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,Hover,QuickStrike
