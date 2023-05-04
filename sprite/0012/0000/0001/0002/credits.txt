@@ -1,2 +1,1 @@
-2021-11-13 08:38:12.680105	<@!356635814668664832>	OLD	Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
-2022-01-28 03:55:38.509614	<@!217899432652308480>	CUR	Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+2023-05-04 17:33:41.318219	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
