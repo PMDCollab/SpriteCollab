@@ -1,2 +1,3 @@
 2020-10-07 17:58:44.266550	CHUNSOFT	CUR	Normal
 2022-06-01 05:30:44.090236	<@!544245909639397378>	CUR	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2023-05-05 05:02:59.689613	<@!544245909639397378>	CUR	Happy,Crying,Inspired,Shouting,Surprised,Determined
