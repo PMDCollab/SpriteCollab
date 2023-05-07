@@ -2,3 +2,4 @@
 2021-02-24 01:13:48.758931	<@!150809243816165377>	CUR	Happy,Normal,Pain
 2022-12-25 11:55:51.292590	<@!150809243816165377>	CUR	Normal,Happy,Pain
 2023-05-07 16:35:03.932532	<@!228121607158235136>	CUR	Sad,Joyous,Crying,Inspired,Sigh,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2023-05-07 23:12:52.063382	<@!330751862590406656>	CUR	Stunned,Angry
