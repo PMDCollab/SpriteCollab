@@ -1,3 +1,3 @@
 2020-10-07 17:58:44.567717	<@!95650095034273792>	CUR	Attack,Charge,Double,Hop,Hover,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
-2021-02-04 20:39:46.059375	<@!117780585635643396>	CUR	Double
+2021-02-04 20:39:46.059375	<@!117780585635643396>	OLD	Double
 2023-05-09 04:30:50.468916	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
