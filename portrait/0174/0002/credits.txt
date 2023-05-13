@@ -1,0 +1,1 @@
+2023-05-13 19:57:18.949559	<@!356635814668664832>	CUR	Normal,Sad,Normal^,Sad^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Shouting,Surprised,Shouting^,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
