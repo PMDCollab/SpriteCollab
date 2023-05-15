@@ -1,1 +1,2 @@
 2023-05-14 18:15:51.243336	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop
+2023-05-15 22:34:56.171873	<@!593113130213572610>	CUR	Jump,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10
