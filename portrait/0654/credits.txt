@@ -1,2 +1,3 @@
 2021-03-19 18:24:08.874680	<@!388808249165479939>	OLD	Normal
 2021-05-19 22:01:37.331526	<@!356635814668664832>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2023-05-15 02:40:24.201621	<@!356635814668664832>	CUR	Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
