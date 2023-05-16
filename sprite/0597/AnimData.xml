@@ -228,16 +228,6 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Cringe</Name>
-      <Index>13</Index>
-      <FrameWidth>32</FrameWidth>
-      <FrameHeight>48</FrameHeight>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>8</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
       <Name>Eat</Name>
       <Index>15</Index>
       <FrameWidth>24</FrameWidth>
@@ -250,17 +240,34 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Head</Name>
-      <Index>20</Index>
-      <FrameWidth>24</FrameWidth>
+      <Name>Pull</Name>
+      <Index>18</Index>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
-        <Duration>4</Duration>
+        <Duration>10</Duration>
+        <Duration>12</Duration>
+        <Duration>10</Duration>
+        <Duration>12</Duration>
+        <Duration>10</Duration>
+        <Duration>12</Duration>
+        <Duration>10</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Nod</Name>
+      <Index>22</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
       </Durations>
     </Anim>
     <Anim>
       <Name>LeapForth</Name>
-      <Index>22</Index>
+      <Index>28</Index>
       <FrameWidth>24</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <Durations>
@@ -273,29 +280,22 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Nod</Name>
-      <Index>25</Index>
+      <Name>Head</Name>
+      <Index>29</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
-        <Duration>6</Duration>
-        <Duration>8</Duration>
-        <Duration>6</Duration>
+        <Duration>4</Duration>
       </Durations>
     </Anim>
     <Anim>
-      <Name>Pull</Name>
-      <Index>28</Index>
+      <Name>Cringe</Name>
+      <Index>30</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
-        <Duration>10</Duration>
-        <Duration>12</Duration>
-        <Duration>10</Duration>
-        <Duration>12</Duration>
-        <Duration>10</Duration>
-        <Duration>12</Duration>
-        <Duration>10</Duration>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
       </Durations>
     </Anim>
   </Anims>
