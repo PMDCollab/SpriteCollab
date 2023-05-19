@@ -223,7 +223,7 @@
 		</Anim>
 		<Anim>
 			<Name>Fainted</Name>
-			<Index>13</Index>
+			<Index>35</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -232,7 +232,7 @@
 		</Anim>
 		<Anim>
 			<Name>StandingUp</Name>
-			<Index>14</Index>
+			<Index>36</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>48</FrameHeight>
 			<Durations>
