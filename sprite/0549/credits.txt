@@ -2,3 +2,4 @@
 2022-09-15 00:58:50.739199	<@!544245909639397378>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 2023-04-21 00:43:00.061445	POWERCRISTAL	CUR	"
 2023-05-15 02:27:45.504223	<@!350050109741858829>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-05-20 16:42:08.451325	<@!350050109741858829>	CUR	Trip,Faint
