@@ -3,3 +3,4 @@
 2023-05-15 02:40:24.201621	<@!356635814668664832>	CUR	Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 2023-05-15 03:16:02.004515	<@!356635814668664832>	CUR	Special0
 2023-05-15 16:59:17.757798	<@!356635814668664832>	CUR	Special1
+2023-05-21 21:05:44.416896	<@!356635814668664832>	CUR	Inspired
