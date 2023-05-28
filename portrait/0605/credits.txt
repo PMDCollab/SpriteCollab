@@ -1,1 +1,2 @@
 2020-11-05 22:38:42.926228	MUCRUSH	CUR	Normal
+2023-05-28 04:19:35.642004	<@!217899432652308480>	CUR	Normal,Special1,Happy,Inspired,Stunned,Teary-Eyed
