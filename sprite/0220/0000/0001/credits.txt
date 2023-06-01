@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.999631	<@!234720295292895232>	CUR	Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-06-01 02:39:00.478129	<@!330751862590406656>	CUR	EventSleep,Wake,Eat,Float,DeepBreath,Nod,Laying,Cringe
