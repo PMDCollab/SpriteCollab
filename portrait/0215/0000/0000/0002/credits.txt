@@ -1,7 +1,7 @@
 2020-10-07 17:58:43.990654	CHUNSOFT	CUR	Normal,Normal^
-2020-12-15 06:01:43.080123	<@!702275233125630042>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2020-12-15 15:57:50.683575	<@!702275233125630042>	CUR	Angry^,Crying^,Determined^,Dizzy^,Happy^,Inspired^,Joyous^,Normal^,Pain^,Sad^,Shouting^,Sigh^,Stunned^,Surprised^,Teary-Eyed^,Worried^
-2020-12-19 01:13:00.910268	<@!702275233125630042>	CUR	Special0,Special0^
+2020-12-15 06:01:43.080123	<@!702275233125630042>	OLD	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2020-12-15 15:57:50.683575	<@!702275233125630042>	OLD	Angry^,Crying^,Determined^,Dizzy^,Happy^,Inspired^,Joyous^,Normal^,Pain^,Sad^,Shouting^,Sigh^,Stunned^,Surprised^,Teary-Eyed^,Worried^
+2020-12-19 01:13:00.910268	<@!702275233125630042>	OLD	Special0,Special0^
 2022-04-28 03:22:56.016388	<@!593113130213572610>	CUR	Normal,Normal^
 2022-04-28 03:23:02.364454	<@!593113130213572610>	CUR	Angry,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 2022-09-15 20:21:25.060800	<@!593113130213572610>	CUR	Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
