@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.869977	CHUNSOFT	CUR	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-06-11 07:27:53.275338	<@!330751862590406656>	CUR	EventSleep,Wake,Eat,Pose,Float,DeepBreath,Nod,Sink,Laying,Cringe
