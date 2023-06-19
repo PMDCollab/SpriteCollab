@@ -1,1 +1,2 @@
 2022-03-10 23:19:35.777404	<@!783493257506062387>	CUR	Walk,Attack,Punch,Shoot,Kick,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-06-19 00:50:30.118573	<@!350050109741858829>	CUR	Hurt,Punch,Kick,Pose,LookUp
