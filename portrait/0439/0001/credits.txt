@@ -1,0 +1,1 @@
+2023-06-24 01:09:13.234923	<@!350050109741858829>	CUR	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
