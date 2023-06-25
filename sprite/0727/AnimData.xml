@@ -43,7 +43,7 @@
       <Name>Punch</Name>
       <Index>2</Index>
       <FrameWidth>64</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameHeight>88</FrameHeight>
       <RushFrame>1</RushFrame>
       <HitFrame>2</HitFrame>
       <ReturnFrame>4</ReturnFrame>
@@ -111,7 +111,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>56</FrameHeight>
       <Durations>
         <Duration>40</Duration>
         <Duration>4</Duration>
@@ -123,7 +123,7 @@
       <Name>Swing</Name>
       <Index>8</Index>
       <FrameWidth>80</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameHeight>96</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -142,7 +142,7 @@
       <Name>Double</Name>
       <Index>9</Index>
       <FrameWidth>64</FrameWidth>
-      <FrameHeight>72</FrameHeight>
+      <FrameHeight>80</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -166,7 +166,7 @@
       <Name>Hop</Name>
       <Index>10</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameHeight>96</FrameHeight>
       <HitFrame>9</HitFrame>
       <Durations>
         <Duration>2</Duration>
@@ -223,7 +223,7 @@
       <Name>Pose</Name>
       <Index>17</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>2</Duration>
