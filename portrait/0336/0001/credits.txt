@@ -1,1 +1,2 @@
 2023-06-24 00:12:15.348366	<@!356635814668664832>	CUR	Normal,Normal^,Happy,Happy^,Surprised,Surprised^
+2023-06-30 06:28:51.825598	<@!356635814668664832>	CUR	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
