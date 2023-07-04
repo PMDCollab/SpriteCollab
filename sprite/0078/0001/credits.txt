@@ -1,0 +1,1 @@
+2023-07-04 22:55:39.804962	JHONY_REX	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
