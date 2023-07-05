@@ -85,7 +85,7 @@
     <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>40</Duration>
