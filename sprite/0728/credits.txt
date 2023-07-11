@@ -1,2 +1,3 @@
 2022-07-29 05:45:16.568282	<@!215638650434617345>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 2022-07-30 08:05:17.036697	<@!215638650434617345>	CUR	Idle,Walk,Sleep,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,EventSleep,Float,Laying
+2023-07-11 02:51:28.624823	<@!702275233125630042>	CUR	Idle,Shoot,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
