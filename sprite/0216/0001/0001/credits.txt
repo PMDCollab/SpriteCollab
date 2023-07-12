@@ -1,1 +1,2 @@
 2023-05-04 02:51:15.489490	<@!544245909639397378>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Appeal,Swing,Double,Rotate,Hop
+2023-07-12 21:20:06.618120	<@!356635814668664832>	CUR	Hurt,EventSleep,Float,Laying
