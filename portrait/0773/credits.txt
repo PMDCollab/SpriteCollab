@@ -3,3 +3,4 @@
 2022-03-06 09:06:55.868635	<@!330751862590406656>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 2022-03-06 10:52:19.193605	<@!237286997645983744>	CUR	Crying,Determined,Dizzy,Happy,Inspired,Joyous,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 2023-02-04 23:20:07.419494	<@!330751862590406656>	CUR	Sad,Happy,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried,Determined
+2023-07-17 20:58:24.628331	<@!356635814668664832>	CUR	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
