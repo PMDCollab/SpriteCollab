@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.246577	<@!276949114212712449>	CUR	Walk,Attack,QuickStrike,Shoot,FlapAround,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-07-20 18:09:25.028235	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop,QuickStrike
