@@ -2,3 +2,4 @@
 2021-10-04 22:00:37.074681	<@!593113130213572610>	OLD	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
 2022-01-18 16:44:38.545258	<@!117780585635643396>	OLD	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
 2022-05-21 03:10:43.124433	<@!204460364023201793>	CUR	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
+2023-07-24 02:55:39.908254	<@!350050109741858829>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Faint
