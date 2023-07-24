@@ -369,7 +369,7 @@
     <Anim>
       <Name>Nod</Name>
       <Index>22</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
