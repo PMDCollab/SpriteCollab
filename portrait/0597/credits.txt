@@ -3,3 +3,4 @@
 2022-05-21 03:11:10.341883	MUCRUSH	CUR	Normal,Happy,Pain,Special2
 2023-03-17 06:02:24.405510	<@!350050109741858829>	CUR	Normal,Normal^,Happy,Happy^,Pain,Pain^,Special2,Special0,Special0^
 2023-05-02 08:45:01.527347	<@!350050109741858829>	CUR	Normal,Normal^,Happy,Happy^,Pain,Pain^,Special0,Special0^
+2023-07-25 08:01:46.813800	<@!350050109741858829>	CUR	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
