@@ -1,3 +1,4 @@
 2020-10-13 20:09:36.130460	<@!319945906600411179>	OLD	Normal
 2023-06-28 00:28:46.679248	<@!529381471107022856>	OLD	Sigh,Determined
 2023-07-10 23:38:48.163401	<@!356635814668664832>	CUR	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+2023-07-28 06:02:04.990100	<@!356635814668664832>	CUR	Sad,Joyous,Sad^,Joyous^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Dizzy,Dizzy^,Worried,Determined,Worried^,Determined^
