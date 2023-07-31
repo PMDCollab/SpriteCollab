@@ -1,2 +1,2 @@
-2021-07-06 16:10:37.423119	EZERART	CUR	Normal
+2021-07-06 16:10:37.423119	EZERART	OLD	Normal
 2023-07-19 02:08:55.192967	<@!861005464682889266>	CUR	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
