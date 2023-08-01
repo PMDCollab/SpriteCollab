@@ -1,1 +1,2 @@
 2023-05-05 19:39:31.608384	<@!356635814668664832>	CUR	Normal
+2023-08-01 01:28:44.267449	<@!238146046146904069>	CUR	Normal,Pain,Surprised,Stunned,Angry,Worried,Determined
