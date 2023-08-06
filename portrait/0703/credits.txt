@@ -1,1 +1,2 @@
 2021-04-26 20:14:15.998203	<@!544245909639397378>	CUR	Normal
+2023-08-06 02:07:20.958336	<@!350050109741858829>	CUR	Normal,Sad,Happy,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Determined,Determined^
