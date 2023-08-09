@@ -1,2 +1,2 @@
-2021-12-06 17:08:41.167067	<@!593113130213572610>	CUR	Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2021-12-06 17:08:41.167067	<@!593113130213572610>	OLD	Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 2023-08-09 07:06:15.139933	<@!157796074457661440>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
