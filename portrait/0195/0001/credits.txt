@@ -1,1 +1,2 @@
 2023-06-15 14:41:51.753909	<@!350050109741858829>	CUR	Normal
+2023-08-11 00:06:10.221161	<@!178935491867967490>	CUR	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
