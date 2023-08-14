@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.236604	CHUNSOFT	CUR	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-08-14 23:30:01.008950	<@!330751862590406656>	CUR	Pull,DeepBreath,Nod,Sit,LookUp
