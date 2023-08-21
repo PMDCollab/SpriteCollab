@@ -45,7 +45,7 @@ Palika	<@!118458522685014017>	https://twitter.com/_Palika_
 Vex	<@!157339721729572864>	
 	<@!288402314253959169>	
 Child-Of-Hades	CHILD_OF_HADES	https://www.deviantart.com/child-of-hades
-smartini	<@!136476806055198720>	smartini#1851
+smartini	<@!136476806055198720>	https://github.com/CSCMe
 JemDragons	<@!408301000445788180>	https://twitter.com/JemDragons?s=09
 Sunny	<@!273341077874802689>	https://twitter.com/temporalsunrise
 Deleca7755	<@!273958644788363265>	https://badylird.com/
@@ -150,7 +150,7 @@ Ray2064	<@!540823632054714388>	Ray2064#5222
 avalancheman	<@!783493257506062387>	milesbehemoth@gmail.com
 anon	<@!215638650434617345>	
 MilesFarber	<@!207815740399681538>	
-Jeongsugi	<@!537560911716810763>	정수기#1834
+Sugi	<@!537560911716810763>	<@537560911716810763>
 	<@!776403448220483615>	
 	<@!940303989680009339>	
 	<@!315528859921678336>	
