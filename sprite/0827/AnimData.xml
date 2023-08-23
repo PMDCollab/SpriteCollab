@@ -40,8 +40,8 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <FrameWidth>40</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
       <HitFrame>1</HitFrame>
       <ReturnFrame>4</ReturnFrame>
       <Durations>
@@ -64,7 +64,7 @@
       <Name>RearUp</Name>
       <Index>4</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <HitFrame>6</HitFrame>
       <ReturnFrame>12</ReturnFrame>
       <Durations>
