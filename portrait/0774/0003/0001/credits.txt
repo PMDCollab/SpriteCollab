@@ -1,2 +1,0 @@
-2021-08-29 15:56:32.058426	<@!388808249165479939>	CUR	Normal
-2022-10-14 23:35:47.408305	<@!576876006636519434>	CUR	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
