@@ -1,0 +1,1 @@
+2023-09-20 06:26:15.487266	<@!544245909639397378>	CUR	Idle,Walk,Swing,Double,Rotate
