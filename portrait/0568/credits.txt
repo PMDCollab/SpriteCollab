@@ -1,4 +1,4 @@
-2020-10-30 03:06:58.958461	MUCRUSH	CUR	Normal
+2020-10-30 03:06:58.958461	MUCRUSH	OLD	Normal
 2021-02-18 22:05:28.092098	<@!150809243816165377>	OLD	Normal
 2021-02-20 02:05:05.271319	<@!810524028871114762>	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 2021-03-23 02:31:05.244832	<@!810524028871114762>	CUR	Angry,Determined,Inspired,Normal,Special1,Special2,Special3
