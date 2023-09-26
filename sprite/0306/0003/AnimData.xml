@@ -228,7 +228,7 @@
 		</Anim>
 		<Anim>
 			<Name>DigIn</Name>
-			<Index>35</Index>
+			<Index>13</Index>
 			<FrameWidth>80</FrameWidth>
 			<FrameHeight>80</FrameHeight>
 			<Durations>
@@ -257,7 +257,7 @@
 		</Anim>
 		<Anim>
 			<Name>DigOut</Name>
-			<Index>36</Index>
+			<Index>14</Index>
 			<FrameWidth>96</FrameWidth>
 			<FrameHeight>88</FrameHeight>
 			<Durations>
