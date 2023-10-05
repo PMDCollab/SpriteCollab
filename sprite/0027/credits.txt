@@ -2,3 +2,4 @@
 2021-11-08 23:42:12.507887	<@!237286997645983744>	CUR	EventSleep,Laying,Wake
 2023-09-27 03:52:56.017938	<@!169247379453640706>	CUR	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 2023-10-05 00:08:19.400287	<@!169247379453640706>	CUR	Eat,Sit
+2023-10-05 01:31:41.533822	<@!169247379453640706>	CUR	Pull,Sit
