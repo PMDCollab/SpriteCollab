@@ -2,3 +2,4 @@
 2023-06-11 07:27:53.275338	<@!330751862590406656>	CUR	EventSleep,Wake,Eat,Pose,Float,DeepBreath,Nod,Sink,Laying,Cringe
 2023-06-13 06:29:33.565597	<@!330751862590406656>	CUR	Sink
 2023-09-20 05:52:47.956486	<@!555919605265203232>	CUR	Tumble,Pose,Pull,Pain,Nod,Sit,LookUp,Trip,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
+2023-10-08 17:43:15.848418	<@!555919605265203232>	CUR	Head
