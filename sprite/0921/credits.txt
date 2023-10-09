@@ -1,3 +1,4 @@
 2023-01-20 21:31:27.799256	<@!576876006636519434>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 2023-01-27 21:51:45.121025	<@!576876006636519434>	CUR	Idle,Walk,Hop,Eat
 2023-08-21 23:32:18.131191	<@!702275233125630042>	CUR	Sleep,Hurt,Attack,Charge,Shoot,Double,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-10-09 16:45:35.682349	<@!576876006636519434>	CUR	Hurt,Pull,Cringe
