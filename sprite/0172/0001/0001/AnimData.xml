@@ -321,7 +321,7 @@
       <Name>Pain</Name>
       <Index>19</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>56</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>1</Duration>
@@ -369,7 +369,7 @@
     <Anim>
       <Name>Nod</Name>
       <Index>22</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
