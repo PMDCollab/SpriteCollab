@@ -1,2 +1,3 @@
 2023-08-31 09:17:04.080310	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 2023-09-02 17:32:36.291979	<@!356635814668664832>	CUR	Idle,Walk,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Hop
+2023-10-14 00:43:15.384998	<@!356635814668664832>	CUR	Attack,Charge,Shoot,Swing,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
