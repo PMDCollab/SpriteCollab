@@ -1,2 +1,2 @@
-2022-11-08 06:24:13.141917	<@!576876006636519434>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,Emit,SpAttack,Swing,Double,Rotate,Hop
+2022-11-08 06:24:13.141917	<@!576876006636519434>	OLD	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,Emit,SpAttack,Swing,Double,Rotate,Hop
 2023-10-20 17:17:58.099833	<@!527611425670037516>	CUR	"
