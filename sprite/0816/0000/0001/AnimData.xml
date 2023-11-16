@@ -121,7 +121,7 @@
       <Name>Swing</Name>
       <Index>8</Index>
       <FrameWidth>80</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameHeight>72</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -215,6 +215,29 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Pose</Name>
+      <Index>17</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>12</Duration>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Faint</Name>
+      <Index>33</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>12</Duration>
+        <Duration>4</Duration>
+        <Duration>10</Duration>
       </Durations>
     </Anim>
   </Anims>
