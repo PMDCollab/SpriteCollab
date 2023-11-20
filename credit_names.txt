@@ -63,7 +63,7 @@ estelstarlight	ESTELSTARLIGHT	https://estelstarlight.tumblr.com/post/18683844994
 drawsstuff	<@!128989288665710592>	https://bugfu.newgrounds.com/
 Miju	<@!343474614820667392>	https://mobile.twitter.com/MijumewAndCo
 Angels-Snack	ANGELS_SNACK	https://angels-snack.tumblr.com/
-MeepTheMareep02	MEEP_THE_MAREEP	MeepTheMareep02#1222
+MeepTheMareep02	MEEP_THE_MAREEP	<@251760205082263552>
 Shitpost_Sunkern	<@!292039958829727744>	https://www.youtube.com/channel/UCxyzfFEM6TfgAQ5LIdGtkXw
 Smalusion	<@!177074597315870720>	https://twitter.com/Smalusion
 CamusZekeSirius	<@!533406104256905257>	
@@ -166,7 +166,7 @@ Keldaan	<@!153547941401853952>	https://github.com/keldaan-ag
 Axcel	<@!662304890143375391>	
 Michael12	<@!653416391201783856>	https://www.deviantart.com/michael12dz
 LuchuIsASquirrel	<@!645827810048475136>	https://www.deviantart.com/luchuisasquirrel
-metalbear	METALBEAR	Mikael#4724
+metalbear	METALBEAR	<@468408733433593856>
 NikolaP	<@!704349360929898516>	
 programmedsleepstate	<@!224476380790915072>	<@224476380790915072>
 ZoZoBab	<@!459080372672790548>	https://twitter.com/ZoZoBab
@@ -225,3 +225,4 @@ shimx	<@!722565437925097613>	<@722565437925097613>
 Eliza	<@!176197318574342145>	https://twitter.com/elizathexpresso
 Maruvert	<@!263655958775857152>	
 Katach314	<@!503377084656254986>	katamari.roller.314@gmail.com
+	<@!228595807132057600>	
