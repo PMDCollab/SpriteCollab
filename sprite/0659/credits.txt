@@ -1,0 +1,1 @@
+2023-11-27 23:48:49.932853	<@!608107243329814529>	CUR	Idle,Walk,Sleep,Swing,Double,Rotate
