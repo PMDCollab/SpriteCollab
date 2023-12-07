@@ -121,7 +121,7 @@
     <Anim>
       <Name>Double</Name>
       <Index>9</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>2</Duration>
