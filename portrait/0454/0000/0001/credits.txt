@@ -1,4 +1,4 @@
-2020-10-07 17:58:44.748236	<@!276949114212712449>	CUR	Normal
+2020-10-07 17:58:44.748236	<@!276949114212712449>	OLD	Normal
 2022-05-24 09:19:54.213372	<@!544245909639397378>	OLD	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 2023-05-15 21:21:30.127915	<@!356635814668664832>	CUR	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 2023-09-01 00:30:50.229942	<@!356635814668664832>	CUR	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
