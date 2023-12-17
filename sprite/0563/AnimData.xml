@@ -78,6 +78,16 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Hurt</Name>
+      <Index>6</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>40</FrameWidth>
@@ -136,7 +146,7 @@
       <Name>Hop</Name>
       <Index>10</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>96</FrameHeight>
+      <FrameHeight>88</FrameHeight>
       <HitFrame>9</HitFrame>
       <Durations>
         <Duration>2</Duration>
