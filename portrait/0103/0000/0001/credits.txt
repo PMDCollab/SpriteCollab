@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.628624	<@!234720295292895232>	CUR	Normal
+2020-10-07 17:58:43.628624	<@!234720295292895232>	OLD	Normal
 2023-12-20 19:04:56.064873	<@!193530896211509248>	CUR	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Pain^,Shouting^,Surprised^,Angry,Teary-Eyed,Angry^,Teary-Eyed^
