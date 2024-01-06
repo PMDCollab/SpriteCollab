@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.012597	CHUNSOFT	CUR	Walk,Attack,Strike,SpAttack,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-01-06 06:39:11.124809	<@!350050109741858829>	CUR	Head,Cringe
