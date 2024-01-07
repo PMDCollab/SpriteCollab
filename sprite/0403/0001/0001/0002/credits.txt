@@ -1,1 +1,2 @@
 2022-02-17 06:46:01.769189	<@!593113130213572610>	CUR	Walk,Attack,Strike,Shoot,TailWhip,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+2024-01-07 10:25:55.717469	<@!593113130213572610>	CUR	Idle,Walk,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop,Wake,Tumble,Pose,Pull,Nod,Sit,LookUp,LeapForth,Cringe,TumbleBack
