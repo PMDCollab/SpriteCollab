@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.769248	<@!200385851069300736>	CUR	Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-01-08 21:00:50.187127	<@!157796074457661440>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
