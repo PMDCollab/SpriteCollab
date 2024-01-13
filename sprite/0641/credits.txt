@@ -1,2 +1,3 @@
 2022-03-10 05:51:07.395726	<@!702275233125630042>	OLD	Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 2023-08-31 09:17:29.742893	<@!276369635304275968>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+2024-01-13 16:28:32.546934	<@!276369635304275968>	CUR	Charge
