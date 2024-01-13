@@ -244,8 +244,10 @@
       <FrameWidth>32</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
-        <Duration>12</Duration>
-        <Duration>2</Duration>
+        <Duration>8</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+	<Duration>2</Duration>
         <Duration>8</Duration>
       </Durations>
     </Anim>
