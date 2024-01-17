@@ -3,3 +3,4 @@
 2021-01-06 16:16:40.778699	<@!702275233125630042>	CUR	Special0
 2021-01-24 11:22:27.584468	<@!702275233125630042>	CUR	Special1
 2021-06-04 13:04:20.975629	<@!702275233125630042>	CUR	Normal,Happy,Inspired,Special1,Special2
+2024-01-17 03:28:48.059632	<@!544245909639397378>	CUR	Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
