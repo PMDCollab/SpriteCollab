@@ -1,2 +1,3 @@
 2022-10-30 16:35:49.479352	<@!330751862590406656>	OLD	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 2023-02-17 17:54:37.520003	<@!217899432652308480>	CUR	"
+2024-01-19 03:34:39.127503	<@!157796074457661440>	CUR	SpAttack
