@@ -1,1 +1,2 @@
 2024-01-14 02:56:34.249819	<@!350050109741858829>	CUR	Idle,Walk,Sleep,Hurt,Charge,Shoot,Twirl,Swing,Rotate
+2024-01-21 20:22:50.133337	<@!350050109741858829>	CUR	Idle,Walk,Sleep,Hurt,Charge,Swing,Rotate
