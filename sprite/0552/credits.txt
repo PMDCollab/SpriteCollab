@@ -1,0 +1,1 @@
+2024-01-23 03:20:07.329905	<@!229131140903075840>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
