@@ -1,2 +1,3 @@
 2022-06-15 22:04:02.342829	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 2024-01-26 11:39:27.432515	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,MultiStrike,Swing,Double,Rotate,Hop
+2024-01-26 19:49:44.357118	<@!356635814668664832>	CUR	MultiStrike
