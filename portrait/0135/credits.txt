@@ -1,6 +1,6 @@
 2020-10-07 17:58:43.719381	CHUNSOFT	CUR	Normal
-2021-05-07 08:48:52.217536	MOTHERHENNA	CUR	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2021-05-16 06:10:35.583400	MOTHERHENNA	CUR	Angry,Crying,Determined,Dizzy,Sad,Teary-Eyed,Worried
+2021-05-07 08:48:52.217536	MOTHERHENNA	OLD	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+2021-05-16 06:10:35.583400	MOTHERHENNA	OLD	Angry,Crying,Determined,Dizzy,Sad,Teary-Eyed,Worried
 2021-06-20 10:21:58.727318	<@!593113130213572610>	OLD	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 2021-08-15 15:29:07.217662	<@!343150274795405314>	CUR	Determined,Happy,Pain,Sad
 2021-08-15 16:10:19.462867	<@!593113130213572610>	OLD	Determined,Happy,Pain,Sad
