@@ -1,3 +1,4 @@
 2020-10-07 17:58:43.605684	CHUNSOFT	CUR	Happy,Normal,Sad
 2022-03-16 16:38:36.471336	<@!330751862590406656>	CUR	Determined,Happy,Normal,Sad,Sigh,Special3,Stunned,Teary-Eyed
 2022-04-11 05:44:26.938151	<@!128989288665710592>	CUR	Angry,Determined,Happy,Normal,Pain,Sad,Sigh,Special3,Stunned,Teary-Eyed
+2024-02-07 11:43:40.600268	<@!350050109741858829>	CUR	Surprised,Teary-Eyed,Determined,Special3
