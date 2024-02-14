@@ -1,2 +1,3 @@
 2022-06-02 07:32:57.151292	<@!702275233125630042>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop,Fainted,StandingUp
 2023-05-19 04:44:54.432754	<@!702275233125630042>	CUR	Fainted,StandingUp
+2024-02-14 04:14:33.543334	<@!157796074457661440>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,Fainted,StandingUp
