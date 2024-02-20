@@ -27,10 +27,12 @@ http://sprites.pmdcollab.org/
 3. Re-upload the file directly to the #submissions channel and await approval.  It must be zipped with the same name as you got it.
 
 **SUBMISSION AND USE POLICY**
+
 By submitting files to the bot, you provide permission for others to copy and redistribute the material in any medium or format, or remix, transform, and build upon the material, as long as the work is `non-commercial` and `appropriate credit` is given. For specific terms, view the CC BY-NC license: https://creativecommons.org/licenses/by-nc/4.0/
 
 
 **POLICY ON OFFICIAL SPRITES**
+
 As a rule, we do not allow modifications or overwriting of any existing Chunsoft portraits or sprites within the SpriteBot repository (with the exception of shinies), nor do we allow unofficial Pokemon/unofficial forms of Pokemon to be added to the repository.
 
 However, there are some special submission cases that warrant the creation of new sprite and portrait slots in order for them to be added to the repository:
