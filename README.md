@@ -26,7 +26,7 @@ http://sprites.pmdcollab.org/
 2. Add the animations and XML data to the zipped folder.  Consult a full guide here: https://docs.google.com/document/d/1EceEEjyeoFwoKXdNj4vpXdoYRWp8CID64e-ZqY954_Q
 3. Re-upload the file directly to the #submissions channel and await approval.  It must be zipped with the same name as you got it.
 
-Note: By submitting files to the bot, you provide permission for others to copy and redistribute the material in any medium or format, or remix, transform, and build upon the material, as long as the work is non-commercial and appropriate credit is given, under CC BY-NC. https://creativecommons.org/licenses/by-nc/4.0/
+NOTICE: By submitting files to the bot, you provide permission for others to copy and redistribute the material in any medium or format, or remix, transform, and build upon the material, as long as the work is `non-commercial` and `appropriate credit` is given. For specific terms, view the CC BY-NC license: https://creativecommons.org/licenses/by-nc/4.0/
 
 
 **POLICY ON OFFICIAL SPRITES**
