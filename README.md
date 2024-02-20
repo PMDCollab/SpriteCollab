@@ -45,6 +45,7 @@ If a special use-case sprite or portrait does not fit into any of the above cate
 
 
 **COMMANDS**
+
 All commands are case-insensitive.
 ```
 !portrait <Pokemon Name> [Pokemon Form] [Shiny] [Gender]
@@ -97,6 +98,7 @@ Shows info on available commands and specific commands.
 
 
 **SUBMISSION FLAGS**
+
 Add these to the post of your submission if you need them.
 ```
 --author <Ping of Author>
