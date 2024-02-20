@@ -17,8 +17,8 @@ http://sprites.pmdcollab.org/
 **HOW TO SUBMIT PORTRAITS**
 1. Download the template for the Pokemon you want to submit or recolor, using `!portrait`, or `!recolorportrait`.
 2. Paste in the portraits in the correct places and save the file without changing its name.
-  -Portraits must be 40x40 in size. Try to keep them within 15 colors.
-  -Do not replace chunsoft-made portraits and emotions in your submissions.  Try to refrain from replacing them in general, unless the portrait is marked as incomplete.
+  - Portraits must be 40x40 in size. Try to keep them within 15 colors.
+  - Do not replace chunsoft-made portraits and emotions in your submissions.  Try to refrain from replacing them in general, unless the portrait is marked as incomplete.
 3. Re-upload the file directly to the #submissions channel and await approval.
 
 **HOW TO SUBMIT SPRITES**
@@ -26,17 +26,17 @@ http://sprites.pmdcollab.org/
 2. Add the animations and XML data to the zipped folder.  Consult a full guide here: https://docs.google.com/document/d/1EceEEjyeoFwoKXdNj4vpXdoYRWp8CID64e-ZqY954_Q
 3. Re-upload the file directly to the #submissions channel and await approval.  It must be zipped with the same name as you got it.
 
-Note: By submitting files to the bot, you provide permission for others to use, copy, redistribute, or modify said files for their own projects and contributions, so long as credit to the original artist is retained and the work is not for profit.
+Note: By submitting files to the bot, you provide permission for others to copy and redistribute the material in any medium or format, or remix, transform, and build upon the material, as long as the work is non-commercial and appropriate credit is given, under CC BY-NC. https://creativecommons.org/licenses/by-nc/4.0/
 
 
 **POLICY ON OFFICIAL SPRITES**
 As a rule, we do not allow modifications or overwriting of any existing Chunsoft portraits or sprites within the SpriteBot repository (with the exception of shinies), nor do we allow unofficial Pokemon/unofficial forms of Pokemon to be added to the repository.
 
 However, there are some special submission cases that warrant the creation of new sprite and portrait slots in order for them to be added to the repository:
-• Alternate versions of existing emotion portraits/entire portrait sets and/or spritesheets that are deemed to be of a high enough quality standard to be accepted can be added in a new slot created for the relevant Pokemon that is labeled Alternate.
-• Recolors of portraits and sprites that modify the existing Chunsoft color palettes to better match the canonical color palettes used for the Pokemon in the mainline game series can be added in a new slot created for the relevant Pokemon that is labeled AltColor.
-• Portraits and sprites of Pokemon that were discovered in beta versions of mainline Pokemon games can be added in a new form slot of either Missingno. in the case of there being no applicable Pokemon that it is a prototype of, or in a new form slot of the Pokemon it is a prototype of that is labeled Beta.
-• Portraits and sprites of alternate forms of Pokemon shown in official spin-off games (e.g. Shadow Lugia and similar cases) can be added in a new form slot created for the relevant Pokemon labeled with the official name of the form.
+- Alternate versions of existing emotion portraits/entire portrait sets and/or spritesheets that are deemed to be of a high enough quality standard to be accepted can be added in a new slot created for the relevant Pokemon that is labeled Alternate.
+- Recolors of portraits and sprites that modify the existing Chunsoft color palettes to better match the canonical color palettes used for the Pokemon in the mainline game series can be added in a new slot created for the relevant Pokemon that is labeled AltColor.
+- Portraits and sprites of Pokemon that were discovered in beta versions of mainline Pokemon games can be added in a new form slot of either Missingno. in the case of there being no applicable Pokemon that it is a prototype of, or in a new form slot of the Pokemon it is a prototype of that is labeled Beta.
+- Portraits and sprites of alternate forms of Pokemon shown in official spin-off games (e.g. Shadow Lugia and similar cases) can be added in a new form slot created for the relevant Pokemon labeled with the official name of the form.
 
 If a special use-case sprite or portrait does not fit into any of the above categories, it will not be accepted into the Sprite Repository.
 
