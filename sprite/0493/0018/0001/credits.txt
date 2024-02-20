@@ -2,3 +2,4 @@
 2022-02-16 01:08:46.527766	<@!593113130213572610>	CUR	DeepBreath,Eat
 2022-08-24 17:53:46.744515	<@!593113130213572610>	CUR	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 2022-08-25 04:15:49.397742	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Bite,Stomp,Swing,Double,Rotate,Hop,EventSleep,Wake,Pain,Float,Nod,Trip,Laying,Head,HitGround,Faint
+2024-02-20 03:13:55.709100	<@!544245909639397378>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
