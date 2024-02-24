@@ -20,7 +20,7 @@
     <Anim>
       <Name>Attack</Name>
       <Index>1</Index>
-      <FrameWidth>64</FrameWidth>
+      <FrameWidth>72</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <RushFrame>2</RushFrame>
       <HitFrame>6</HitFrame>
@@ -67,10 +67,36 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>TailWhip</Name>
+      <CopyOf>RearUp</CopyOf>
+    </Anim>
+    <Anim>
+      <Name>RearUp</Name>
+      <Index>4</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <HitFrame>1</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -103,8 +129,8 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>80</FrameWidth>
-      <FrameHeight>72</FrameHeight>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>80</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
