@@ -123,8 +123,8 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>72</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameWidth>80</FrameWidth>
+      <FrameHeight>80</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
