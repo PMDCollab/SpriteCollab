@@ -1,0 +1,1 @@
+2024-03-05 03:41:10.956804	<@!356635814668664832>	CUR	Idle,Walk,Swing,Double,Rotate
