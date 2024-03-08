@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.550832	CHUNSOFT	CUR	Walk,Attack,Slam,SpAttack,Rumble,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-03-08 03:18:31.185092	<@!356635814668664832>	CUR	Special0
