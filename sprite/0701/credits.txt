@@ -1,1 +1,2 @@
 2024-03-08 04:03:56.174771	<@!356635814668664832>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,Cringe
+2024-03-09 23:49:40.893314	<@!356635814668664832>	CUR	Attack,Swing,Hop
