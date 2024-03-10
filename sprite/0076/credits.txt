@@ -1,2 +1,2 @@
-2020-10-07 17:58:43.552826	CHUNSOFT	CUR	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
-2024-03-08 03:17:10.357523	<@!356635814668664832>	CUR	Special0
+2020-10-07 17:58:43.552826	CHUNSOFT	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
+2024-03-08 03:17:10.357523	<@!356635814668664832>	CUR	CC_BY-NC_4	Special0

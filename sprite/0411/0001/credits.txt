@@ -1,1 +1,1 @@
-2024-03-04 18:46:13.908709	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,TailWhip,Swing,Double,Rotate,Hop
+2024-03-04 18:46:13.908709	<@!593113130213572610>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,TailWhip,Swing,Double,Rotate,Hop

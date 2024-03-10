@@ -1,3 +1,3 @@
-2023-07-14 11:37:12.893203	<@!356635814668664832>	CUR	Idle,Walk,Swing,Double,Rotate,Hop,Special0
-2024-01-10 22:08:56.203301	<@!356635814668664832>	CUR	Hop
-2024-02-26 20:55:26.925808	<@!593113130213572610>	CUR	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,Special0
+2023-07-14 11:37:12.893203	<@!356635814668664832>	CUR	PMDCollab_2	Idle,Walk,Swing,Double,Rotate,Hop,Special0
+2024-01-10 22:08:56.203301	<@!356635814668664832>	CUR	PMDCollab_2	Hop
+2024-02-26 20:55:26.925808	<@!593113130213572610>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,Special0

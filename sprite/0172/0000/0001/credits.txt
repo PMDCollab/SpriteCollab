@@ -1,9 +1,9 @@
-2020-10-07 17:58:43.814127	<@!95650095034273792>	CUR	Walk,Attack,QuickStrike,Shock,Sing,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-2023-03-31 18:19:05.072762	<@!454421330058805251>	CUR	Shock,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-2023-04-09 16:21:45.847266	<@!454421330058805251>	CUR	Tumble,Pose,Pain,Nod,Sit,LookUp,Sink,LeapForth,TumbleBack,HitGround
-2023-04-14 22:56:54.910088	<@!454421330058805251>	CUR	Wake,Pain
-2023-04-15 00:54:08.925081	<@!454421330058805251>	CUR	Pain
-2023-04-22 16:38:12.730300	<@!454421330058805251>	CUR	Pain,Trip,HitGround,Faint
-2023-06-18 20:21:51.785724	<@!454421330058805251>	CUR	Wake,Nod
-2023-07-24 20:55:56.403467	<@!454421330058805251>	CUR	Pose,Nod,Trip,LeapForth,HitGround
-2023-10-13 21:29:50.088441	<@!454421330058805251>	CUR	Pose,Pain,Nod,Trip,HitGround,Faint
+2020-10-07 17:58:43.814127	<@!95650095034273792>	CUR	PMDCollab_1	Walk,Attack,QuickStrike,Shock,Sing,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2023-03-31 18:19:05.072762	<@!454421330058805251>	CUR	PMDCollab_1	Shock,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-04-09 16:21:45.847266	<@!454421330058805251>	CUR	PMDCollab_1	Tumble,Pose,Pain,Nod,Sit,LookUp,Sink,LeapForth,TumbleBack,HitGround
+2023-04-14 22:56:54.910088	<@!454421330058805251>	CUR	PMDCollab_1	Wake,Pain
+2023-04-15 00:54:08.925081	<@!454421330058805251>	CUR	PMDCollab_1	Pain
+2023-04-22 16:38:12.730300	<@!454421330058805251>	CUR	PMDCollab_1	Pain,Trip,HitGround,Faint
+2023-06-18 20:21:51.785724	<@!454421330058805251>	CUR	PMDCollab_2	Wake,Nod
+2023-07-24 20:55:56.403467	<@!454421330058805251>	CUR	PMDCollab_2	Pose,Nod,Trip,LeapForth,HitGround
+2023-10-13 21:29:50.088441	<@!454421330058805251>	CUR	PMDCollab_2	Pose,Pain,Nod,Trip,HitGround,Faint
