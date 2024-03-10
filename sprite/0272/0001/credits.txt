@@ -1,1 +1,1 @@
-2022-11-08 03:47:08.670253	CHUNSOFT	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,QuickStrike
+2022-11-08 03:47:08.670253	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,QuickStrike

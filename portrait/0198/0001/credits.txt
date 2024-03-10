@@ -2,4 +2,4 @@
 2022-01-24 16:50:03.282006	<@!544245909639397378>	OLD	PMDCollab_1	Happy
 2022-01-24 19:55:43.525694	<@!356635814668664832>	OLD	PMDCollab_1	Angry,Crying,Dizzy,Happy,Inspired,Joyous,Pain,Shouting,Sigh,Surprised
 2022-04-01 03:30:32.827252	<@!702275233125630042>	CUR	PMDCollab_1	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-2022-05-23 16:19:24.441220	CHUNSOFT	CUR	PMDCollab_1	"
+2022-05-23 16:19:24.441220	CHUNSOFT	CUR	Unspecified	"

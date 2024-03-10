@@ -1,4 +1,4 @@
-2020-10-07 17:58:44.496907	CHUNSOFT	CUR	PMDCollab_1	Normal
+2020-10-07 17:58:44.496907	CHUNSOFT	CUR	Unspecified	Normal
 2020-10-27 16:57:41.719956	<@!589906152708505648>	CUR	PMDCollab_1	Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 2021-01-20 17:14:50.035889	<@!589906152708505648>	CUR	PMDCollab_1	Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 2021-02-26 11:37:09.471093	<@!589906152708505648>	CUR	PMDCollab_1	Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^

@@ -1,1 +1,1 @@
-2020-10-07 17:58:44.301430	CHUNSOFT	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Bow,Cry,EventSleep
+2020-10-07 17:58:44.301430	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Bow,Cry,EventSleep
