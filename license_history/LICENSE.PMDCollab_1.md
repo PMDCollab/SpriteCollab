@@ -1,0 +1,1 @@
+Permission is provided for others to use, copy, redistribute, or modify files for their own projects and contributions, so long as credit to the original artist is retained
