@@ -2,7 +2,7 @@
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
-      <Anim>
+    <Anim>
       <Name>Walk</Name>
       <Index>0</Index>
       <FrameWidth>32</FrameWidth>
@@ -234,6 +234,50 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Tumble</Name>
+      <Index>16</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Cringe</Name>
+      <Index>30</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>56</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>TumbleBack</Name>
+      <Index>32</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
+    </Anim>
+	    <Anim>
       <Name>Special0</Name>
       <Index>35</Index>
       <FrameWidth>24</FrameWidth>
