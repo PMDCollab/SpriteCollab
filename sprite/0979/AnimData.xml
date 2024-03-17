@@ -38,6 +38,11 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Strike</Name>
+      <Index>2</Index>
+      <CopyOf>Attack</CopyOf>
+    </Anim>
+    <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
       <FrameWidth>48</FrameWidth>
@@ -58,6 +63,11 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
       </Durations>
+    </Anim>
+    <Anim>
+      <Name>RearUp</Name>
+      <Index>4</Index>
+      <CopyOf>Shoot</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
