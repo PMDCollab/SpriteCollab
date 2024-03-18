@@ -1,0 +1,1 @@
+2021-11-25 04:34:10.187238	<@!237286997645983744>	CUR	PMDCollab_1	Walk,Attack,Strike,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe,DeepBreath,Eat,EventSleep,Float,Faint,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
