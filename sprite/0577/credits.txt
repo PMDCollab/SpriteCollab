@@ -1,1 +1,2 @@
 2022-10-30 15:42:49.850306	<@!215638650434617345>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+2024-03-21 23:10:38.676951	<@!402958234371227648>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
