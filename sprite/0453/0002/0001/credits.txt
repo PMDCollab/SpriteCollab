@@ -1,2 +1,2 @@
-2020-10-07 17:58:44.744245	<@!276949114212712449>	CUR	PMDCollab_1	Walk,Attack,Jab,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat,Pose
+2020-10-07 17:58:44.744245	<@!276949114212712449>	OLD	PMDCollab_1	Walk,Attack,Jab,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat,Pose
 2024-03-26 18:55:23.753041	<@!593113130213572610>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Eat,Pose
