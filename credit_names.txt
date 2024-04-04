@@ -84,7 +84,7 @@ RelicCipher	<@!739304144552198285>	<@739304144552198285>
 Dasawkem	<@!183136061487054848>	https://dasawkem.carrd.co/#social
 Sharpen	<@!389193348474339338>	
 Noivern	<@!150809243816165377>	https://twitter.com/notarealnoivern
-Noo	<@!217899432652308480>	@noo@comics.town
+Noo	<@!217899432652308480>	comics.town/@noo
 Emmuffin	<@!356635814668664832>	https://twitter.com/Ernmuffin
 SuperFabbioGuy	<@!433058189240696835>	
 Frostdrop1	<@!173505019268694016>	
@@ -159,7 +159,7 @@ AlexGroeger	<@!141718238336778241>
 Novie	<@!229363481852379136>	<https://twitter.com/themagolord>
 3Monika4	<@!270755102178934785>	<@270755102178934785>
 Pepper	<@!304391035209908244>	https://twitter.com/thesaltypepper8
-ScytherGust	<@!861005464682889266>	
+Gust	<@!861005464682889266>	https://twitter.com/Estelaris__
 Keldaan	<@!153547941401853952>	https://github.com/keldaan-ag
 	<@!970782000363474944>	
 Axcel	<@!662304890143375391>	
