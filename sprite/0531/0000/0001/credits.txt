@@ -1,2 +1,3 @@
 2022-02-27 05:41:38.184771	<@!330751862590406656>	CUR	PMDCollab_1	Walk,Attack,Slam,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pose
 2022-06-28 13:04:10.543468	<@!330751862590406656>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Pose
+2024-04-24 23:10:51.728909	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Eat,Pose,Cringe
