@@ -67,31 +67,31 @@
       </Durations>
     </Anim>
     <Anim>
-			<Name>TailWhip</Name>
-			<CopyOf>RearUp</CopyOf>
-		</Anim>
-		<Anim>
-			<Name>RearUp</Name>
-			<Index>4</Index>
-			<FrameWidth>40</FrameWidth>
-			<FrameHeight>40</FrameHeight>
-			<HitFrame>1</HitFrame>
-			<ReturnFrame>8</ReturnFrame>
-			<Durations>
-				<Duration>8</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>3</Duration>
-				<Duration>1</Duration>
-				<Duration>3</Duration>
-				<Duration>1</Duration>
-				<Duration>3</Duration>
-				<Duration>1</Duration>
-				<Duration>3</Duration>
-				<Duration>1</Duration>
-				<Duration>2</Duration>
-			</Durations>
-		</Anim>
+      <Name>TailWhip</Name>
+      <CopyOf>RearUp</CopyOf>
+    </Anim>
+    <Anim>
+      <Name>RearUp</Name>
+      <Index>4</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <HitFrame>1</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>3</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
     <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
@@ -247,6 +247,18 @@
         <Duration>16</Duration>
         <Duration>8</Duration>
         <Duration>10</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Eat</Name>
+      <Index>15</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
       </Durations>
     </Anim>
     <Anim>
