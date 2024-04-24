@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.507947	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,SpAttack,Rumble,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-04-24 10:39:15.896788	<@!356635814668664832>	CUR	CC_BY-NC_4	Eat,Cringe
