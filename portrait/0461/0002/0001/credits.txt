@@ -5,3 +5,4 @@
 2023-05-25 04:51:08.107695	<@!576876006636519434>	OLD	PMDCollab_2	Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special0
 2023-08-17 15:40:53.310414	<@!215638650434617345>	CUR	PMDCollab_2	Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 2023-08-17 16:02:51.619065	<@!593113130213572610>	CUR	PMDCollab_2	"
+2024-05-08 19:24:37.404453	<@!593113130213572610>	CUR	CC_BY-NC_4	Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
