@@ -1,2 +1,3 @@
 2021-07-02 04:02:52.627746	<@!702275233125630042>	OLD	PMDCollab_1	Walk,Attack,Punch,Shoot,Strike,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 2024-02-25 22:19:36.662086	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
+2024-05-08 01:53:01.932025	<@!544245909639397378>	CUR	CC_BY-NC_4	Shoot,Punch,SpAttack

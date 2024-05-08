@@ -55,29 +55,34 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Punch</Name>
+      <Name>SpAttack</Name>
       <Index>3</Index>
-      <CopyOf>Strike</CopyOf>
+      <FrameWidth>56</FrameWidth>
+      <FrameHeight>80</FrameHeight>
+      <HitFrame>7</HitFrame>
+      <ReturnFrame>11</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>6</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>6</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Shoot</Name>
       <Index>4</Index>
-      <FrameWidth>64</FrameWidth>
-      <FrameHeight>80</FrameHeight>
-      <HitFrame>1</HitFrame>
-      <ReturnFrame>3</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>4</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
+      <CopyOf>SpAttack</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
