@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.551829	<@!200385851069300736>	CUR	PMDCollab_1	Walk,Attack,Slam,SpAttack,Rumble,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-05-11 23:54:44.489207	<@!356635814668664832>	CUR	CC_BY-NC_4	Tumble,Cringe,TumbleBack,Special0
