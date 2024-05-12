@@ -1,2 +1,3 @@
 2020-10-07 17:58:43.553823	<@!200385851069300736>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
 2023-05-21 20:01:14.373625	<@!200385851069300736>	CUR	PMDCollab_2	Hurt
+2024-05-12 02:49:05.239364	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
