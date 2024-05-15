@@ -16,7 +16,7 @@
     </Anim>
     <Anim>
       <Name>Attack</Name>
-      <Index>2</Index>
+      <Index>1</Index>
       <FrameWidth>88</FrameWidth>
       <FrameHeight>96</FrameHeight>
       <RushFrame>2</RushFrame>
@@ -127,6 +127,30 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Double</Name>
+      <Index>9</Index>
+      <FrameWidth>80</FrameWidth>
+      <FrameHeight>96</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Hop</Name>
       <Index>10</Index>
       <FrameWidth>56</FrameWidth>
@@ -142,6 +166,26 @@
         <Duration>3</Duration>
         <Duration>2</Duration>
         <Duration>1</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Charge</Name>
+      <Index>11</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
         <Duration>2</Duration>
       </Durations>
     </Anim>
