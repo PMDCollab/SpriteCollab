@@ -36,20 +36,17 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Punch</Name>
-      <Index>4</Index>
-      <FrameWidth>96</FrameWidth>
-      <FrameHeight>96</FrameHeight>
-      <HitFrame>8</HitFrame>
-      <ReturnFrame>8</ReturnFrame>
+      <Name>Strike</Name>
+      <Index>2</Index>
+      <FrameWidth>80</FrameWidth>
+      <FrameHeight>88</FrameHeight>
+      <RushFrame>1</RushFrame>
+      <HitFrame>2</HitFrame>
+      <ReturnFrame>5</ReturnFrame>
       <Durations>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>6</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -59,6 +56,30 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
       </Durations>
+    </Anim>
+    <Anim>
+      <Name>Shoot</Name>
+      <Index>3</Index>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>80</FrameHeight>
+      <HitFrame>0</HitFrame>
+      <ReturnFrame>1</ReturnFrame>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Punch</Name>
+      <Index>4</Index>
+      <CopyOf>Strike</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
@@ -93,6 +114,88 @@
         <Duration>3</Duration>
         <Duration>4</Duration>
         <Duration>3</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Swing</Name>
+      <Index>8</Index>
+      <FrameWidth>88</FrameWidth>
+      <FrameHeight>96</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>5</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Double</Name>
+      <Index>9</Index>
+      <FrameWidth>88</FrameWidth>
+      <FrameHeight>88</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Hop</Name>
+      <Index>10</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>104</FrameHeight>
+      <HitFrame>9</HitFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Charge</Name>
+      <Index>11</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
       </Durations>
     </Anim>
     <Anim>
