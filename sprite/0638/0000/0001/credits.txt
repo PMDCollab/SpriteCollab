@@ -1,1 +1,2 @@
 2022-02-27 04:24:42.949197	<@!330751862590406656>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-05-23 02:16:09.604569	<@!330751862590406656>	CUR	CC_BY-NC_4	Hurt
