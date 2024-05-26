@@ -3278,6 +3278,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Vanillite Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Alomomola: Normal
 		Alomomola Shiny: Normal
+		Galvantula: Normal
 		Eelektrik: Normal
 		Eelektrik Shiny: Normal
 		Eelektross: Normal
