@@ -3279,6 +3279,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Alomomola: Normal
 		Alomomola Shiny: Normal
 		Galvantula: Normal
+		Galvantula Shiny: Normal
 		Eelektrik: Normal
 		Eelektrik Shiny: Normal
 		Eelektross: Normal
