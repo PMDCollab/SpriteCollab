@@ -1906,7 +1906,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Landorus Therian: Normal
 		Landorus Therian Shiny: Normal
 		Kyurem Alternate: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-		Litleo: Normal,Happy,Pain,Determined
+		Litleo: Normal,Happy,Pain,Determined,Worried
 		Litleo Shiny: Normal,Happy,Pain,Determined
 		Florges Yellow: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Florges Yellow Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
@@ -5980,7 +5980,6 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Popplio Shiny: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Stunned,Surprised,Teary-Eyed,Worried,Sad,Joyous,Crying,Sigh,Dizzy,Special3
 		Primarina: Happy,Normal,Sad,Special1,Stunned,Teary-Eyed
 		Primarina Shiny: Normal,Happy,Sad,Teary-Eyed,Special1,Stunned,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Dizzy,Worried,Determined
-		Oricorio Pom_Pom Shiny: Normal
 		Oricorio Pa_U Shiny: Normal
 		Oricorio Sensu Shiny: Normal
 		Ribombee: Inspired
