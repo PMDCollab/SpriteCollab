@@ -2552,7 +2552,6 @@ baronessfaron	Discord:<@!544245909639397378>
 		Gumshoos: Normal
 		Vikavolt: Normal
 		Oricorio: Normal
-		Oricorio Pom_Pom: Normal
 		Oricorio Pa_U: Normal
 		Oricorio Sensu: Normal
 		Cutiefly: Normal,Sad,Joyous,Inspired,Surprised,Teary-Eyed,Determined
@@ -4137,6 +4136,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Crabrawler Shiny: Normal,Normal^
 		Crabominable: Normal
 		Crabominable Shiny: Normal
+		Oricorio Pom_Pom: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Oricorio Pom_Pom Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rockruff: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Rockruff Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Lycanroc: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
