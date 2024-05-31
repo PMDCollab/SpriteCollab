@@ -2049,7 +2049,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Iron_Boulder Shiny: Normal
 		Iron_Crown: Normal
 		Iron_Crown Shiny: Normal
-		Terapagos Terastal: Sad,Sad^,Happy,Happy^,Teary-Eyed,Teary-Eyed^,Special0,Special0^
+		Terapagos Terastal: Sad,Sad^,Happy,Happy^,Teary-Eyed,Teary-Eyed^,Special0,Special0^,Dizzy,Dizzy^,Worried,Worried^
 		Terapagos Stellar: Normal,Special1,Normal^,Special1^
 	Sprite:
 		Missingno_ Substitute_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
