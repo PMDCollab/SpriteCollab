@@ -9065,10 +9065,6 @@ Discord:<@!306802821087625216>
 	Portrait:
 		Yveltal Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 
-Discord:<@!666846584310464552>
-	Portrait:
-		Diancie: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-
 Discord:<@!225139021079117824>
 	Portrait:
 		Primarina: Normal
