@@ -2530,7 +2530,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Dedenne: Normal
 		Carbink: Normal
 		Sliggoo: Normal,Normal^,Happy,Happy^
-		Goodra: Normal
+		Goodra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Goodra Shiny: Normal
 		Klefki: Normal,Joyous,Happy,Pain,Surprised,Stunned,Teary-Eyed
 		Klefki Shiny: Normal,Joyous,Happy,Pain,Surprised,Stunned,Teary-Eyed
@@ -3265,6 +3265,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Bidoof Starter: Joyous,Crying,Sigh,Shouting,Angry,Worried
 		Drifblim Altcolor: Normal
 		Buneary: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Glameow Altcolor: Normal
 		Chatot Starter: Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Determined
 		Croagunk: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Croagunk Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
