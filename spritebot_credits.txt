@@ -6822,7 +6822,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Scizor Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop
 		Shuckle Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk,Withdraw
 		Houndour Shiny: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk
-		Houndoom Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Mudkip Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Marshtomp Shiny: Walk,Attack,Strike,Shoot,Rumble,SpAttack,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Swampert Shiny: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk
@@ -6832,8 +6831,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Beautifly Shiny Female: Walk,Attack,Strike,Shoot,FlapAround,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Dustox Altcolor Shiny: Walk,Attack,Strike,Shoot,FlapAround,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Meditite Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Medicham Shiny: Walk,Attack,Punch,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
-		Medicham Shiny Female: Walk,Attack,Punch,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp,Pose,Special0,Special1,Jump
 		Gulpin Shiny: Walk,Attack,Strike,Shoot,Swell,Sound,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Lileep Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Cradily Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -8623,8 +8620,6 @@ chime	Discord:<@!183561486893842432>	Contact:<@!183561486893842432>
 		Zapdos Galar Shiny: Normal
 		Moltres Galar: Normal
 		Moltres Galar Shiny: Normal
-		Manectric Mega: Normal
-		Manectric Mega Shiny: Normal
 		Banette Mega: Normal,Normal^
 		Banette Mega Shiny: Normal,Normal^
 		Chimecho: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
