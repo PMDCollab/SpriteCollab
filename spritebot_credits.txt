@@ -2531,7 +2531,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Carbink: Normal
 		Sliggoo: Normal,Normal^,Happy,Happy^
 		Goodra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Goodra Shiny: Normal
+		Goodra Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Klefki: Normal,Joyous,Happy,Pain,Surprised,Stunned,Teary-Eyed
 		Klefki Shiny: Normal,Joyous,Happy,Pain,Surprised,Stunned,Teary-Eyed
 		Phantump: Normal
@@ -3275,6 +3275,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Pignite: Normal
 		Pignite Shiny: Normal
 		Simipour: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Simipour Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Tranquill: Normal
 		Tranquill Shiny: Normal
 		Roggenrola: Normal,Normal^
@@ -3441,6 +3442,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Nidorino Altcolor: Normal
 		Vulpix Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Vulpix Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Vulpix Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Jigglypuff Altcolor: Normal
 		Zubat Alternate: Normal,Happy
 		Zubat Alternate Shiny: Normal,Happy
@@ -3764,6 +3766,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Milotic: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Milotic Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Milotic Alternate: Normal
+		Milotic Alternate Shiny: Normal
 		Castform Altcolor: Normal
 		Banette Altcolor: Normal,Sad,Normal^,Sad^,Pain,Surprised,Pain^,Surprised^,Teary-Eyed,Teary-Eyed^
 		Duskull: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Determined
