@@ -2,3 +2,4 @@
 2023-08-17 17:19:53.383362	<@!833717817445974046>	CUR	PMDCollab_2	Normal
 2023-08-24 03:43:45.286459	<@!833717817445974046>	CUR	PMDCollab_2	Sad,Joyous,Happy,Sigh,Pain,Teary-Eyed,Determined,Special0,Special3
 2023-08-24 04:11:04.973316	<@!833717817445974046>	CUR	PMDCollab_2	Special0,Special3
+2024-06-02 17:25:52.134372	<@!861005464682889266>	CUR	CC_BY-NC_4	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
