@@ -6724,7 +6724,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Golduck Shiny: Normal
 		Poliwag Shiny: Normal,Normal^
 		Weepinbell Shiny: Normal,Normal^
-		Ponyta Shiny: Normal
 		Doduo Shiny: Normal
 		Doduo Shiny Female: Normal
 		Dodrio Shiny: Normal
@@ -6736,8 +6735,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Starmie Shiny: Normal
 		Mewtwo Shiny: Normal
 		Mew Shiny: Normal
-		Meganium Shiny: Normal
-		Meganium Shiny Female: Normal
 		Typhlosion Altcolor Shiny: Normal
 		Spinarak Altcolor Shiny: Normal
 		Ariados Shiny: Normal
@@ -6758,7 +6755,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Heracross Shiny Female: Normal
 		Skarmory Shiny: Normal
 		Houndour Shiny: Normal
-		Houndoom Shiny: Normal,Surprised
 		Smeargle Shiny: Normal,Normal^
 		Marshtomp Shiny: Normal
 		Swampert Shiny: Normal
@@ -6788,22 +6784,15 @@ Anonymous	Discord:<@!200318546750865418>
 		Skuntank Altcolor Shiny: Normal,Surprised
 		Spiritomb Shiny: Normal,Normal^,Sigh,Sigh^
 		Riolu Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Lucario Shiny: Normal
-		Skorupi Shiny: Normal,Pain,Sad,Surprised,Teary-Eyed,Worried
-		Drapion Shiny: Normal,Pain,Angry,Surprised
 		Finneon Shiny: Normal
 		Finneon Shiny Female: Normal
 		Mantyke Shiny: Normal
-		Glaceon Altcolor Shiny: Normal
-		Gallade Shiny: Normal
-		Probopass Shiny: Normal
 		Froslass Shiny: Normal
 		Rotom Shiny: Normal
 		Uxie Shiny: Normal
 		Mesprit Shiny: Normal,Pain
 		Azelf Shiny: Normal
 		Dialga Shiny: Normal
-		Palkia Shiny: Normal
 		Heatran Shiny: Normal
 		Phione Shiny: Normal
 		Manaphy Shiny: Crying,Happy,Joyous,Normal,Pain,Sigh,Stunned,Surprised,Teary-Eyed
@@ -6855,7 +6844,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Spiritomb Shiny: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4,Special5
 		Riolu Shiny: Walk,Attack,QuickStrike,Strike,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Skorupi Shiny: Walk,Attack,Bite,Shoot,Jab,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pose
-		Drapion Shiny: Walk,Attack,Strike,Shoot,Jab,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint,StandingUp
 		Finneon Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Gallade Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Probopass Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -6865,7 +6853,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Azelf Shiny: Walk,Attack,Strike,Shoot,SpAttack,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Fainted
 		Dialga Shiny: Walk,Attack,Scratch,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,Faint,Special0,Fainted
 		Dialga Starter Shiny: "
-		Palkia Shiny: Walk,Attack,Scratch,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Injured,Roar,Special1
 		Heatran Shiny: Walk,Attack,Strike,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Phione Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Twirl,Walk
 		Manaphy Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cry,Fainted,StandingUp,Faint,EventSleep,Special2,Special3
