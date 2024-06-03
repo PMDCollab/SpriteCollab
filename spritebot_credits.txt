@@ -6123,7 +6123,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Herdier Shiny: Normal
 		Liepard Shiny: Normal
 		Musharna Shiny: Normal
-		Zebstrika Shiny: Normal
 		Tympole Shiny: Normal
 		Sawk: Normal
 		Sawk Shiny: Normal
