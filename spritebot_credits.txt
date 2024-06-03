@@ -3285,6 +3285,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Drilbur: Normal,Normal^,Worried^
 		Drilbur Shiny: Normal,Normal^,Worried^
 		Conkeldurr: Normal
+		Conkeldurr Shiny: Normal
 		Vanillite Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Alomomola: Normal
 		Alomomola Shiny: Normal
