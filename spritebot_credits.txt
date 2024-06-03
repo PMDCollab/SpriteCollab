@@ -5955,6 +5955,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Weavile Altcolor Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Froslass Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Watchog: Special1,Special0,Special3
+		Duosion: Normal
 		Tornadus Therian: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
 		Tornadus Therian Shiny: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
 		Landorus: Normal
