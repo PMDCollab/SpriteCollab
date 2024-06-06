@@ -1906,6 +1906,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Landorus Therian: Normal
 		Landorus Therian Shiny: Normal
 		Kyurem Alternate: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Fennekin Alternate: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3
 		Scatterbug: Normal
 		Litleo: Normal,Happy,Pain,Determined,Worried
 		Litleo Shiny: Normal,Happy,Pain,Determined,Worried
