@@ -5424,7 +5424,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Thundurus Therian Shiny: Normal
 		Keldeo Resolute Shiny: Normal
 		Chesnaught Shiny: Normal
-		Fennekin Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special3
 		Greninja Alternate Shiny: Normal
 		Diggersby: Normal
 		Diggersby Shiny: Normal
