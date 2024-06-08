@@ -79,7 +79,28 @@
     <Anim>
       <Name>Punch</Name>
       <Index>4</Index>
-      <CopyOf>Strike</CopyOf>
+      <FrameWidth>96</FrameWidth>
+      <FrameHeight>96</FrameHeight>
+      <HitFrame>9</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+	<Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
