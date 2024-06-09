@@ -7171,7 +7171,6 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Bagon Shiny: Walk,Attack,Bite,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Munchlax Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Rhyperior Shiny: Walk,Attack,Strike,Shoot,Rumble,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Regigigas Shiny: Walk,Attack,Strike,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pain,Faint,StandingUp,Roar,Special0
 		Cresselia Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4
 		Cresselia Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
@@ -8935,71 +8934,44 @@ Child-Of-Hades	Contact:https://www.deviantart.com/child-of-hades
 
 mucrush	Contact:https://www.deviantart.com/mucrush
 	Portrait:
-		Pignite: Normal
-		Patrat: Normal
 		Stoutland: Normal
 		Pansage: Normal
 		Simisage: Normal
 		Simisear: Normal,Normal^
 		Munna: Normal
 		Musharna: Normal
-		Pidove: Normal
-		Tranquill: Normal
 		Unfezant: Normal
 		Unfezant Female: Normal
 		Blitzle: Normal
-		Zebstrika: Normal
-		Roggenrola: Normal
-		Boldore: Normal
-		Gigalith: Normal
-		Woobat: Normal
 		Swoobat: Normal
 		Conkeldurr: Normal
 		Tympole: Normal
 		Palpitoad: Normal
 		Throh: Normal
 		Sawk: Normal
-		Darumaka: Normal
-		Darmanitan: Normal
 		Darmanitan Zen: Normal
-		Crustle: Normal
-		Tirtouga: Normal
 		Carracosta: Normal
 		Archen: Normal
 		Archeops: Normal
-		Garbodor: Normal
 		Zorua: "
 		Zorua Alternate: "
 		Minccino: Normal
 		Cinccino: Normal
 		Vanillish: Normal
-		Vanilluxe: Normal
 		Karrablast: Normal
 		Escavalier: Normal
 		Foongus: Normal
-		Amoonguss: Normal
 		Frillish: Normal
 		Frillish Female: Normal
-		Galvantula: Normal
-		Tynamo: Normal
-		Eelektrik: Normal
-		Eelektross: Normal
-		Beartic: Normal
-		Shelmet: Normal
 		Stunfisk: Normal
 		Mienfoo: Normal
 		Bouffalant: Normal
-		Braviary: Normal
-		Heatmor: Normal
-		Durant: Normal
 		Deino: Normal
-		Larvesta: Normal
 		Tornadus: Normal
 		Thundurus: Normal
 		Kyurem Black: "
 		Kyurem White: "
 		Kyurem Alternate: "
-		Keldeo: Normal
 
 Discord:<@!315528859921678336>
 	Portrait:
