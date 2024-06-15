@@ -1625,7 +1625,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Ducklett: Angry,Crying,Dizzy,Pain,Shouting,Surprised,Worried
 		Vanillish: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Vanilluxe: Normal,Normal^
-		Stunfisk: Normal
 		Yveltal: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried,Special2
 		Hoopa Unbound_Alternate: Normal
 		Volcanion: Normal
