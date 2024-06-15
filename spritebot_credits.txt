@@ -1898,6 +1898,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Cryogonal: Normal
 		Cryogonal Shiny: Normal
 		Accelgor Shiny: Normal
+		Stunfisk: Normal
 		Mienfoo: Normal
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy
 		Larvesta: Normal
@@ -2764,6 +2765,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Lillipup: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Herdier Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Purrloin: Walk,Attack,Strike,Shoot,SpAttack,Rumble,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Scratch
+		Pansear Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Munna: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Musharna: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Drilbur: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Sound,Emit,SpAttack,Swing,Double,Rotate,Hop
