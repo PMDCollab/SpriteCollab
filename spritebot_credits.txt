@@ -8979,7 +8979,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Foongus: Normal
 		Frillish: Normal
 		Frillish Female: Normal
-		Stunfisk: Normal
 		Mienfoo: Normal
 		Bouffalant: Normal
 		Deino: Normal
