@@ -6382,6 +6382,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Cobalion Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Virizion Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dreepy: Joyous
+		Dreepy Shiny: Joyous
 		Glimmet: Happy,Pain,Surprised,Worried,Determined
 		Glimmet Shiny: Normal,Happy,Pain,Surprised,Worried,Determined
 	Sprite:
