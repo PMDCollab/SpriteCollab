@@ -8956,7 +8956,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Simisage: Normal
 		Simisear: Normal,Normal^
 		Munna: Normal
-		Musharna: Normal
 		Unfezant: Normal
 		Unfezant Female: Normal
 		Blitzle: Normal
