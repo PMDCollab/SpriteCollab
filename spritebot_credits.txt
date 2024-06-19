@@ -1999,6 +1999,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Garganacl Shiny: Normal,Normal^,Happy,Happy^
 		Bellibolt: Happy
 		Bellibolt Shiny: Happy,Normal,Teary-Eyed
+		Kilowattrel: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Shroodle: Normal
 		Shroodle Shiny: Normal
 		Toedscruel: Normal
@@ -6365,6 +6366,8 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Sceptile Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Flygon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Absol Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Absol Alternate: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Absol Alternate Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Absol Altcolor: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Mismagius Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Toxicroak Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8866,7 +8869,6 @@ Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 		Mareanie: Normal
 		Fomantis: Normal
 		Wattrel: Normal
-		Kilowattrel: Normal
 
 Discord:<@!828520880299966525>
 	Portrait:
