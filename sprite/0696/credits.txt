@@ -1,0 +1,1 @@
+2024-06-21 18:09:35.123153	<@!319945906600411179>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Rumble,RearUp,Swing,Double,Rotate,Hop
