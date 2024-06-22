@@ -8949,7 +8949,7 @@ SingingMudkip	Discord:<@!220580080194289664>
 		Abomasnow: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Abomasnow Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
-Pepper	Discord:<@!304391035209908244>	Contact:https://twitter.com/thesaltypepper8
+Orange	Discord:<@!304391035209908244>	Contact:https://linktr.ee/orangeoceann
 	Portrait:
 		Rotom: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rotom Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
