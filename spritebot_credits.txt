@@ -3269,6 +3269,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Medicham: Sad,Joyous,Crying,Shouting,Teary-Eyed,Dizzy,Determined,Special0
 		Medicham Starter: Joyous,Crying,Sigh,Shouting,Teary-Eyed,Dizzy,Worried,Determined
 		Manectric: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Manectric Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Wailord Alternate: Normal
 		Wailord Alternate Shiny: Normal
 		Torkoal: Sad,Joyous,Happy,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
