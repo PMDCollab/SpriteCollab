@@ -9105,6 +9105,10 @@ Discord:<@!319728945920475137>
 		Rolycoly: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Rolycoly Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 
+Trace_Was_Taken	Discord:<@!548668262616006668>	Contact:https://www.reddit.com/user/Timtanoboa/
+	Portrait:
+		Flapple: Angry
+
 Jelly	Discord:<@!402702516866908160>	Contact:https://www.deviantart.com/drjellystone
 	Portrait:
 		Silicobra: Normal
