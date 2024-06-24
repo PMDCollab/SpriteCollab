@@ -8509,6 +8509,7 @@ Waffluffe	Discord:<@!388808249165479939>	Contact:https://twitter.com/waffluffe
 Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 	Portrait:
 		Poliwrath: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Poliwrath Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Castform Snowy: Happy,Pain
 
 cosmosully	Discord:<@!411407718839222272>	Contact:https://twitter.com/cosmosully
