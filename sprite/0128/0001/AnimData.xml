@@ -44,7 +44,7 @@
       <Name>Stomp</Name>
       <Index>2</Index>
       <FrameWidth>72</FrameWidth>
-      <FrameHeight>72</FrameHeight>
+      <FrameHeight>80</FrameHeight>
       <HitFrame>2</HitFrame>
       <ReturnFrame>8</ReturnFrame>
       <Durations>
@@ -97,7 +97,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>40</Duration>
         <Duration>3</Duration>
