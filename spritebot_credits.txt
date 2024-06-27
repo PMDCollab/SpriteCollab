@@ -2814,6 +2814,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Haxorus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Slice,Swing,Double,Rotate,Hop
 		Haxorus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Slice,Swing,Double,Rotate,Hop
 		Cryogonal: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Cryogonal Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Mienshao: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Druddigon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Golurk: Shoot,Punch,SpAttack
