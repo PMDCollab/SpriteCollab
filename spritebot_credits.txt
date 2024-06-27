@@ -7349,6 +7349,7 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Crocalor: "
 		Skeledirge: "
 		Scovillain: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
+		Arctibax: "
 		Ogerpon Teal_Mask: "
 		Ogerpon Wellspring_Mask: "
 		Ogerpon Hearthflame_Mask: "
@@ -8527,6 +8528,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Poliwrath: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Poliwrath Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon: Joyous,Happy
+		Lairon Shiny: Joyous,Happy
 		Castform Snowy: Happy,Pain
 
 cosmosully	Discord:<@!411407718839222272>	Contact:https://twitter.com/cosmosully
