@@ -1925,6 +1925,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Honedge Unsheathed: Normal
 		Honedge Unsheathed Shiny: Normal
 		Carbink: Normal,Sad,Happy,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Determined,Determined^
+		Pumpkaboo: Normal,Normal^
 		Noivern: Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Noivern Shiny: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Toxapex: Normal,Happy,Pain,Stunned
@@ -7353,6 +7354,13 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Ogerpon Hearthflame_Mask: "
 		Ogerpon Cornerstone_Mask: "
 
+Limomon	Discord:<@!360948625901223950>	Contact:https://twitter.com/TheLimomon
+	Sprite:
+		Tauros Paldea: Idle,Walk,Sleep,Hurt,Attack,Charge,Stomp,Swing,Double,Rotate,Hop
+		Tauros Paldea_Blaze: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
+		Elgyem: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Elgyem Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+
 RaoKurai	Discord:<@!173896352554549248>	Contact:https://twitter.com/RaoKurai
 	Portrait:
 		Blastoise Shiny: Angry,Happy,Normal,Pain
@@ -8032,11 +8040,6 @@ Shitpost_Sunkern	Discord:<@!292039958829727744>	Contact:https://www.youtube.com/
 		Flapple Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Clodsire Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 
-Limomon	Discord:<@!360948625901223950>	Contact:https://twitter.com/TheLimomon
-	Sprite:
-		Elgyem: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Elgyem Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-
 FrivolousAqua	Discord:<@!496032574179770379>	Contact:https://twitter.com/FrivolousAqua
 	Portrait:
 		Zygarde Core: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
@@ -8271,7 +8274,7 @@ Frostdrop1	Discord:<@!173505019268694016>
 
 Blanky	Discord:<@!230913498916323329>	Contact:https://www.tumblr.com/theblankest123
 	Portrait:
-		Metapod: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined
+		Metapod: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Surprised,Worried
 		Spearow: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special3
 		Spearow Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special3
 		Venonat: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
