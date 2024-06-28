@@ -3917,7 +3917,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gliscor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gliscor Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gliscor Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Mamoswine Temporary: Normal
+		Mamoswine Shiny: Normal
 		Rotom Dex: Normal,Normal^
 		Rotom Beta: Normal
 		Dialga Origin: Normal
@@ -5831,7 +5831,6 @@ Moo	Discord:<@!276949114212712449>	Contact:https://twitter.com/MoonMoonMemes
 		Metang Shiny: Normal
 		Metagross Shiny: Normal
 		Latios Shiny: Happy,Normal
-		Mamoswine Shiny: Normal
 		Mamoswine Shiny Female: Normal
 	Sprite:
 		Pidgeotto Shiny: Walk,Attack,Strike,Shoot,FlapAround,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
