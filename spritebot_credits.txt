@@ -4893,6 +4893,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Litwick Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack
 		Bisharp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Bisharp Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Terrakion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Cringe,Fainted,Special0,Special1
 		Meloetta Pirouette Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,SpAttack,Swing,Double,Rotate,Hop
 		Chespin: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Chespin Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
@@ -7349,6 +7350,7 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Skeledirge: "
 		Scovillain: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
 		Arctibax: "
+		Baxcalibur: "
 		Ogerpon Teal_Mask: "
 		Ogerpon Wellspring_Mask: "
 		Ogerpon Hearthflame_Mask: "
@@ -8147,7 +8149,7 @@ nataniel-sama	Contact:https://pokemon-reloaded.el-foro.net/
 
 DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
 	Sprite:
-		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop
+		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
 
 RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
 	Portrait:
