@@ -2163,6 +2163,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Wattrel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop,QuickStrike
 		Kilowattrel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Palafin Hero: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,SpAttack,Swell,Swing,Double,Rotate,Hop
+		Palafin Hero Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,SpAttack,Swell,Swing,Double,Rotate,Hop
 		Glimmet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Glimmet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Glimmora: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Twirl,Swing,Double,Rotate,Hop,Shoot
@@ -3370,12 +3371,14 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Slugma Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
 		Magcargo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
 		Octillery Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,RearUp,Swing,Double,Rotate,Hop,Faint,Fainted
+		Ho_Oh Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Swing,Double,Rotate,Hop,Hover
 		Mudkip Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Marshtomp Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Withdraw,Swing,Double,Rotate,Hop
 		Swampert Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Ludicolo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,QuickStrike,Pose,Special0,Special1,Special2
 		Shroomish Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Twirl,Swing,Double,Rotate,Hop
 		Whismur Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Swing,Double,Rotate,Hop
+		Exploud Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Swing,Double,Rotate,Hop
 		Nosepass Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Wailmer Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Camerupt Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
