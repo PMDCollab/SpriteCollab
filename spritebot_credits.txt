@@ -4165,8 +4165,6 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Aurorus Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Sylveon: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Sylveon Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
-		Sylveon Alternate: Special0,Special0^
-		Sylveon Alternate Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^,
 		Carbink: Normal,Sad,Happy,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Determined,Determined^
 		Sliggoo Hisui: Normal,Normal^
 		Sliggoo Hisui Shiny: Normal,Normal^
@@ -7013,7 +7011,6 @@ Lovi	Discord:<@!95650095034273792>
 		Snover Shiny: Inspired,Normal,Pain,Surprised,Worried
 		Snover Shiny Female: Normal
 		Gliscor Altcolor Shiny: Normal
-		Sylveon Alternate Shiny: Normal
 	Sprite:
 		Vulpix Shiny: Walk,Attack,Strike,Shoot,Appeal,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Ninetales Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
@@ -8310,7 +8307,6 @@ Fable	Discord:<@!225813236589527041>	Contact:https://twitter.com/fabledpainter
 		Rotom Fan: Normal
 		Rotom Mow: Normal
 		Fletchling: Normal
-		Sylveon Alternate: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Dedenne: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Dedenne Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Popplio: Normal
@@ -8949,8 +8945,6 @@ MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarbe
 		Zorua: Special0
 		Greninja: Joyous,Crying,Inspired,Shouting,Surprised,Stunned,Angry,Dizzy,Worried
 		Sylveon: Special0,Special0^
-		Sylveon Alternate: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
-		Sylveon Alternate Shiny: Special0,Special0^
 
 Sunny	Discord:<@!273341077874802689>	Contact:https://twitter.com/temporalsunrise
 	Portrait:
