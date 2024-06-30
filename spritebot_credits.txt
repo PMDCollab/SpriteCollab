@@ -4602,6 +4602,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Mankey Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Chop,MultiStrike,Twirl,Swing,Double,Rotate,Hop
 		Growlithe: Eat,Cringe
 		Growlithe Shiny: Eat,Cringe
+		Growlithe Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,Swing,Double,Rotate,Hop,Eat,Cringe
 		Arcanine Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,Swing,Rotate,Hop,QuickStrike
 		Arcanine Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
 		Abra: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
