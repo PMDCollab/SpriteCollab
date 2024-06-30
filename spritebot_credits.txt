@@ -2255,6 +2255,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Mewtwo Mega_X: Normal
 		Mewtwo Mega_X Shiny: Normal
 		Mew: Shouting
+		Mew Shiny: Shouting
 		Chikorita: Special0
 		Chinchou Alternate: Normal,Happy,Joyous,Sigh,Pain,Surprised,Angry,Worried,Determined
 		Cleffa: Sad,Happy,Surprised
