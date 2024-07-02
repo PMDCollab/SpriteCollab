@@ -7755,7 +7755,7 @@ NOLASMOR	Discord:<@!833717817445974046>
 	Sprite:
 		Cacnea Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
-Chesyon	Discord:<@!178935491867967490>	Contact:https://twitter.com/chesyon
+Chesyon	Discord:<@!178935491867967490>	Contact:https://linktr.ee/chesyon
 	Portrait:
 		Magikarp Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Magikarp Altcolor Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
