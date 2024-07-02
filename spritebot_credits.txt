@@ -2828,6 +2828,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pawniard: Appeal,Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Strike,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Rufflet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Rufflet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Heatmor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Durant: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Twirl,Swing,Double,Rotate,Hop
 		Zweilous: Idle,Walk,Sleep,Hurt,Attack,Charge,MultiStrike,Jab,Swing,Double,Rotate,Hop
 		Larvesta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Larvesta Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -2873,6 +2875,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Xerneas: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Xerneas Neutral: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Special0,Special1
 		Zygarde 10: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Diancie Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dartrix Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Torracat: Idle,Walk,Swing,Double,Rotate
 		Brionne: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -2927,6 +2930,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Grimmsnarl Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Sirfetch_d: Idle,Walk,Swing,Double,Rotate
 		Sirfetch_d Shiny: Idle,Walk,Swing,Double,Rotate
+		Stonjourner: Idle,Walk,Attack,Strike,Shake,Dance,Double,Rotate
 		Eiscue: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop,Hover
 		Dracovish: Idle,Walk,Swing,Double,Rotate
 		Urshifu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -7666,6 +7670,8 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Blacephalon Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Nickit: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
 		Nickit Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
+		Runerigus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Quaquaval: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Annihilape: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Strike,RearUp
 		Annihilape Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Farigiraf: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
@@ -7911,6 +7917,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Sandaconda: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Duraludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Kleavor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Swing,Double,Rotate,Hop,QuickStrike
+		Ursaluna Bloodmoon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Sneasler: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Crocalor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Skeledirge: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
