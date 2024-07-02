@@ -2865,6 +2865,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Clauncher Shiny: Appeal,Hop
 		Clawitzer: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Clawitzer Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Tyrunt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,RearUp,Swing,Double,Rotate,Hop
 		Tyrantrum Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
 		Sylveon: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
 		Trevenant: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
@@ -4535,7 +4536,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gholdengo Shiny: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Wo_Chien: Normal,Normal^
 		Wo_Chien Shiny: Normal,Normal^
-		Chien_Pao: Normal,Normal^
+		Chien_Pao: Normal,Normal^,Shouting,Shouting^
 		Chien_Pao Shiny: Normal,Normal^
 		Ting_Lu: Normal,Normal^
 		Ting_Lu Shiny: Normal,Normal^
