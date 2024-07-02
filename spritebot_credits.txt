@@ -8100,6 +8100,23 @@ TawnySoup	Discord:<@!216640380408430592>	Contact:https://twitter.com/TawnySoup
 		Inteleon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Inteleon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
+Tainted#3886	Discord:<@!283571466891427841>
+	Portrait:
+		Pidgeotto: Normal,Worried
+		Pidgeotto Shiny: Worried
+		Graveler: Angry,Joyous,Normal,Pain,Surprised,Worried
+		Graveler Shiny: Pain,Worried
+		Hitmonlee: Angry,Normal,Special0,Surprised,Worried
+		Wobbuffet: Happy,Normal,Stunned,Surprised,Worried
+		Ursaring: Pain,Shouting,Worried
+		Shiftry: Angry,Pain,Worried
+		Exploud Alternate: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
+		Seviper: Happy,Happy^,Normal,Normal^,Sad,Sad^,Sigh,Sigh^,Surprised,Surprised^
+		Dusclops: Angry,Happy,Inspired,Normal,Pain,Sad,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+		Dialga Alternate: Normal
+	Sprite:
+		Tyrunt: "
+
 lemongrass	Discord:<@!493293282064072715>	Contact:<@493293282064072715>
 	Sprite:
 		Sylveon: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
@@ -8337,21 +8354,6 @@ Discord:<@!299261889169588246>
 		Mew Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Aron Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Bidoof Shiny: Angry,Crying,Inspired,Joyous,Shouting,Special0,Worried
-
-Tainted#3886	Discord:<@!283571466891427841>
-	Portrait:
-		Pidgeotto: Normal,Worried
-		Pidgeotto Shiny: Worried
-		Graveler: Angry,Joyous,Normal,Pain,Surprised,Worried
-		Graveler Shiny: Pain,Worried
-		Hitmonlee: Angry,Normal,Special0,Surprised,Worried
-		Wobbuffet: Happy,Normal,Stunned,Surprised,Worried
-		Ursaring: Pain,Shouting,Worried
-		Shiftry: Angry,Pain,Worried
-		Exploud Alternate: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
-		Seviper: Happy,Happy^,Normal,Normal^,Sad,Sad^,Sigh,Sigh^,Surprised,Surprised^
-		Dusclops: Angry,Happy,Inspired,Normal,Pain,Sad,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-		Dialga Alternate: Normal
 
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
 	Portrait:
