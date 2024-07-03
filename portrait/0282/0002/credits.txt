@@ -3,3 +3,4 @@
 2022-09-02 02:05:35.397659	<@!779213287576436746>	OLD	PMDCollab_1	Joyous,Crying,Sigh,Pain,Shouting,Angry,Teary-Eyed,Dizzy,Worried,Determined
 2022-10-24 03:37:37.413079	<@!779213287576436746>	OLD	PMDCollab_1	Joyous,Angry
 2024-03-21 19:29:33.013350	<@!356635814668664832>	CUR	CC_BY-NC_4	Sad,Joyous,Crying,Sigh,Pain,Shouting,Angry,Teary-Eyed,Dizzy,Worried,Determined
+2024-07-03 04:29:43.031552	<@!356635814668664832>	CUR	CC_BY-NC_4	Surprised,Stunned
