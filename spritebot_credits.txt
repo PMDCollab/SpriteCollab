@@ -3751,7 +3751,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Wingull Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gardevoir: Sad,Joyous,Special1,Crying,Pain,Shouting,Angry,Teary-Eyed,Dizzy,Special2,Determined
 		Gardevoir Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
-		Gardevoir Starter: Sad,Joyous,Crying,Sigh,Pain,Shouting,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Gardevoir Starter: Sad,Joyous,Crying,Sigh,Pain,Shouting,Angry,Teary-Eyed,Dizzy,Worried,Determined,Surprised,Stunned
 		Gardevoir Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Masquerain Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Makuhita Altcolor: Normal
