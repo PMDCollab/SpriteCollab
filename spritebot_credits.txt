@@ -4521,7 +4521,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tatsugiri Droopy: Normal,Special1
 		Tatsugiri Droopy Shiny: Normal,Special1
 		Clodsire: Normal,Joyous
-		Clodsire Shiny: Normal
+		Clodsire Shiny: Normal,Joyous
 		Farigiraf: Normal,Special0
 		Farigiraf Shiny: Normal,Special0,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
 		Dudunsparce: Normal
