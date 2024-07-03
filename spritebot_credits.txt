@@ -4520,7 +4520,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tatsugiri Stretchy Shiny: Normal,Special1
 		Tatsugiri Droopy: Normal,Special1
 		Tatsugiri Droopy Shiny: Normal,Special1
-		Clodsire: Normal
+		Clodsire: Normal,Joyous
 		Clodsire Shiny: Normal
 		Farigiraf: Normal,Special0
 		Farigiraf Shiny: Normal,Special0,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
@@ -8323,7 +8323,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Metapod Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Poliwrath: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Poliwrath Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Lairon: Joyous,Happy
+		Lairon: Joyous,Happy,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon Shiny: Joyous,Happy
 		Castform Snowy: Happy,Pain
 
