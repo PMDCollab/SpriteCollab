@@ -547,6 +547,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Staraptor Female: Normal
 		Bidoof: Determined,Dizzy,Happy,Normal,Pain,Sad,Sigh,Special2,Stunned,Surprised,Teary-Eyed
 		Bidoof Starter: Normal,Sad,Happy,Inspired,Pain,Surprised,Teary-Eyed,Dizzy,Determined
+		Bidoof Temp: Normal,Sad,Happy,Sigh,Pain,Surprised,Stunned,Teary-Eyed,Dizzy,Special2,Determined
 		Bibarel: Normal
 		Bibarel Female: Normal
 		Kricketot: Normal
@@ -1644,7 +1645,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Xurkitree Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Kartana: Normal,Determined,Stunned,Crying,Happy,Pain,Sad,Shouting,Surprised,Worried,Angry,Dizzy,Inspired,Joyous,Sigh,Teary-Eyed
 		Guzzlord: Normal,Pain,Happy,Sad
-		Necrozma: Normal,Normal^,Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
+		Necrozma Necrozma: Normal,Normal^,Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Poipole: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Naganadel: Normal,Shouting
 		Stakataka: Normal,Determined,Happy,Sad,Worried
@@ -2618,8 +2619,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Necrozma Shiny: Normal,Normal^
 		Necrozma Ultra: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Necrozma Ultra Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-		Necrozma Alternate: Normal,Normal^
-		Necrozma Alternate Shiny: Normal,Normal^
+		Necrozma Necrozma: Normal,Normal^
+		Necrozma Necrozma Shiny: Normal,Normal^
 		Magearna: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Magearna Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Marshadow Alternate: Normal
@@ -2871,7 +2872,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Clawitzer Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Tyrunt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,RearUp,Swing,Double,Rotate,Hop
 		Tyrantrum Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
-		Sylveon: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
+		Sylveon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
 		Trevenant: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Pumpkaboo: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
 		Pumpkaboo Small: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
@@ -3307,6 +3308,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Corphish: Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Determined
 		Wynaut: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Bidoof Starter: Joyous,Crying,Sigh,Shouting,Angry,Worried
+		Bidoof Temp: Joyous,Crying,Inspired,Shouting,Angry,Worried,Special0
 		Drifblim Altcolor: Normal
 		Buneary: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Glameow Alternate: Normal
@@ -5758,8 +5760,8 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Turtonator Shiny: Normal
 		Hakamo_o Shiny: Normal
 		Cosmog Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
-		Necrozma Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Necrozma Ultra Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
+		Necrozma Necrozma Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Cramorant: Determined,Normal,Special1,Angry,Crying,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Cramorant Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special1,Sigh,Stunned,Special2,Special3
 		Toxtricity Lowkey: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Determined,Special3
@@ -6458,7 +6460,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Hydreigon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Cobalion: Hurt
 		Virizion Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
-		Necrozma Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Necrozma Necrozma Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Urshifu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Urshifu Rapid_Strike Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Gholdengo Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -7248,7 +7250,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Clauncher: Idle,Walk,Hurt,Attack,Charge,Swing,Double,Rotate
 		Tyrantrum: "
 		Zygarde: "
-		Necrozma: Attack,Double,Idle,Rotate,Swing,Walk
+		Necrozma Necrozma: Attack,Double,Idle,Rotate,Swing,Walk
 		Melmetal: Idle,Walk,Sleep,Hurt,Attack,Punch,Rotate
 		Arrokuda: Attack,Idle,Walk
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
@@ -7671,8 +7673,8 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Kartana Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Guzzlord: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Guzzlord Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Necrozma: Attack,Charge,Double,Hop,Hurt,Idle,Shoot,Sleep,Swing,Walk,Rotate
-		Necrozma Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Necrozma Necrozma: Attack,Charge,Double,Hop,Hurt,Idle,Shoot,Sleep,Swing,Walk,Rotate
+		Necrozma Necrozma Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Naganadel: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Naganadel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Stakataka: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -8123,10 +8125,6 @@ Tainted#3886	Discord:<@!283571466891427841>
 	Sprite:
 		Tyrunt: "
 
-lemongrass	Discord:<@!493293282064072715>	Contact:<@493293282064072715>
-	Sprite:
-		Sylveon: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
-
 Mond	Discord:<@!799737881538723891>
 	Portrait:
 		Arcanine Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8238,7 +8236,7 @@ Discord:<@!276175146304405514>
 		Zoroark Shiny: Normal
 		Solgaleo: Normal
 		Lunala: Normal
-		Necrozma: Normal,Normal^
+		Necrozma Necrozma: Normal,Normal^
 
 Meganai	Discord:<@!336650663293616140>
 	Portrait:
@@ -8519,7 +8517,6 @@ Waffluffe	Discord:<@!388808249165479939>	Contact:https://twitter.com/waffluffe
 		Minccino Shiny: Normal
 		Chespin Shiny: Normal
 		Froakie Shiny: Normal
-		Hoopa Shiny: Angry,Sad
 		Popplio Shiny: Normal
 		Hatenna: Normal
 		Milcery Shiny: Normal
@@ -8872,7 +8869,6 @@ Angels-Snack	Contact:https://angels-snack.tumblr.com/
 Discord:<@!215504160991346689>
 	Portrait:
 		Lugia: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed
-		Hoopa: Angry,Sad
 
 leafia_barrett	Discord:<@!149282718578901001>	Contact:leafbarrett@gmail.com
 	Portrait:
