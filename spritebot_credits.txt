@@ -472,7 +472,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Cacturne Starter: Normal
 		Swablu: Normal
 		Altaria: Normal
-		Altaria Alternate: Normal
 		Zangoose: Normal,Normal^
 		Seviper: Normal,Normal^
 		Lunatone: Normal
