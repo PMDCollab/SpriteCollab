@@ -330,6 +330,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Sneasel: Normal,Normal^,Pain,Pain^
 		Sneasel Female: Normal,Normal^
 		Teddiursa: Normal,Normal^
+		Teddiursa Temp: Normal,Normal^
 		Ursaring: Normal
 		Slugma: Angry,Normal,Pain
 		Slugma Starter: Normal,Angry
