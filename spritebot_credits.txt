@@ -50,6 +50,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 	Portrait:
 		Bulbasaur: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
 		Ivysaur: Normal
+		Ivysaur Alternate: Normal
 		Venusaur: Normal
 		Charmander: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special2,Special3
 		Charmeleon: Normal
@@ -91,6 +92,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Clefable: Normal,Normal^
 		Vulpix: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Ninetales: Normal
+		Ninetales Temp: Normal
 		Jigglypuff: Normal
 		Wigglytuff: Crying,Happy,Normal,Sad,Shouting,Sigh,Special2,Stunned,Surprised,Teary-Eyed,Worried
 		Wigglytuff Mama: Crying,Happy,Normal,Sad,Sigh,Special2,Stunned,Surprised,Teary-Eyed,Worried
@@ -276,6 +278,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Wooper: Happy,Normal,Surprised,Worried
 		Wooper Female: Normal
 		Quagsire: Normal
+		Quagsire Alternate: Normal
 		Espeon: Normal
 		Umbreon: Normal
 		Murkrow: Normal
@@ -469,6 +472,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Cacturne Starter: Normal
 		Swablu: Normal
 		Altaria: Normal
+		Altaria Alternate: Normal
 		Zangoose: Normal,Normal^
 		Seviper: Normal,Normal^
 		Lunatone: Normal
