@@ -7936,6 +7936,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Wattrel: Idle,Walk,Charge,Rotate,Sleep,Hurt,Attack,Shoot,FlapAround,Swing,Double,Hop,QuickStrike
 		Kilowattrel: Idle,Walk,Attack,Strike,FlapAround,Hop,Sleep,Hurt,Charge,Shoot,Swing,Double,Rotate
 		Scovillain: "
+		Orthworm: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop
 		Arctibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
 		Baxcalibur: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Archaludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
@@ -8196,6 +8197,7 @@ DavKriz	Discord:<@!642311628557385738>
 	Sprite:
 		Wattrel: "
 		Kilowattrel: "
+		Orthworm: "
 
 FlowerSnek	Discord:<@!228595807132057600>	Contact:https://twitter.com/EthanLac13
 	Portrait:
