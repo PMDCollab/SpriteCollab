@@ -7754,6 +7754,7 @@ NOLASMOR	Discord:<@!833717817445974046>
 		Cutiefly: Happy,Crying,Sigh,Pain,Shouting,Stunned,Angry,Dizzy,Worried
 		Bounsweet: Normal,Sad,Happy,Inspired,Sigh,Pain,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Bounsweet Shiny: Normal,Sad,Happy,Inspired,Sigh,Pain,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Dreepy: Happy
 	Sprite:
 		Cacnea Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
@@ -8326,7 +8327,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Poliwrath: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Poliwrath Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon: Joyous,Happy,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Lairon Shiny: Joyous,Happy
+		Lairon Shiny: Joyous,Happy,Normal,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Castform Snowy: Happy,Pain
 
 Novie	Discord:<@!229363481852379136>	Contact:<https://twitter.com/themagolord>
