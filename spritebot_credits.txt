@@ -3731,7 +3731,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Larvitar Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Celebi Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Celebi Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Swampert: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Swampert: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swampert Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Swampert Mega: Normal
 		Swampert Mega Shiny: Normal
@@ -8278,7 +8278,6 @@ Meganai	Discord:<@!336650663293616140>
 <@!755070698753359913>	Discord:<@!755070698753359913>
 	Portrait:
 		Charizard: Angry,Happy,Normal,Pain,Special0,Surprised,Teary-Eyed
-		Swampert: Happy,Normal,Pain
 		Rookidee: Happy,Normal,Special1
 
 SuperFabbioGuy	Discord:<@!433058189240696835>
