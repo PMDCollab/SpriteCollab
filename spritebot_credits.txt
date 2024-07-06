@@ -3314,6 +3314,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Glameow Alternate: Normal
 		Glameow Alternate Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Chatot: Sad,Crying,Inspired,Shouting,Teary-Eyed,Determined,Special0,Special3
+		Chatot Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Chatot Starter: Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Determined
 		Croagunk: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Croagunk Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -5730,7 +5731,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Honchkrow Altcolor: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Special1,Sigh,Stunned,Special2,Special3
 		Glameow Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special1,Stunned,Surprised,Teary-Eyed,Worried
 		Stunky Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Chatot Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Garchomp Altcolor: Normal
 		Croagunk: Happy,Joyous
 		Togekiss Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
@@ -6560,7 +6560,6 @@ Tacocoa	Discord:<@!234720295292895232>
 		Glalie Shiny: Normal
 		Gorebyss Shiny: Normal
 		Shelgon Shiny: Normal
-		Chatot Shiny: Angry,Dizzy,Happy,Joyous,Normal,Pain,Sigh,Special2,Stunned,Surprised,Worried
 		Magnezone Shiny: Normal,Surprised
 		Tangrowth Shiny: Normal
 		Shaymin Shiny: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Special0,Surprised,Worried
@@ -8411,7 +8410,6 @@ Gayschlatt	Discord:<@!560604377203736617>
 		Wigglytuff Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Skuntank: Sad,Angry,Special0,Crying,Pain,Shouting,Stunned,Teary-Eyed,Worried,Determined
 		Skuntank Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Chatot Shiny: Special3
 		Chatot Starter: Stunned
 		Chatot Starter Shiny: Stunned
 
