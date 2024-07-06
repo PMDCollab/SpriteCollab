@@ -6543,7 +6543,6 @@ Tacocoa	Discord:<@!234720295292895232>
 		Marill Shiny: Joyous,Normal,Sigh,Teary-Eyed
 		Politoed Altcolor Shiny: Normal
 		Politoed Altcolor Shiny Female: Normal
-		Sunkern Shiny: Normal
 		Sunflora Shiny: Angry,Determined,Happy,Joyous,Normal,Pain,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Misdreavus Altcolor Shiny: Normal
 		Wobbuffet Shiny: Happy,Normal
