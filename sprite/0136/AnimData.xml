@@ -251,6 +251,22 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Tumble</Name>
+      <Index>16</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Pose</Name>
       <Index>17</Index>
       <FrameWidth>24</FrameWidth>
@@ -339,10 +355,32 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Sit</Name>
+      <Index>23</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>8</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>LookUp</Name>
+      <Index>24</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>6</Duration>
+        <Duration>6</Duration>
+        <Duration>6</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Sink</Name>
       <Index>25</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
         <Duration>6</Duration>
@@ -359,12 +397,39 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Trip</Name>
+      <Index>26</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>6</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Laying</Name>
       <Index>27</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>24</FrameHeight>
+      <FrameHeight>16</FrameHeight>
       <Durations>
         <Duration>12</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>LeapForth</Name>
+      <Index>28</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <Durations>
+        <Duration>6</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -380,7 +445,7 @@
       <Name>Cringe</Name>
       <Index>30</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>56</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
@@ -390,10 +455,56 @@
       <Name>LostBalance</Name>
       <Index>31</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>TumbleBack</Name>
+      <Index>32</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>48</FrameHeight>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Faint</Name>
+      <Index>33</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>12</Duration>
+        <Duration>4</Duration>
+        <Duration>10</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>HitGround</Name>
+      <Index>34</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>6</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
       </Durations>
     </Anim>
   </Anims>
