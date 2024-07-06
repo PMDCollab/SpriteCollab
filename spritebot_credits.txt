@@ -3314,6 +3314,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Glameow Alternate: Normal
 		Glameow Alternate Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Chatot Starter: Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Determined
+		Chatot Temp: Sad,Joyous,Crying,Inspired,Shouting,Teary-Eyed,Determined,Special0,Special3
 		Croagunk: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Croagunk Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mantyke: Joyous,Happy,Inspired,Shouting,Surprised,Teary-Eyed
