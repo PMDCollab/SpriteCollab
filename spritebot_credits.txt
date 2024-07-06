@@ -8414,7 +8414,6 @@ Gayschlatt	Discord:<@!560604377203736617>
 		Skuntank: Sad,Angry,Special0,Crying,Pain,Shouting,Stunned,Teary-Eyed,Worried,Determined
 		Skuntank Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Chatot Starter: Stunned
-		Chatot Starter Shiny: Stunned
 
 silverfox88	Discord:<@!476409795239477248>	Contact:https://twitter.com/realsilverfox88
 	Portrait:
