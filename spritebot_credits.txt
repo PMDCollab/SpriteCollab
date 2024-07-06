@@ -602,9 +602,8 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Bonsly: Normal
 		Mime_Jr_: Normal
 		Happiny: Normal
-		Chatot: Angry,Dizzy,Happy,Joyous,Normal,Pain,Sigh,Special2,Stunned,Surprised,Worried
+		Chatot: Normal,Joyous,Happy,Sigh,Pain,Surprised,Stunned,Angry,Dizzy,Special2,Worried
 		Chatot Starter: Normal,Sad,Joyous,Happy,Crying,Pain,Surprised,Angry,Dizzy,Worried
-		Chatot Temp: Normal,Joyous,Happy,Sigh,Pain,Surprised,Stunned,Angry,Dizzy,Special2,Worried
 		Spiritomb: Normal,Normal^,Sigh,Sigh^
 		Spiritomb Starter: Normal,Normal^,Stunned,Stunned^
 		Gible: Normal
@@ -2137,6 +2136,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Axew: "
 		Axew Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Bite,Rumble,Emit,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Golett Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Heatmor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Volcarona Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Chespin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Meowstic Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,RearUp,Swing,Double,Rotate,Hop,QuickStrike
@@ -3313,8 +3313,8 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Buneary: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Glameow Alternate: Normal
 		Glameow Alternate Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Chatot: Sad,Crying,Inspired,Shouting,Teary-Eyed,Determined,Special0,Special3
 		Chatot Starter: Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Determined
-		Chatot Temp: Sad,Joyous,Crying,Inspired,Shouting,Teary-Eyed,Determined,Special0,Special3
 		Croagunk: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Croagunk Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mantyke: Joyous,Happy,Inspired,Shouting,Surprised,Teary-Eyed
@@ -5718,7 +5718,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Armaldo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Armaldo Starter: Joyous,Happy,Inspired,Teary-Eyed,Dizzy,Determined
 		Kecleon Purple: Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Latias Mega: Normal
 		Latios Mega: Normal
 		Jirachi Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
 		Deoxys: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -7535,6 +7534,7 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Flygon: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Crawdaunt: Angry,Crying,Determined,Dizzy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Crawdaunt Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
+		Latias Mega: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kyogre: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Kyogre Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Groudon: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
@@ -8411,7 +8411,6 @@ Gayschlatt	Discord:<@!560604377203736617>
 		Wigglytuff Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Skuntank: Sad,Angry,Special0,Crying,Pain,Shouting,Stunned,Teary-Eyed,Worried,Determined
 		Skuntank Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Chatot: Special3
 		Chatot Shiny: Special3
 		Chatot Starter: Stunned
 		Chatot Starter Shiny: Stunned
@@ -8847,7 +8846,6 @@ Bluetails_the_Buizel	Discord:<@!449065061428887562>	Contact:https://www.devianta
 Fire_Scyther	Discord:<@!637407338772299776>	Contact:https://www.reddit.com/u/FireScyther
 	Portrait:
 		Teddiursa: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Normal^,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Chatot: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 
 Angels-Snack	Contact:https://angels-snack.tumblr.com/
 	Portrait:
