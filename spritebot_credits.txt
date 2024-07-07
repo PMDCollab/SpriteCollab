@@ -7453,6 +7453,12 @@ Maruvert	Discord:<@!263655958775857152>
 	Sprite:
 		Hoppip Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,FlapAround,Swing,Double,Rotate,Hop
 
+Discord:<@!439106499592192001>
+	Portrait:
+		Sunkern Beta: Normal,Normal^
+	Sprite:
+		Sunkern Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+
 Anon	Discord:<@!555919605265203232>
 	Sprite:
 		Wooper: Tumble,Pose,Pull,Pain,Nod,Sit,LookUp,Trip,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
@@ -8822,10 +8828,6 @@ MeepTheMareep02	Discord:<@!251760205082263552>	Contact:https://instagram.com/mee
 	Portrait:
 		Sunkern: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Stunned,Surprised,Teary-Eyed,Worried,Special2
 		Sunkern Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special2,Stunned,Surprised,Teary-Eyed,Worried
-
-Discord:<@!439106499592192001>
-	Portrait:
-		Sunkern Beta: Normal,Normal^
 
 Pokenoice	Discord:<@!724070439051329616>	Contact:https://www.deviantart.com/adam1258
 	Portrait:
