@@ -1952,7 +1952,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Grookey: Normal,Happy
 		Grookey Shiny: Normal,Happy
 		Sobble: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
-		Rookidee Temp: Normal,Special1
+		Rookidee: Normal,Special1
+		Rookidee Shiny: Normal,Special1
 		Dubwool: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
 		Dubwool Shiny: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
 		Silicobra Shiny: Normal
@@ -5502,7 +5503,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Pikipek: Normal,Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Determined
 		Steenee: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Steenee Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^
-		Rookidee Shiny: Normal,Special1
 		Sinistea Shiny: Normal,Surprised
 		Zacian Crowned Shiny: Happy
 	Sprite:
@@ -6168,6 +6168,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Swellow Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Slakoth: Sad,Happy,Inspired,Sigh
 		Slakoth Shiny: Sad,Happy,Inspired,Sigh
+		Slaking: Joyous,Worried,Special0
 		Nincada: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Nincada Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Normal
 		Nincada Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8542,7 +8543,6 @@ EzerArt	Contact:https://twitter.com/EzerArt_
 		Slowbro Galar: Normal
 		Moltres Galar: Normal
 		Rillaboom: Normal
-		Rookidee: Normal
 		Corviknight: Normal
 		Eldegoss: Normal
 		Chewtle: Normal
@@ -9106,10 +9106,6 @@ Discord:<@!237965255412547585>
 	Portrait:
 		Necrozma Dawn_Wings: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Necrozma Dawn_Wings Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
-
-<@!755070698753359913>	Discord:<@!755070698753359913>
-	Portrait:
-		Rookidee: Happy,Normal,Special1
 
 Discord:<@!319728945920475137>
 	Portrait:
