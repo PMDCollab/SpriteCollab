@@ -1952,6 +1952,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Grookey: Normal,Happy
 		Grookey Shiny: Normal,Happy
 		Sobble: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
+		Rookidee Temp: Normal,Special1
 		Dubwool: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
 		Dubwool Shiny: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
 		Silicobra Shiny: Normal
