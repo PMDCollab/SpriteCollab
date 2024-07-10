@@ -1779,6 +1779,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Moltres Alternate: Normal
 		Moltres Alternate Shiny: Normal
 		Dragonite Altcolor: Normal
+		Mewtwo Mega_Y: Normal
 		Mew: Happy,Dizzy
 		Mew Shiny: Happy,Dizzy
 		Typhlosion Altcolor: Normal
