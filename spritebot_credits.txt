@@ -330,7 +330,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Sneasel: Normal,Normal^,Pain,Pain^
 		Sneasel Female: Normal,Normal^
 		Teddiursa: Normal,Normal^
-		Teddiursa Temp: Normal,Normal^
 		Ursaring: Normal
 		Slugma: Angry,Normal,Pain
 		Slugma Starter: Normal,Angry
@@ -3283,7 +3282,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Forretress Altcolor: Normal
 		Snubbull: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Dizzy,Worried,Determined
 		Qwilfish Altcolor: Normal
-		Teddiursa Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Teddiursa: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Octillery Altcolor: Normal
 		Houndour: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Phanpy Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3800,8 +3799,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Camerupt Altcolor: Normal
 		Torkoal Altcolor: Normal,Surprised,Worried
 		Spoink: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Spoink Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Spoink Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Spoink Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Flygon Alternate: Normal
 		Flygon Alternate Shiny: Normal
 		Cacnea Altcolor: Normal
@@ -6717,7 +6715,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Wailmer Shiny: Normal
 		Wailord Shiny: Normal
 		Camerupt Shiny: Normal
-		Spoink Shiny: Normal
 		Grumpig Shiny: Normal
 		Altaria Shiny: Normal
 		Cradily Shiny: Normal
@@ -8488,9 +8485,8 @@ PhillipsYoung	Discord:<@!772726854188400641>	Contact:https://twitter.com/PhilliY
 		Rhydon Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Igglybuff: Dizzy,Dizzy^,Pain,Pain^,Special1,Special1^,Special3,Special3^
 		Igglybuff Shiny: Dizzy,Dizzy^,Pain,Pain^,Special1,Special1^,Special3,Special3^
-		Teddiursa: Angry^,Crying,Crying^,Determined^,Dizzy^,Happy,Happy^,Inspired^,Joyous^,Pain^,Sad^,Shouting,Shouting^,Sigh^,Special0,Special0^,Special3,Special3^,Stunned^,Surprised^,Teary-Eyed^,Worried^
+		Teddiursa: Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Special0,Special3,Worried^,Determined^,Special0^,Special3^
 		Teddiursa Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Special3,Special3^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
-		Teddiursa Temp: Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Special0,Special3,Worried^,Determined^,Special0^,Special3^
 		Ursaring: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Special3
 		Houndoom: Joyous,Crying,Sigh,Shouting,Stunned,Angry,Dizzy,Special0
 		Tyrogue: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
@@ -8847,10 +8843,6 @@ RoyalRust	Discord:<@!388709039678423040>
 Bluetails_the_Buizel	Discord:<@!449065061428887562>	Contact:https://www.deviantart.com/tanyuliang
 	Portrait:
 		Girafarig: Happy,Normal
-
-Fire_Scyther	Discord:<@!637407338772299776>	Contact:https://www.reddit.com/u/FireScyther
-	Portrait:
-		Teddiursa: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Normal^,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
 Angels-Snack	Contact:https://angels-snack.tumblr.com/
 	Portrait:
