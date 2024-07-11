@@ -1,1 +1,2 @@
 2021-10-17 02:32:50.732754	<@!593113130213572610>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Swell,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
+2024-07-11 23:17:20.073696	<@!593113130213572610>	CUR	CC_BY-NC_4	Eat
