@@ -1795,7 +1795,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Dunsparce Altcolor Shiny: Normal,Special1,Surprised,Stunned,Angry,Sigh
 		Ursaring Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Mantine Shiny: Normal,Normal^
-		Mantine Temp: Normal,Normal^
 		Kingdra Altcolor: Normal
 		Donphan: Sad,Happy,Crying,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Stantler Shiny: Normal
@@ -6712,7 +6711,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Magcargo Shiny: Normal,Normal^
 		Piloswine Shiny: Normal
 		Piloswine Shiny Female: Normal
-		Mantine Shiny: Normal,Normal^
 		Phanpy Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Tyrogue Shiny: Normal
 		Hitmontop Shiny: Normal
