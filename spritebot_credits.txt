@@ -2269,8 +2269,9 @@ baronessfaron	Discord:<@!544245909639397378>
 		Flareon Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Normal
 		Flareon Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Aerodactyl Mega: Normal
-		Mewtwo Mega_X: Normal
+		Mewtwo Mega_X: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mewtwo Mega_X Shiny: Normal
+		Mewtwo Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Mew: Shouting
 		Mew Shiny: Shouting
 		Chikorita: Special0
