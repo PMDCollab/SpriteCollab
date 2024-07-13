@@ -221,7 +221,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Dragonair: Normal
 		Dragonite: Normal
 		Mewtwo: Normal
-		Mewtwo Temp: Normal
 		Mew: Normal
 		Chikorita: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
 		Bayleef: Normal
@@ -1356,7 +1355,6 @@ JFain	Discord:<@!702275233125630042>
 		Gastly: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Voltorb: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Tangela: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Mewtwo Mega_Y: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Sentret: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Hoothoot: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Hoothoot Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -1780,7 +1778,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Moltres Alternate: Normal
 		Moltres Alternate Shiny: Normal
 		Dragonite Altcolor: Normal
-		Mewtwo Mega_Y: Normal
 		Mewtwo Mega_Y Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mew: Happy,Dizzy
 		Mew Shiny: Happy,Dizzy
@@ -2269,9 +2266,10 @@ baronessfaron	Discord:<@!544245909639397378>
 		Flareon Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Normal
 		Flareon Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Aerodactyl Mega: Normal
+		Mewtwo: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Mewtwo Mega_X: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mewtwo Mega_X Shiny: Normal
-		Mewtwo Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Mewtwo Mega_Y: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Mew: Shouting
 		Mew Shiny: Shouting
 		Chikorita: Special0
@@ -8800,10 +8798,6 @@ AlexGroeger	Discord:<@!141718238336778241>
 	Portrait:
 		Dragonite: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dragonite Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-
-Wyvernagon	Discord:<@!288067476963721216>	Contact:https://twitter.com/Z_Serpentriss
-	Portrait:
-		Mewtwo: Angry,Crying,Determined,Dizzy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Happy
 
 SuperLean23	Discord:<@!335107138106032140>	Contact:superlean023@gmail.com
 	Portrait:
