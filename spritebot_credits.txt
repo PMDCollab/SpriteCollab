@@ -8170,7 +8170,7 @@ programmedsleepstate	Discord:<@!224476380790915072>	Contact:<@224476380790915072
 	Sprite:
 		Hoopa: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
-Discord:<@!375676609283358722>
+Dejais	Discord:<@!375676609283358722>	Contact:<@375676609283358722>
 	Sprite:
 		Volcanion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Swing,Double,Rotate,Hop
 		Marshadow Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop
