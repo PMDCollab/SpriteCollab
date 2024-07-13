@@ -221,6 +221,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Dragonair: Normal
 		Dragonite: Normal
 		Mewtwo: Normal
+		Mewtwo Temp: Normal
 		Mew: Normal
 		Chikorita: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
 		Bayleef: Normal
