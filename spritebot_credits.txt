@@ -1588,6 +1588,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Shellder Shiny: Angry,Special1,Sad,Happy
 		Gengar Shiny: Special0,Special1
 		Vaporeon Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Snorlax: Surprised
 		Dragonite: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special0
 		Typhlosion Altcolor Shiny: Crying
 		Wooper Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
