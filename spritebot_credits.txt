@@ -6860,7 +6860,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Delcatty Shiny: Normal
 		Meditite Shiny: Normal
 		Meditite Shiny Female: Normal
-		Manectric Shiny: Normal
 		Gulpin Shiny: Normal
 		Swalot Altcolor Shiny: Normal
 		Swalot Altcolor Shiny Female: Normal
