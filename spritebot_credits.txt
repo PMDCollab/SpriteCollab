@@ -1777,7 +1777,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Ditto Altcolor: Normal,Sad,Special3
 		Kabuto: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kabutops: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Kabutops Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Kabutops Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Aerodactyl Altcolor: Normal
 		Moltres Alternate: Normal
 		Moltres Alternate Shiny: Normal
@@ -6557,7 +6557,6 @@ Tacocoa	Discord:<@!234720295292895232>
 		Porygon Shiny: Normal,Pain,Surprised
 		Omastar Shiny: Normal
 		Kabuto Shiny: Normal
-		Kabutops Shiny: Normal
 		Aerodactyl Shiny: Normal
 		Zapdos Shiny: Normal
 		Moltres Shiny: Normal
