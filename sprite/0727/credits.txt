@@ -3,3 +3,4 @@
 2023-06-25 22:38:49.371752	<@!350050109741858829>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Punch,Kick,Swing,Double,Rotate,Hop,Pose,LookUp
 2023-12-16 03:45:07.799492	<@!350050109741858829>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Punch,Kick,Swing,Double,Rotate,Hop,Pose,LookUp
 2024-06-08 04:19:41.108904	<@!1113856747564695633>	CUR	CC_BY-NC_4	Shoot,Ricochet
+2024-07-21 20:35:50.659684	<@!1113856747564695633>	CUR	CC_BY-NC_4	"

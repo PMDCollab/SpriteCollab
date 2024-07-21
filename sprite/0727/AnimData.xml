@@ -59,29 +59,57 @@
         <Duration>4</Duration>
       </Durations>
     </Anim>
-<Anim>
-<Name>Kick</Name>
-<Index>4</Index>
-<FrameWidth>72</FrameWidth>
-<FrameHeight>80</FrameHeight>
-<RushFrame>2</RushFrame>
-<HitFrame>6</HitFrame>
-<ReturnFrame>8</ReturnFrame>
-<Durations>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>6</Duration>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>2</Duration>
-<Duration>4</Duration>
-<Duration>2</Duration>
-</Durations>
-</Anim>
+    <Anim>
+      <Name>Ricochet</Name>
+      <Index>3</Index>
+      <FrameWidth>88</FrameWidth>
+      <FrameHeight>96</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+	   <Anim>
+      <Name>Kick</Name>
+      <Index>4</Index>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>80</FrameHeight>
+      <RushFrame>2</RushFrame>
+      <HitFrame>6</HitFrame>
+      <ReturnFrame>8</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>6</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
     <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
@@ -233,34 +261,6 @@
       <Durations>
         <Duration>6</Duration>
         <Duration>6</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Ricochet</Name>
-      <Index>3</Index>
-      <FrameWidth>88</FrameWidth>
-      <FrameHeight>96</FrameHeight>
-      <HitFrame>5</HitFrame>
-      <ReturnFrame>8</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
       </Durations>
     </Anim>
   </Anims>
