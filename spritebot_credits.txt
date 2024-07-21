@@ -8083,7 +8083,7 @@ mixy:3	Discord:<@!1113856747564695633>	Contact:https://x.com/MixyPurple?s=20
 		Swirlix: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Appeal,Dance,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Swirlix Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Appeal,Dance,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Slurpuff: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
-		Incineroar: Shoot,Ricochet
+		Incineroar: Shoot,Ricochet,"
 
 Shitpost_Sunkern	Discord:<@!292039958829727744>	Contact:https://www.youtube.com/channel/UCxyzfFEM6TfgAQ5LIdGtkXw
 	Portrait:
