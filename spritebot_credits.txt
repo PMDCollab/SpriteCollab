@@ -6203,6 +6203,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Dustox: Happy,Inspired,Stunned
 		Swellow: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swellow Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Pelipper: Happy
 		Slakoth: Sad,Happy,Inspired,Sigh
 		Slakoth Shiny: Sad,Happy,Inspired,Sigh
 		Slaking: Joyous,Worried,Special0
