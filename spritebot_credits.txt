@@ -2002,7 +2002,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Pawmo Shiny: Normal,Normal^
 		Tandemaus: Normal,Normal^
 		Tandemaus Shiny: Normal,Normal^
-		Tandemaus Shirt: Normal,Normal^
 		Maushold: Normal,Normal^
 		Maushold Three: Normal,Normal^
 		Maushold Three Shiny: Normal,Normal^
@@ -4479,8 +4478,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Pawmi Shiny: Normal,Normal^
 		Pawmot: Normal,Normal^
 		Pawmot Shiny: Normal,Normal^
+		Tandemaus Shirt: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Tandemaus Pants: Normal,Sad,Joyous,Normal^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Pain,Shouting,Surprised,Stunned,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Special0^
-		Tandemaus Temp: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Fidough: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Fidough Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dachsbun: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -4692,8 +4691,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Eevee Female: Walk,Attack,Strike,Shoot,Appeal,TailWhip,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Eevee Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Eevee Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Vaporeon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Vaporeon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
-		Vaporeon Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Kabutops Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Twirl,Swing,Double,Rotate,Hop
 		Snorlax Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Zapdos Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,StandingUp,Injured
@@ -6912,7 +6911,7 @@ Anonymous	Discord:<@!200318546750865418>
 		Dodrio Shiny Female: Walk,Attack,MultiStrike,Shoot,Jab,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Tangela Shiny: Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Starmie Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
-		Vaporeon Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Vaporeon Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Mew Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Furret Shiny: Walk,Attack,Strike,Shoot,Appeal,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Cleffa Shiny: Walk,Attack,Strike,Sing,Shoot,Dance,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
