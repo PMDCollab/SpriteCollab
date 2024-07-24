@@ -3553,6 +3553,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Cloyster Shiny: Normal
 		Cloyster Altcolor: Normal
 		Cloyster Altcolor Shiny: Normal
+		Gengar Mega Shiny: Normal
 		Gengar Gigantamax: Normal
 		Gengar Gigantamax Shiny: Normal
 		Krabby Altcolor: Normal
