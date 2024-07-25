@@ -1906,7 +1906,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Cubchoo Shiny: Normal,Normal^,Happy,Happy^
 		Cryogonal: Normal
 		Cryogonal Shiny: Normal
-		Accelgor Shiny: Normal
 		Stunfisk: Normal
 		Mienfoo: Normal
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy
