@@ -1433,7 +1433,6 @@ JFain	Discord:<@!702275233125630042>
 		Probopass Beta: Normal
 		Regigigas Beta: Normal
 		Dewott: "
-		Escavalier: Normal,Happy,Surprised
 		Mienfoo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Mienfoo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Tornadus: Normal,Normal^
