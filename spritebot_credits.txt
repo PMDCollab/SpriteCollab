@@ -2814,7 +2814,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Zorua: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Zoroark: Walk,Attack,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Zoroark Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,Strike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Minccino: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
+		Minccino: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake,Appeal,Dance,Sing
 		Gothita: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Chop,Swing,Double,Rotate,Hop
 		Gothorita: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,Pose
 		Gothitelle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,Swing,Double,Rotate,Hop
