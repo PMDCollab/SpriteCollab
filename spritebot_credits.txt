@@ -7643,6 +7643,7 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Flamigo Shiny: Normal
 	Sprite:
 		Houndoom Mega: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,Special0,Fainted
+		Manectric Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,Cringe
 		Rayquaza Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Rayquaza Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Samurott: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
