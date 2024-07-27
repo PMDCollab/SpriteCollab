@@ -2489,13 +2489,13 @@ baronessfaron	Discord:<@!544245909639397378>
 		Gothitelle: Normal,Sad,Joyous,Happy,Inspired,Surprised,Worried,Determined
 		Gothitelle Shiny: Normal,Sad,Joyous,Happy,Inspired,Surprised,Worried,Determined
 		Deerling: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Sawsbuck: Normal,Normal^
+		Sawsbuck: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Sawsbuck Shiny: Normal,Normal^
-		Sawsbuck Summer: Normal
+		Sawsbuck Summer: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sawsbuck Summer Shiny: Normal
-		Sawsbuck Autumn: Normal
+		Sawsbuck Autumn: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sawsbuck Autumn Shiny: Normal
-		Sawsbuck Winter: Normal
+		Sawsbuck Winter: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sawsbuck Winter Shiny: Normal
 		Escavalier: Normal
 		Litwick Alternate: Normal,Normal^
