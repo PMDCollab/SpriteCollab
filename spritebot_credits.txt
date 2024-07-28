@@ -5735,6 +5735,7 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Voltorb Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Scyther: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Scyther Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Tauros Paldea_Blaze: Normal
 		Ditto Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Mewtwo Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Feraligatr: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
