@@ -1958,6 +1958,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Grookey: Normal,Happy
 		Grookey Shiny: Normal,Happy
 		Sobble: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
+		Greedent: Normal
 		Rookidee: Normal,Special1
 		Rookidee Shiny: Normal,Special1
 		Dubwool: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
@@ -7741,6 +7742,7 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Runerigus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Runerigus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Kubfu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Pose,Float,Laying,Cringe
+		Kubfu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Pose,Float,Laying,Cringe
 		Quaquaval: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Quaquaval Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Annihilape: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Strike,RearUp
