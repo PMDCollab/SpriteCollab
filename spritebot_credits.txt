@@ -3083,7 +3083,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Buzzwole Shiny: Normal,Sad,Joyous,Happy,Stunned
 		Celesteela Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sobble Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
-		Greedent Shiny: Normal
 		Silicobra Shiny: Normal
 		Toxtricity Lowkey Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Determined,Special3
 		Centiskorch Shiny: Normal
