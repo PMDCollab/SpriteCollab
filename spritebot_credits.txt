@@ -1651,7 +1651,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Stakataka: Normal,Determined,Happy,Sad,Worried
 		Blacephalon: Normal,Normal^,Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Skwovet: Normal,Special0
-		Greedent: Normal
 		Flapple: "
 		Snom Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Copperajah: "
