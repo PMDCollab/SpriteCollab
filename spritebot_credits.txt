@@ -3909,6 +3909,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Prinplup Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Bidoof Starter: Surprised,Stunned
 		Bidoof Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Burmy No_Cloak: Normal,Surprised
+		Burmy No_Cloak Shiny: Normal,Surprised
 		Pachirisu Shiny Male: Normal
 		Pachirisu Male: Normal
 		Cherrim Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
@@ -4883,6 +4885,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Roserade Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,Pose
 		Roserade Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,SpAttack,Swing,Double,Rotate,Hop,Pose
 		Roserade Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,SpAttack,Swing,Double,Rotate,Hop,Pose
+		Vespiquen Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Pachirisu Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,QuickStrike
 		Pachirisu Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,QuickStrike
 		Cherrim Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Swing,Double,Rotate,Hop
@@ -7128,7 +7131,6 @@ Lovi	Discord:<@!95650095034273792>
 		Wormadam Shiny: Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Wormadam Sand Shiny: Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Wormadam Trash Shiny: Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Vespiquen Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Buizel Shiny: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
 		Buizel Shiny Female: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
 		Floatzel Shiny: Walk,Attack,QuickStrike,Shoot,Rumble,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
