@@ -2748,6 +2748,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Mesprit: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hover,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Mesprit Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Mesprit Starter: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Dialga Origin: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Cresselia: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Special2,Swing,Trip,Tumble,TumbleBack,Twirl,Wake,Walk
 		Cresselia Starter: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Darkrai: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Special20,Swing,Trip,Tumble,TumbleBack,Wake,Walk
