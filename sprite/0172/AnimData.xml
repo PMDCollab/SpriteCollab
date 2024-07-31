@@ -242,7 +242,7 @@
       <Name>EventSleep</Name>
       <Index>13</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>16</FrameHeight>
+      <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -369,7 +369,7 @@
     <Anim>
       <Name>Nod</Name>
       <Index>22</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
@@ -436,7 +436,7 @@
       <Name>Laying</Name>
       <Index>27</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>16</FrameHeight>
+      <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>30</Duration>
       </Durations>
