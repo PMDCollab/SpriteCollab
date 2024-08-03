@@ -1,1 +1,2 @@
 2021-11-14 16:33:34.371517	<@!237286997645983744>	CUR	PMDCollab_1	Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
+2024-08-03 21:48:43.550990	<@!237286997645983744>	CUR	CC_BY-NC_4	Cringe,Special0,Special1,Special2
