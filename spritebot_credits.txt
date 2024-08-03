@@ -1912,7 +1912,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Terrakion: Normal
 		Landorus Therian: Normal
 		Landorus Therian Shiny: Normal
-		Kyurem Alternate: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Kyurem Alternate: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^,Special3,Special3^
 		Fennekin: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Stunned,Teary-Eyed,Joyous,Sigh,Pain,Shouting,Worried,Special0
 		Fennekin Shiny: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Joyous,Sigh,Pain,Shouting,Stunned,Teary-Eyed,Worried,Special0
 		Froakie: Normal,Happy,Pain,Angry,Worried
@@ -2216,6 +2216,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pikachu Ph_D: Normal,Normal^
 		Pikachu Libre: Normal
 		Pikachu Libre Shiny: Normal
+		Nidoran_F Alternate: Normal,Shouting
 		Nidorina Altcolor: Normal
 		Vulpix Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Vulpix Alola: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -5530,7 +5531,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Thundurus Therian Shiny: Normal
 		Keldeo Resolute Shiny: Normal
 		Chesnaught Shiny: Normal
-		Greninja Shiny: Normal
 		Diggersby: Normal
 		Diggersby Shiny: Normal
 		Scatterbug Shiny: Normal
@@ -6065,7 +6065,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Frogadier: Sad
 		Frogadier Shiny: Normal,Sad
 		Greninja: Normal,Determined,Happy,Pain,Sad,Sigh,Special0,Special1,Teary-Eyed
-		Greninja Alternate Shiny: Normal,Happy,Pain,Sad,Teary-Eyed,Determined,Special0,Special1,Sigh
+		Greninja Shiny: Normal,Happy,Pain,Sad,Teary-Eyed,Determined,Special0,Special1,Sigh
 		Bunnelby Shiny: Normal
 		Fletchling: Normal
 		Fletchling Shiny: Normal
@@ -7818,7 +7818,7 @@ NOLASMOR	Discord:<@!833717817445974046>
 		Vanillite Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Frogadier: Normal,Sad,Happy
 		Frogadier Shiny: Normal,Sad,Happy
-		Greninja Alternate Shiny: Joyous,Crying,Inspired,Shouting,Surprised,Stunned,Angry,Dizzy,Worried
+		Greninja Shiny: Joyous,Crying,Inspired,Shouting,Surprised,Stunned,Angry,Dizzy,Worried
 		Inkay: Normal,Pain
 		Pikipek: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pikipek Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
