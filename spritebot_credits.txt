@@ -6065,7 +6065,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Landorus Shiny: Normal
 		Frogadier: Sad
 		Frogadier Shiny: Normal,Sad
-		Greninja: Normal,Determined,Happy,Pain,Sad,Sigh,Special0,Special1,Teary-Eyed
+		Greninja: Normal,Determined,Happy,Pain,Sad,Sigh,Special0,Special1,Teary-Eyed,Normal^,Happy^
 		Greninja Shiny: Normal,Happy,Pain,Sad,Teary-Eyed,Determined,Special0,Special1,Sigh
 		Bunnelby Shiny: Normal
 		Fletchling: Normal
@@ -7997,6 +7997,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Wimpod: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Golisopod: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Pyukumuku: Idle,Walk,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop
+		Pyukumuku Shiny: Idle,Walk,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop
 		Melmetal: Punch
 		Silicobra: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
