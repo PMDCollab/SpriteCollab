@@ -3718,7 +3718,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Scizor Mega: Normal
 		Scizor Mega Shiny: Normal
 		Shuckle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Shuckle Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Normal
+		Shuckle Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Heracross Mega: Normal
 		Heracross Mega Shiny: Normal
 		Heracross Altcolor: Normal
@@ -6755,7 +6755,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Hoppip Shiny: Normal
 		Umbreon Shiny: Normal
 		Girafarig Shiny: Normal
-		Shuckle Shiny: Normal
 		Slugma Shiny: Angry,Normal,Pain
 		Slugma Starter Shiny: "
 		Magcargo Shiny: Normal,Normal^
