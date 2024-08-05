@@ -3240,6 +3240,7 @@ ShyStarryRain	Discord:<@!576876006636519434>
 
 Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 	Portrait:
+		Venusaur Alternate: Normal
 		Clefable: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Wigglytuff: Joyous,Special1,Inspired,Pain,Angry,Dizzy,Determined,Special0,Special3
 		Wigglytuff Shiny: Joyous,Special1,Inspired,Pain,Angry,Dizzy,Determined,Special0,Special3
