@@ -1885,8 +1885,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Darmanitan Shiny: Normal
 		Scraggy Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sigilyph: Normal
-		Cinccino: Normal
-		Cinccino Shiny: Normal
 		Swanna: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swanna Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Foongus: Normal
@@ -4074,6 +4072,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Yamask Galar Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Garbodor: Normal,Normal^
 		Garbodor Shiny: Normal,Normal^
+		Cinccino: Normal,Sad,Normal^,Sad^,Pain,Pain^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
+		Cinccino Shiny: Normal,Sad,Normal^,Sad^,Pain,Pain^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Solosis: Normal,Normal^
 		Solosis Shiny: Normal,Normal^
 		Reuniclus: Normal,Happy,Sad,Sigh,Pain,Determined
@@ -9063,7 +9063,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Zorua: "
 		Zorua Alternate: "
 		Minccino: Normal
-		Cinccino: Normal
 		Vanillish: Normal
 		Karrablast: Normal
 		Escavalier: Normal
