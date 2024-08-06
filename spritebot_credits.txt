@@ -1868,6 +1868,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Timburr Shiny: Normal
 		Gurdurr: Normal,Happy,Determined
 		Gurdurr Shiny: Normal,Happy,Determined
+		Tympole Temp: Normal
 		Palpitoad: Normal
 		Seismitoad: Normal
 		Throh: Normal
