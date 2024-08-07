@@ -189,12 +189,115 @@
     </Anim>
     <Anim>
       <Name>Cringe</Name>
-      <Index>13</Index>
+      <Index>30</Index>
       <FrameWidth>56</FrameWidth>
       <FrameHeight>120</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Special0</Name>
+      <Index>35</Index>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>152</FrameHeight>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Special1</Name>
+      <Index>36</Index>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>152</FrameHeight>
+      <Durations>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Special2</Name>
+      <Index>37</Index>
+      <FrameWidth>72</FrameWidth>
+      <FrameHeight>152</FrameHeight>
+      <Durations>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
+        <Duration>5</Duration>
       </Durations>
     </Anim>
   </Anims>
