@@ -4970,6 +4970,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Ferroseed Shiny: Special0
 		Litwick: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack
 		Litwick Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack
+		Stunfisk: Idle,Rotate
 		Bisharp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Bisharp Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Terrakion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Cringe,Fainted,Special0,Special1
@@ -5154,6 +5155,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Frosmoth Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Stonjourner: Idle,Walk,Attack,Shake,Double,Rotate
 		Stonjourner Shiny: Idle,Walk,Attack,Strike,Shake,Dance,Double,Rotate
+		Eiscue Noice: Idle,Rotate
 		Morpeko: Idle,Walk,Swing,Double,Rotate,Hop,Special0
 		Morpeko Shiny: Idle,Walk,Swing,Double,Rotate,Hop,Special0
 		Morpeko Hangry: Idle,Walk,Swing,Double,Rotate,Hop,Special0
@@ -8017,6 +8019,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Kilowattrel: Idle,Walk,Attack,Strike,FlapAround,Hop,Sleep,Hurt,Charge,Shoot,Swing,Double,Rotate
 		Scovillain: "
 		Orthworm: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop
+		Slither_Wing: Idle,Rotate
 		Iron_Hands: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Arctibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
 		Baxcalibur: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
