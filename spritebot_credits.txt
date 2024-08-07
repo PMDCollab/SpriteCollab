@@ -1902,6 +1902,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Cryogonal: Normal
 		Cryogonal Shiny: Normal
 		Stunfisk: Normal
+		Stunfisk Shiny: Normal
 		Mienfoo: Normal
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy
 		Larvesta: Normal
@@ -3065,7 +3066,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Darmanitan Galar Shiny: Normal
 		Sigilyph Shiny: Normal
 		Gothita Shiny: Normal,Joyous,Happy,Surprised,Dizzy
-		Stunfisk Shiny: Normal
 		Rufflet Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Hydreigon Shiny: Normal,Happy
 		Meowstic Shiny Female: Sigh,Sigh^,Determined,Determined^
