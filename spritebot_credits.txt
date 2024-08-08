@@ -3338,6 +3338,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Bidoof: Joyous,Crying,Inspired,Shouting,Angry,Worried,Special0
 		Bidoof Starter: Joyous,Crying,Sigh,Shouting,Angry,Worried
 		Rampardos Alternate: Normal
+		Rampardos Alternate Shiny: Normal
 		Drifblim Altcolor: Normal
 		Buneary: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Glameow Alternate: Normal
