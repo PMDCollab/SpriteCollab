@@ -2,3 +2,4 @@
 2021-05-24 16:13:16.433514	<@!356635814668664832>	CUR	PMDCollab_1	Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 2024-07-27 01:46:52.829619	<@!350050109741858829>	CUR	CC_BY-NC_4	Normal,Happy,Pain,Angry,Worried
 2024-08-08 15:41:21.397372	<@!356635814668664832>	CUR	CC_BY-NC_4	Inspired,Sigh,Pain,Surprised
+2024-08-09 06:14:03.205584	<@!356635814668664832>	CUR	CC_BY-NC_4	Sigh,Surprised,Determined
