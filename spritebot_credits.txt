@@ -1818,6 +1818,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Torkoal Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grumpig Altcolor: Normal
 		Cacturne Female: Normal,Special1
+		Kecleon: Happy,Worried,Special0
 		Kecleon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Shuppet Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Duskull Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3361,9 +3362,9 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Tranquill: Normal
 		Tranquill Shiny: Normal
 		Unfezant: Normal
+		Unfezant Shiny: Normal
+		Unfezant Shiny Female: Normal
 		Unfezant Female: Normal
-		Unfezant Temp Shiny: Normal
-		Unfezant Temp Shiny Female: Normal
 		Zebstrika: Normal
 		Zebstrika Shiny: Normal
 		Roggenrola: Normal,Normal^
@@ -5530,8 +5531,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Stoutland Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined
 		Simisage Shiny: Normal
 		Simisear Shiny: Normal,Normal^
-		Unfezant Shiny: Normal
-		Unfezant Shiny Female: Normal
 		Palpitoad Shiny: Normal
 		Seismitoad Shiny: Normal
 		Sandile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
