@@ -3360,6 +3360,8 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Simipour Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Tranquill: Normal
 		Tranquill Shiny: Normal
+		Unfezant Temp: Normal
+		Unfezant Temp Female: Normal
 		Zebstrika: Normal
 		Zebstrika Shiny: Normal
 		Roggenrola: Normal,Normal^
