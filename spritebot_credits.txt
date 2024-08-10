@@ -1917,7 +1917,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Kyurem Alternate Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^,Special3^
 		Fennekin: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Stunned,Teary-Eyed,Joyous,Sigh,Pain,Shouting,Worried,Special0
 		Fennekin Shiny: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Joyous,Sigh,Pain,Shouting,Stunned,Teary-Eyed,Worried,Special0
-		Froakie: Normal,Happy,Pain,Angry,Worried
+		Froakie: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Inspired,Sigh,Surprised,Teary-Eyed,Dizzy,Determined,Special0
 		Froakie Shiny: Normal,Happy,Pain,Angry,Worried
 		Scatterbug: Normal
 		Litleo: Normal,Happy,Pain,Determined,Worried
