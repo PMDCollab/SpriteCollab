@@ -6088,6 +6088,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Tornadus Therian Shiny: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
 		Landorus: Normal
 		Landorus Shiny: Normal
+		Froakie: Crying,Shouting,Special0
 		Frogadier: Sad
 		Frogadier Shiny: Normal,Sad
 		Greninja: Normal,Determined,Happy,Pain,Sad,Sigh,Special0,Special1,Teary-Eyed,Normal^,Happy^
