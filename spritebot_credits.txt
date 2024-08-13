@@ -2049,6 +2049,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Kingambit: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kingambit Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Great_Tusk Shiny: Normal
+		Scream_Tail: Normal,Special0
 		Iron_Bundle: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Iron_Hands: Normal,Sad,Special1,Happy,Teary-Eyed,Determined
 		Iron_Hands Shiny: Normal,Sad,Special1,Happy,Teary-Eyed,Determined
@@ -9219,8 +9220,4 @@ distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 		Meowscarada: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowscarada Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Roaring_Moon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-
-Discord:<@!345629918861983747>
-	Portrait:
-		Scream_Tail: Normal
 
