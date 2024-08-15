@@ -3673,6 +3673,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Politoed Shiny Female: Normal
 		Politoed Altcolor: Normal
 		Politoed Altcolor Female: Normal
+		Skiploom: Joyous,Crying,Surprised
 		Jumpluff Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Jumpluff Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Jumpluff Altcolor: Normal,Sad
