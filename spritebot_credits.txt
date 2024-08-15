@@ -1832,6 +1832,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Bibarel Shiny Female: Normal
 		Roserade: Joyous,Joyous^,Crying,Inspired,Crying^,Inspired^,Surprised,Surprised^,Angry,Angry^,Special3,Special3^,Determined,Determined^
 		Roserade Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Special2,Angry^,Teary-Eyed^,Special2^,Worried,Determined,Special0,Special3,Worried^,Determined^,Special0^,Special3^
+		Roserade Alternate: Normal,Normal^
+		Roserade Alternate Shiny: Normal,Normal^
 		Rampardos Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mime_Jr_: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mime_Jr_ Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3674,6 +3676,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Politoed Altcolor: Normal
 		Politoed Altcolor Female: Normal
 		Skiploom: Joyous,Crying,Surprised
+		Skiploom Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Skiploom Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Jumpluff Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Jumpluff Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Jumpluff Altcolor: Normal,Sad
@@ -5339,7 +5343,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Sudowoodo Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Normal
 		Hoppip Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Skiploom: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Skiploom Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Normal
 		Jumpluff Altcolor Shiny: Angry,Crying,Determined,Dizzy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Normal,Happy
 		Aipom Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Aipom Shiny Female: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -6889,7 +6892,6 @@ Anonymous	Discord:<@!200318546750865418>
 		Mareep Shiny: Normal
 		Flaaffy Shiny: Normal
 		Ampharos Shiny: Happy,Normal
-		Skiploom Shiny: Normal
 		Jumpluff Altcolor Shiny: Happy,Normal
 		Wooper Shiny: Happy,Normal,Surprised,Worried
 		Wooper Shiny Female: Normal
