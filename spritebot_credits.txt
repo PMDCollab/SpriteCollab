@@ -5204,6 +5204,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tinkaton Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Slither_Wing Shiny: Idle,Rotate
 		Arctibax Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
+		Iron_Valiant: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Archaludon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 
 Discord:<@!199989579682414592>
