@@ -7,6 +7,7 @@
 :grey_question: Pending Submission
 :interrobang: Finished, with Pending Revision
 
+In the status list, the first column is Sprites, the second column is Emojis.
 
 
 **MAIN WEBSITE**
