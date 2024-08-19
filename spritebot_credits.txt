@@ -8385,6 +8385,7 @@ Blanky	Discord:<@!230913498916323329>	Contact:https://www.tumblr.com/theblankest
 		Horsea: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Tauros Paldea_Blaze: Normal
 		Whismur: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Whismur Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 	Portrait:
@@ -9230,4 +9231,8 @@ distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 		Meowscarada: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowscarada Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Roaring_Moon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
+Rustnuttie	Discord:<@!179733726421450752>	Contact:<@179733726421450752>
+	Portrait:
+		Munkidori: Happy,Happy^,Surprised,Surprised^,Worried,Worried^
 
