@@ -3,3 +3,4 @@
 2023-06-18 20:09:18.216199	<@!454421330058805251>	CUR	PMDCollab_2	Wake,Nod
 2023-07-24 20:50:32.696087	<@!454421330058805251>	CUR	PMDCollab_2	Pose,Nod,Trip,LeapForth,HitGround
 2023-10-13 20:12:51.115193	<@!454421330058805251>	CUR	PMDCollab_2	Shock,Pose,Pain,Nod,Trip,HitGround,Faint
+2024-08-20 01:37:50.327777	<@!454421330058805251>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Charge,Appeal,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,Nod,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
