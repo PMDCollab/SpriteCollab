@@ -8,3 +8,4 @@
 2023-07-24 20:50:32.263698	<@!454421330058805251>	CUR	PMDCollab_2	Pose,Nod,Trip,LeapForth,HitGround
 2023-10-13 20:12:56.420025	<@!454421330058805251>	CUR	PMDCollab_2	Pose,Pain,Nod,Trip,HitGround,Faint
 2024-07-31 02:22:31.048084	<@!454421330058805251>	CUR	CC_BY-NC_4	EventSleep,Wake,Tumble,Pose,Pain,Float,Nod,Sink,Trip,Laying,LeapForth,TumbleBack,HitGround,Faint
+2024-08-20 01:37:43.869590	<@!454421330058805251>	CUR	CC_BY-NC_4	EventSleep,Wake,Eat,Float,Nod,Trip,Laying,Head,HitGround
