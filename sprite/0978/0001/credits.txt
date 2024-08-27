@@ -1,0 +1,1 @@
+2024-08-27 04:24:43.373533	<@!217899432652308480>	CUR	CC_BY-NC_4	Idle,Walk,Attack,Strike,SpAttack,RearUp,Rotate,Hop
