@@ -490,9 +490,8 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Castform Sunny: Normal
 		Castform Rainy: Normal
 		Castform Snowy: Normal,Normal^
-		Kecleon: Angry,Normal,Sad
+		Kecleon: Normal,Sad,Angry
 		Kecleon Purple: Angry,Normal,Sad
-		Kecleon Temp: Normal,Sad,Angry
 		Shuppet: Normal
 		Banette: Normal,Normal^,Pain,Pain^,Sad,Sad^,Surprised,Surprised^,Teary-Eyed,TearyEyed^
 		Duskull: Normal
@@ -1821,7 +1820,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Torkoal Starter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grumpig Altcolor: Normal
 		Cacturne Female: Normal,Special1
-		Kecleon: Happy,Worried,Special0,Surprised,Dizzy,Teary-Eyed,Crying,Inspired,Determined
+		Kecleon: Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Kecleon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Shuppet Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Duskull Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9012,10 +9011,6 @@ Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 Discord:<@!828520880299966525>
 	Portrait:
 		Feebas: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-
-Discord:<@!227883321227476992>
-	Portrait:
-		Kecleon: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
 Sharpen	Discord:<@!389193348474339338>
 	Portrait:
