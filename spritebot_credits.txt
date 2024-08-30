@@ -7368,6 +7368,10 @@ Gelius	Discord:<@!276428982683959296>	Contact:<@276428982683959296>
 	Sprite:
 		Electrode Hisui: Idle,Walk,Twirl,Rotate,Hop
 
+teddg	Discord:<@!255885525204992000>	Contact:<@255885525204992000>
+	Sprite:
+		Electrode Hisui: Idle,Walk,Attack,Charge,Twirl,Swing,Double,Rotate,Hop
+
 Sceptile	Discord:<@!965734014604410990>
 	Sprite:
 		Cubone Starter: DeepBreath
