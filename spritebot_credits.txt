@@ -7364,6 +7364,10 @@ electronvolt	Discord:<@!624279546845200394>	Contact:electronvolt@gamepad.club
 	Sprite:
 		Electrode Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 
+Gelius	Discord:<@!276428982683959296>	Contact:<@276428982683959296>
+	Sprite:
+		Electrode Hisui: Idle,Walk,Twirl,Rotate,Hop
+
 Sceptile	Discord:<@!965734014604410990>
 	Sprite:
 		Cubone Starter: DeepBreath
