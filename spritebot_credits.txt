@@ -8464,6 +8464,7 @@ Cloudy	Discord:<@!356187016054046723>	Contact:https://twitter.com/cloudyskys1769
 		Dustox Shiny: Normal,Happy,Inspired,Stunned
 		Sableye Altcolor: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Shouting,Dizzy,Worried,Determined,Special3
 		Lairon Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Teary-Eyed,Dizzy
+		Ambipom Female: Happy,Surprised
 		Froakie: Stunned
 		Froakie Shiny: Sad,Crying,Stunned,Teary-Eyed,Dizzy,Special0
 		Sandaconda Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
