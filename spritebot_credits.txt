@@ -7925,7 +7925,7 @@ Grimlin	Discord:<@!217653022094786560>	Contact:https://twitter.com/Griimlin
 	Sprite:
 		Jirachi Starter: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
-SonikkuA	Discord:<@!288510084273668096>
+Discord:<@!288510084273668096>
 	Sprite:
 		Deoxys Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Deoxys Attack Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
