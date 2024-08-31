@@ -1884,6 +1884,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Throh: Normal
 		Throh Shiny: Normal
 		Whirlipede: Normal
+		Whirlipede Shiny: Normal
 		Lilligant: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Lilligant Shiny: Normal,Special1,Normal^,Special1^
 		Basculin: Normal
@@ -6290,7 +6291,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Tympole Shiny: Normal
 		Sawk: Normal
 		Sawk Shiny: Normal
-		Whirlipede Shiny: Normal
 		Sandile Shiny: Normal
 		Darmanitan Zen Shiny: Normal
 		Maractus Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
