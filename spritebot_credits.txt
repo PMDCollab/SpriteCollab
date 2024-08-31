@@ -1883,6 +1883,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Seismitoad: Normal
 		Throh: Normal
 		Throh Shiny: Normal
+		Whirlipede: Normal
 		Lilligant: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Lilligant Shiny: Normal,Special1,Normal^,Special1^
 		Basculin: Normal
@@ -8362,7 +8363,6 @@ Discord:<@!276175146304405514>
 		Crawdaunt Shiny: Happy,Joyous
 		Empoleon: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Venipede: Normal
-		Whirlipede: Normal
 		Zoroark: Normal
 		Zoroark Shiny: Normal
 		Solgaleo: Normal
