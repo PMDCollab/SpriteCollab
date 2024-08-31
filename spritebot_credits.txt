@@ -7744,6 +7744,7 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Yveltal: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
 		Yveltal Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2
 		Litten: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Wishiwashi School: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Type_Null: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Silvally: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround,Special0
 		Silvally Shiny: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround,Special0
