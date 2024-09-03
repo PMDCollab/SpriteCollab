@@ -5214,6 +5214,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sprigatito Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Crocalor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Skeledirge Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Tandemaus Shirt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Tandemaus Pants Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Fidough: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Float,Laying,Head,Cringe,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,LostBalance,TumbleBack,HitGround,Faint
 		Fidough Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Float,Laying,Head,Cringe,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,LostBalance,TumbleBack,HitGround,Faint
 		Smoliv: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Swing,Double,Rotate,Hop
