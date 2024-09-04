@@ -47,7 +47,7 @@
     </Anim>
     <Anim>
       <Name>SpAttack</Name>
-      <CopyOf>Shoot</CopyOf>
+      <CopyOf>Charge</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
