@@ -2669,6 +2669,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Marshadow Alternate: Normal
 		Orbeetle: Normal,Special1
 		Orbeetle Shiny: Normal,Special1
+		Wooloo Alternate: Normal
 		Sandaconda: Normal
 		Sandaconda Shiny: Normal
 		Barraskewda: Normal
