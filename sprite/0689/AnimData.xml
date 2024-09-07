@@ -88,7 +88,7 @@
     <Anim>
       <Name>Hurt</Name>
       <Index>6</Index>
-      <FrameWidth>56</FrameWidth>
+      <FrameWidth>48</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>2</Duration>
