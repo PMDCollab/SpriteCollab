@@ -3651,7 +3651,9 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tauros Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Tauros Paldea: Normal
 		Tauros Paldea Shiny: Normal
+		Tauros Paldea_Blaze Shiny: Normal
 		Tauros Paldea_Aqua: Normal
+		Tauros Paldea_Aqua Shiny: Normal
 		Tauros Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Magikarp Altcolor: Normal
 		Magikarp Altcolor Female: Normal
