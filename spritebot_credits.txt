@@ -1975,6 +1975,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Melmetal: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Melmetal Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Melmetal Gigantamax: Normal,Normal^
+		Melmetal Gigantamax Shiny: Normal,Normal^
 		Grookey: Normal,Happy
 		Grookey Shiny: Normal,Happy
 		Rillaboom: Normal
