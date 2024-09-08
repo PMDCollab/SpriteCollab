@@ -106,8 +106,8 @@
     <Anim>
       <Name>Hurt</Name>
       <Index>6</Index>
-      <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
@@ -116,7 +116,7 @@
     <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>30</Duration>
@@ -211,8 +211,8 @@
     <Anim>
       <Name>Rotate</Name>
       <Index>12</Index>
-      <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>24</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
         <Duration>2</Duration>
