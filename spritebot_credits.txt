@@ -2072,6 +2072,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Kingambit Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Great_Tusk Shiny: Normal
 		Scream_Tail: Normal,Special0
+		Scream_Tail Shiny: Normal,Special0
 		Iron_Bundle: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Iron_Hands: Normal,Sad,Special1,Happy,Teary-Eyed,Determined
 		Iron_Hands Shiny: Normal,Sad,Special1,Happy,Teary-Eyed,Determined
@@ -3152,7 +3153,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Bombirdier Shiny: Normal
 		Orthworm Shiny: Normal
 		Annihilape Shiny: Normal
-		Scream_Tail Shiny: Normal
 		Flutter_Mane Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Slither_Wing Shiny: Normal
 		Iron_Treads Shiny: Normal
