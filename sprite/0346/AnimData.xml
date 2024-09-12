@@ -258,7 +258,7 @@
     <Anim>
       <Name>Tumble</Name>
       <Index>16</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>3</Duration>
@@ -466,7 +466,7 @@
     <Anim>
       <Name>TumbleBack</Name>
       <Index>32</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>3</Duration>
