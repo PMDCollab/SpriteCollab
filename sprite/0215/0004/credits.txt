@@ -1,1 +1,0 @@
-2024-09-11 23:28:59.394717	<@!702275233125630042>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Twirl,Swing,Double,Rotate,Hop,Eat,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted,Special0,Special1
