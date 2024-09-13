@@ -8368,6 +8368,10 @@ DavKriz	Discord:<@!642311628557385738>
 		Kilowattrel: "
 		Orthworm: "
 
+Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
+	Sprite:
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
+
 RacieB	Discord:<@!227594271794921472>	Contact:https://twitter.com/RacieBeep
 	Portrait:
 		Missingno_ Kotora: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
