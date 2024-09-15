@@ -4091,7 +4091,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Liepard Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pansear: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Normal^,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
 		Pansear Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
-		Simisear Temp: Normal,Normal^
+		Simisear: Normal,Normal^
+		Simisear Shiny: Normal,Normal^
 		Panpour: Normal,Joyous
 		Panpour Shiny: Normal,Joyous
 		Blitzle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -5583,7 +5584,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Emboar Shiny: Normal,Happy,Sad
 		Watchog Shiny: Normal
 		Stoutland Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined
-		Simisear Shiny: Normal,Normal^
 		Palpitoad Shiny: Normal
 		Seismitoad Shiny: Normal
 		Sandile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
@@ -9150,7 +9150,6 @@ LegendaryPhoenix	Discord:<@!573283158674505749>
 mucrush	Contact:https://www.deviantart.com/mucrush
 	Portrait:
 		Stoutland: Normal
-		Simisear: Normal,Normal^
 		Munna: Normal
 		Blitzle: Normal
 		Swoobat: Normal
