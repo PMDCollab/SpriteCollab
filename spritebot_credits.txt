@@ -4616,11 +4616,11 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Cetitan: Normal
 		Cetitan Shiny: Normal
 		Tatsugiri: Normal,Special1,Determined,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Special0
-		Tatsugiri Shiny: Normal,Special1,Determined
+		Tatsugiri Shiny: Normal,Special1,Determined,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Special0
 		Tatsugiri Stretchy: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Tatsugiri Stretchy Shiny: Normal,Special1
+		Tatsugiri Stretchy Shiny: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Tatsugiri Droopy: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Tatsugiri Droopy Shiny: Normal,Special1
+		Tatsugiri Droopy Shiny: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Clodsire: Normal,Joyous
 		Clodsire Shiny: Normal,Joyous
 		Farigiraf: Normal,Special0
