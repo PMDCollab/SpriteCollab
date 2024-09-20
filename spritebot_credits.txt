@@ -4665,7 +4665,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Iron_Leaves: Normal
 		Iron_Leaves Shiny: Normal
 		Dipplin: Normal,Sigh,Pain
-		Dipplin Shiny: Normal
+		Dipplin Shiny: Normal,Sigh,Pain
 		Poltchageist: Normal,Normal^
 		Poltchageist Shiny: Normal,Normal^
 		Sinistcha: Normal,Normal^
