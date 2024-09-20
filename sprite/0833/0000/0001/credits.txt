@@ -1,0 +1,1 @@
+2024-09-20 07:56:44.611345	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Charge,Swing,Double,Rotate
