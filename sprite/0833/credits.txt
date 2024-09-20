@@ -1,1 +1,2 @@
 2024-08-27 03:59:40.416265	NATANIEL_SAMA	CUR	CC_BY-NC_4	Idle,Walk,Charge,Swing,Double,Rotate
+2024-09-20 18:30:33.467604	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Charge,Swing,Double,Rotate
