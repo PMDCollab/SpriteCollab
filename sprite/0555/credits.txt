@@ -1,0 +1,1 @@
+2024-09-22 23:58:16.844135	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Rumble,Emit,Rotate,Hop,QuickStrike
