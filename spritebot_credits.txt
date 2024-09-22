@@ -5233,6 +5233,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Morpeko Hangry Shiny: Idle,Walk,Swing,Double,Rotate,Hop,Special0,Sleep,Hurt
 		Copperajah: Idle,Walk,Rotate
 		Copperajah Shiny: Idle,Walk,Rotate
+		Arctozolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Dracovish Shiny: Idle,Walk,Swing,Double,Rotate
 		Dragapult: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dragapult Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
