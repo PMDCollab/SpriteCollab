@@ -3005,6 +3005,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Grimmsnarl Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Sirfetch_d: Idle,Walk,Swing,Double,Rotate
 		Sirfetch_d Shiny: Idle,Walk,Swing,Double,Rotate
+		Alcremie Gigantamax: Idle,Rotate
 		Stonjourner: Idle,Walk,Attack,Strike,Shake,Dance,Double,Rotate
 		Eiscue: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop,Hover
 		Dracovish: Idle,Walk,Swing,Double,Rotate
