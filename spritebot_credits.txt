@@ -8075,6 +8075,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Venipede: "
 		Krokorok: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Krookodile: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Darmanitan: Idle,Walk,Hurt,Attack,Rumble,Emit,Rotate,Hop,QuickStrike
 		Scraggy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Sigilyph: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Elgyem: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -8169,6 +8170,7 @@ Noivern	Discord:<@!150809243816165377>	Contact:https://twitter.com/notarealnoive
 
 Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
 	Sprite:
+		Darmanitan: Idle,Walk,Hurt,Attack,Emit,Rotate,Hop,QuickStrike
 		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Golisopod: "
 		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
