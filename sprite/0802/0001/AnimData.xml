@@ -145,7 +145,7 @@
     <Anim>
       <Name>Double</Name>
       <Index>9</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>2</Duration>
@@ -188,7 +188,7 @@
     <Anim>
       <Name>Charge</Name>
       <Index>11</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
