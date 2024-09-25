@@ -7750,6 +7750,7 @@ TopKec	Discord:<@!276369635304275968>	Contact:https://twitter.com/Top_Kec
 		Cyclizar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Flamigo: Normal
 		Flamigo Shiny: Normal
+		Ogerpon Wellspring_Mask: Normal,Normal^
 		Ogerpon Hearthflame_Mask: Normal,Normal^
 		Ogerpon Cornerstone_Mask: Normal,Normal^
 		Iron_Crown: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
