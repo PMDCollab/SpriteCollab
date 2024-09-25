@@ -8353,6 +8353,7 @@ Dejais	Discord:<@!375676609283358722>	Contact:<@375676609283358722>
 	Sprite:
 		Volcanion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Swing,Double,Rotate,Hop
 		Marshadow Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Marshadow Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 avalancheman	Discord:<@!783493257506062387>	Contact:milesbehemoth@gmail.com
 	Sprite:
