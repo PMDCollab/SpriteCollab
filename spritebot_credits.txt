@@ -3586,7 +3586,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Zubat Alternate Shiny: Normal,Happy
 		Zubat Alternate Shiny Female: Normal,Happy
 		Zubat Alternate Female: Normal,Happy
-		Venonat Altcolor: Normal
+		Venonat Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Venonat Altcolor Shiny: Normal
 		Meowth Gigantamax: Normal,Normal^
 		Meowth Gigantamax Shiny: Normal,Normal^
