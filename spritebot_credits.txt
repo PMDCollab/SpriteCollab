@@ -9322,7 +9322,7 @@ distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 		Meowscarada Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Roaring_Moon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
-Discord:<@!1133042779782647808>
+Cocosquid.	Discord:<@!1133042779782647808>	Contact:<@1133042779782647808>
 	Portrait:
 		Iron_Treads: Happy
 
