@@ -8482,7 +8482,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Poliwrath Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon: Joyous,Happy,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lairon Shiny: Joyous,Happy,Normal,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Castform Snowy: Happy,Pain
+		Castform Snowy: Happy,Pain,Sad,Angry,Dizzy,Worried
 
 Novie	Discord:<@!229363481852379136>	Contact:<https://twitter.com/themagolord>
 	Portrait:
