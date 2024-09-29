@@ -4412,8 +4412,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Chewtle: "
 		Drednaw: Normal
 		Drednaw Shiny: Normal
-		Boltund Temp: Normal
-		Boltund Temp Shiny: Normal
+		Boltund: Normal
+		Boltund Shiny: Normal
 		Carkol: Normal
 		Carkol Shiny: Normal
 		Coalossal: Normal
@@ -6381,7 +6381,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Skwovet Shiny: Normal,Special0
 		Corviknight Shiny: Normal
 		Chewtle Shiny: Normal
-		Boltund Shiny: Normal
 		Flapple Shiny: Normal
 		Arrokuda: Normal
 		Arrokuda Shiny: Normal
@@ -8753,7 +8752,6 @@ EzerArt	Contact:https://twitter.com/EzerArt_
 		Eldegoss: Normal
 		Chewtle: Normal
 		Drednaw: Normal
-		Boltund: Normal
 		Flapple: Normal
 		Cramorant: "
 		Toxel: Normal
