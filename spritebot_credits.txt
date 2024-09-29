@@ -4413,6 +4413,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Drednaw: Normal
 		Drednaw Shiny: Normal
 		Boltund Temp: Normal
+		Boltund Temp Shiny: Normal
 		Carkol: Normal
 		Carkol Shiny: Normal
 		Coalossal: Normal
