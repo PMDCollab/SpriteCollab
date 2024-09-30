@@ -7392,6 +7392,14 @@ FissionCube	Discord:<@!203640888558223361>	Contact:https://twewyfinalmix.tumblr.
 	Sprite:
 		Slowpoke Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
+Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
+	Sprite:
+		Gengar Mega: Idle,Walk,Sleep,Hurt,Charge,Twirl,Swing,Double,Rotate
+		Darmanitan: Idle,Walk,Hurt,Attack,Emit,Rotate,Hop,QuickStrike
+		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Golisopod: "
+		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+
 Axcel	Discord:<@!662304890143375391>
 	Portrait:
 		Poliwag: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
@@ -8178,13 +8186,6 @@ Noivern	Discord:<@!150809243816165377>	Contact:https://twitter.com/notarealnoive
 		Rellor: Normal
 	Sprite:
 		Sandile: Idle,Walk,Swing,Double,Rotate
-
-Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
-	Sprite:
-		Darmanitan: Idle,Walk,Hurt,Attack,Emit,Rotate,Hop,QuickStrike
-		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Golisopod: "
-		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 
 cyboy_bit	Discord:<@!810524028871114762>
 	Portrait:
