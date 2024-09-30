@@ -1775,6 +1775,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Gyarados: Stunned
 		Gyarados Female: Stunned
 		Gyarados Shiny: Normal,Stunned
+		Gyarados Shiny Female: Normal,Stunned
 		Gyarados Altcolor: Normal,Stunned
 		Gyarados Altcolor Female: Normal,Stunned
 		Ditto Altcolor: Normal,Sad,Special3
@@ -7071,7 +7072,6 @@ Lovi	Discord:<@!95650095034273792>
 		Hypno Shiny: Normal
 		Kangaskhan Shiny: Happy,Normal
 		Mr_Mime Shiny: Normal
-		Gyarados Shiny Female: Normal
 		Omanyte Shiny: Normal
 		Articuno Shiny: Normal
 		Dratini Shiny: Normal
