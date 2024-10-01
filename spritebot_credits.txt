@@ -4420,7 +4420,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Drednaw: Normal
 		Drednaw Shiny: Normal
 		Boltund: Normal,Happy,Inspired,Stunned,Teary-Eyed,Worried
-		Boltund Shiny: Normal,Happy,Inspired,Stunned,Teary-Eyed,Worried
+		Boltund Shiny: Normal,Happy,Inspired,Stunned,Teary-Eyed,Worried,Joyous
 		Carkol: Normal
 		Carkol Shiny: Normal
 		Coalossal: Normal
