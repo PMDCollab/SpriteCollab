@@ -1743,7 +1743,7 @@ Emboarger	Discord:<@!237286997645983744>
 
 Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 	Portrait:
-		Venusaur: Happy,Pain
+		Venusaur: Happy,Pain,Angry,Worried
 		Charmander Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Charizard Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Ekans Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
