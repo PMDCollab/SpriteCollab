@@ -2350,6 +2350,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Grovyle Starter: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sceptile: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Blaziken Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Blaziken Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lombre: Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Teary-Eyed^,Worried,Worried^
 		Nuzleaf Female: Normal
 		Pelipper: Surprised
