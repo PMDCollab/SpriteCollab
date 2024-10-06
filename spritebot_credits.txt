@@ -1751,6 +1751,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Raichu: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Raichu Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Raichu Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Raichu Alternate: Normal
 		Nidoking Altcolor: Normal,Surprised
 		Wigglytuff Altcolor: Normal,Sad,Special1,Happy,Crying,Surprised,Teary-Eyed,Special2,Worried,Special0,Special3
 		Paras: Happy,Pain,Dizzy
