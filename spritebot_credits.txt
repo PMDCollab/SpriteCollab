@@ -3710,6 +3710,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Spinarak Shiny: Normal
 		Spinarak Altcolor: Normal
 		Spinarak Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Ariados Altcolor: Normal
 		Crobat Shiny: Normal
 		Crobat Altcolor: Normal
 		Crobat Altcolor Shiny: Normal
