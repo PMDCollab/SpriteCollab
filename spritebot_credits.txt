@@ -5490,7 +5490,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
 		Ludicolo Shiny Female: Normal
 		Seedot Shiny: Angry,Dizzy,Happy,Inspired,Joyous,Normal,Sad,Crying,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Worried,Determined,Special0
 		Shiftry Shiny: Surprised,Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0,Pain,Worried
-		Taillow Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Normal
 		Pelipper Shiny: Normal
 		Ralts Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ralts Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
