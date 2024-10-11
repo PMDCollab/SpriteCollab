@@ -7404,6 +7404,7 @@ Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/mich
 		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Golisopod: "
 		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Raging_Bolt: Idle,Swing,Double,Rotate
 
 Axcel	Discord:<@!662304890143375391>
 	Portrait:
