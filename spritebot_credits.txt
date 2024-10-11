@@ -8169,6 +8169,7 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Ogerpon Wellspring_Mask: "
 		Ogerpon Hearthflame_Mask: "
 		Ogerpon Cornerstone_Mask: "
+		Raging_Bolt: Idle,Sleep,Swing,Double,Rotate
 
 metalbear	Contact:<@468408733433593856>
 	Sprite:
