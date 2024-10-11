@@ -5966,7 +5966,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 Moo	Discord:<@!276949114212712449>	Contact:https://twitter.com/MoonMoonMemes
 	Portrait:
 		Bulbasaur Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Venusaur Shiny: Normal
 		Charmander Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Caterpie Shiny: Inspired,Normal,Teary-Eyed
 		Pidgeotto Shiny: Normal
