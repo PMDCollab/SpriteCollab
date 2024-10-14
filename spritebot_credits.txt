@@ -9117,6 +9117,10 @@ Discord:<@!523152081805115403>
 		Deoxys Defense: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Deoxys Speed: Angry,Crying,Determined,Determined^,Dizzy,Happy,Inspired,Inspired^,Joyous,Joyous^,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Worried^
 
+Semilia	Discord:<@!235878133499297793>	Contact:https://twitter.com/SemiSemily
+	Portrait:
+		Empoleon Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 lovefulpup	Discord:<@!280870537209839627>
 	Portrait:
 		Shinx Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
