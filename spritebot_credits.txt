@@ -1912,6 +1912,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Krookodile Shiny: Normal,Special0
 		Darmanitan: Normal
 		Darmanitan Shiny: Normal
+		Darmanitan Zen: Normal
 		Scraggy Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sigilyph: Normal
 		Zorua Alternate2: Normal,Normal^,Happy,Happy^
@@ -9198,7 +9199,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Palpitoad: Normal
 		Throh: Normal
 		Sawk: Normal
-		Darmanitan Zen: Normal
 		Carracosta: Normal
 		Archen: Normal
 		Archeops: Normal
