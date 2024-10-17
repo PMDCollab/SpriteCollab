@@ -1,1 +1,2 @@
 2021-10-24 01:40:17.082193	POWERCRISTAL	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2024-10-17 02:29:24.265905	POWERCRISTAL	CUR	CC_BY-NC_4	Sleep,Hurt
