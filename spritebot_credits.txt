@@ -9259,7 +9259,7 @@ ZoZoBab	Discord:<@!459080372672790548>	Contact:https://twitter.com/ZoZoBab
 		Frillish Female: Normal,Sad,Joyous,Happy,Inspired,Sigh,Pain,Stunned,Angry,Teary-Eyed,Worried,Determined
 		Sliggoo: Sad,Sigh,Stunned,Teary-Eyed,Worried
 
-Discord:<@!966056976217935872>
+CeleryGuy	Discord:<@!966056976217935872>	Contact:https://celeryguy.tumblr.com
 	Portrait:
 		Eelektross: Joyous,Angry,Dizzy
 
