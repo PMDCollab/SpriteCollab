@@ -6509,6 +6509,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Drakloak: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Drakloak Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Regieleki Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
+		Raging_Bolt: Idle,Sleep,Swing,Double,Rotate
 
 XModxGodX	Discord:<@!365627932888268800>
 	Portrait:
