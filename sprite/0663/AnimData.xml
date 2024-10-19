@@ -17,7 +17,7 @@
     <Anim>
       <Name>Attack</Name>
       <Index>1</Index>
-      <FrameWidth>80</FrameWidth>
+      <FrameWidth>72</FrameWidth>
       <FrameHeight>80</FrameHeight>
       <RushFrame>2</RushFrame>
       <HitFrame>4</HitFrame>
@@ -39,29 +39,12 @@
     <Anim>
       <Name>Strike</Name>
       <Index>2</Index>
-      <FrameWidth>80</FrameWidth>
-      <FrameHeight>80</FrameHeight>
-      <RushFrame>2</RushFrame>
-      <HitFrame>4</HitFrame>
-      <ReturnFrame>7</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>4</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
+      <CopyOf>Attack</CopyOf>
     </Anim>
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <FrameWidth>72</FrameWidth>
+      <FrameWidth>64</FrameWidth>
       <FrameHeight>88</FrameHeight>
       <HitFrame>3</HitFrame>
       <ReturnFrame>6</ReturnFrame>
@@ -86,14 +69,19 @@
       <Name>Hover</Name>
       <Index>4</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>72</FrameHeight>
-      <HitFrame>10</HitFrame>
+      <FrameHeight>64</FrameHeight>
+      <HitFrame>4</HitFrame>
+      <ReturnFrame>17</ReturnFrame>
       <Durations>
         <Duration>2</Duration>
-        <Duration>3</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
-        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -113,6 +101,16 @@
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Hurt</Name>
+      <Index>6</Index>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -225,6 +223,16 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Cringe</Name>
+      <Index>30</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
       </Durations>
     </Anim>
   </Anims>
