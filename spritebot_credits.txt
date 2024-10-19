@@ -5292,7 +5292,7 @@ Discord:<@!199989579682414592>
 	Sprite:
 		Charmeleon: Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 
-Murpi	Discord:<@!593113130213572610>	Contact:https://x.com/murpia57
+Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.bsky.social
 	Portrait:
 		Bulbasaur Altcolor Shiny: Special1
 		Venusaur Mega Shiny: Normal
@@ -7704,7 +7704,7 @@ Avery	Discord:<@!527611425670037516>
 		Dusknoir Shiny: Walk,Attack,Punch,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Pain,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10,Faint,Special11,Fainted,StandingUp,Special12,Special13,Special14,Special15,Special16,Special17,Special18,Special19,Special20,Special21,Special22,Special23,Special24,Special25,Special26
 		Dusknoir Starter Shiny: "
 
-Top_Kec	Discord:<@!276369635304275968>	Contact:https://bsky.app/profile/topkec.bsky.social
+Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 	Portrait:
 		Dodrio: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Dodrio Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
