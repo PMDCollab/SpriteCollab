@@ -106,6 +106,16 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Sleep</Name>
+      <Index>5</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>30</Duration>
+        <Duration>35</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>40</FrameWidth>
