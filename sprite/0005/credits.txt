@@ -1,3 +1,4 @@
 2020-10-07 17:58:43.341392	CHUNSOFT	CUR	Unspecified	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Strike,Swing,Walk
 2021-01-26 01:22:03.704417	<@!199989579682414592>	CUR	PMDCollab_1	Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 2021-01-26 11:30:34.384747	<@!199989579682414592>	CUR	PMDCollab_1	Double
+2024-10-22 04:27:26.367585	<@!193530896211509248>	CUR	CC_BY-NC_4	Eat,Pose,Pull,Pain,DeepBreath,Nod,Sink,Trip,Head,LostBalance,HitGround,Faint
