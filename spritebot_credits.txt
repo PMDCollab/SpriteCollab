@@ -5336,6 +5336,11 @@ Bwappi	Discord:<@!193530896211509248>	Contact:https://www.tumblr.com/bwappi
 		Grookey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Grookey Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
+Grimlin	Discord:<@!217653022094786560>	Contact:https://twitter.com/Griimlin
+	Sprite:
+		Charmeleon: EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Sit,LookUp,Laying,LeapForth,Cringe,TumbleBack
+		Jirachi Starter: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.bsky.social
 	Portrait:
 		Bulbasaur Altcolor Shiny: Special1
@@ -8017,10 +8022,6 @@ Chesyon	Discord:<@!178935491867967490>	Contact:https://linktr.ee/chesyon
 PoliteHoppip	Discord:<@!168414649039978496>
 	Sprite:
 		Groudon Primal Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
-
-Grimlin	Discord:<@!217653022094786560>	Contact:https://twitter.com/Griimlin
-	Sprite:
-		Jirachi Starter: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Discord:<@!288510084273668096>
 	Sprite:
