@@ -2577,6 +2577,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Zekrom Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Keldeo Resolute: Normal,Normal^
 		Quilladin: Normal
+		Froakie: Joyous
 		Frogadier: Normal
 		Bunnelby: Normal
 		Talonflame: Normal
