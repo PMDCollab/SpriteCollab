@@ -8939,7 +8939,6 @@ C_Pariah	Discord:<@!322382592202637322>
 		Buizel Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Floatzel: Normal,Teary-Eyed,Happy,Inspired
 		Stunky: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Froakie: Normal
 
 chime	Discord:<@!183561486893842432>	Contact:<@!183561486893842432>
 	Portrait:
