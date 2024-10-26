@@ -8131,6 +8131,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Arctozolt: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Duraludon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Duraludon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Zacian Temp: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^,Special3^
 		Zarude: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kleavor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kleavor Shiny: Normal
