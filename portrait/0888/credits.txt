@@ -1,4 +1,2 @@
-2021-01-12 15:05:36.059815	<@!533406104256905257>	CUR	PMDCollab_1	Normal
-2021-11-02 17:35:28.251325	EZERART	CUR	PMDCollab_1	Normal
-2021-11-06 20:22:44.386630	<@!533406104256905257>	CUR	PMDCollab_1	Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special3,Special3^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
-2024-05-12 19:07:55.346572	<@!356635814668664832>	CUR	CC_BY-NC_4	Normal,Normal^
+2024-10-26 17:01:13.068161	<@!356635814668664832>	CUR	CC_BY-NC_4	Normal,Normal^
+2024-10-26 18:13:44.839896	<@!229131140903075840>	CUR	CC_BY-NC_4	Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^,Special3^
