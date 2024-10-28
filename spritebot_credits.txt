@@ -8182,6 +8182,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Kleavor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Swing,Double,Rotate,Hop,QuickStrike
 		Ursaluna Bloodmoon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Basculegion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swing,Double,Rotate,Hop,SpAttack
+		Basculegion Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,SpAttack,Swing,Double,Rotate,Hop
 		Sneasler: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Crocalor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Skeledirge: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
