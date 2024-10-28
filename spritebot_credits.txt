@@ -7454,6 +7454,7 @@ Axcel	Discord:<@!662304890143375391>
 electronvolt	Discord:<@!624279546845200394>	Contact:electronvolt@gamepad.club
 	Sprite:
 		Electrode Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+		Palpitoad Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
 Gelius	Discord:<@!276428982683959296>	Contact:<@276428982683959296>
 	Sprite:
