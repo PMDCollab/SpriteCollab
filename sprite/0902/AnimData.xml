@@ -85,6 +85,11 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>SpAttack</Name>
+      <Index>4</Index>
+      <CopyOf>Shoot</CopyOf>
+    </Anim>
+    <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>56</FrameWidth>
