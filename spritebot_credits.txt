@@ -1954,6 +1954,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Fennekin: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Stunned,Teary-Eyed,Joyous,Sigh,Pain,Shouting,Worried,Special0
 		Fennekin Shiny: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Joyous,Sigh,Pain,Shouting,Stunned,Teary-Eyed,Worried,Special0
 		Froakie: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Inspired,Sigh,Surprised,Teary-Eyed,Dizzy,Determined,Special0
+		Talonflame: Normal,Normal^
 		Scatterbug: Normal
 		Litleo: Normal,Happy,Pain,Determined,Worried
 		Litleo Shiny: Normal,Happy,Pain,Determined,Worried
@@ -2579,7 +2580,6 @@ baronessfaron	Discord:<@!544245909639397378>
 		Froakie: Joyous
 		Frogadier: Normal
 		Bunnelby: Normal
-		Talonflame: Normal
 		Pyroar: Normal
 		Pyroar Shiny: Normal
 		Pyroar Shiny Female: Normal
