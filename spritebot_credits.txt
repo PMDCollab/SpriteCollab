@@ -1955,7 +1955,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Fennekin Shiny: Normal,Sad,Happy,Crying,Inspired,Surprised,Angry,Dizzy,Determined,Special3,Joyous,Sigh,Pain,Shouting,Stunned,Teary-Eyed,Worried,Special0
 		Froakie: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Inspired,Sigh,Surprised,Teary-Eyed,Dizzy,Determined,Special0
 		Talonflame: Normal,Normal^
-		Talonflame Temp: Normal,Normal^
+		Talonflame Shiny: Normal,Normal^
 		Scatterbug: Normal
 		Litleo: Normal,Happy,Pain,Determined,Worried
 		Litleo Shiny: Normal,Happy,Pain,Determined,Worried
@@ -6389,7 +6389,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Tornadus Shiny: Normal,Normal^
 		Thundurus Shiny: Normal,Normal^
 		Quilladin Shiny: Normal
-		Talonflame Shiny: Normal
 		Pangoro Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Spritzee Shiny: Normal
 		Clauncher Shiny: Normal
