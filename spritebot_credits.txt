@@ -2892,6 +2892,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Gothorita: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,Pose
 		Gothitelle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,SpAttack,Swing,Double,Rotate,Hop
 		Duosion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Pain
+		Vanillite: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Vanilluxe: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Deerling: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Deerling Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
