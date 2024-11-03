@@ -8088,6 +8088,10 @@ LightBlueBlaze	Discord:<@!283045864509800468>	Contact:LightBlueBlaze@gmail.com
 		Herdier: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Liepard: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
+Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
+	Sprite:
+		Pansage: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+
 AllPatchedUp	Discord:<@!289213609773498368>	Contact:patchedupgalaxy@gmail.com
 	Sprite:
 		Pansear: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
