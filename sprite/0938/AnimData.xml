@@ -192,7 +192,7 @@
     <Anim>
       <Name>Hop</Name>
       <Index>10</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>96</FrameHeight>
       <HitFrame>9</HitFrame>
       <Durations>
