@@ -4558,6 +4558,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Morpeko Hangry Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dracozolt: Normal
 		Dracozolt Shiny: Normal
+		Arctozolt Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dracovish: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dracovish Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Drakloak: Normal
@@ -6432,7 +6433,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Falinks Brass Shiny: Normal
 		Falinks Trooper Shiny: Normal
 		Eiscue Shiny: Normal
-		Arctozolt Shiny: Normal,Happy
 		Duraludon Shiny: Normal
 		Zacian Crowned Shiny: Normal
 		Zamazenta Shiny: Normal
