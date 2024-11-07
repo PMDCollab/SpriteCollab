@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<AnimData>
+  <ShadowSize>2</ShadowSize>
+  <Anims>
+    <Anim>
+      <Name>Idle</Name>
+      <Index>7</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>40</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Rotate</Name>
+      <Index>12</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <HitFrame>8</HitFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+  </Anims>
+</AnimData>
