@@ -1936,7 +1936,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Cryogonal Shiny: Normal
 		Stunfisk: Normal
 		Stunfisk Shiny: Normal
-		Mienfoo: Normal
+		Mienfoo: Normal,Joyous,Determined
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy
 		Larvesta: Normal
 		Volcarona: Normal
