@@ -1937,7 +1937,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Stunfisk: Normal
 		Stunfisk Shiny: Normal
 		Mienfoo: Normal,Joyous,Determined
-		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy
+		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy,Determined
 		Larvesta: Normal
 		Volcarona: Normal
 		Volcarona Shiny: Normal
@@ -3064,6 +3064,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Orthworm: Idle,Walk,Sleep,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Houndstone: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,TailWhip,Swing,Double,Rotate,Hop
 		Tatsugiri Stretchy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
+		Tatsugiri Stretchy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Flutter_Mane: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Gholdengo: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Ogerpon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
