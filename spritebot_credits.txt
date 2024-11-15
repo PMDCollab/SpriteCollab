@@ -8416,6 +8416,12 @@ Mond	Discord:<@!799737881538723891>
 	Sprite:
 		Sylveon Shiny: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
 
+Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
+	Sprite:
+		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
+		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
+
 Deleca7755	Discord:<@!273958644788363265>	Contact:<https://www.deviantart.com/deleca-7755>
 	Portrait:
 		Sentret: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -8485,11 +8491,6 @@ DavKriz	Discord:<@!642311628557385738>
 		Wattrel: "
 		Kilowattrel: "
 		Orthworm: "
-
-Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
-	Sprite:
-		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
-		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 
 RacieB	Discord:<@!227594271794921472>	Contact:https://twitter.com/RacieBeep
 	Portrait:
