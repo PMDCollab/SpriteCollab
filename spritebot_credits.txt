@@ -2238,6 +2238,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Glimmet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Glimmora: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Twirl,Swing,Double,Rotate,Hop,Shoot
 		Glimmora Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Twirl,Swing,Double,Rotate,Hop,Shoot
+		Great_Tusk: Idle,Walk,Attack,Strike,SpAttack,RearUp,Rotate,Hop
 		Iron_Treads: Idle,Sleep,Rotate
 		Iron_Treads Shiny: Idle,Sleep,Rotate
 		Iron_Hands Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -8177,6 +8178,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Golurk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Braviary Hisui: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Volcarona: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
+		Fletchinder: Idle,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Talonflame: Sleep,Charge,Shoot,Double
 		Pangoro: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Malamar: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
