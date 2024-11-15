@@ -2995,6 +2995,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Lurantis: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop
 		Morelull: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Salandit: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Bewear: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slap,Twirl,Swing,Double,Rotate,Hop
 		Bounsweet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Appeal,Swing,Double,Rotate,Hop
 		Tsareena: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Kick,Swing,Double,Rotate,Hop
 		Comfey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
