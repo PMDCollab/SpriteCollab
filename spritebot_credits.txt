@@ -3067,6 +3067,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Houndstone: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,TailWhip,Swing,Double,Rotate,Hop
 		Tatsugiri Stretchy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Tatsugiri Stretchy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Scream_Tail: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Withdraw,Swing,Double,Rotate,Hop
 		Flutter_Mane: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Gholdengo: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Ogerpon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
