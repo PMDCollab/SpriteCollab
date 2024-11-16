@@ -2,3 +2,4 @@
 2024-07-02 16:37:25.951716	<@!702275233125630042>	CUR	CC_BY-NC_4	EventSleep,Wake,Float,Laying
 2024-07-02 18:28:39.265146	<@!702275233125630042>	CUR	CC_BY-NC_4	Wake
 2024-10-26 05:01:15.829762	<@!544245909639397378>	CUR	CC_BY-NC_4	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2024-11-16 04:46:30.681729	<@!544245909639397378>	CUR	CC_BY-NC_4	LostBalance
