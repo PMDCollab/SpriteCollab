@@ -6051,6 +6051,8 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Cramorant Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Arrokuda: Double,Hurt,Idle,Rotate,Sleep,Swing,Walk
 		Tatsugiri Stretchy: Idle,Walk,Attack,Strike,SpAttack,RearUp,Rotate,Hop
+		Tatsugiri Droopy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+		Tatsugiri Droopy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 
 Moo	Discord:<@!276949114212712449>	Contact:https://twitter.com/MoonMoonMemes
 	Portrait:
