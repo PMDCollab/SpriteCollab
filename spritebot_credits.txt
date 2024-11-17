@@ -8174,6 +8174,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 	Sprite:
 		Seismitoad: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Venipede: "
+		Basculin White: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swing,Double,Rotate,Hop
 		Krokorok: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Krookodile: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Darmanitan: Idle,Walk,Hurt,Attack,Rumble,Emit,Rotate,Hop,QuickStrike,Sleep,Charge,Shoot,Swing,Double
