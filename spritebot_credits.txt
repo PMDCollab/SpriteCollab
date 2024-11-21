@@ -6720,7 +6720,7 @@ Tacocoa	Discord:<@!234720295292895232>
 		Shellder Shiny: Normal
 		Cloyster Shiny: Normal
 		Krabby Altcolor Shiny: Normal
-		Kingler Shiny: Normal,Normal^
+		Kingler Altcolor Shiny: Normal,Normal^
 		Voltorb Shiny: Normal
 		Electrode Shiny: Normal
 		Exeggcute Shiny: Normal
