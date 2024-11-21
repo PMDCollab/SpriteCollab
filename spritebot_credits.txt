@@ -2321,6 +2321,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Onix: Surprised
 		Onix Shiny: Surprised
 		Kingler: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Kingler Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Marowak Altcolor: Normal
 		Goldeen: Happy,Pain,Surprised,Worried
 		Goldeen Shiny: Happy,Pain,Surprised,Worried
