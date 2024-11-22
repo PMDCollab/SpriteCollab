@@ -50,6 +50,11 @@
       <CopyOf>RearUp</CopyOf>
     </Anim>
     <Anim>
+      <Name>Shoot</Name>
+      <Index>3</Index>
+      <CopyOf>RearUp</CopyOf>
+    </Anim>
+    <Anim>
       <Name>RearUp</Name>
       <Index>4</Index>
       <FrameWidth>64</FrameWidth>
@@ -74,6 +79,26 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Sleep</Name>
+      <Index>5</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>30</Duration>
+        <Duration>35</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Hurt</Name>
+      <Index>6</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>72</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>64</FrameWidth>
@@ -88,6 +113,49 @@
         <Duration>4</Duration>
         <Duration>2</Duration>
         <Duration>20</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Swing</Name>
+      <Index>8</Index>
+      <FrameWidth>96</FrameWidth>
+      <FrameHeight>88</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>5</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Double</Name>
+      <Index>9</Index>
+      <FrameWidth>80</FrameWidth>
+      <FrameHeight>88</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -106,6 +174,26 @@
         <Duration>3</Duration>
         <Duration>2</Duration>
         <Duration>1</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Charge</Name>
+      <Index>11</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <HitFrame>5</HitFrame>
+      <ReturnFrame>9</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
         <Duration>2</Duration>
       </Durations>
     </Anim>
