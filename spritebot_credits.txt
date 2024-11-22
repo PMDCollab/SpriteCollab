@@ -6393,6 +6393,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Electrike Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swalot: Inspired,Stunned
 		Wailmer: Sad,Crying,Pain,Stunned,Teary-Eyed,Worried
+		Baltoy: Happy,Shouting,Angry,Determined
 		Baltoy Shiny: Normal
 		Wynaut Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Snorunt: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special3
