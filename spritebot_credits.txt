@@ -1896,6 +1896,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Gurdurr Shiny: Normal,Happy,Determined
 		Tympole: Normal
 		Palpitoad: Normal
+		Palpitoad Shiny: Normal
 		Seismitoad: Normal
 		Throh: Normal
 		Throh Shiny: Normal
@@ -5712,7 +5713,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Emboar Shiny: Normal,Happy,Sad
 		Watchog Shiny: Normal
 		Stoutland Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined
-		Palpitoad Shiny: Normal
 		Seismitoad Shiny: Normal
 		Sandile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
 		Scrafty Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
