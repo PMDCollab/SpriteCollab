@@ -9427,6 +9427,7 @@ Discord:<@!319728945920475137>
 Trace_Was_Taken	Discord:<@!548668262616006668>	Contact:https://www.reddit.com/user/Timtanoboa/
 	Portrait:
 		Flapple: Angry
+		Flapple Shiny: Angry
 
 Jelly	Discord:<@!402702516866908160>	Contact:https://www.deviantart.com/drjellystone
 	Portrait:
