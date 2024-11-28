@@ -9258,6 +9258,7 @@ MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarbe
 		Shaymin Sky: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
 		Shaymin Sky Shiny: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
 		Zorua: Special0,Special0^
+		Zorua Shiny: Special0,Special0^
 		Zorua Alternate: Special0
 		Sylveon: Special0,Special0^
 
