@@ -252,5 +252,36 @@
         <Duration>2</Duration>
       </Durations>
     </Anim>
+    <Anim>
+      <Name>EventSleep</Name>
+      <Index>13</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>24</FrameHeight>
+      <Durations>
+        <Duration>30</Duration>
+        <Duration>35</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Float</Name>
+      <Index>20</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>32</FrameHeight>
+      <Durations>
+        <Duration>9</Duration>
+        <Duration>18</Duration>
+        <Duration>9</Duration>
+        <Duration>14</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Laying</Name>
+      <Index>27</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>24</FrameHeight>
+      <Durations>
+        <Duration>12</Duration>
+      </Durations>
+    </Anim>
   </Anims>
 </AnimData>
