@@ -4184,6 +4184,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Darumaka Galar: Normal
 		Darumaka Galar Shiny: Normal
 		Darmanitan Galar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Darmanitan Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dwebble: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dwebble Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Crustle: Normal,Normal^
@@ -8484,6 +8485,10 @@ Dejais	Discord:<@!375676609283358722>	Contact:<@375676609283358722>
 		Volcanion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Swing,Double,Rotate,Hop
 		Marshadow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Marshadow Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
+Kawaiitron	Discord:<@!412938965713158144>	Contact:<@412938965713158144>
+	Sprite:
+		Torracat: EventSleep,Float,Laying
 
 avalancheman	Discord:<@!783493257506062387>	Contact:milesbehemoth@gmail.com
 	Sprite:
