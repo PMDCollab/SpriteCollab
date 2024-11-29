@@ -2349,7 +2349,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Mew: Shouting
 		Mew Shiny: Shouting
 		Chikorita: Special0
-		Meganium Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Meganium Alternate2: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Chinchou Alternate: Normal,Happy,Joyous,Sigh,Pain,Surprised,Angry,Worried,Determined
 		Cleffa: Sad,Happy,Surprised
 		Cleffa Shiny: Sad,Happy,Surprised
