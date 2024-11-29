@@ -28,11 +28,13 @@ Audino	Discord:<@!117780585635643396>	Contact:https://github.com/audinowho
 		Croconaw Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Feraligatr Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Lugia Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
+		Shiftry Starter Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Swing,Double,Rotate,Hop,QuickStrike
 		Beldum Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Metang Shiny: Walk,Attack,MultiScratch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Metagross Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Ricochet,Rotate,Shoot,Sleep,Swing,Walk
 		Registeel Shiny: Walk,Attack,Strike,Shoot,Withdraw,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Staraptor: Double
+		Bibarel Starter Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Mothim Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Skuntank Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop
 		Skuntank Altcolor Shiny: Attack,Charge,Double,Eat,Fainted,Hop,Hurt,Idle,Jump,MultiStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
