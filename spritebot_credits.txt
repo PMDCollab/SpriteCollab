@@ -9358,7 +9358,7 @@ Richelieu	Discord:<@!155159458828255244>
 		Sawsbuck Autumn Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sawsbuck Winter Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
-ZoZoBab	Discord:<@!459080372672790548>	Contact:https://twitter.com/ZoZoBab
+ZoZoBab	Discord:<@!459080372672790548>	Contact:https://bsky.app/profile/zozobab.bsky.social
 	Portrait:
 		Frillish Female: Normal,Sad,Joyous,Happy,Inspired,Sigh,Pain,Stunned,Angry,Teary-Eyed,Worried,Determined
 		Sliggoo: Sad,Sigh,Stunned,Teary-Eyed,Worried
