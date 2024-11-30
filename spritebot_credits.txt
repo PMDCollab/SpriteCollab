@@ -6913,6 +6913,7 @@ Tacocoa	Discord:<@!234720295292895232>
 		Combee Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Combee Shiny Female: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Chatot Shiny: Walk,Attack,Strike,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Eat,Wiggle,Special1,Special2,Pain,Special3,Special4,Special5,Faint,Injured,Special6,Fainted
+		Chatot Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
 		Uxie Shiny: Walk,Attack,Strike,Shoot,SpAttack,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Shaymin Sky Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 
@@ -7130,6 +7131,7 @@ Anonymous	Discord:<@!200318546750865418>
 		Banette Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Torterra Shiny: Walk,Attack,Strike,Shoot,Rumble,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Spiritomb Shiny: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4,Special5
+		Spiritomb Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Riolu Shiny: Walk,Attack,QuickStrike,Strike,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Skorupi Shiny: Walk,Attack,Bite,Shoot,Jab,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pose
 		Finneon Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7139,6 +7141,7 @@ Anonymous	Discord:<@!200318546750865418>
 		Mesprit Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
 		Mesprit Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Azelf Shiny: Walk,Attack,Strike,Shoot,SpAttack,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Fainted
+		Azelf Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,Hover
 		Dialga Shiny: Walk,Attack,Scratch,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,Faint,Special0,Fainted
 		Dialga Starter Shiny: "
 		Heatran Shiny: Walk,Attack,Strike,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7540,6 +7543,7 @@ Reppamon	Discord:<@!162389028061052928>
 		Lairon Altcolor Shiny: Walk,Attack,Strike,Shoot,Dance,Emit,Rumble,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Aggron Altcolor Shiny: Walk,Attack,Strike,Shoot,Dance,Emit,Rumble,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,DigIn,DigOut
 		Volbeat Shiny: Walk,Attack,QuickStrike,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
+		Volbeat Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,QuickStrike
 		Illumise Altcolor Shiny: Walk,Attack,QuickStrike,Shoot,SpAttack,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
 		Numel Alternate Shiny: Walk,Attack,Strike,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Torkoal Shiny: Walk,Attack,Ricochet,Shoot,Withdraw,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7587,6 +7591,7 @@ Scizivire	Discord:<@!207188665959448576>
 		Honchkrow Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Snover Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint,Special0,Special1,Fainted,StandingUp
 		Snover Shiny Female: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Snover Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Abomasnow Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Tangrowth Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Electivire Shiny: Walk,Attack,QuickStrike,Shoot,Rumble,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
