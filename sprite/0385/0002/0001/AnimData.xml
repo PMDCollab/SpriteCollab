@@ -285,7 +285,7 @@
       <Name>Pose</Name>
       <Index>17</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>5</Duration>
@@ -343,7 +343,7 @@
       <Name>DeepBreath</Name>
       <Index>21</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>12</Duration>
         <Duration>6</Duration>
@@ -360,7 +360,7 @@
       <Name>Nod</Name>
       <Index>22</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
         <Duration>8</Duration>
@@ -382,7 +382,7 @@
       <Name>LookUp</Name>
       <Index>24</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
         <Duration>6</Duration>
