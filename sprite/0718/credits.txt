@@ -1,3 +1,4 @@
 2024-03-30 16:20:45.218165	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 2024-05-06 06:53:14.428868	JHONY_REX	CUR	CC_BY-NC_4	"
 2024-11-09 05:12:38.208525	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+2024-11-29 23:42:01.188118	<@!157796074457661440>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
