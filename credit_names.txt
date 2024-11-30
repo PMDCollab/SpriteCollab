@@ -1,20 +1,20 @@
 Name	Discord	Contact
 CHUNSOFT	CHUNSOFT	https://www.spike-chunsoft.com/
-Audino	<@!117780585635643396>	https://github.com/audinowho
+Audino	<@!117780585635643396>	https://twitter.com/audinowho
 SilverDeoxys563	<@!204460364023201793>	https://www.reddit.com/user/SilverDeoxys563
 Tacocoa	<@!234720295292895232>	
-Adrian	<@!218764902913802240>	<@218764902913802240>
-lokatts	<@!232091727094218752>	https://twitter.com/lokatts
-El_Pangoro_Parse	<@!200385851069300736>	<@200385851069300736>
+Adrian	<@!218764902913802240>	@lunupine
+Robin	<@!232091727094218752>	https://twitter.com/lokatts
+El_Pangoro_Parse	<@!200385851069300736>	Parse#6301
 Prismatic	<@!215699178553212929>	prismaticphenomenal@gmail.com
 Scizivire	<@!207188665959448576>	
 Pencil	<@!171030521009274881>	https://twitter.com/Sea_of_Pencils
 Avery	<@!527611425670037516>	
 PixlHoopa	<@!310773087417270272>	
 	<@!195280695009083392>	
-YoukaiMinori	<@!91001329228464128>	<@91001329228464128>
-lemongrass	<@!493293282064072715>	<@493293282064072715>
-frostibirb	<@!192178759376306176>	https://twitter.com/frostibirb
+	<@!91001329228464128>	
+	<@!493293282064072715>	
+frostibirb	<@!192178759376306176>	https://www.reddit.com/user/WinterWyv/
 NeroIntruder	<@!319945906600411179>	https://twitter.com/NeroIntruder
 Moo	<@!276949114212712449>	https://twitter.com/MoonMoonMemes
 Anonymous	<@!200318546750865418>	
@@ -30,11 +30,11 @@ DasK	<@!294668186219970562>	http://reddit.com/u/thedask
 	<@!589906152708505648>	
 Deltex12	<@!513590747694497792>	/u/Deltex12
 Fire_Scyther	<@!637407338772299776>	https://www.reddit.com/u/FireScyther
-Akai	<@!496039052370509824>	Akai#2823
+	<@!496039052370509824>	
 	<@!557599571170033664>	
 felis_licht	FELIS_LICHT	https://www.deviantart.com/felis-licht
 C_Pariah	<@!322382592202637322>	
-Aviivix	<@!196351316681818112>	https://twitter.com/aviivix/
+Aviivix	<@!196351316681818112>	Aviivix#2695
 RoyalRust	<@!388709039678423040>	
 Davilos	<@!457965696190513152>	https://www.deviantart.com/nddavilos
 Mojo	<@!314519507869761556>	
@@ -45,10 +45,10 @@ Palika	<@!118458522685014017>	https://twitter.com/_Palika_
 Vex	<@!157339721729572864>	
 	<@!288402314253959169>	
 Child-Of-Hades	CHILD_OF_HADES	https://www.deviantart.com/child-of-hades
-smartini	<@!136476806055198720>	https://github.com/CSCMe
+smartini	<@!136476806055198720>	smartini#1851
 JemDragons	<@!408301000445788180>	https://twitter.com/JemDragons?s=09
 Sunny	<@!273341077874802689>	https://twitter.com/temporalsunrise
-Deleca7755	<@!273958644788363265>	<https://www.deviantart.com/deleca-7755>
+Deleca7755	<@!273958644788363265>	Deleca7755#2927
 Atwer	<@!371674727183286272>	
 chime	<@!183561486893842432>	<@!183561486893842432>
 RibbonDove	<@!739154982044958801>	https://twitter.com/ribbondove
@@ -75,16 +75,16 @@ Meganai	<@!336650663293616140>
 Jarleypeño	JARLEYPENO	https://www.deviantart.com/applecone413
 <@!755070698753359913>	<@!755070698753359913>	
 Tainted#3886	<@!283571466891427841>	
-leafia_barrett	<@!149282718578901001>	leafbarrett@gmail.com
+	<@!149282718578901001>	
 	<@!469728607636422656>	
 	<@!199989579682414592>	
 XxWindpawxX	<@!192118698859954178>	<@!192118698859954178>
 smbmaster99	SMBMASTER99	https://forums.mfgg.net/member.php?action=profile&uid=95
-RelicCipher	<@!739304144552198285>	<@739304144552198285>
+RelicCipher	<@!739304144552198285>	RelicCipher#7442
 Dasawkem	<@!183136061487054848>	https://dasawkem.carrd.co/#social
 Sharpen	<@!389193348474339338>	
 Noivern	<@!150809243816165377>	https://twitter.com/notarealnoivern
-Noo	<@!217899432652308480>	comics.town/@noo
+Nooga	<@!217899432652308480>	https://www.deviantart.com/ubernooga
 Emmuffin	<@!356635814668664832>	https://twitter.com/Ernmuffin
 SuperFabbioGuy	<@!433058189240696835>	
 Frostdrop1	<@!173505019268694016>	
@@ -108,16 +108,16 @@ powercristal	POWERCRISTAL	https://www.deviantart.com/powercristal
 jackolanternjackalope	<@!784171246011023481>	https://www.instagram.com/jackolanternjackalope/
 LornaWR	<@!598484619897077761>	https://twitter.com/LornaWR_
 	<@!828520880299966525>	
-Precascer	<@!340299853345325056>	https://twitter.com/Precascer
+	<@!340299853345325056>	
 Mr_L	<@!177522243985866754>	
-Murpi	<@!593113130213572610>	https://bsky.app/profile/murpia57.bsky.social
+Murpi	<@!593113130213572610>	Murpi#5964
 "motherhenna(Helen)"	MOTHERHENNA	<@!543717476421074945>
 Fearless-Quit	<@!801938240562397194>	
-PhillipsYoung	<@!772726854188400641>	https://twitter.com/PhilliYoung196
+Phillips196	<@!772726854188400641>	<@772726854188400641>
 	<@!182636701460594688>	
 	<@!173876028593274880>	
 Pokenoice	<@!724070439051329616>	https://www.deviantart.com/adam1258
-deltaflare	<@!555360707617488904>	<@555360707617488904>
+EverAsh	<@!555360707617488904>	<@!555360707617488904>
 	<@!479369543958003731>	
 Emboarger	<@!237286997645983744>	
 	<@!215504160991346689>	
@@ -127,46 +127,44 @@ Blanca	<@!401608319762038794>
 	<@!104090628937220096>	
 JFain	<@!702275233125630042>	
 Reimu\_needs\_$$$	<@!378654902181691392>	<@!378654902181691392>
-Vendily	<@!329424896927203339>	<@329424896927203339>
+	<@!329424896927203339>	
 fledermaus	<@!388753676140806175>	https://www.furaffinity.net/user/fleder-maus/
 A_Lettuce	<@!655868413251551235>	
 	<@!228201428177387523>	
 	<@!196428059988066304>	
 Kevin0itachi	KEVIN0ITACHI	https://www.deviantart.com/kevin0itachi
-Top_Kec	<@!276369635304275968>	@topkec.bsky.social
+FunnyKecleonMeme	<@!276369635304275968>	FunnyKecleonMeme#1075
 Mond	<@!799737881538723891>	
 nataniel-sama	NATANIEL_SAMA	https://pokemon-reloaded.el-foro.net/
-Jhony-Rex	JHONY_REX	https://www.deviantart.com/jhony-rex
 	<@!632712420778836009>	
 	<@!306802821087625216>	
 KCN015	<@!358038459237138432>	
 AikoMaiko	<@!582978575486156821>	
 SirViolet	<@!262696514294513664>	
 Ichor	<@!779213287576436746>	
-JuanmaSG	<@!479305531522154507>	https://twitter.com/JuanmaSG55
-Caitemis	<@!330751862590406656>	https://caitemis-art.tumblr.com/
-Ray2064	<@!540823632054714388>	<@540823632054714388>
-avalancheman	<@!783493257506062387>	milesbehemoth@gmail.com
-◥θ┴θ◤	<@!215638650434617345>	
-MilesFarber	<@!207815740399681538>	https://github.com/MilesFarber
-Sugi	<@!537560911716810763>	<@537560911716810763>
+	<@!479305531522154507>	
+Caitemis	<@!330751862590406656>	https://www.deviantart.com/caitemis
+Ray2064	<@!540823632054714388>	Ray2064#5222
+	<@!783493257506062387>	
+Anonymous	<@!215638650434617345>	
+FlarosOverfield	<@!207815740399681538>	FlarosOverfield#2468
+Jeongsugi	<@!537560911716810763>	정수기#1834
 	<@!776403448220483615>	
 	<@!940303989680009339>	
 	<@!315528859921678336>	
 	<@!967585139485999154>	
 PikaNiko	<@!675870876532736010>	https://github.com/PikAsriel
 AlexGroeger	<@!141718238336778241>	
-Novie	<@!229363481852379136>	<https://twitter.com/themagolord>
-3Monika4	<@!270755102178934785>	<@270755102178934785>
-Orange	<@!304391035209908244>	https://linktr.ee/orangeoceann
-Gust	<@!861005464682889266>	https://twitter.com/Estelaris__
+VGStar	<@!229363481852379136>	VGStar#7739
+3Monika4	<@!270755102178934785>	Monika#7381
+Pepper	<@!304391035209908244>	https://twitter.com/thesaltypepper8
+Jhony-Rex	JHONY_REX	https://www.deviantart.com/jhony-rex
+	<@!861005464682889266>	
 Keldaan	<@!153547941401853952>	https://github.com/keldaan-ag
 	<@!970782000363474944>	
 Axcel	<@!662304890143375391>	
-Michael12	<@!653416391201783856>	https://www.deviantart.com/michael12dz
 LuchuIsASquirrel	<@!645827810048475136>	https://www.deviantart.com/luchuisasquirrel
-metalbear	METALBEAR	<@468408733433593856>
-NikolaP	<@!704349360929898516>	nikolasnonsense@gmail.com
+NikolaP	<@!704349360929898516>	<@704349360929898516>
 programmedsleepstate	<@!224476380790915072>	<@224476380790915072>
 ZoZoBab	<@!459080372672790548>	https://twitter.com/ZoZoBab
 	<@!571847167489343507>	
@@ -175,21 +173,23 @@ Pink_no_tori	<@!872983950732165181>	https://twitter.com/pink_avian_poke
 Grimlin	<@!217653022094786560>	https://twitter.com/Griimlin
 cosmosully	<@!411407718839222272>	https://twitter.com/cosmosully
 	<@!413387711152390145>	
-ShyStarryRain	<@!576876006636519434>	
+metalbear	METALBEAR	Mikael#4724
+ShyQuietRain	<@!576876006636519434>	
 	<@!136619914512433152>	
-SkeleJ64	<@!291732421332697098>	<@291732421332697098>
+	<@!291732421332697098>	
 	<@!319728945920475137>	
 Garbage	<@!350050109741858829>	https://twitter.com/Just_Tr4sh
-LightBlueBlaze	<@!283045864509800468>	LightBlueBlaze@gmail.com
-Dejais	<@!375676609283358722>	<@375676609283358722>
+	<@!283045864509800468>	
+	<@!375676609283358722>	
 Jelly	<@!402702516866908160>	https://www.deviantart.com/drjellystone
 	<@!345629918861983747>	
 TawnySoup	<@!216640380408430592>	https://twitter.com/TawnySoup
 skygummi	<@!138236921980649472>	https://twitter.com/skygummi
 Mooncaller	<@!181829556930347009>	<https://twitter.com/LunarPilgrim>
 lovefulpup	<@!280870537209839627>	
-Okami	<@!238146046146904069>	okamiromhacks@gmail.com
-EeveeandVulpix2000	<@!469246358180593668>	https://www.instagram.com/eeveeandvulpix2000/
+Michael12	<@!653416391201783856>	https://www.deviantart.com/michael12dz
+	<@!238146046146904069>	
+EeveeandVulpix2000	<@!469246358180593668>	
 Sceptile	<@!965734014604410990>	
 Spikey-Valentine	<@!454421330058805251>	https://twitter.com/spikeyvalentine?s=21&t=KmiqQo0hvuT6bxZFEGAKbA
 	<@!666846584310464552>	
@@ -202,12 +202,11 @@ distress	<@!177489961275097088>	artstation.com/distress
 NeonCityRain	<@!331183966508023808>	https://neoncityrain.tumblr.com/
 Yari	YARI	Yari#1038
 VersuS/CelestialDrago	<@!305445863235518464>	
-Chesyon	<@!178935491867967490>	https://linktr.ee/chesyon
+Chesyon	<@!178935491867967490>	https://twitter.com/chesyon
 3P1C	<@!169247379453640706>	
 Dutch-Spaniard	<@!529381471107022856>	
 NOLASMOR	<@!833717817445974046>	
 SingingMudkip	<@!220580080194289664>	
-Anon	<@!555919605265203232>	
 dariosparks	<@!399615223083958283>	
 ErrantWitch	<@!124232530651119618>	
 mothbeanie	<@!168876782575943680>	https://twitter.com/mothbeanie
@@ -215,14 +214,13 @@ Deeshura	<@!157796074457661440>	https://github.com/Deeshura
 Ginnie	<@!722542425196724289>	
 silverfox88	<@!476409795239477248>	https://twitter.com/realsilverfox88
 Hemlock	<@!165623433458089984>	https://baphomets.neocities.org/
-ZoroarkDX	<@!219123860417675265>	
 Limomon	<@!360948625901223950>	https://twitter.com/TheLimomon
 AllPatchedUp	<@!289213609773498368>	patchedupgalaxy@gmail.com
-Uni	<@!402958234371227648>	https://github.com/ArianaCastro01
 FrivolousAqua	<@!496032574179770379>	https://twitter.com/FrivolousAqua
 Bwappi	<@!193530896211509248>	https://www.tumblr.com/bwappi
+Anon	<@!555919605265203232>	
 shimx	<@!722565437925097613>	<@722565437925097613>
-Hanbei	<@!178669005538721792>	https://twitter.com/Hanbei
+	<@!178669005538721792>	
 Eliza	<@!176197318574342145>	https://twitter.com/elizathexpresso
 Maruvert	<@!263655958775857152>	
 Katach314	<@!503377084656254986>	katamari.roller.314@gmail.com
@@ -232,11 +230,13 @@ SuperLean23	<@!335107138106032140>	superlean023@gmail.com
 MeepTheMareep02	<@!251760205082263552>	https://instagram.com/meepy.starsheepy?igshid=NGVhN2U2NjQ0Yg==
 mixy:3	<@!1113856747564695633>	https://x.com/MixyPurple?s=20
 Blanky	<@!230913498916323329>	https://www.tumblr.com/theblankest123
+ZoroarkDX	<@!219123860417675265>	
+Uni	<@!402958234371227648>	https://github.com/ArianaCastro01
 Luna-Alex	<@!306213523057410048>	https://twitter.com/LunaAlex64
 Soulja	<@!229131140903075840>	https://twitter.com/OlSoulja
-	<@!288510084273668096>	
-DavKriz	<@!642311628557385738>	
+SonikkuA	<@!288510084273668096>	
 PoliteHoppip	<@!168414649039978496>	
+DavKriz	<@!642311628557385738>	
 Ariakyu	<@!417445868694667264>	https://www.reddit.com/u/SoggyMinimum8386/s/0ULdU1GVNj
 DeltaL	<@!272761782269902848>	averyderp.sm2@gmail.com
 	<@!439106499592192001>	
@@ -245,11 +245,11 @@ FissionCube	<@!203640888558223361>	https://twewyfinalmix.tumblr.com
 Trace_Was_Taken	<@!548668262616006668>	https://www.reddit.com/user/Timtanoboa/
 Cloudy	<@!356187016054046723>	https://twitter.com/cloudyskys17695
 Richelieu	<@!155159458828255244>	
-Inv3rse	<@!656696412087648257>	<@656696412087648257>
 Rustnuttie	<@!179733726421450752>	<@179733726421450752>
 electronvolt	<@!624279546845200394>	electronvolt@gamepad.club
 teddg	<@!255885525204992000>	<@255885525204992000>
 Gelius	<@!276428982683959296>	<@276428982683959296>
+Inv3rse	<@!656696412087648257>	<@656696412087648257>
 Cocosquid.	<@!1133042779782647808>	<@1133042779782647808>
 Pokejavi.	<@!823932975916777512>	<@823932975916777512>
 Semilia	<@!235878133499297793>	https://twitter.com/SemiSemily
