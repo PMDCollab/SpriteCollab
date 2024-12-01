@@ -6706,7 +6706,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Urshifu Rapid_Strike Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Gholdengo Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
-Tacocoa	Discord:<@!234720295292895232>
+Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 	Portrait:
 		Charmeleon Altcolor Shiny: Normal
 		Metapod Shiny: Normal
@@ -7013,7 +7013,7 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Porygon_Z Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Porygon_Z Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 
-Anonymous	Discord:<@!200318546750865418>
+Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 	Portrait:
 		Wartortle Altcolor Shiny: Normal
 		Butterfree Shiny: Normal
@@ -7577,7 +7577,7 @@ Adrian	Discord:<@!218764902913802240>	Contact:<@218764902913802240>
 	Sprite:
 		Staryu Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 
-Scizivire	Discord:<@!207188665959448576>
+Scizivire	Discord:<@!207188665959448576>	Contact:<@207188665959448576>
 	Portrait:
 		Castform Sunny Shiny: Normal
 		Castform Rainy Shiny: Normal
@@ -7785,7 +7785,7 @@ Smalusion	Discord:<@!177074597315870720>	Contact:https://twitter.com/Smalusion
 		Fennekin: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk,EventSleep,Float,Laying,Wake
 		Thievul: Attack,Idle,Walk,Charge,Double,Hop,Hurt,Rotate,Shoot,Sleep,Swing
 
-Avery	Discord:<@!527611425670037516>
+Avery	Discord:<@!527611425670037516>	Contact:<@527611425670037516>
 	Portrait:
 		Remoraid Shiny: Normal
 	Sprite:
@@ -9017,7 +9017,7 @@ JemDragons	Discord:<@!408301000445788180>	Contact:https://twitter.com/JemDragons
 		Magikarp Shiny Female: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Aggron Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
-C_Pariah	Discord:<@!322382592202637322>
+C_Pariah	Discord:<@!322382592202637322>	Contact:<@322382592202637322>
 	Portrait:
 		Lapras: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Lapras Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried

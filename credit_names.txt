@@ -2,14 +2,14 @@ Name	Discord	Contact
 CHUNSOFT	CHUNSOFT	https://www.spike-chunsoft.com/
 Audino	<@!117780585635643396>	https://github.com/audinowho
 SilverDeoxys563	<@!204460364023201793>	https://www.reddit.com/user/SilverDeoxys563
-Tacocoa	<@!234720295292895232>	
+Tacocoa	<@!234720295292895232>	<@234720295292895232>
 Adrian	<@!218764902913802240>	<@218764902913802240>
 lokatts	<@!232091727094218752>	https://twitter.com/lokatts
 El_Pangoro_Parse	<@!200385851069300736>	<@200385851069300736>
 Prismatic	<@!215699178553212929>	prismaticphenomenal@gmail.com
 Scizivire	<@!207188665959448576>	<@207188665959448576>
 Pencil	<@!171030521009274881>	https://twitter.com/Sea_of_Pencils
-Avery	<@!527611425670037516>	
+Avery	<@!527611425670037516>	<@527611425670037516>
 PixlHoopa	<@!310773087417270272>	
 	<@!195280695009083392>	
 YoukaiMinori	<@!91001329228464128>	<@91001329228464128>
@@ -17,7 +17,7 @@ lemongrass	<@!493293282064072715>	<@493293282064072715>
 frostibirb	<@!192178759376306176>	https://twitter.com/frostibirb
 NeroIntruder	<@!319945906600411179>	https://twitter.com/NeroIntruder
 Moo	<@!276949114212712449>	https://twitter.com/MoonMoonMemes
-Anonymous	<@!200318546750865418>	
+Anonymous	<@!200318546750865418>	<@200318546750865418>
 RaoKurai	<@!173896352554549248>	https://twitter.com/RaoKurai
 Lovi	<@!95650095034273792>	
 Reppamon	<@!162389028061052928>	
@@ -33,7 +33,7 @@ Fire_Scyther	<@!637407338772299776>	https://www.reddit.com/u/FireScyther
 Akai	<@!496039052370509824>	Akai#2823
 	<@!557599571170033664>	
 felis_licht	FELIS_LICHT	https://www.deviantart.com/felis-licht
-C_Pariah	<@!322382592202637322>	
+C_Pariah	<@!322382592202637322>	<@322382592202637322>
 Aviivix	<@!196351316681818112>	https://twitter.com/aviivix/
 RoyalRust	<@!388709039678423040>	
 Davilos	<@!457965696190513152>	https://www.deviantart.com/nddavilos
