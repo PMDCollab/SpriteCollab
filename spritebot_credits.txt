@@ -7675,7 +7675,7 @@ Pencil	Discord:<@!171030521009274881>	Contact:https://twitter.com/Sea_of_Pencils
 		Dratini Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Noctowl Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
 
-Chi	Discord:<@!95638225439166464>
+Chi	Discord:<@!95638225439166464>	Contact:<@95638225439166464>
 	Portrait:
 		Dunsparce Shiny: Normal,Sigh,Stunned,Surprised
 		Snubbull Shiny: Normal,Surprised,Teary-Eyed
