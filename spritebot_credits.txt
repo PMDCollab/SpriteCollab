@@ -7288,6 +7288,7 @@ Lovi	Discord:<@!95650095034273792>
 		Miltank Shiny: Walk,Attack,Stomp,Shoot,Appeal,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Blissey Shiny: Walk,Attack,Punch,MultiStrike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Suicune Shiny: Walk,Attack,Strike,Shoot,RearUp,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Roar
+		Suicune Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Larvitar Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Sceptile Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Mawile Altcolor Shiny: Walk,Attack,Bite,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7422,6 +7423,7 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Teddiursa Shiny: Walk,Attack,MultiScratch,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ursaring Shiny: Walk,Attack,MultiStrike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Entei Shiny: Walk,Attack,Strike,Shoot,Rumble,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Roar
+		Entei Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Ho_Oh Shiny: Walk,Attack,Jab,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Nincada Shiny: Walk,Attack,MultiScratch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ninjask Shiny: Walk,Attack,MultiScratch,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7694,6 +7696,7 @@ Chi	Discord:<@!95638225439166464>
 		Slugma Shiny: Walk,Attack,Strike,Shoot,Rumble,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Kingdra Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Raikou Shiny: Walk,Attack,QuickStrike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Roar
+		Raikou Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Feebas Shiny: Walk,Attack,Strike,Shoot,FlapAround,Dance,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Sealeo Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Walrein Shiny: Walk,Attack,Strike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
