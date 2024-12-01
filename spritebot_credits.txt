@@ -4985,6 +4985,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Milotic Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Milotic Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Milotic Alternate Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Kecleon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swell,Swing,Double,Rotate,Hop
 		Banette Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Banette Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Duskull Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,Pose
@@ -4993,10 +4994,13 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tropius: Eat
 		Tropius Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,Eat
 		Tropius Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,Eat
+		Snorunt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Special0
 		Spheal Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Sealeo Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Sealeo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Sealeo Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
+		Walrein Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0
+		Walrein Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Walrein Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Salamence: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Salamence Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -6908,7 +6912,6 @@ Tacocoa	Discord:<@!234720295292895232>
 		Absol Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Jump,QuickStrike,Rotate,Shoot,Sleep,SpAttack,Special0,Special1,Swing,Walk
 		Wynaut Shiny: Walk,Attack,Strike,Shoot,SpAttack,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Bow
 		Wynaut Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,Swing,Double,Rotate,Hop
-		Snorunt Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
 		Glalie Shiny: Walk,Attack,Bite,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Spheal Shiny: Walk,Attack,Strike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Gorebyss Shiny: Walk,Attack,QuickStrike,Shoot,SpAttack,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7699,7 +7702,6 @@ Chi	Discord:<@!95638225439166464>
 		Raikou Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Feebas Shiny: Walk,Attack,Strike,Shoot,FlapAround,Dance,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Sealeo Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Walrein Shiny: Walk,Attack,Strike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
 		Luvdisc Shiny: Walk,Attack,QuickStrike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Regirock Shiny: Walk,Attack,Strike,Shoot,Withdraw,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Jirachi Altcolor: ",Special0,Special1,Special2
