@@ -4843,8 +4843,10 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Pinsir Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Twirl,Swing,Double,Rotate,Hop
 		Tauros Paldea Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Tauros Paldea_Blaze Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
+		Gyarados Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Gyarados Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Gyarados Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
+		Gyarados Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Eevee Female: Walk,Attack,Strike,Shoot,Appeal,TailWhip,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Eevee Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Eevee Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -4855,6 +4857,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Snorlax Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Zapdos Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,StandingUp,Injured
 		Zapdos Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
+		Moltres Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,Pose,StandingUp,Injured,Special0
+		Moltres Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Dragonair Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Ricochet,Swing,Double,Rotate,Hop
 		Bayleef Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cyndaquil Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -7424,7 +7428,6 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Articuno Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,StandingUp,Special0,Pose
 		Articuno Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Zapdos Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,StandingUp
-		Moltres Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,StandingUp,Special0,Pose
 		Dragonite Shiny: Attack,Charge,Double,Emit,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Mewtwo Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Punch,Rotate,Shoot,Sleep,Swing,Walk
 		Natu Shiny: Walk,Attack,Jab,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
