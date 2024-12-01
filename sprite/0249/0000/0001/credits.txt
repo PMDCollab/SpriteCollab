@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.168785	<@!117780585635643396>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
+2024-12-01 19:07:51.588114	<@!117780585635643396>	CUR	CC_BY-NC_4	Shoot,Swing,Double,Hop,Special0
