@@ -226,5 +226,64 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
+		<Anim>
+			<Name>DigIn</Name>
+			<Index>13</Index>
+			<FrameWidth>80</FrameWidth>
+			<FrameHeight>80</FrameHeight>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>8</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>6</Duration>
+				<Duration>4</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>DigOut</Name>
+			<Index>14</Index>
+			<FrameWidth>96</FrameWidth>
+			<FrameHeight>88</FrameHeight>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

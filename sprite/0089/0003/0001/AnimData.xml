@@ -202,5 +202,30 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
+		<Anim>
+			<Name>Pain</Name>
+			<Index>13</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>32</FrameHeight>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

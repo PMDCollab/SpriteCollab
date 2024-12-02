@@ -1,5 +1,2 @@
-2020-10-07 17:58:44.853951	CHUNSOFT	CUR	Unspecified	Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
-2021-08-17 05:15:31.121235	<@!544245909639397378>	CUR	PMDCollab_1	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Special20,Swing,Trip,Tumble,TumbleBack,Wake,Walk
-2021-08-20 20:19:59.761550	<@!117780585635643396>	OLD	PMDCollab_1	Special0,Special1,Special2
-2021-08-22 22:04:21.284935	<@!544245909639397378>	CUR	PMDCollab_1	Laying,Pose
-2023-03-16 06:05:24.352811	<@!544245909639397378>	CUR	PMDCollab_1	EventSleep,Wake,Eat,Tumble,Pull,Pain,Float,DeepBreath,Nod,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,HitGround,Faint
+2022-11-08 03:47:19.670949	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike
+2022-11-08 04:14:41.871948	<@!544245909639397378>	CUR	PMDCollab_1	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint

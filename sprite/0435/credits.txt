@@ -1,2 +1,1 @@
-2020-10-07 17:58:44.684405	CHUNSOFT	CUR	Unspecified	Attack,Charge,Double,Eat,Fainted,Hop,Hurt,Idle,Jump,MultiStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
-2021-09-12 23:18:29.030040	<@!237286997645983744>	CUR	PMDCollab_1	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Fainted,Float,Head,Hop,Hurt,Idle,Jump,LookUp,MultiStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
+2022-11-08 03:47:55.589522	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop

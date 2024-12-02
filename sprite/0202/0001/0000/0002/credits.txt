@@ -1,1 +1,1 @@
-2022-12-16 20:07:35.059491	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,Swing,Double,Rotate,Hop
+2020-10-07 17:58:43.957744	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,SpAttack,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pose,Special0,Special1

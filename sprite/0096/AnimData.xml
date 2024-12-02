@@ -219,34 +219,6 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-		<Anim>
-			<Name>Special0</Name>
-			<Index>13</Index>
-			<FrameWidth>24</FrameWidth>
-			<FrameHeight>32</FrameHeight>
-			<Durations>
-				<Duration>8</Duration>
-				<Duration>8</Duration>
-				<Duration>8</Duration>
-				<Duration>16</Duration>
-			</Durations>
-		</Anim>
-		<Anim>
-			<Name>Faint</Name>
-			<Index>14</Index>
-			<FrameWidth>32</FrameWidth>
-			<FrameHeight>40</FrameHeight>
-			<Durations>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>4</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-			</Durations>
-		</Anim>
+
 	</Anims>
 </AnimData>

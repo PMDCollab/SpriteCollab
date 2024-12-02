@@ -229,7 +229,7 @@
 		</Anim>
 		<Anim>
 			<Name>Eat</Name>
-			<Index>13</Index>
+			<Index>15</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>40</FrameHeight>
 			<Durations>
@@ -241,7 +241,7 @@
 		</Anim>
 		<Anim>
 			<Name>Pose</Name>
-			<Index>14</Index>
+			<Index>17</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>40</FrameHeight>
 			<Durations>
@@ -250,15 +250,6 @@
 				<Duration>8</Duration>
 			</Durations>
 		</Anim>
-		<Anim>
-			<Name>EventSleep</Name>
-			<Index>15</Index>
-			<FrameWidth>32</FrameWidth>
-			<FrameHeight>24</FrameHeight>
-			<Durations>
-				<Duration>30</Duration>
-				<Duration>35</Duration>
-			</Durations>
-		</Anim>
+
 	</Anims>
 </AnimData>

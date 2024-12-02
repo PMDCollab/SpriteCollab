@@ -242,25 +242,6 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-		<Anim>
-			<Name>Fainted</Name>
-			<Index>13</Index>
-			<FrameWidth>40</FrameWidth>
-			<FrameHeight>32</FrameHeight>
-			<Durations>
-				<Duration>10</Duration>
-			</Durations>
-		</Anim>
-		<Anim>
-			<Name>Pose</Name>
-			<Index>14</Index>
-			<FrameWidth>40</FrameWidth>
-			<FrameHeight>40</FrameHeight>
-			<Durations>
-				<Duration>12</Duration>
-				<Duration>2</Duration>
-				<Duration>8</Duration>
-			</Durations>
-		</Anim>
+
 	</Anims>
 </AnimData>

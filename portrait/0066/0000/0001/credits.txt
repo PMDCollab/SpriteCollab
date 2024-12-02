@@ -1,3 +1,4 @@
-2020-10-07 17:58:43.530885	<@!117780585635643396>	OLD	PMDCollab_1	Angry,Crying,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Special0,Surprised,Teary-Eyed,Worried
-2021-04-01 09:38:17.705595	<@!356635814668664832>	OLD	PMDCollab_1	Determined,Dizzy,Sigh,Stunned
-2023-03-26 15:41:47.895142	<@!593113130213572610>	CUR	PMDCollab_1	Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+2023-03-19 06:11:09.318137	<@!356635814668664832>	OLD	PMDCollab_1	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried
+2023-03-26 15:41:52.697879	<@!593113130213572610>	CUR	PMDCollab_1	Normal,Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Worried
+2024-02-09 18:12:29.131737	<@!593113130213572610>	CUR	PMDCollab_2	Joyous,Sigh,Stunned,Dizzy,Determined
+2024-02-26 19:58:54.233600	<@!593113130213572610>	CUR	CC_BY-NC_4	Shouting

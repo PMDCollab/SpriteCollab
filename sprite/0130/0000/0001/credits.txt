@@ -1,3 +1,2 @@
-2020-10-07 17:58:43.703423	<@!207188665959448576>	OLD	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk,Wiggle
-2022-01-26 01:41:51.399965	<@!217899432652308480>	CUR	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk,Wiggle
-2024-12-01 22:46:37.611640	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Wiggle
+2024-12-01 19:01:54.162498	<@!217899432652308480>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
+2024-12-01 19:55:07.203789	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop

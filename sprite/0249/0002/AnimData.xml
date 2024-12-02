@@ -210,5 +210,23 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
+		<Anim>
+			<Name>Special0</Name>
+			<Index>13</Index>
+			<FrameWidth>80</FrameWidth>
+			<FrameHeight>128</FrameHeight>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>8</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>4</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

@@ -1,1 +1,4 @@
-2023-10-21 18:47:06.068431	<@!356635814668664832>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
+2020-10-07 17:58:44.772170	<@!117780585635643396>	OLD	PMDCollab_1	Walk,Attack,QuickStrike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1
+2022-11-26 15:49:16.800121	<@!330751862590406656>	OLD	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,QuickStrike
+2023-04-22 20:54:29.406492	<@!215638650434617345>	OLD	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,QuickStrike,Special0,Special1
+2023-10-21 18:46:55.017492	<@!356635814668664832>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,QuickStrike,Special0,Special1

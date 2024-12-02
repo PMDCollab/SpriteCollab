@@ -1,3 +1,3 @@
-2020-10-07 17:58:44.463995	<@!234720295292895232>	CUR	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Idle,Jump,QuickStrike,Rotate,Shoot,Sleep,SpAttack,Special0,Special1,Swing,Walk
-2021-11-01 10:01:18.285784	<@!702275233125630042>	CUR	PMDCollab_1	Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
-2022-01-28 03:56:51.119401	<@!217899432652308480>	CUR	PMDCollab_1	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Jump,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
+2022-10-30 16:35:49.479352	<@!330751862590406656>	OLD	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-02-17 17:54:37.520003	<@!217899432652308480>	CUR	PMDCollab_1	"
+2024-01-19 03:34:39.127503	<@!157796074457661440>	CUR	PMDCollab_2	SpAttack

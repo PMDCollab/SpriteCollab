@@ -1,1 +1,3 @@
-2022-12-16 23:48:21.416574	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
+2020-10-07 17:58:43.552826	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
+2024-03-08 03:17:10.357523	<@!356635814668664832>	CUR	CC_BY-NC_4	Special0
+2024-03-13 02:29:22.566405	<@!356635814668664832>	CUR	CC_BY-NC_4	Tumble,Cringe,TumbleBack

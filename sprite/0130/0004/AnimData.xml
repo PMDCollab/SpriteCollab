@@ -224,6 +224,17 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-
+		<Anim>
+			<Name>Wiggle</Name>
+			<Index>13</Index>
+			<FrameWidth>48</FrameWidth>
+			<FrameHeight>104</FrameHeight>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

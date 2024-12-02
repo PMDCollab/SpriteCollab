@@ -234,6 +234,29 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-
+		<Anim>
+			<Name>Roar</Name>
+			<Index>13</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>56</FrameHeight>
+			<Durations>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>14</Duration>
+				<Duration>4</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>14</Duration>
+				<Duration>4</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

@@ -1,1 +1,2 @@
-2023-07-20 00:21:30.144578	<@!593113130213572610>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,QuickStrike
+2020-10-07 17:58:44.232615	<@!276949114212712449>	CUR	PMDCollab_1	Walk,Attack,MultiScratch,Shoot,QuickStrike,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1
+2023-07-20 00:21:22.291697	<@!593113130213572610>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,QuickStrike,Special0,Special1

@@ -1,1 +1,1 @@
-2023-05-13 19:57:36.753575	<@!200318546750865418>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop
+2020-10-07 17:58:43.818116	<@!200318546750865418>	CUR	PMDCollab_1	Walk,Attack,Strike,Sing,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Jump,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Nod

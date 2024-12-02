@@ -1,2 +1,3 @@
-2024-07-04 18:56:22.471039	CHUNSOFT	CUR	CC_BY-NC_4	Normal,Sad,Happy,Sigh,Pain,Surprised,Stunned,Teary-Eyed,Dizzy,Special2,Determined
-2024-07-04 19:01:25.594672	<@!861005464682889266>	CUR	CC_BY-NC_4	Joyous,Crying,Inspired,Shouting,Angry,Worried,Special0
+2022-08-24 06:49:31.815155	CHUNSOFT	CUR	Unspecified	Normal,Sad,Happy,Inspired,Pain,Surprised,Teary-Eyed,Dizzy,Determined
+2022-08-25 23:26:59.102574	<@!861005464682889266>	CUR	PMDCollab_1	Joyous,Crying,Sigh,Shouting,Angry,Worried
+2022-08-26 16:43:24.022200	<@!356635814668664832>	CUR	PMDCollab_1	Surprised,Stunned

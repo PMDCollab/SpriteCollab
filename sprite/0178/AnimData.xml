@@ -198,53 +198,6 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-		<Anim>
-			<Name>Special0</Name>
-			<Index>13</Index>
-			<FrameWidth>32</FrameWidth>
-			<FrameHeight>40</FrameHeight>
-			<Durations>
-				<Duration>20</Duration>
-				<Duration>8</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>1</Duration>
-				<Duration>20</Duration>
-			</Durations>
-		</Anim>
-		<Anim>
-			<Name>Special1</Name>
-			<Index>14</Index>
-			<FrameWidth>24</FrameWidth>
-			<FrameHeight>40</FrameHeight>
-			<Durations>
-				<Duration>10</Duration>
-			</Durations>
-		</Anim>
-		<Anim>
-			<Name>Special2</Name>
-			<Index>15</Index>
-			<FrameWidth>24</FrameWidth>
-			<FrameHeight>40</FrameHeight>
-			<HitFrame>5</HitFrame>
-			<ReturnFrame>9</ReturnFrame>
-			<Durations>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-				<Duration>2</Duration>
-			</Durations>
-		</Anim>
+		
 	</Anims>
 </AnimData>

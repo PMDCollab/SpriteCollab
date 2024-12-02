@@ -227,5 +227,48 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
+		<Anim>
+			<Name>Special0</Name>
+			<Index>13</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>48</FrameHeight>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>8</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>8</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>8</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>8</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+				<Duration>6</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

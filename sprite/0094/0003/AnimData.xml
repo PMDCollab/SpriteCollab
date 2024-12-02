@@ -225,8 +225,58 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>EventSleep</Name>
+      <Name>Special0</Name>
       <Index>13</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>10</Duration>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+        <Duration>2</Duration>
+        <Duration>14</Duration>
+        <Duration>4</Duration>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
+        <Duration>12</Duration>
+        <Duration>15</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Special1</Name>
+      <Index>14</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>12</Duration>
+        <Duration>12</Duration>
+        <Duration>16</Duration>
+        <Duration>12</Duration>
+        <Duration>12</Duration>
+        <Duration>16</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Special2</Name>
+      <Index>15</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>EventSleep</Name>
+      <Index>35</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
@@ -236,7 +286,7 @@
     </Anim>
     <Anim>
       <Name>Wake</Name>
-      <Index>14</Index>
+      <Index>36</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
@@ -249,7 +299,7 @@
     </Anim>
     <Anim>
       <Name>Eat</Name>
-      <Index>15</Index>
+      <Index>37</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>

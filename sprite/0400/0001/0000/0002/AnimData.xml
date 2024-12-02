@@ -221,5 +221,15 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
+		<Anim>
+			<Name>Wave</Name>
+			<Index>13</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>32</FrameHeight>
+			<Durations>
+				<Duration>10</Duration>
+				<Duration>10</Duration>
+			</Durations>
+		</Anim>
 	</Anims>
 </AnimData>

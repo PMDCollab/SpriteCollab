@@ -1,1 +1,1 @@
-2024-11-30 20:01:07.107143	<@!200318546750865418>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
+2020-10-07 17:58:44.702357	<@!200318546750865418>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4,Special5

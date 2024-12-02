@@ -218,16 +218,6 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
-		<Anim>
-			<Name>Special0</Name>
-			<Index>13</Index>
-			<FrameWidth>24</FrameWidth>
-			<FrameHeight>32</FrameHeight>
-			<Durations>
-				<Duration>4</Duration>
-				<Duration>4</Duration>
-				<Duration>4</Duration>
-			</Durations>
-		</Anim>
+
 	</Anims>
 </AnimData>

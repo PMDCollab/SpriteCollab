@@ -1,1 +1,1 @@
-2023-02-17 17:53:42.961170	<@!234720295292895232>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
+2020-10-07 17:58:43.462069	<@!234720295292895232>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Nod,Eat,Fainted
