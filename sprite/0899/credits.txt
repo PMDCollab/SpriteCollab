@@ -1,0 +1,1 @@
+2024-12-02 04:05:53.670232	<@!224988883182551040>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
