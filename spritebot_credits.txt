@@ -5114,6 +5114,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Snivy Shiny: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Oshawott: Walk,Attack,Strike,Twirl,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Oshawott Shiny: Walk,Attack,Strike,Twirl,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Excadrill Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Audino: EventSleep,Eat,Cringe
 		Audino Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Eat,Pose,Cringe
 		Cottonee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -5184,6 +5185,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Honedge Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Doublade: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,SpAttack,Swing,Double,Rotate,Hop,Cringe,Special0
 		Doublade Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,SpAttack,Swing,Double,Rotate,Hop,Cringe,Special0
+		Inkay Shiny: Idle,Walk,Sleep,Attack,Charge,Slam,Twirl,Swing,Double,Rotate
+		Malamar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Helioptile: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Helioptile Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Heliolisk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop,Cringe
@@ -5224,6 +5227,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Fomantis: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Fomantis Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Salazzle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Bewear Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slap,Twirl,Swing,Double,Rotate,Hop
+		Passimian Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Wimpod Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Sandygast: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Sandygast Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -5233,6 +5238,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Togedemaru Shiny: Walk,Attack,QuickStrike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Strike,Withdraw,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Drampa: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Drampa Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Jangmo_o Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Nihilego: Walk,Attack,Strike,Slam,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Nihilego Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Swing,Walk
 		Pheromosa: Charge
@@ -5250,7 +5256,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Wooloo Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Stomp,Swing,Walk
 		Chewtle: Idle,Walk,Charge,Swing,Double,Rotate
 		Chewtle Shiny: Idle,Walk,Charge,Swing,Double,Rotate
-		Yamper Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Yamper: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Yamper Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Applin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Applin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Applin No_Apple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -5259,6 +5266,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Appletun Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Silicobra Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Sizzlipede Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
+		Centiskorch Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Clobbopus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,Cringe
 		Clobbopus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,Cringe,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
 		Polteageist Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -5332,6 +5341,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Alcremie Rainbow_Swirl_Clover_Sweet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Alcremie Rainbow_Swirl_Flower_Sweet: Walk,Attack,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Alcremie Rainbow_Swirl_Ribbon_Sweet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Alcremie Gigantamax Shiny: Idle,Rotate
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Frosmoth Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Stonjourner: Idle,Walk,Attack,Shake,Double,Rotate
@@ -5359,6 +5369,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sprigatito Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Crocalor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Skeledirge Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Spidops Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Tandemaus Shirt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Tandemaus Pants Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Fidough: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Float,Laying,Head,Cringe,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,LostBalance,TumbleBack,HitGround,Faint
@@ -5367,11 +5378,13 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Smoliv Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Swing,Double,Rotate,Hop
 		Charcadet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Charcadet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Tadbulb Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Tinkaton: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Tinkaton Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Wiglett Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Wiggle
 		Varoom Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Revavroom Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Twirl,SpAttack,Swing,Double,Rotate,Hop
+		Scream_Tail Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Withdraw,Swing,Double,Rotate,Hop
 		Slither_Wing Shiny: Idle,Rotate
 		Frigibax Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
@@ -8420,6 +8433,10 @@ Shitpost_Sunkern	Discord:<@!292039958829727744>	Contact:https://www.youtube.com/
 		Flapple Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Clodsire Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 
+Discord:<@!713792248348672040>
+	Sprite:
+		Tynamo: Idle,Walk,Rotate
+
 FrivolousAqua	Discord:<@!496032574179770379>	Contact:https://twitter.com/FrivolousAqua
 	Portrait:
 		Zygarde Core: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
@@ -8562,7 +8579,6 @@ RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
 		Yamper Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special3
 	Sprite:
 		Yamper: Walk,Attack,Strike,Shoot,Dance,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
-		Yamper Shiny: Walk,Attack,Strike,Shoot,Dance,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 
 VOID	Discord:<@!224988883182551040>	Contact:<@224988883182551040>
 	Sprite:
