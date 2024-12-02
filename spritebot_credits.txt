@@ -7443,8 +7443,6 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Xatu Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2
 		Teddiursa Shiny: Walk,Attack,MultiScratch,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ursaring Shiny: Walk,Attack,MultiStrike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Entei Shiny: Walk,Attack,Strike,Shoot,Rumble,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Roar
-		Entei Starter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Ho_Oh Shiny: Walk,Attack,Jab,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Nincada Shiny: Walk,Attack,MultiScratch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ninjask Shiny: Walk,Attack,MultiScratch,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7602,8 +7600,6 @@ Scizivire	Discord:<@!207188665959448576>	Contact:<@207188665959448576>
 		Electabuzz Shiny: Walk,Attack,Punch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Magikarp Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Magikarp Shiny Female: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Gyarados Shiny: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk,Wiggle
-		Gyarados Shiny Female: Walk,Attack,Strike,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ditto Altcolor Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk
 		Murkrow Shiny: Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Piloswine Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
