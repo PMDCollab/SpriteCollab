@@ -5126,6 +5126,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Krokorok Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Zorua: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Zorua Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
+		Cinccino Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,TailWhip,Swing,Double,Rotate,Hop,Eat
 		Solosis Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 		Duosion: Attack,Shoot
 		Duosion Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Pain
@@ -5238,7 +5239,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Togedemaru Shiny: Walk,Attack,QuickStrike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Strike,Withdraw,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Drampa: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Drampa Shiny: Walk,Attack,Strike,Shoot,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Jangmo_o Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Jangmo_o Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Nihilego: Walk,Attack,Strike,Slam,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Nihilego Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Swing,Walk
 		Pheromosa: Charge
@@ -8404,7 +8405,6 @@ Keldaan	Discord:<@!153547941401853952>	Contact:https://github.com/keldaan-ag
 		Vanilluxe Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dewpider Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Araquanid Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
-		Jangmo_o Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Toxel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
 mixy:3	Discord:<@!1113856747564695633>	Contact:https://x.com/MixyPurple?s=20
