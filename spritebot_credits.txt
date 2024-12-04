@@ -7524,6 +7524,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Dreepy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack
 		Drakloak: Idle,Walk,Sleep,Hurt,Attack,Strike
+		Zacian Crowned: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
 		Eternatus: Attack,Idle,Rotate,Walk
 
 FissionCube	Discord:<@!203640888558223361>	Contact:https://twewyfinalmix.tumblr.com
