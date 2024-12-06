@@ -8463,7 +8463,7 @@ ZoroarkDX	Discord:<@!219123860417675265>
 	Sprite:
 		Pyroar Female: "
 
-TawnySoup	Discord:<@!216640380408430592>	Contact:https://twitter.com/TawnySoup
+TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
 	Portrait:
 		Ekans: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ekans Cutscene: Sad,Joyous,Special1,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
