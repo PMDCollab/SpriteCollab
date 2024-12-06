@@ -7713,6 +7713,7 @@ NeonCityRain	Discord:<@!331183966508023808>	Contact:https://neoncityrain.tumblr.
 		Sylveon: Special2,Special2^
 		Sylveon Shiny: Special1,Special1^,Special2,Special2^
 		Silicobra: Normal,Sad,Happy,Teary-Eyed
+		Silicobra Shiny: Normal,Sad,Happy,Teary-Eyed
 	Sprite:
 		Primeape Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Minccino Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Dance,Sing,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
