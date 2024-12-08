@@ -9213,6 +9213,7 @@ AlexGroeger	Discord:<@!141718238336778241>
 SpectrumStars	Discord:<@!1038631037284126741>	Contact:https://x.com/numbertism
 	Portrait:
 		Mewtwo Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Grovyle Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 SuperLean23	Discord:<@!335107138106032140>	Contact:superlean023@gmail.com
 	Portrait:
