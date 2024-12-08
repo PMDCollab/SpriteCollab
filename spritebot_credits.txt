@@ -7895,6 +7895,14 @@ RaoKurai	Discord:<@!173896352554549248>	Contact:https://twitter.com/RaoKurai
 		Budew Shiny: Walk,Attack,Strike,Shoot,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Togekiss Shiny: Walk,Attack,QuickStrike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 
+SpectrumStars	Discord:<@!1038631037284126741>	Contact:https://x.com/numbertism
+	Portrait:
+		Mewtwo Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Grovyle Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+	Sprite:
+		Lapras Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swing,Double,Rotate,Hop
+		Grovyle Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+
 dmDash	Discord:<@!474262233442942995>
 	Portrait:
 		Gabite: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9209,11 +9217,6 @@ AlexGroeger	Discord:<@!141718238336778241>
 	Portrait:
 		Dragonite: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dragonite Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-
-SpectrumStars	Discord:<@!1038631037284126741>	Contact:https://x.com/numbertism
-	Portrait:
-		Mewtwo Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Grovyle Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 SuperLean23	Discord:<@!335107138106032140>	Contact:superlean023@gmail.com
 	Portrait:
