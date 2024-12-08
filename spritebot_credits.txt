@@ -8499,6 +8499,10 @@ TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
 		Inteleon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Inteleon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
+Leif	Discord:<@!883792430720225350>
+	Sprite:
+		Helioptile: Sleep,Attack,Charge,Shoot,Strike,Twirl,Shock,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 Tainted#3886	Discord:<@!283571466891427841>
 	Portrait:
 		Pidgeotto: Normal,Worried
