@@ -7715,6 +7715,7 @@ Discord:<@!195280695009083392>
 
 NeonCityRain	Discord:<@!331183966508023808>	Contact:https://neoncityrain.tumblr.com/
 	Portrait:
+		Furfrou: Normal,Special3
 		Sylveon: Special2,Special2^
 		Sylveon Shiny: Special1,Special1^,Special2,Special2^
 		Silicobra: Normal,Sad,Happy,Teary-Eyed
