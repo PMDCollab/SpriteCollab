@@ -9300,6 +9300,10 @@ PixlHoopa	Discord:<@!310773087417270272>
 	Portrait:
 		Electrike Shiny: Normal
 
+FalafelPorpoise	Discord:<@!338821717365489665>	Contact:https://bsky.app/profile/falafel-porpoise.bsky.social
+	Portrait:
+		Wailord: Happy,Teary-Eyed
+
 Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 	Portrait:
 		Lileep: Happy,Normal
