@@ -1948,6 +1948,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Stunfisk Shiny: Normal
 		Mienfoo: Normal,Joyous,Determined
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy,Determined
+		Hydreigon Alternate: Normal,Special1,Happy
 		Larvesta: Normal
 		Volcarona: Normal
 		Volcarona Shiny: Normal
