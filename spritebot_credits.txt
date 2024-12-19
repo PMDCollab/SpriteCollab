@@ -1949,6 +1949,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Mienfoo: Normal,Joyous,Determined
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy,Determined
 		Hydreigon Alternate: Normal,Special1,Happy
+		Hydreigon Alternate Shiny: Normal,Special1,Happy
 		Larvesta: Normal
 		Volcarona: Normal
 		Volcarona Shiny: Normal
@@ -4828,6 +4829,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Graveler Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Rumble,SpAttack,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Special0
 		Graveler Altcolor Shiny: Tumble,Cringe,TumbleBack,Special0
 		Golem: Special0
+		Golem Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop,Special0
 		Golem Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
 		Golem Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
 		Golem Cutscene: Special0,Tumble,Cringe,TumbleBack
