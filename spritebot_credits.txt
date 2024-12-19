@@ -3103,6 +3103,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Cyclizar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Orthworm: Idle,Walk,Sleep,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Greavard: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,TailWhip,Swing,Double,Rotate,Hop
+		Greavard Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
 		Houndstone: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,TailWhip,Swing,Double,Rotate,Hop
 		Tatsugiri Stretchy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Tatsugiri Stretchy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
