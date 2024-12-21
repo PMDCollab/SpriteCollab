@@ -7740,6 +7740,17 @@ NeonCityRain	Discord:<@!331183966508023808>	Contact:https://neoncityrain.tumblr.
 		Primeape Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Minccino Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Dance,Sing,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
+Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
+	Sprite:
+		Alakazam Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Gengar Mega: Idle,Walk,Sleep,Hurt,Charge,Twirl,Swing,Double,Rotate
+		Darmanitan: Idle,Walk,Hurt,Attack,Emit,Rotate,Hop,QuickStrike
+		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Talonflame: Idle,Walk,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
+		Golisopod: "
+		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Raging_Bolt: Idle,Swing,Double,Rotate
+
 Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 	Sprite:
 		Ponyta Galar: Idle,Walk,Sleep,Hurt,RearUp,Rotate
@@ -7764,16 +7775,6 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 FissionCube	Discord:<@!203640888558223361>	Contact:https://twewyfinalmix.tumblr.com
 	Sprite:
 		Slowpoke Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-
-Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/michael12dz
-	Sprite:
-		Gengar Mega: Idle,Walk,Sleep,Hurt,Charge,Twirl,Swing,Double,Rotate
-		Darmanitan: Idle,Walk,Hurt,Attack,Emit,Rotate,Hop,QuickStrike
-		Yamask: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Talonflame: Idle,Walk,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
-		Golisopod: "
-		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
-		Raging_Bolt: Idle,Swing,Double,Rotate
 
 Axcel	Discord:<@!662304890143375391>
 	Portrait:
