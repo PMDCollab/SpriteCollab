@@ -1,2 +1,3 @@
 2024-09-30 22:42:15.037570	<@!653416391201783856>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Charge,Twirl,Swing,Double,Rotate
 2024-10-22 02:17:17.065530	<@!237286997645983744>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Charge,Swing,Double,Rotate
+2024-12-21 22:32:40.814474	<@!544245909639397378>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop

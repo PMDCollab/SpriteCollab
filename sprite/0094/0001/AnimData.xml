@@ -15,9 +15,74 @@
       </Durations>
     </Anim>
     <Anim>
-      <Name>Twirl</Name>
+      <Name>Attack</Name>
+      <Index>1</Index>
+      <FrameWidth>80</FrameWidth>
+      <FrameHeight>80</FrameHeight>
+      <RushFrame>2</RushFrame>
+      <HitFrame>4</HitFrame>
+      <ReturnFrame>7</ReturnFrame>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Strike</Name>
+      <Index>2</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <RushFrame>2</RushFrame>
+      <HitFrame>4</HitFrame>
+      <ReturnFrame>6</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Shoot</Name>
+      <Index>3</Index>
+      <FrameWidth>64</FrameWidth>
+      <FrameHeight>64</FrameHeight>
+      <HitFrame>6</HitFrame>
+      <ReturnFrame>10</ReturnFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>10</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Lick</Name>
       <Index>4</Index>
-      <CopyOf>Rotate</CopyOf>
+      <CopyOf>Shoot</CopyOf>
     </Anim>
     <Anim>
       <Name>Sleep</Name>
@@ -46,6 +111,13 @@
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>40</Duration>
+        <Duration>4</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>3</Duration>
+        <Duration>4</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -88,6 +160,25 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Hop</Name>
+      <Index>10</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>88</FrameHeight>
+      <HitFrame>9</HitFrame>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>3</Duration>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>3</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
         <Duration>2</Duration>
       </Durations>
     </Anim>
