@@ -1471,7 +1471,7 @@ JFain	Discord:<@!702275233125630042>
 		Gligar Cutscene: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,MultiStrike,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Special0,Strike,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Gligar Cutscene Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Qwilfish Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
-		Scizor Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop,Fainted,StandingUp
+		Scizor Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,SpAttack,Swing,Double,Rotate,Hop,Fainted,StandingUp
 		Sneasel: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Sneasel Cutscene: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Fainted,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,MultiScratch,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Sneasel Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Twirl,Swing,Double,Rotate,Hop,Eat,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted,Special0,Special1
@@ -2147,7 +2147,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Muk Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Pain
 		Onix Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
 		Drowzee Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop,Faint,Special0
-		Drowzee Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop,Faint,Special0
+		Drowzee Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop,Faint,Special0
 		Krabby Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Krabby Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
 		Ditto Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -3018,6 +3018,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Xerneas Neutral: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Special0,Special1
 		Zygarde Complete: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
 		Zygarde 10: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Zygarde Complete_Skytemple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
 		Diancie Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dartrix Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Torracat: Idle,Walk,Swing,Double,Rotate,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Sound,Emit,SpAttack,Hop
@@ -3552,7 +3553,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Qwilfish Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Slugma Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
 		Magcargo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
-		Octillery Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,RearUp,Swing,Double,Rotate,Hop,Faint,Fainted
+		Octillery Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,RearUp,Swing,Double,Rotate,Hop,Faint,Fainted
 		Ho_Oh Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Swing,Double,Rotate,Hop,Hover
 		Mudkip Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Marshtomp Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Withdraw,Swing,Double,Rotate,Hop
@@ -4838,10 +4839,10 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Graveler Altcolor Shiny: Tumble,Cringe,TumbleBack,Special0
 		Golem: Special0
 		Golem Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop,Special0
-		Golem Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
-		Golem Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
 		Golem Cutscene: Special0,Tumble,Cringe,TumbleBack
 		Golem Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
+		Golem Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
+		Golem Cutscene_Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Tumble,Cringe,TumbleBack,Fainted,StandingUp,Special0
 		Ponyta Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Ponyta Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Slowpoke Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -4912,7 +4913,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Ariados Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Crobat Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Crobat Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-		Igglybuff Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop
+		Igglybuff Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop
 		Togetic: Attack,Charge,Cringe,Dance,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hover,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Togetic Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Mareep: Attack,Charge,Cringe,DeepBreath,Double,Eat,Emit,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
@@ -4938,7 +4939,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Girafarig Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,Swing,Double,Rotate,Hop
 		Girafarig Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,Swing,Double,Rotate,Hop
 		Girafarig Alternate Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,Swing,Double,Rotate,Hop
-		Gligar Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
+		Gligar Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
 		Snubbull: Eat,Cringe
 		Snubbull Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Eat,Cringe
 		Snubbull Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Eat,Cringe
@@ -5857,7 +5858,7 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Geodude Alola Shiny: Walk,Attack,Punch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Graveler Alola Shiny: Walk,Attack,Slam,SpAttack,Rumble,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Golem Alola Shiny: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
-		Golem Altcolor: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
+		Golem Cutscene_Altcolor: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
 		Magneton Altcolor: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Farfetch_d Galar Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Farfetch_d Altcolor: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -5869,8 +5870,8 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Zapdos Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Moltres Galar Shiny: Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
 		Mewtwo Mega_Y Shiny: Walk,Attack,Shoot,Pose,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Igglybuff Altcolor: Jump,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10
-		Igglybuff Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop,Jump,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10
+		Igglybuff Cutscene_Altcolor: Jump,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10
+		Igglybuff Cutscene_Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sing,Withdraw,Swing,Double,Rotate,Hop,Jump,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10
 		Xatu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Xatu Shiny Male: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,Special0,Special1,Special2
 		Xatu Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Special0,Special1,Special2
@@ -6953,7 +6954,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Meganium Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Typhlosion Hisui: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Typhlosion Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Scizor Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,Fainted,StandingUp
+		Scizor Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,Fainted,StandingUp
 		Suicune Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Ho_Oh Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Swing,Double,Rotate,Hop,Hover
 		Grovyle: Idle,Walk,Hop
@@ -7105,7 +7106,7 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Slowbro Shiny: Walk,Attack,Strike,Shoot,Appeal,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Seel Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Dewgong Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Muk Altcolor Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pain
+		Muk Cutscene_Altcolor Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pain
 		Haunter Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Lick,Swing,Double,Rotate,Hop
 		Haunter Cutscene Shiny: Walk,Attack,MultiStrike,Shoot,Lick,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pain,Faint,Special0,Fainted
 		Gengar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop
@@ -7674,7 +7675,7 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Geodude Shiny: Walk,Attack,Punch,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Graveler Altcolor Shiny: Walk,Attack,Slam,SpAttack,Rumble,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Golem Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
-		Golem Altcolor Shiny: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
+		Golem Cutscene_Altcolor Shiny: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp
 		Rapidash Shiny: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk
 		Magnemite Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Magnemite Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Faint
@@ -7684,7 +7685,7 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Gastly Shiny: Walk,Attack,Strike,Shoot,Lick,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Onix Shiny: Walk,Attack,Slam,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Drowzee Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
-		Drowzee Altcolor Shiny: Walk,Attack,Slam,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Faint
+		Drowzee Cutscene_Altcolor Shiny: Walk,Attack,Slam,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Faint
 		Marowak Shiny: Walk,Attack,Strike,Punch,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Weezing Shiny: Walk,Attack,Strike,Shoot,Swell,Gas,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Kangaskhan Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
