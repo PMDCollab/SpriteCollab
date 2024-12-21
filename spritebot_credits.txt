@@ -2816,6 +2816,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Exeggutor Alola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Swing,Double,Rotate,Hop
 		Eevee Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Flareon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,TailWhip,Swing,Double,Rotate,Hop
+		Articuno Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Chinchou Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Espeon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Espeon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
