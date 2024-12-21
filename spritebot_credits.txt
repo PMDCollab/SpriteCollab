@@ -2269,6 +2269,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Gimmighoul Roaming: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,DeepBreath,Cringe,EventSleep,Wake,Eat,Pose,Pain,Float,Nod,Sit,Sink,Laying,LeapForth,Head,LostBalance
 		Gimmighoul Roaming Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,DeepBreath,Cringe,EventSleep,Wake,Eat,Pose,Pain,Float,Nod,Sit,Sink,Laying,LeapForth,Head,LostBalance
 		Gholdengo: "
+		Gouging_Fire: Idle,Rotate
 		Terapagos: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Terapagos Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Pecharunt: Idle,Walk,Sleep,Hurt,Charge,Shoot,Twirl,Swing,Rotate
@@ -8529,7 +8530,7 @@ TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
 
 Leif	Discord:<@!883792430720225350>
 	Sprite:
-		Helioptile: Sleep,Attack,Charge,Shoot,Strike,Twirl,Shock,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Helioptile: Sleep,Attack,Charge,Shoot,Strike,Twirl,Shock,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Idle,Walk
 
 Tainted#3886	Discord:<@!283571466891427841>
 	Portrait:
