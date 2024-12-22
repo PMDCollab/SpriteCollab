@@ -1,0 +1,3 @@
+2022-09-01 17:43:48.277399	<@!593113130213572610>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2023-11-02 14:54:18.749387	<@!95638225439166464>	CUR	PMDCollab_2	"
+2023-11-02 17:42:02.387083	<@!95638225439166464>	CUR	PMDCollab_2	Special0,Special1,Special2
