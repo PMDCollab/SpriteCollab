@@ -5936,6 +5936,7 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Armaldo Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
 		Armaldo Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Swing,Double,Rotate,Hop,Roar,Special0,Special1,Special2,Special3,Special4
 		Bagon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Rumble,Emit,Swing,Double,Rotate,Hop
+		Jirachi Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Jirachi Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Staraptor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Shinx Shiny Female: Walk,Attack,Strike,Shoot,TailWhip,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
@@ -7997,6 +7998,7 @@ Chi	Discord:<@!95638225439166464>	Contact:<@95638225439166464>
 		Sealeo Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Luvdisc Shiny: Walk,Attack,QuickStrike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Regirock Shiny: Walk,Attack,Strike,Shoot,Withdraw,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Jirachi Altcolor: ",Special0,Special1,Special2
 		Jirachi Cutscene_Altcolor: ",Special0,Special1,Special2
 		Turtwig Shiny: Walk,Attack,Strike,Shoot,Rumble,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Grotle Shiny: Walk,Attack,Strike,Shoot,Rumble,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
