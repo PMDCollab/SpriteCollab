@@ -218,7 +218,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special8</Name>
-			<Index>35</Index>
+			<Index>13</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -228,7 +228,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special9</Name>
-			<Index>36</Index>
+			<Index>14</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -240,7 +240,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special10</Name>
-			<Index>37</Index>
+			<Index>24</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -250,7 +250,7 @@
 		</Anim>
 		<Anim>
 			<Name>Jump</Name>
-			<Index>38</Index>
+			<Index>15</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>32</FrameHeight>
 			<Durations>
@@ -265,7 +265,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special0</Name>
-			<Index>39</Index>
+			<Index>16</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -276,7 +276,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special1</Name>
-			<Index>40</Index>
+			<Index>17</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -296,7 +296,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special2</Name>
-			<Index>41</Index>
+			<Index>18</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -308,7 +308,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special3</Name>
-			<Index>42</Index>
+			<Index>19</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -321,7 +321,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special4</Name>
-			<Index>43</Index>
+			<Index>20</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -331,7 +331,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special5</Name>
-			<Index>44</Index>
+			<Index>21</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>32</FrameHeight>
 			<Durations>
@@ -345,7 +345,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special6</Name>
-			<Index>45</Index>
+			<Index>22</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>
@@ -361,7 +361,7 @@
 		</Anim>
 		<Anim>
 			<Name>Special7</Name>
-			<Index>46</Index>
+			<Index>23</Index>
 			<FrameWidth>24</FrameWidth>
 			<FrameHeight>24</FrameHeight>
 			<Durations>

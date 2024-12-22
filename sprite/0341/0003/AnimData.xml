@@ -227,7 +227,7 @@
     </Anim>
     <Anim>
       <Name>Eat</Name>
-      <Index>15</Index>
+      <Index>13</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
@@ -239,7 +239,7 @@
     </Anim>
     <Anim>
       <Name>Pose</Name>
-      <Index>17</Index>
+      <Index>14</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
@@ -252,7 +252,7 @@
     </Anim>
     <Anim>
       <Name>Special0</Name>
-      <Index>35</Index>
+      <Index>15</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
@@ -270,7 +270,7 @@
     </Anim>
     <Anim>
       <Name>Special1</Name>
-      <Index>36</Index>
+      <Index>16</Index>
       <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
