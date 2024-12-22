@@ -1,2 +1,3 @@
 2022-07-07 22:33:51.270862	JHONY_REX	CUR	PMDCollab_1	Idle,Walk,Hurt,Attack,Charge,Swing,Double,QuickStrike
 2022-07-29 05:45:12.086421	<@!215638650434617345>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
+2024-12-22 05:17:29.544141	JHONY_REX	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,RearUp,Swing,Double,Rotate,Hop,QuickStrike
