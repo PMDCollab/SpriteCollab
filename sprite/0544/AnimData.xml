@@ -125,6 +125,16 @@
       </Durations>
     </Anim>
     <Anim>
+      <Name>Hurt</Name>
+      <Index>6</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>56</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>40</FrameWidth>
@@ -233,6 +243,16 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Cringe</Name>
+      <Index>30</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>56</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
       </Durations>
     </Anim>
   </Anims>
