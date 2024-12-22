@@ -41,6 +41,7 @@ Audino	Discord:<@!117780585635643396>	Contact:https://github.com/audinowho
 		Magnezone Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3
 		Rotom Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Giratina Origin_Alternate Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Scratch,Shoot,Sleep,Swing,Walk
+		Darkrai Altcolor: Special0,Special1,Special2
 		Darkrai Cutscene_Altcolor: Special0,Special1,Special2
 		Shaymin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Shaymin Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Pose
@@ -1700,6 +1701,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Skuntank Cutscene: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Fainted,Float,Head,Hop,Hurt,Idle,Jump,LookUp,MultiStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
 		Skuntank Altcolor Shiny: Cringe,DeepBreath,EventSleep,Faint,Float,Head,LookUp
 		Cresselia Cutscene Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Darkrai Altcolor: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Special2,Special20,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Darkrai Cutscene_Altcolor: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Special2,Special20,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Arceus Rock: Attack,Bite,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Stomp,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Arceus Water: Attack,Bite,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Sink,Sit,Sleep,Stomp,Swing,Trip,Tumble,TumbleBack,Wake,Walk
@@ -4944,6 +4946,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Girafarig Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,Swing,Double,Rotate,Hop
 		Girafarig Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,Swing,Double,Rotate,Hop
 		Girafarig Alternate Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,Swing,Double,Rotate,Hop
+		Gligar Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
 		Gligar Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
 		Snubbull: Eat,Cringe
 		Snubbull Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Eat,Cringe
@@ -8215,6 +8218,7 @@ Discord:<@!173876028593274880>
 
 Darkrai	Discord:<@!224976040265646082>
 	Sprite:
+		Darkrai Altcolor: Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
 		Darkrai Cutscene_Altcolor: Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
 
 MonochromeKirby	Discord:<@!324999377946935297>
