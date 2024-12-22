@@ -2171,7 +2171,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Volbeat Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Appeal,Swing,Double,Rotate,Hop,QuickStrike,Special0
 		Roselia Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Roselia Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Wailord Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
+		Wailord Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Grumpig Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cacturne Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Kecleon Shiny: Shoot,Hop
@@ -7225,7 +7225,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Hitmontop Shiny: Normal
 		Carvanha Shiny: Normal
 		Wailmer Shiny: Normal
-		Wailord Shiny: Normal
 		Camerupt Shiny: Normal
 		Grumpig Shiny: Normal
 		Altaria Shiny: Normal
@@ -7273,7 +7272,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Tyranitar Cutscene Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Pose,Fainted
 		Swalot Altcolor Shiny: Walk,Attack,Strike,Shoot,Swell,Sound,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Wailmer Shiny: Walk,Attack,Strike,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Wailord Shiny: Walk,Attack,Strike,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Camerupt Shiny: Walk,Attack,Strike,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Spoink Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Grumpig Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
