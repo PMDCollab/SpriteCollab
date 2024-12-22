@@ -8291,6 +8291,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 	Sprite:
 		Boldore: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Excadrill: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Seismitoad: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Venipede: "
 		Basculin White: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swing,Double,Rotate,Hop
