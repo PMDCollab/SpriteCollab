@@ -7766,7 +7766,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Moltres Galar: Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
 		Deino: Idle,Walk,Attack
 		Delphox: Attack,Double,Idle,Rotate,Swing,Walk
-		Greninja: Idle,Walk,Hurt,Attack,Charge,Swing,Double,QuickStrike
+		Greninja: Idle,Walk,Hurt,Attack,Charge,Swing,Double,QuickStrike,Sleep,Shoot,Rumble,RearUp,Rotate,Hop
 		Clauncher: Idle,Walk,Hurt,Attack,Charge,Swing,Double,Rotate
 		Tyrantrum: "
 		Zygarde: "
@@ -8372,6 +8372,13 @@ Katach314	Discord:<@!503377084656254986>	Contact:katamari.roller.314@gmail.com
 		Clodsire: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Clodsire Shiny: Sleep
 
+Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
+	Sprite:
+		Conkeldurr: Idle,Rotate
+		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
+		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
+
 pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 	Sprite:
 		Venipede: "
@@ -8568,12 +8575,6 @@ Mond	Discord:<@!799737881538723891>
 		Diancie Shiny: Normal
 	Sprite:
 		Sylveon Shiny: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
-
-Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
-	Sprite:
-		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
-		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
-		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 
 Deleca7755	Discord:<@!273958644788363265>	Contact:<https://www.deviantart.com/deleca-7755>
 	Portrait:
