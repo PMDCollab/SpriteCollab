@@ -60,12 +60,8 @@
       <FrameWidth>24</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
-        <Duration>8</Duration>
-        <Duration>8</Duration>
-        <Duration>26</Duration>
-        <Duration>8</Duration>
-        <Duration>8</Duration>
-        <Duration>26</Duration>
+        <Duration>30</Duration>
+        <Duration>35</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -94,8 +90,8 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>72</FrameWidth>
-      <FrameHeight>64</FrameHeight>
+      <FrameWidth>80</FrameWidth>
+      <FrameHeight>72</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -114,7 +110,7 @@
       <Name>Double</Name>
       <Index>9</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
