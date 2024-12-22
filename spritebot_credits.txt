@@ -8300,6 +8300,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Golurk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Braviary Hisui: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Volcarona: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
+		Quilladin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Chesnaught: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Withdraw,Swing,Double,Rotate,Hop
 		Fletchinder: Idle,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Talonflame: Sleep,Charge,Shoot,Double
@@ -9326,6 +9327,7 @@ PixlHoopa	Discord:<@!310773087417270272>
 FalafelPorpoise	Discord:<@!338821717365489665>	Contact:https://bsky.app/profile/falafel-porpoise.bsky.social
 	Portrait:
 		Wailord: Happy,Teary-Eyed,Joyous,Pain,Shouting,Sad,Crying,Inspired,Sigh,Surprised,Stunned,Angry,Dizzy,Worried,Determined
+		Wailord Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 	Portrait:
