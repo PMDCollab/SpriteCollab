@@ -1,0 +1,3 @@
+2021-03-18 00:52:29.376972	<@!224976040265646082>	CUR	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
+2021-08-20 20:20:07.112811	<@!117780585635643396>	CUR	PMDCollab_1	Special0,Special1,Special2
+2021-09-22 02:39:12.746637	<@!237286997645983744>	CUR	PMDCollab_1	Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Special0,Special1,Special2,Special20,Swing,Trip,Tumble,TumbleBack,Wake,Walk
