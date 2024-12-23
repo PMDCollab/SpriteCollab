@@ -1,1 +1,2 @@
 2020-10-07 17:58:44.177762	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4,Special5,DigOut,Fainted,Special7,StandingUp,Special8,Special9,Special10,Special11,Special12,Special13,Special14,Special15,Special16,Special17
+2024-12-23 05:17:46.295027	CHUNSOFT	CUR	CC_BY-NC_4	Pose,Head,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10,Special11,Special12,Special13,Special14,Special15,Special16,Special17,Special18,Special19,Special20
