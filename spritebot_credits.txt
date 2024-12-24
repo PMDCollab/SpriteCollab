@@ -7769,6 +7769,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 	Sprite:
 		Ponyta Galar: Idle,Walk,Sleep,Hurt,RearUp,Rotate
 		Rapidash Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Weezing Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Gas,Swing,Double,Rotate,Hop
 		Zapdos Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Moltres Galar: Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
 		Deino: Idle,Walk,Attack
