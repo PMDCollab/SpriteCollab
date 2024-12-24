@@ -1,2 +1,3 @@
 2020-10-07 17:58:44.671442	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 2024-12-22 05:02:48.538150	<@!330751862590406656>	CUR	CC_BY-NC_4	EventSleep,Wake,Pose,Pain,Float,DeepBreath,Nod,Laying,Cringe
+2024-12-24 04:57:43.519878	<@!330751862590406656>	CUR	CC_BY-NC_4	EventSleep,Wake,Pain,Float,Laying
