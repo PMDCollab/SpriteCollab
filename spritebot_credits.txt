@@ -8540,6 +8540,10 @@ JuanmaSG	Discord:<@!479305531522154507>	Contact:https://twitter.com/JuanmaSG55
 		Dhelmise Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Flutter_Mane Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
+Riodise	Discord:<@!311963515563016193>	Contact:<@311963515563016193>
+	Sprite:
+		Scatterbug: Idle,Walk,Rotate
+
 ZoroarkDX	Discord:<@!219123860417675265>
 	Sprite:
 		Pyroar Female: "
