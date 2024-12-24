@@ -163,7 +163,7 @@
     <Anim>
       <Name>Double</Name>
       <Index>9</Index>
-      <FrameWidth>128</FrameWidth>
+      <FrameWidth>120</FrameWidth>
       <FrameHeight>136</FrameHeight>
       <Durations>
         <Duration>2</Duration>
@@ -244,7 +244,7 @@
     <Anim>
       <Name>Cringe</Name>
       <Index>30</Index>
-      <FrameWidth>80</FrameWidth>
+      <FrameWidth>88</FrameWidth>
       <FrameHeight>128</FrameHeight>
       <Durations>
         <Duration>2</Duration>
