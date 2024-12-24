@@ -23,7 +23,7 @@
       <Name>Attack</Name>
       <Index>1</Index>
       <FrameWidth>72</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameHeight>80</FrameHeight>
       <RushFrame>1</RushFrame>
       <HitFrame>3</HitFrame>
       <ReturnFrame>6</ReturnFrame>
@@ -44,7 +44,7 @@
       <Name>QuickStrike</Name>
       <Index>2</Index>
       <FrameWidth>112</FrameWidth>
-      <FrameHeight>136</FrameHeight>
+      <FrameHeight>128</FrameHeight>
       <HitFrame>3</HitFrame>
       <ReturnFrame>6</ReturnFrame>
       <Durations>
@@ -65,7 +65,7 @@
       <Name>Shoot</Name>
       <Index>3</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>64</FrameHeight>
+      <FrameHeight>56</FrameHeight>
       <HitFrame>1</HitFrame>
       <ReturnFrame>3</ReturnFrame>
       <Durations>
@@ -129,8 +129,8 @@
     <Anim>
       <Name>Hurt</Name>
       <Index>6</Index>
-      <FrameWidth>40</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>72</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
