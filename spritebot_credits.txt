@@ -8264,6 +8264,7 @@ powercristal	Contact:https://www.deviantart.com/powercristal
 		Trubbish: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk,Withdraw
 		Minccino: "
 		Duosion: Attack,Idle,Walk
+		Eelektrik: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
 		Mandibuzz: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Volcarona: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 		Cobalion: Attack,Idle,Walk
