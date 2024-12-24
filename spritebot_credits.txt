@@ -8392,6 +8392,7 @@ Katach314	Discord:<@!503377084656254986>	Contact:katamari.roller.314@gmail.com
 
 Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
 	Sprite:
+		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Conkeldurr: Idle,Rotate
 		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
 		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
