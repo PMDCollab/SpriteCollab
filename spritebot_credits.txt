@@ -2646,6 +2646,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Doublade: Normal
 		Aegislash: Normal
 		Spritzee: Normal
+		Spritzee Shiny: Normal
 		Aromatisse: Normal
 		Aromatisse Shiny: Normal
 		Swirlix: Normal,Normal^
