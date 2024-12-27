@@ -204,7 +204,7 @@
     <Anim>
       <Name>Rotate</Name>
       <Index>12</Index>
-      <FrameWidth>64</FrameWidth>
+      <FrameWidth>80</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
