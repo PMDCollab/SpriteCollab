@@ -68,7 +68,7 @@
       <Name>RearUp</Name>
       <Index>4</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>72</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <HitFrame>1</HitFrame>
       <Durations>
         <Duration>10</Duration>
