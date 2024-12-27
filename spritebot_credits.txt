@@ -2647,6 +2647,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Aegislash: Normal
 		Spritzee: Normal
 		Aromatisse: Normal
+		Aromatisse Shiny: Normal
 		Swirlix: Normal,Normal^
 		Swirlix Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Malamar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8396,6 +8397,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 Katach314	Discord:<@!503377084656254986>	Contact:katamari.roller.314@gmail.com
 	Sprite:
 		Timburr: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,Pose,Pain,Nod
+		Gurdurr: Special0,Special1
 		Swanna: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Clodsire: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Clodsire Shiny: Sleep
