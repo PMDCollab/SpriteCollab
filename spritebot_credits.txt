@@ -6331,7 +6331,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Toxtricity Lowkey: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Determined,Special3
 		Toxtricity Lowkey Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Determined,Special3
 		Eternatus Shiny: Normal
-		Kleavor Shiny: Normal
 	Sprite:
 		Butterfree Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Butterfree Altcolor Shiny Female: Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
