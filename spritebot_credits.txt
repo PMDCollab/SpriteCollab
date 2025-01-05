@@ -1646,7 +1646,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Solgaleo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Lunala: Happy,Normal,Pain,Sad,Worried,Angry,Crying,Determined,Dizzy,Inspired,Joyous,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed
 		Nihilego: Happy,Sad,Joyous,Sigh,Stunned,Angry,Crying,Determined,Dizzy,Inspired,Pain,Shouting,Surprised,Teary-Eyed,Worried
-		Buzzwole: Normal,Happy,Joyous,Sad,Stunned
 		Xurkitree: Angry,Happy,Sad,Stunned,Worried,Crying,Determined,Dizzy,Inspired,Joyous,Normal,Pain,Shouting,Sigh,Surprised,Teary-Eyed
 		Xurkitree Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Kartana: Normal,Determined,Stunned,Crying,Happy,Pain,Sad,Shouting,Surprised,Worried,Angry,Dizzy,Inspired,Joyous,Sigh,Teary-Eyed
