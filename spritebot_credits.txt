@@ -8834,6 +8834,12 @@ Discord:<@!299261889169588246>
 		Aron Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Bidoof Cutscene Shiny: Angry,Crying,Inspired,Joyous,Shouting,Special0,Worried
 
+FalafelPorpoise	Discord:<@!338821717365489665>	Contact:https://bsky.app/profile/falafel-porpoise.bsky.social
+	Portrait:
+		Pidgeot: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Wailord: Happy,Teary-Eyed,Joyous,Pain,Shouting,Sad,Crying,Inspired,Sigh,Surprised,Stunned,Angry,Dizzy,Worried,Determined
+		Wailord Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 Cloudy	Discord:<@!356187016054046723>	Contact:https://twitter.com/cloudyskys17695
 	Portrait:
 		Spearow: Worried
@@ -9377,11 +9383,6 @@ smartini	Discord:<@!136476806055198720>	Contact:https://github.com/CSCMe
 PixlHoopa	Discord:<@!310773087417270272>
 	Portrait:
 		Electrike Shiny: Normal
-
-FalafelPorpoise	Discord:<@!338821717365489665>	Contact:https://bsky.app/profile/falafel-porpoise.bsky.social
-	Portrait:
-		Wailord: Happy,Teary-Eyed,Joyous,Pain,Shouting,Sad,Crying,Inspired,Sigh,Surprised,Stunned,Angry,Dizzy,Worried,Determined
-		Wailord Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 	Portrait:
