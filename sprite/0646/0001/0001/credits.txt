@@ -1,1 +1,2 @@
 2024-12-25 22:02:11.602209	<@!276369635304275968>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,RearUp,Swing,Double,Rotate,Hop,Cringe
+2025-01-07 05:45:06.549182	<@!276369635304275968>	CUR	CC_BY-NC_4	Scratch
