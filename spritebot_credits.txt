@@ -8837,6 +8837,7 @@ Discord:<@!299261889169588246>
 FalafelPorpoise	Discord:<@!338821717365489665>	Contact:https://bsky.app/profile/falafel-porpoise.bsky.social
 	Portrait:
 		Pidgeot: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Pidgeot Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Wailord: Happy,Teary-Eyed,Joyous,Pain,Shouting,Sad,Crying,Inspired,Sigh,Surprised,Stunned,Angry,Dizzy,Worried,Determined
 		Wailord Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
