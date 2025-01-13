@@ -2422,7 +2422,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Lairon: Angry,Determined,Normal,Pain,Stunned,Surprised,Worried
 		Aggron: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Aggron Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-		Electrike: Joyous,Happy,Crying,Inspired,Sigh,Shouting,Surprised,Angry,Dizzy
+		Electrike: Joyous,Happy,Crying,Inspired,Sigh,Shouting,Surprised,Angry,Dizzy,Sad,Pain,Teary-Eyed,Determined
 		Electrike Shiny: Joyous,Happy,Crying,Inspired,Sigh,Shouting,Surprised,Angry,Dizzy
 		Manectric Mega: Normal
 		Manectric Mega Shiny: Normal
