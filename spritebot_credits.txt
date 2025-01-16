@@ -6704,6 +6704,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Typhlosion Hisui Shiny: Happy,Worried
 		Politoed: Inspired,Shouting,Surprised
 		Sneasel Beta: Normal,Determined
+		Remoraid: Sad,Pain
 		Beautifly: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dustox: Happy,Inspired,Stunned
 		Swellow: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
