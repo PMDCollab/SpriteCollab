@@ -8804,6 +8804,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Castform Snowy: Happy,Pain,Sad,Angry,Dizzy,Worried
 		Castform Snowy Shiny: Normal,Sad,Normal^,Happy,Pain,Angry,Dizzy,Worried
 		Emboar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Roaring_Moon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Novie	Discord:<@!229363481852379136>	Contact:<https://twitter.com/themagolord>
 	Portrait:
