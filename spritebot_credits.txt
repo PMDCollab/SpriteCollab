@@ -6755,7 +6755,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Quilladin Shiny: Normal
 		Pangoro Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Spritzee: Pain
-		Spritzee Shiny: Normal
+		Spritzee Shiny: Normal,Pain
 		Clauncher Shiny: Normal
 		Hawlucha Shiny: Normal
 		Sliggoo: Happy,Joyous,Special3
