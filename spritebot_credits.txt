@@ -8057,6 +8057,7 @@ Maruvert	Discord:<@!263655958775857152>
 
 Discord:<@!439106499592192001>
 	Portrait:
+		Missingno_ Ubausagi: Normal
 		Sunkern Beta: Normal,Normal^
 	Sprite:
 		Sunkern Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
