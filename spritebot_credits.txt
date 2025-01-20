@@ -2492,6 +2492,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Toxicroak: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Weavile Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Weavile Altcolor: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Magnezone: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Leafeon: Sigh,Joyous,Sad,Shouting,Determined,Pain,Crying,Normal,Teary-Eyed,Dizzy,Inspired,Surprised,Angry,Worried,Stunned,Happy
 		Glaceon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Gallade: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8058,6 +8059,7 @@ Maruvert	Discord:<@!263655958775857152>
 Discord:<@!439106499592192001>
 	Portrait:
 		Missingno_ Ubausagi: Normal
+		Missingno_ Hakogame: Normal
 		Sunkern Beta: Normal,Normal^
 	Sprite:
 		Sunkern Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
