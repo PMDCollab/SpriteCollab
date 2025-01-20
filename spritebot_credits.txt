@@ -6708,6 +6708,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Typhlosion Hisui: Happy,Worried
 		Typhlosion Hisui Shiny: Happy,Worried
 		Politoed: Inspired,Shouting,Surprised
+		Dunsparce: Stunned
 		Sneasel Beta: Normal,Determined
 		Remoraid: Sad,Pain
 		Beautifly: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
