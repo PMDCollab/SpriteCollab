@@ -2078,6 +2078,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Naclstack Shiny: Normal,Normal^
 		Garganacl: Normal,Normal^,Happy,Happy^
 		Garganacl Shiny: Normal,Normal^,Happy,Happy^
+		Armarouge: Normal
+		Armarouge Shiny: Normal
 		Bellibolt: Happy
 		Bellibolt Shiny: Happy,Normal,Teary-Eyed
 		Kilowattrel: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3266,7 +3268,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Nymble Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pawmi Shiny: Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Shouting,Shouting^,Angry,Teary-Eyed,Angry^,Teary-Eyed^,Worried,Determined,Special3,Worried^,Determined^,Special3^
 		Maushold Shiny: Normal,Normal^
-		Armarouge Shiny: Normal
 		Wattrel Shiny: Normal
 		Mabosstiff Shiny: Normal,Angry
 		Espathra Shiny: Normal
@@ -6120,7 +6121,6 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Ursaluna Bloodmoon Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Quaquaval: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Quaquaval Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Armarouge: Normal
 		Cyclizar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Flamigo: Normal
 		Flamigo Shiny: Normal
