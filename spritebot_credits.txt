@@ -8815,6 +8815,8 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Giratina Origin Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Emboar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Seismitoad Shiny: Normal
+		Darmanitan Galar_Zen Shiny: Normal,Normal^
+		Heatmor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Roaring_Moon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Novie	Discord:<@!229363481852379136>	Contact:<https://twitter.com/themagolord>
