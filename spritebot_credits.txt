@@ -6431,7 +6431,6 @@ Moo	Discord:<@!276949114212712449>	Contact:https://twitter.com/MoonMoonMemes
 		Skitty Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Crawdaunt Shiny: Normal
 		Anorith Shiny: Normal
-		Clamperl Shiny: Normal
 		Beldum Shiny: Normal
 		Metang Shiny: Normal
 		Metagross Shiny: Normal
@@ -8812,6 +8811,7 @@ Magu	Discord:<@!108260609241423872>	Contact:@magu_boi
 		Castform Snowy: Happy,Pain,Sad,Angry,Dizzy,Worried
 		Castform Snowy Shiny: Normal,Sad,Normal^,Happy,Pain,Angry,Dizzy,Worried
 		Clamperl: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Clamperl Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Giratina Origin Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Emboar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Seismitoad Shiny: Normal
