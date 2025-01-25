@@ -3120,6 +3120,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Ursaluna: Idle,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Hop
 		Enamorus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Enamorus Therian: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Sprigatito: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Spidops: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Pawmot: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 		Tandemaus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
