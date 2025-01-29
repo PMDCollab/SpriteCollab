@@ -1545,6 +1545,7 @@ JFain	Discord:<@!702275233125630042>
 		Wooloo: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Flapple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Cramorant: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Toxtricity Lowkey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop
 		Polteageist: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Morgrem: Walk,Attack,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Cursola: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -2872,6 +2873,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Lucario Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike
 		Leafeon: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,Swing,TailWhip,Trip,Tumble,TumbleBack,Wake,Walk
 		Leafeon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,TailWhip,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Glaceon: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Glaceon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,TailWhip,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Rotom Drone: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Mesprit: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -6174,6 +6176,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Aegislash Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Special0
 		Aegislash Blade: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Special0
 		Aegislash Blade Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Special0
+		Skrelp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Noivern: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Yveltal: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
 		Yveltal Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2
@@ -8390,6 +8393,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Centiskorch: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dracozolt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Arctozolt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop,Cringe
+		Arctovish: Idle,Walk,Attack,Strike,Twirl,Double,Rotate
 		Duraludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Kleavor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Swing,Double,Rotate,Hop,QuickStrike
 		Ursaluna Bloodmoon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
