@@ -6557,6 +6557,7 @@ NeroIntruder	Discord:<@!319945906600411179>	Contact:https://twitter.com/NeroIntr
 		Froslass Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Watchog: Special1,Special0,Special3
 		Duosion: Normal
+		Duosion Temp: Normal
 		Tornadus Therian: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
 		Tornadus Therian Shiny: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
 		Landorus: Normal
