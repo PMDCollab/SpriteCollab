@@ -72,7 +72,7 @@
       <Name>Shoot</Name>
       <Index>3</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>72</FrameHeight>
       <HitFrame>2</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -119,7 +119,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>40</Duration>
         <Duration>8</Duration>
@@ -152,7 +152,7 @@
       <Name>Double</Name>
       <Index>9</Index>
       <FrameWidth>64</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameHeight>88</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -195,7 +195,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>56</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
