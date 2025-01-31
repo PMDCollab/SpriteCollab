@@ -6902,6 +6902,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Zeraora: Idle,RearUp,Double,Rotate,Hop,Pose,LeapForth,Head,Cringe
 		Zeraora Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,RearUp,Swing,Double,Rotate,Hop,QuickStrike,Pose,LeapForth,Head,Cringe
 		Scorbunny Shiny: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Rookidee: Pose,DeepBreath,Cringe
 		Thievul Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Hop,Charge,Swing,Double,Rotate
 		Arrokuda: Idle,Walk,Hurt,Attack,Charge,Shoot,Shake,Rumble,Swing,Double,Rotate,Hop
 		Arrokuda Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Rumble,Swing,Double,Rotate,Hop
