@@ -4865,6 +4865,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Abra: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Abra Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Alakazam Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
+		Alakazam Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Alakazam Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,Fainted,Special1,Special2,Special3
 		Victreebel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Victreebel Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
@@ -4894,6 +4895,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Cloyster Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
 		Cloyster Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Cloyster Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
+		Gengar Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Lick,Swing,Double,Rotate,Hop
 		Krabby Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
 		Kingler Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Voltorb Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -4904,11 +4906,13 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Marowak Alola: Walk,Attack,Strike,Shoot,Punch,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Marowak Alola Shiny: Walk,Attack,Strike,Shoot,Punch,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Lickitung Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Lick,Swing,Double,Rotate,Hop
+		Weezing Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Gas,Swing,Double,Rotate,Hop
 		Rhydon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Rhydon Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Horsea Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Goldeen Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Seaking Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Mr_Mime Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Kick,Twirl,Swing,Double,Rotate,Hop
 		Pinsir Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Twirl,Swing,Double,Rotate,Hop
 		Tauros Paldea Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
 		Tauros Paldea_Blaze Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
