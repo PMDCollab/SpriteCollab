@@ -8587,6 +8587,15 @@ JuanmaSG	Discord:<@!479305531522154507>	Contact:https://twitter.com/JuanmaSG55
 		Dhelmise Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Flutter_Mane Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
+Ariakyu	Discord:<@!417445868694667264>	Contact:https://www.reddit.com/u/SoggyMinimum8386/s/0ULdU1GVNj
+	Portrait:
+		Meloetta: Special1,Normal^,Sad^,Joyous^,Special1^,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Determined,Worried^,Determined^,Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Worried
+		Meloetta Shiny: Sad,Special1,Normal^,Sad^,Joyous^,Special1^,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Meloetta Pirouette: Normal^,Happy,Sigh,Happy^,Sigh^,Teary-Eyed,Teary-Eyed^,Normal,Sad,Joyous,Special1,Sad^,Joyous^,Special1^,Crying,Inspired,Crying^,Inspired^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Meloetta Pirouette Shiny: Normal^,Happy,Sigh,Happy^,Sigh^,Teary-Eyed,Teary-Eyed^,Normal,Sad,Joyous,Special1,Sad^,Joyous^,Special1^,Crying,Inspired,Crying^,Inspired^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
+	Sprite:
+		Meloetta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Sing,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 Riodise	Discord:<@!311963515563016193>	Contact:<@311963515563016193>
 	Sprite:
 		Scatterbug: Idle,Walk,Rotate
@@ -9597,13 +9606,6 @@ Dasawkem	Discord:<@!183136061487054848>	Contact:https://dasawkem.carrd.co/#socia
 SkeleJ64	Discord:<@!291732421332697098>	Contact:<@291732421332697098>
 	Portrait:
 		Meloetta: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-
-Ariakyu	Discord:<@!417445868694667264>	Contact:https://www.reddit.com/u/SoggyMinimum8386/s/0ULdU1GVNj
-	Portrait:
-		Meloetta: Special1,Normal^,Sad^,Joyous^,Special1^,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Determined,Worried^,Determined^,Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Worried
-		Meloetta Shiny: Sad,Special1,Normal^,Sad^,Joyous^,Special1^,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-		Meloetta Pirouette: Normal^,Happy,Sigh,Happy^,Sigh^,Teary-Eyed,Teary-Eyed^,Normal,Sad,Joyous,Special1,Sad^,Joyous^,Special1^,Crying,Inspired,Crying^,Inspired^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
-		Meloetta Pirouette Shiny: Normal^,Happy,Sigh,Happy^,Sigh^,Teary-Eyed,Teary-Eyed^,Normal,Sad,Joyous,Special1,Sad^,Joyous^,Special1^,Crying,Inspired,Crying^,Inspired^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 
 Discord:<@!104090628937220096>
 	Portrait:
