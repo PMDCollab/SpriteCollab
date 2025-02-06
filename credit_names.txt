@@ -220,7 +220,7 @@ Limomon	<@!360948625901223950>	https://twitter.com/TheLimomon
 AllPatchedUp	<@!289213609773498368>	patchedupgalaxy@gmail.com
 Uni	<@!402958234371227648>	https://github.com/ArianaCastro01
 FrivolousAqua	<@!496032574179770379>	https://twitter.com/FrivolousAqua
-Bwappi	<@!193530896211509248>	https://www.tumblr.com/bwappi
+bwappi	<@!193530896211509248>	https://bsky.app/profile/bwappi.bsky.social
 shimx	<@!722565437925097613>	<@722565437925097613>
 Hanbei	<@!178669005538721792>	https://twitter.com/Hanbei
 Eliza	<@!176197318574342145>	https://twitter.com/elizathexpresso
@@ -262,4 +262,4 @@ Kawaiitron	<@!412938965713158144>	<@412938965713158144>
 SpectrumStars	<@!1038631037284126741>	https://x.com/numbertism
 FalafelPorpoise	<@!338821717365489665>	https://bsky.app/profile/falafel-porpoise.bsky.social
 Riodise	<@!311963515563016193>	<@311963515563016193>
-leonid	<@!1327394227922931878>	
+rhys	<@!1327394227922931878>	https://bsky.app/profile/arcanerevelation.bsky.social
