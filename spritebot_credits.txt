@@ -537,7 +537,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Chimchar: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,TearyEyed^,Worried,Worried^,Teary-Eyed^
 		Monferno: Normal,Normal^
 		Infernape: Normal,Normal^
-		Infernape Temp: Normal,Normal^
 		Piplup: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Prinplup: Normal
 		Empoleon: Normal
@@ -1623,7 +1622,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Duskull Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Jirachi Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Grotle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Infernape: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Buizel Alternate: Angry,Happy,Pain,Special3,Worried
 		Riolu Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Croagunk: Happy,Joyous,Normal
@@ -4103,7 +4101,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Chimchar Shiny: Teary-Eyed^,Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Monferno: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Monferno Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-		Infernape Temp: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Infernape: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Infernape Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Prinplup: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Prinplup Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Bidoof: Surprised,Stunned
@@ -5817,7 +5816,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Deoxys Speed Shiny: Angry,Crying,Determined,Determined^,Dizzy,Happy,Inspired,Inspired^,Joyous,Joyous^,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried,Worried^,Special1
 		Grotle Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Torterra Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
-		Infernape Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Staraptor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Kricketune Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Kricketune Shiny Female: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -7574,7 +7572,6 @@ Lovi	Discord:<@!95650095034273792>	Contact:<@95650095034273792>
 		Claydol Shiny: Normal
 		Absol Shiny: Normal,Normal^
 		Monferno Shiny: Normal,Normal^
-		Infernape Shiny: Normal,Normal^
 		Piplup Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Prinplup Shiny: Normal
 		Empoleon Shiny: Normal
