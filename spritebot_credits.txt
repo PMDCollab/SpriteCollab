@@ -7888,6 +7888,7 @@ electronvolt	Discord:<@!624279546845200394>	Contact:electronvolt@gamepad.club
 Gelius	Discord:<@!276428982683959296>	Contact:<@276428982683959296>
 	Sprite:
 		Electrode Hisui: Idle,Walk,Twirl,Rotate,Hop
+		Toedscool: Idle,Walk,Sleep,Swing,Double,Rotate
 
 teddg	Discord:<@!255885525204992000>	Contact:<@255885525204992000>
 	Sprite:
