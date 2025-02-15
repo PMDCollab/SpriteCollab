@@ -5,7 +5,7 @@
     <Anim>
       <Name>Walk</Name>
       <Index>0</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>8</Duration>
@@ -30,10 +30,7 @@
       <FrameWidth>24</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
-        <Duration>40</Duration>
-        <Duration>6</Duration>
-        <Duration>12</Duration>
-        <Duration>6</Duration>
+        <Duration>2</Duration>
       </Durations>
     </Anim>
     <Anim>
