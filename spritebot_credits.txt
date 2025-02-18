@@ -1956,7 +1956,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy,Determined
 		Hydreigon Alternate: Normal,Special1,Happy
 		Hydreigon Alternate Shiny: Normal,Special1,Happy
-		Larvesta: Normal
 		Volcarona: Normal
 		Volcarona Shiny: Normal
 		Terrakion: Normal
