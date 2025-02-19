@@ -8639,6 +8639,7 @@ Ariakyu	Discord:<@!417445868694667264>	Contact:https://www.reddit.com/u/SoggyMin
 Riodise	Discord:<@!311963515563016193>	Contact:<@311963515563016193>
 	Sprite:
 		Scatterbug: Idle,Walk,Rotate
+		Milcery: Idle,Walk,Sleep,Hurt,Attack,Shoot,Double,Rotate,Hop,DeepBreath
 
 ZoroarkDX	Discord:<@!219123860417675265>
 	Sprite:
