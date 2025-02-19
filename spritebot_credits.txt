@@ -6267,7 +6267,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Kommo_o: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Kommo_o Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Buzzwole: Walk,Attack,Punch,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Buzzwole Shiny: Walk,Attack,Punch,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Buzzwole Shiny: Walk,Attack,Punch,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Strike,Swell
 		Xurkitree: Walk,Attack,Strike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Xurkitree Shiny: Walk,Attack,Strike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Celesteela: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Slam,Sleep,Swing,Walk
