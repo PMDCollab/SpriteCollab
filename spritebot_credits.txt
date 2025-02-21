@@ -9037,6 +9037,7 @@ Gayschlatt	Discord:<@!560604377203736617>
 	Portrait:
 		Wigglytuff: Sigh,Pain,Shouting,Stunned,Angry,Dizzy,Determined
 		Wigglytuff Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Wigglytuff Mama: Inspired,Sigh,Pain,Shouting,Stunned,Angry,Dizzy,Determined
 		Wigglytuff Cutscene: Special1,Pain,Angry,Dizzy,Determined,Special0,Special3
 		Wigglytuff Cutscene Shiny: Special1,Pain,Angry,Dizzy,Determined,Special0,Special3,Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Teary-Eyed,Special2,Worried
 		Wigglytuff Mama_Cutscene: Special1,Pain,Shouting,Angry,Dizzy,Determined,Special3
