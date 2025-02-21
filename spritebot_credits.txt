@@ -1994,7 +1994,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Noivern: Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Noivern Shiny: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Hoopa Unbound: Normal,Crying
-		Toucannon Temp: Normal
+		Toucannon: Normal
+		Toucannon Shiny: Normal
 		Toxapex: Normal,Happy,Pain,Stunned
 		Stufful: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Stufful Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -6821,7 +6822,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Decidueye Hisui Shiny: Normal
 		Torracat: Normal
 		Incineroar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Toucannon Shiny: Normal
 		Cutiefly Shiny: Normal
 		Mareanie Shiny: Normal
 		Mudbray Shiny: Normal
@@ -9487,7 +9487,6 @@ Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 		Furfrou: Normal
 		Inkay: Normal,Pain
 		Pikipek: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
-		Toucannon: Normal
 		Mareanie: Normal
 		Fomantis: Normal
 		Wattrel: Normal
