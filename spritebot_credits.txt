@@ -7390,7 +7390,6 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Rattata Altcolor Shiny Female: Normal
 		Spearow Shiny: Normal
 		Fearow Shiny: Normal
-		Raichu Shiny: Normal
 		Nidoran_F Shiny: Normal
 		Nidorino Shiny: Normal
 		Oddish Shiny: Normal
@@ -8811,7 +8810,6 @@ Discord:<@!276175146304405514>
 		Crawdaunt: Happy,Joyous,Normal
 		Crawdaunt Shiny: Happy,Joyous
 		Empoleon: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Venipede: Normal
 		Zoroark: Normal
 		Zoroark Shiny: Normal
 		Solgaleo: Normal
