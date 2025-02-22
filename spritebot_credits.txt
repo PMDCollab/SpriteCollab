@@ -1988,7 +1988,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Honedge Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Honedge Unsheathed: Normal
 		Honedge Unsheathed Shiny: Normal
-		Barbaracle Temp: Normal,Normal^
+		Barbaracle: Normal,Normal^
 		Carbink: Normal,Sad,Happy,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Determined,Determined^
 		Pumpkaboo: Normal,Normal^
 		Pumpkaboo Shiny: Normal,Normal^
@@ -2676,7 +2676,6 @@ baronessfaron	Discord:<@!544245909639397378>
 		Malamar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Malamar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Binacle: Normal
-		Barbaracle: Normal
 		Skrelp: Normal
 		Dragalge: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dragalge Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
