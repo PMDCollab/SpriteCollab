@@ -9653,6 +9653,10 @@ Discord:<@!557599571170033664>
 	Portrait:
 		Keldeo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
+Fingernails	Discord:<@!862684221848027156>	Contact:https://www.demirramon.com/@Fingernails
+	Portrait:
+		Keldeo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 Dasawkem	Discord:<@!183136061487054848>	Contact:https://dasawkem.carrd.co/#social
 	Portrait:
 		Keldeo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
