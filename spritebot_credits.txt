@@ -4274,7 +4274,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Yamask Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Yamask Galar: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Yamask Galar Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
-		Archen Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Archen: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Archen Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Garbodor: Normal,Normal^
 		Garbodor Shiny: Normal,Normal^
 		Cinccino: Normal,Sad,Normal^,Sad^,Pain,Pain^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
@@ -6305,6 +6306,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Farigiraf Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Kingambit: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Kingambit Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Miraidon Low_Power: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 	Portrait:
@@ -9324,8 +9326,6 @@ chime	Discord:<@!183561486893842432>	Contact:<@!183561486893842432>
 		Garchomp Mega Shiny: Normal
 		Munna: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Munna Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
-		Archen: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Archen Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Genesect: Normal
 		Genesect Shiny: Normal
 		Genesect Douse: Normal
@@ -9594,7 +9594,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Throh: Normal
 		Sawk: Normal
 		Carracosta: Normal
-		Archen: Normal
 		Archeops: Normal
 		Zorua Alternate: "
 		Minccino: Normal
