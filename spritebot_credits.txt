@@ -3051,6 +3051,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pumpkaboo Super: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
 		Gourgeist: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover
 		Gourgeist Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover
+		Noibat: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted
 		Xerneas: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Xerneas Neutral: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Special0,Special1
 		Zygarde 10: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
@@ -8438,6 +8439,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Salazzle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Wimpod: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Golisopod: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+		Golisopod Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Pyukumuku: Idle,Walk,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop
 		Pyukumuku Shiny: Idle,Walk,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop
 		Jangmo_o: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,Withdraw,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
