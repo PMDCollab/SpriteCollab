@@ -6185,6 +6185,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 	Sprite:
 		Charizard Gigantamax: Idle,Rotate
 		Charizard Gigantamax Shiny: Idle,Rotate
+		Sandshrew Alola_Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop,Cringe
 		Houndoom Mega: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,Special0,Fainted
 		Manectric Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,Cringe
 		Manectric Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,Cringe
