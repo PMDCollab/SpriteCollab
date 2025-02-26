@@ -460,7 +460,7 @@
     <Anim>
       <Name>Cringe</Name>
       <Index>30</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>2</Duration>
