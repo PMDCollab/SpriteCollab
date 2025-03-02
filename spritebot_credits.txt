@@ -1936,8 +1936,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Zorua Alternate2 Shiny: Normal,Normal^,Happy,Happy^
 		Swanna: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Swanna Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Foongus: Normal
-		Foongus Shiny: Normal
 		Ferroseed: Normal,Normal^,Happy,Happy^,Pain,Pain^,Special2,Special0,Special0^,Sad,Joyous,Sad^,Joyous^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Shouting,Surprised,Stunned,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Ferroseed Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Special2,Special0,Special0^,Sad,Joyous,Sad^,Joyous^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Shouting,Surprised,Stunned,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Ferrothorn: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Special2,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried,Determined,Special0,Special3,Worried^,Determined^,Special0^,Special3^
@@ -3545,8 +3543,8 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Conkeldurr: Normal
 		Conkeldurr Shiny: Normal
 		Vanillite Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
-		Foongus Temp: Normal
-		Foongus Temp Shiny: Normal
+		Foongus: Normal
+		Foongus Shiny: Normal
 		Alomomola: Normal
 		Alomomola Shiny: Normal
 		Galvantula: Normal
@@ -9609,7 +9607,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Vanillish: Normal
 		Karrablast: Normal
 		Escavalier: Normal
-		Foongus: Normal
 		Frillish: Normal
 		Frillish Female: Normal
 		Mienfoo: Normal
