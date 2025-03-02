@@ -3545,6 +3545,7 @@ Gust	Discord:<@!861005464682889266>	Contact:https://twitter.com/Estelaris__
 		Conkeldurr: Normal
 		Conkeldurr Shiny: Normal
 		Vanillite Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Foongus Temp: Normal
 		Alomomola: Normal
 		Alomomola Shiny: Normal
 		Galvantula: Normal
@@ -6760,6 +6761,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Hypno: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Koffing: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Koffing Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
+		Magmar: Inspired,Worried
 		Aerodactyl: Inspired,Stunned,Determined
 		Aerodactyl Shiny: Inspired,Stunned,Determined
 		Articuno Galar: Special2
