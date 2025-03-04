@@ -9607,7 +9607,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Minccino: Normal
 		Vanillish: Normal
 		Karrablast: Normal
-		Escavalier: Normal
 		Frillish: Normal
 		Frillish Female: Normal
 		Mienfoo: Normal
