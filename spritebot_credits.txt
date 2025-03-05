@@ -9539,6 +9539,7 @@ A_Lettuce	Discord:<@!655868413251551235>
 snarbs	Discord:<@!188463527089012737>	Contact:snarbs.art@gmail.com
 	Portrait:
 		Burmy: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Burmy Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Discord:<@!560672735957614642>
 	Portrait:
@@ -9687,6 +9688,10 @@ mothbeanie	Discord:<@!168876782575943680>	Contact:https://twitter.com/mothbeanie
 	Portrait:
 		Espurr: Normal,Sad,Inspired,Sigh,Pain,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Espurr Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
+Discord:<@!512597386279780354>
+	Portrait:
+		Tyrantrum Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 
 Discord:<@!727245570191786085>
 	Portrait:
