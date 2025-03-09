@@ -8798,6 +8798,10 @@ VOID	Discord:<@!224988883182551040>	Contact:<@224988883182551040>
 	Sprite:
 		Wyrdeer: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 
+Discord:<@!585276060136898591>
+	Sprite:
+		Meowscarada: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep
+
 DavKriz	Discord:<@!642311628557385738>
 	Sprite:
 		Nacli: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Ricochet,Appeal,Swing,Double,Rotate,Hop
