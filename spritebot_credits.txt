@@ -2431,7 +2431,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Delcatty Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mawile: Sad,Joyous,Crying,Pain,Shouting,Stunned,Teary-Eyed,Dizzy,Determined
 		Mawile Mega: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Mawile Mega Shiny: Normal
+		Mawile Mega Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mawile Cutscene: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Mawile Altcolor Shiny: Crying,Determined,Dizzy,Joyous,Pain,Sad,Shouting,Stunned,Teary-Eyed
 		Lairon: Angry,Determined,Normal,Pain,Stunned,Surprised,Worried
@@ -8288,6 +8288,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Skeledirge: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Lokix: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,Emit,Swing,Double,Rotate,Hop,QuickStrike
 		Naclstack: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Armarouge: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
 		Tadbulb: Idle,Walk,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Wattrel: Idle,Walk,Charge,Rotate,Sleep,Hurt,Attack,Shoot,FlapAround,Swing,Double,Hop,QuickStrike
 		Kilowattrel: Idle,Walk,Attack,Strike,FlapAround,Hop,Sleep,Hurt,Charge,Shoot,Swing,Double,Rotate
