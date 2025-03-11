@@ -6946,7 +6946,6 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Grovyle Cutscene Shiny: Normal,Pain,Sigh,Special2,Stunned,Surprised
 		Silcoon Shiny: Normal
 		Cascoon Shiny: Normal
-		Wingull Shiny: Normal
 		Wynaut Shiny: Normal
 		Snorunt Shiny: Normal,Happy,Angry,Surprised
 		Glalie Shiny: Normal
@@ -7987,6 +7986,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Trapinch Shiny: EventSleep,Eat,Laying,Cringe
 		Baltoy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,QuickStrike
 		Shuppet: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Grotle: Pose,DeepBreath,Nod,Sit,Cringe
 		Luxio: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Luxio Shiny: Idle,Walk,Attack,Shoot,Shake,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Luxio Altcolor: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -9500,6 +9500,7 @@ smartini	Discord:<@!136476806055198720>	Contact:https://github.com/CSCMe
 snarbs	Discord:<@!188463527089012737>	Contact:snarbs.art@gmail.com
 	Portrait:
 		Wingull: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Wingull Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Burmy: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Burmy Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
