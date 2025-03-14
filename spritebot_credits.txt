@@ -7906,8 +7906,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Herdier Shiny: Normal
 		Liepard Shiny: Normal
 		Tympole Shiny: Normal
-		Sawk: Normal
-		Sawk Shiny: Normal
 		Sandile Shiny: Normal
 		Maractus Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Scrafty Shiny: Normal
