@@ -1924,6 +1924,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Throh: Normal
 		Throh Shiny: Normal
 		Sawk: Normal,Normal^
+		Sawk Shiny: Normal,Normal^
 		Whirlipede: Normal
 		Whirlipede Shiny: Normal
 		Lilligant: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
