@@ -8807,6 +8807,7 @@ VOID	Discord:<@!224988883182551040>	Contact:<@224988883182551040>
 LazerBlitz	Discord:<@!585276060136898591>	Contact:<@585276060136898591>
 	Sprite:
 		Meowscarada: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep
+		Meowscarada Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep
 
 DavKriz	Discord:<@!642311628557385738>
 	Sprite:
