@@ -1755,7 +1755,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Eternatus Shiny: Walk,Attack,Sleep,Hurt,Idle,Rotate,Swing,Double,Hop,Charge
 		Lechonk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Sink,Head,Cringe,LostBalance
 
-Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
+G	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 	Portrait:
 		Venusaur: Happy,Pain,Angry,Worried
 		Venusaur Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
