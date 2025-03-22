@@ -1795,7 +1795,6 @@ G	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Hitmonchan Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Hitmonchan Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scyther Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Gyarados Female: Stunned
 		Gyarados Shiny: Normal,Stunned
 		Gyarados Shiny Female: Normal,Stunned
 		Gyarados Altcolor: Normal,Stunned
