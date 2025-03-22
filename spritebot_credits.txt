@@ -4264,6 +4264,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Swadloon Shiny: Normal
 		Leavanny Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Venipede: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Venipede Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scolipede: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Scolipede Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cottonee: Normal
@@ -9029,7 +9030,6 @@ Fearless-Quit	Discord:<@!801938240562397194>
 		Drifloon Altcolor: Angry,Angry^,Crying^,Determined,Determined^,Dizzy^,Happy,Happy^,Inspired^,Joyous^,Normal^,Pain^,Sad,Sad^,Shouting^,Sigh^,Special0,Special0^,Special3^,Stunned^,Surprised^,Teary-Eyed^,Worried^
 		Riolu: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Riolu Shiny: Special3
-		Venipede Shiny: Normal
 
 Vex	Discord:<@!157339721729572864>
 	Portrait:
