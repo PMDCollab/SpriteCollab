@@ -2050,6 +2050,7 @@ G	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Morpeko Hangry: Normal,Surprised
 		Cufant Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Duraludon Gigantamax: Normal
+		Duraludon Gigantamax Shiny: Normal
 		Dreepy: Normal
 		Dreepy Shiny: Normal
 		Eternatus Eternamax: Normal
