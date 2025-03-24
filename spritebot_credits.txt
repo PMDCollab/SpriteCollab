@@ -4189,6 +4189,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Dialga Origin Shiny: Normal
 		Palkia Origin: Normal
 		Palkia Origin Shiny: Normal
+		Regigigas Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cresselia: Sad,Happy,Crying,Inspired,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cresselia Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Phione: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -4332,6 +4333,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Klinklang Shiny: Normal,Normal^
 		Tynamo: Normal
 		Tynamo Shiny: Normal
+		Eelektross Shiny: Normal,Joyous,Angry,Dizzy
 		Litwick: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^,Special2,Special2^,Special3,Special3^,Special0,Special0^
 		Litwick Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^,Special2,Special2^,Special3,Special3^,Special0,Special0^
 		Lampent: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -4437,6 +4439,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Aegislash Shiny: Normal,Normal^
 		Aegislash Blade: Normal,Normal^
 		Aegislash Blade Shiny: Normal,Normal^
+		Barbaracle Temp: Normal,Normal^
 		Heliolisk: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Heliolisk Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Amaura: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
