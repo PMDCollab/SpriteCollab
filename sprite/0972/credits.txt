@@ -1,1 +1,2 @@
 2024-11-01 01:21:03.993154	<@!544245909639397378>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,TailWhip,Swing,Double,Rotate,Hop
+2025-03-26 14:34:42.675008	<@!544245909639397378>	CUR	CC_BY-NC_4	Bite
