@@ -576,6 +576,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Pachirisu: Normal
 		Buizel: Normal
 		Floatzel: Normal
+		Floatzel Temp: Normal
 		Cherubi: Normal,Normal^
 		Cherrim: Normal,Normal^
 		Cherrim Sunshine: Normal
@@ -9550,6 +9551,10 @@ Discord:<@!828520880299966525>
 Sharpen	Discord:<@!389193348474339338>
 	Portrait:
 		Latias: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+
+Giru	Discord:<@!1142997669489426493>
+	Portrait:
+		Rayquaza Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Discord:<@!523152081805115403>
 	Portrait:
