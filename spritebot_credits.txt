@@ -9503,6 +9503,11 @@ Angels-Snack	Contact:https://angels-snack.tumblr.com/
 	Portrait:
 		Elekid: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 
+Giru	Discord:<@!1142997669489426493>
+	Portrait:
+		Magby Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Rayquaza Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 Discord:<@!215504160991346689>
 	Portrait:
 		Lugia: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed
@@ -9551,10 +9556,6 @@ Discord:<@!828520880299966525>
 Sharpen	Discord:<@!389193348474339338>
 	Portrait:
 		Latias: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-
-Giru	Discord:<@!1142997669489426493>
-	Portrait:
-		Rayquaza Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Discord:<@!523152081805115403>
 	Portrait:
