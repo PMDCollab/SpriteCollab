@@ -1752,7 +1752,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Poipole Shiny: Walk,Attack,Strike,Shoot,Rotate,Sleep,Hurt,Idle,Swing,Double,Hop,Charge
 		Wooloo Shiny: Attack,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Shoot,Sink,Sit,Stomp,Trip,Tumble,TumbleBack,Wake
 		Hatenna Shiny: Walk,Attack,Strike,Shoot,Dance,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Eternatus: Attack,Charge,Double,Hop,Hurt,Rotate,Sleep,Swing
 		Eternatus Shiny: Walk,Attack,Sleep,Hurt,Idle,Rotate,Swing,Double,Hop,Charge
 		Lechonk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Sink,Head,Cringe,LostBalance
 
@@ -2320,6 +2319,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Missingno_ Substitute: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Missingno_ Mikon: Normal
 		Missingno_ Mikon Shiny: Normal
+		Charmander: Special1,Special0
 		Charizard Alternate: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Dizzy,Worried,Determined
 		Blastoise Shiny: Normal,Pain,Angry
 		Blastoise Mega: Normal
@@ -7904,7 +7904,6 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Dreepy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack
 		Drakloak: Idle,Walk,Sleep,Hurt,Attack,Strike
 		Zacian Crowned: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
-		Eternatus: Attack,Idle,Rotate,Walk
 
 FissionCube	Discord:<@!203640888558223361>	Contact:https://twewyfinalmix.tumblr.com
 	Sprite:
@@ -8308,7 +8307,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Arctozolt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Arctovish: Idle,Walk,Attack,Strike,Twirl,Double,Rotate
 		Duraludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Eternatus Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
+		Eternatus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Kleavor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,Swing,Double,Rotate,Hop,QuickStrike
 		Ursaluna Bloodmoon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Basculegion: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swing,Double,Rotate,Hop,SpAttack
