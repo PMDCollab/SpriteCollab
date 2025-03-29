@@ -1,2 +1,1 @@
-2021-11-16 20:23:11.662096	JHONY_REX	CUR	PMDCollab_1	Attack,Idle,Rotate,Walk
-2021-11-25 04:34:15.790142	<@!237286997645983744>	CUR	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Rotate,Sleep,Swing
+2025-03-29 04:51:32.390011	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
