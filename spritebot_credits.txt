@@ -1752,7 +1752,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Poipole Shiny: Walk,Attack,Strike,Shoot,Rotate,Sleep,Hurt,Idle,Swing,Double,Hop,Charge
 		Wooloo Shiny: Attack,Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Shoot,Sink,Sit,Stomp,Trip,Tumble,TumbleBack,Wake
 		Hatenna Shiny: Walk,Attack,Strike,Shoot,Dance,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Eternatus Shiny: Walk,Attack,Sleep,Hurt,Idle,Rotate,Swing,Double,Hop,Charge
 		Lechonk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Sink,Head,Cringe,LostBalance
 
 G	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
@@ -5501,9 +5500,11 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Dracozolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Arctozolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Dracovish Shiny: Idle,Walk,Swing,Double,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Hop
+		Arctovish Shiny: Idle,Walk,Attack,Strike,Twirl,Double,Rotate
 		Dragapult: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dragapult Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Zacian Crowned Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
+		Eternatus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Wyrdeer Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Ursaluna: Idle,Walk,Swing,Double,Rotate
 		Ursaluna Shiny: Idle,Walk,Swing,Double,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Hop
