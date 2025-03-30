@@ -2319,6 +2319,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Missingno_ Mikon: Normal
 		Missingno_ Mikon Shiny: Normal
 		Charmander: Special1,Special0
+		Charmander Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Charizard Alternate: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Angry,Dizzy,Worried,Determined
 		Blastoise Shiny: Normal,Pain,Angry
 		Blastoise Mega: Normal
