@@ -1,1 +1,2 @@
 2025-03-29 07:55:37.162370	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike
+2025-03-30 19:34:54.563764	<@!356635814668664832>	CUR	CC_BY-NC_4	Strike
