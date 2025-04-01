@@ -5375,6 +5375,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Bewear Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slap,Twirl,Swing,Double,Rotate,Hop
 		Passimian Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Wimpod Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Golisopod Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Sandygast: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Sandygast Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Turtonator: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Swing,Double,Rotate,Hop
@@ -8836,6 +8837,10 @@ RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
 		Yamper Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special3
 	Sprite:
 		Yamper: Walk,Attack,Strike,Shoot,Dance,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+
+Shadowcrafts	Discord:<@!1116961261331152986>	Contact:shadowcrafts@outlook.com
+	Sprite:
+		Pincurchin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Shock,Swing,Double,Rotate,Hop
 
 VOID	Discord:<@!224988883182551040>	Contact:<@224988883182551040>
 	Sprite:
