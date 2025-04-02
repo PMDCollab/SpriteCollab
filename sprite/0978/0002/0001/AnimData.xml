@@ -97,7 +97,7 @@
     <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>16</FrameHeight>
       <Durations>
         <Duration>30</Duration>
