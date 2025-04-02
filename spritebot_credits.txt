@@ -9613,17 +9613,6 @@ Discord:<@!970782000363474944>
 	Portrait:
 		Garchomp Mega Shiny: Normal
 
-MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarber
-	Portrait:
-		Lucario: Special0
-		Lucario Shiny: Special0
-		Shaymin Sky: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
-		Shaymin Sky Shiny: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
-		Zorua: Special0,Special0^
-		Zorua Shiny: Special0,Special0^
-		Zorua Alternate: Special0
-		Sylveon: Special0,Special0^
-
 Sunny	Discord:<@!273341077874802689>	Contact:https://twitter.com/temporalsunrise
 	Portrait:
 		Skorupi: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9654,6 +9643,15 @@ Child-Of-Hades	Contact:https://www.deviantart.com/child-of-hades
 	Portrait:
 		Shaymin Sky: Normal
 		Shaymin Sky Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+
+MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarber
+	Portrait:
+		Shaymin Sky: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
+		Shaymin Sky Shiny: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
+		Zorua: Special0,Special0^
+		Zorua Shiny: Special0,Special0^
+		Zorua Alternate: Special0
+		Sylveon: Special0,Special0^
 
 LegendaryPhoenix	Discord:<@!573283158674505749>
 	Portrait:
