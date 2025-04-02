@@ -2285,6 +2285,7 @@ G	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Fuecoco Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Eat,Pose
 		Tandemaus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Dolliv: Idle,Rotate
+		Dolliv Shiny: Idle,Rotate
 		Bellibolt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,Cringe
 		Bellibolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,Cringe
 		Wattrel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop,QuickStrike
