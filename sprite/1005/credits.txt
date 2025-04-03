@@ -1,1 +1,2 @@
 2025-03-31 01:13:11.116023	FERMRACK	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
+2025-04-03 22:51:58.888810	<@!229131140903075840>	CUR	CC_BY-NC_4	Sleep,Charge,Shoot,Hover
