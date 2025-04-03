@@ -1,1 +1,2 @@
 2025-04-01 21:48:33.298284	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
+2025-04-03 14:22:55.507742	<@!356635814668664832>	CUR	CC_BY-NC_4	Sleep
