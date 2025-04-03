@@ -8584,6 +8584,7 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax: "
 		Baxcalibur: "
+		Roaring_Moon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
 		Ogerpon Teal_Mask: "
 		Ogerpon Wellspring_Mask: "
 		Ogerpon Hearthflame_Mask: "
