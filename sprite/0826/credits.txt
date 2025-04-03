@@ -1,0 +1,1 @@
+2025-04-03 22:28:28.724464	JHONY_REX	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
