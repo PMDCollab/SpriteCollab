@@ -7868,6 +7868,7 @@ Pink_no_tori	Discord:<@!872983950732165181>	Contact:https://twitter.com/pink_avi
 		Basculin Blue: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swing,Double,Rotate,Hop
 		Basculin White: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swing,Double,Rotate,Hop
 		Darumaka: Idle,Walk,Attack,Charge,Strike,Dance,Withdraw,Swing,Double,Rotate,Hop
+		Dwebble: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cofagrigus: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Haxorus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Slice,Swing,Double,Rotate,Hop
 		Zweilous: Idle,Walk,Sleep,Attack,Charge,Shoot,MultiStrike,Jab,Swing,Double,Rotate,Hop
@@ -8850,6 +8851,11 @@ Shadowcrafts	Discord:<@!1116961261331152986>	Contact:shadowcrafts@outlook.com
 	Sprite:
 		Pincurchin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Shock,Swing,Double,Rotate,Hop
 
+FerMrack	Contact:https://x.com/FerMrack_FM
+	Sprite:
+		Calyrex: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Roaring_Moon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
+
 VOID	Discord:<@!224988883182551040>	Contact:<@224988883182551040>
 	Sprite:
 		Wyrdeer: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
@@ -8865,10 +8871,6 @@ DavKriz	Discord:<@!642311628557385738>
 		Wattrel: "
 		Kilowattrel: "
 		Orthworm: "
-
-FerMrack	Contact:https://x.com/FerMrack_FM
-	Sprite:
-		Roaring_Moon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
 
 RacieB	Discord:<@!227594271794921472>	Contact:https://twitter.com/RacieBeep
 	Portrait:
