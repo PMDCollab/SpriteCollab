@@ -61,7 +61,7 @@
       <Name>Shoot</Name>
       <Index>3</Index>
       <FrameWidth>64</FrameWidth>
-      <FrameHeight>64</FrameHeight>
+      <FrameHeight>56</FrameHeight>
       <HitFrame>1</HitFrame>
       <ReturnFrame>3</ReturnFrame>
       <Durations>
@@ -81,7 +81,7 @@
     <Anim>
       <Name>RearUp</Name>
       <Index>4</Index>
-      <FrameWidth>56</FrameWidth>
+      <FrameWidth>48</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <HitFrame>6</HitFrame>
       <Durations>
@@ -102,8 +102,8 @@
     <Anim>
       <Name>Sleep</Name>
       <Index>5</Index>
-      <FrameWidth>48</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -159,7 +159,7 @@
     <Anim>
       <Name>Double</Name>
       <Index>9</Index>
-      <FrameWidth>72</FrameWidth>
+      <FrameWidth>64</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <Durations>
         <Duration>2</Duration>
@@ -203,7 +203,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>48</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
