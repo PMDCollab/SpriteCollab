@@ -3117,6 +3117,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pheromosa: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Twirl,Swing,Double,Rotate,Hop
 		Necrozma Ultra: Walk,Attack,Shoot,Rumble,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Roar
 		Magearna: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
+		Thwackey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Sing,Sound,SpAttack,Swing,Double,Rotate,Hop
 		Sobble: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Pose,Faint,EventSleep,Wake,Eat,Tumble,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround
 		Sobble Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Pose,Faint,EventSleep,Wake,Eat,Tumble,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround
 		Gossifleur: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,FlapAround,Swing,Double,Rotate,Hop
