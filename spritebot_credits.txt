@@ -3194,6 +3194,15 @@ baronessfaron	Discord:<@!544245909639397378>
 		Ogerpon Hearthflame_Mask: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
 		Ogerpon Cornerstone_Mask: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
 
+Discord:<@!439106499592192001>
+	Portrait:
+		Missingno_ Ubausagi: Normal
+		Missingno_ Hakogame: Normal
+		Sunkern Beta: Normal,Normal^
+	Sprite:
+		Missingno_ Hakogame: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Sunkern Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+
 ShyStarryRain	Discord:<@!576876006636519434>
 	Portrait:
 		Missingno_ Egg: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8171,14 +8180,6 @@ Hanbei	Discord:<@!178669005538721792>	Contact:https://twitter.com/Hanbei
 Maruvert	Discord:<@!263655958775857152>
 	Sprite:
 		Hoppip Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,FlapAround,Swing,Double,Rotate,Hop
-
-Discord:<@!439106499592192001>
-	Portrait:
-		Missingno_ Ubausagi: Normal
-		Missingno_ Hakogame: Normal
-		Sunkern Beta: Normal,Normal^
-	Sprite:
-		Sunkern Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 
 Anon	Discord:<@!555919605265203232>
 	Sprite:
