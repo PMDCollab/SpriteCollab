@@ -6802,6 +6802,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Luxio Altcolor: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Luxio Altcolor Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Burmy: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Burmy Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Honchkrow: EventSleep,Wake,Pose,Pain,Float,DeepBreath,Nod,Laying,Cringe
 		Stunky Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop
 		Bronzor Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -9774,6 +9775,10 @@ Discord:<@!727245570191786085>
 	Portrait:
 		Sylveon: Special1,Special1^
 		Greavard: Sad
+
+Luca	Discord:<@!1346728357529915405>	Contact:<@1346728357529915405>
+	Portrait:
+		Carbink: Pain
 
 Azifel	Discord:<@!228121607158235136>	Contact:https://twitter.com/Aziifel
 	Portrait:
