@@ -1576,8 +1576,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Missingno_ Egg: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Venusaur Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Venusaur Mega: Normal
-		Charmander: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
-		Charmander Shiny: Special0,Special1
 		Charizard Mega_X: Normal,Surprised
 		Charizard Mega_Y: Normal
 		Blastoise Cutscene: Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Special0,Stunned,Teary-Eyed,Worried
