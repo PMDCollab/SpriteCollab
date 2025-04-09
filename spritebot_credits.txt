@@ -9623,6 +9623,11 @@ A_Lettuce	Discord:<@!655868413251551235>
 		Shieldon Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Hoopa Unbound: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
+chikorene	Discord:<@!1346022682667388968>	Contact:<@1346022682667388968>
+	Portrait:
+		Shellos: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Shellos East: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 Discord:<@!970782000363474944>
 	Portrait:
 		Garchomp Mega Shiny: Normal
