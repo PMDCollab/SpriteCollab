@@ -673,6 +673,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Darkrai: Normal,Normal^
 		Shaymin: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Special0,Surprised,Worried
 		Shaymin Sky: Normal
+		Shaymin Temp: Normal
 	Sprite:
 		Missingno_ Substitute: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Bulbasaur: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
