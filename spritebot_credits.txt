@@ -5533,6 +5533,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Dragapult Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Zacian Crowned Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
 		Eternatus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
+		Calyrex Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Wyrdeer Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Ursaluna: Idle,Walk,Swing,Double,Rotate
 		Ursaluna Shiny: Idle,Walk,Swing,Double,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Hop
