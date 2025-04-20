@@ -2054,6 +2054,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Dreepy Shiny: Normal
 		Zamazenta: Normal,Normal^
 		Zamazenta Shiny: Normal,Normal^
+		Zamazenta Crowned_Shield: Normal
+		Zamazenta Crowned_Shield Shiny: Normal
 		Eternatus Eternamax: Normal
 		Eternatus Eternamax Shiny: Normal
 		Kubfu Shiny: Normal
@@ -6774,7 +6776,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Eiscue Shiny: Normal
 		Duraludon Shiny: Normal
 		Zacian Crowned_Sword Shiny: Normal
-		Zamazenta Crowned_Shield Shiny: Normal
 		Zarude Shiny: Normal
 		Wyrdeer Shiny: Normal
 	Sprite:
@@ -9279,7 +9280,6 @@ EzerArt	Contact:https://twitter.com/EzerArt_
 		Copperajah: Normal
 		Duraludon: Normal
 		Zacian Crowned_Sword: "
-		Zamazenta Crowned_Shield: "
 		Kubfu: Normal
 		Regieleki: Normal
 		Regidrago: Normal
@@ -9484,7 +9484,6 @@ CamusZekeSirius	Discord:<@!533406104256905257>
 		Decidueye: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Decidueye Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned,Special2,Special3
 		Zacian Crowned_Sword: Normal
-		Zamazenta Crowned_Shield: Normal
 		Regieleki: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Regieleki Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special2,Special3
 		Regidrago: Normal,Normal^,Angry,Crying,Crying^,Determined,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special2,Special3,Special3^,Stunned,Surprised,Teary-Eyed,Teary-Eyed^,Worried,Worried^
