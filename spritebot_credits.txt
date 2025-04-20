@@ -2052,6 +2052,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Duraludon Gigantamax Shiny: Normal
 		Dreepy: Normal
 		Dreepy Shiny: Normal
+		Zamazenta Temp: Normal,Normal^
 		Eternatus Eternamax: Normal
 		Eternatus Eternamax Shiny: Normal
 		Kubfu Shiny: Normal
