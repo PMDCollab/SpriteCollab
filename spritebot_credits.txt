@@ -3143,7 +3143,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Eiscue: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop,Hover
 		Dracovish: Idle,Walk,Swing,Double,Rotate
 		Zacian: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
-		Zacian Crowned: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Swing,Double,Rotate,Hop
+		Zacian Crowned_Sword: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Swing,Double,Rotate,Hop
 		Urshifu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Urshifu Rapid_Strike: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Regieleki: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
@@ -5534,7 +5534,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Arctovish Shiny: Idle,Walk,Attack,Strike,Twirl,Double,Rotate
 		Dragapult: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dragapult Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-		Zacian Crowned Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
+		Zacian Crowned_Sword Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
 		Eternatus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Calyrex Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Wyrdeer Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
@@ -5996,7 +5996,7 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Steenee: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Steenee Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^
 		Sinistea Shiny: Normal,Surprised
-		Zacian Crowned Shiny: Happy
+		Zacian Crowned_Sword Shiny: Happy
 	Sprite:
 		Charmeleon Altcolor Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Strike,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Charizard Mega_X Shiny: Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
@@ -6773,8 +6773,8 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Falinks Trooper Shiny: Normal
 		Eiscue Shiny: Normal
 		Duraludon Shiny: Normal
-		Zacian Crowned Shiny: Normal
-		Zamazenta Crowned Shiny: Normal
+		Zacian Crowned_Sword Shiny: Normal
+		Zamazenta Crowned_Shield Shiny: Normal
 		Zarude Shiny: Normal
 		Wyrdeer Shiny: Normal
 	Sprite:
@@ -7943,7 +7943,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Dreepy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack
 		Drakloak: Idle,Walk,Sleep,Hurt,Attack,Strike
-		Zacian Crowned: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
+		Zacian Crowned_Sword: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
 
 FissionCube	Discord:<@!203640888558223361>	Contact:https://twewyfinalmix.tumblr.com
 	Sprite:
@@ -9278,8 +9278,8 @@ EzerArt	Contact:https://twitter.com/EzerArt_
 		Hattrem Alternate: Normal
 		Copperajah: Normal
 		Duraludon: Normal
-		Zacian Crowned: "
-		Zamazenta Crowned: "
+		Zacian Crowned_Sword: "
+		Zamazenta Crowned_Shield: "
 		Kubfu: Normal
 		Regieleki: Normal
 		Regidrago: Normal
@@ -9483,8 +9483,8 @@ CamusZekeSirius	Discord:<@!533406104256905257>
 		Yveltal Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Decidueye: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Decidueye Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned,Special2,Special3
-		Zacian Crowned: Normal
-		Zamazenta Crowned: Normal
+		Zacian Crowned_Sword: Normal
+		Zamazenta Crowned_Shield: Normal
 		Regieleki: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Regieleki Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special2,Special3
 		Regidrago: Normal,Normal^,Angry,Crying,Crying^,Determined,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special2,Special3,Special3^,Stunned,Surprised,Teary-Eyed,Teary-Eyed^,Worried,Worried^
@@ -9837,7 +9837,7 @@ Jelly	Discord:<@!402702516866908160>	Contact:https://www.deviantart.com/drjellys
 
 PikaNiko	Discord:<@!675870876532736010>	Contact:https://github.com/PikAsriel
 	Portrait:
-		Zacian Crowned: Happy
+		Zacian Crowned_Sword: Happy
 
 distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 	Portrait:
