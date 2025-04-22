@@ -8468,6 +8468,7 @@ Chesyon	Discord:<@!178935491867967490>	Contact:https://linktr.ee/chesyon
 		Marshtomp Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Solrock Altcolor: Normal
 		Cradily Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Normal
+		Drifloon Altcolor: Sad,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Angry^,Teary-Eyed^,Dizzy^,Determined,Special0,Worried^,Determined^,Special0^,Special3^
 		Drifblim Altcolor: Sad,Joyous,Happy,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Determined
 		Glameow Alternate: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Elgyem Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
