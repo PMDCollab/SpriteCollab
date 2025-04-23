@@ -99,7 +99,7 @@
       <Name>Hurt</Name>
       <Index>6</Index>
       <FrameWidth>88</FrameWidth>
-      <FrameHeight>64</FrameHeight>
+      <FrameHeight>80</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
@@ -130,8 +130,8 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>120</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameWidth>144</FrameWidth>
+      <FrameHeight>104</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
