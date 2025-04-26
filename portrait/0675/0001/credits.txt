@@ -1,1 +1,2 @@
 2025-04-19 08:09:46.134499	<@!544245909639397378>	CUR	CC_BY-NC_4	Normal,Angry
+2025-04-26 18:06:38.421344	<@!229131140903075840>	CUR	CC_BY-NC_4	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special0
