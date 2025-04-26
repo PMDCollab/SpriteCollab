@@ -8364,6 +8364,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Varoom: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Revavroom: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Twirl,SpAttack,Swing,Double,Rotate,Hop
 		Orthworm: Idle,Walk,Sleep,Attack,Charge,Shoot,Strike,Lick,Twirl,Swing,Double,Rotate,Hop
+		Cetitan: Idle,Walk,Attack,Shoot,Emit,Rotate,Hop
 		Great_Tusk: Sleep,Hurt,Charge,Shoot,Swing,Double
 		Slither_Wing: Idle,Rotate
 		Sandy_Shocks: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Slam,Dance,Rumble,Emit,Swing,Double,Rotate,Hop
