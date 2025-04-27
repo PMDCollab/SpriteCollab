@@ -1577,7 +1577,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Venusaur Mega: Normal
 		Charizard Mega_X: Normal,Surprised
 		Charizard Mega_Y: Normal
-		Blastoise: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried
+		Blastoise: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Happy,Determined
 		Blastoise Cutscene: Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Special0,Stunned,Teary-Eyed,Worried
 		Blastoise Cutscene Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Caterpie Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
