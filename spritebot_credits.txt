@@ -1577,6 +1577,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Venusaur Mega: Normal
 		Charizard Mega_X: Normal,Surprised
 		Charizard Mega_Y: Normal
+		Blastoise: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried
 		Blastoise Cutscene: Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Special0,Stunned,Teary-Eyed,Worried
 		Blastoise Cutscene Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Caterpie Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -8953,6 +8954,7 @@ Sugi	Discord:<@!537560911716810763>	Contact:<@537560911716810763>
 
 Miju	Discord:<@!343474614820667392>	Contact:https://mobile.twitter.com/MijumewAndCo
 	Portrait:
+		Blastoise: Happy,Surprised,Determined
 		Blastoise Cutscene: Angry,Determined,Happy,Normal,Pain,Special0,Surprised
 		Zigzagoon Galar: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Zigzagoon Galar Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
