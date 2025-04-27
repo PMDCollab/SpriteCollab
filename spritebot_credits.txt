@@ -4735,7 +4735,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Dragapult Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Zacian: Normal,Normal^
 		Zacian Shiny: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^,Special3^
-		Zacian Temp: Normal,Normal^,Happy,Happy^
+		Zacian Crowned_Sword: Normal,Normal^,Happy,Happy^
+		Zacian Crowned_Sword Shiny: Normal,Normal^,Happy,Happy^
 		Urshifu: Normal,Determined
 		Urshifu Shiny: Normal,Determined
 		Urshifu Rapid_Strike: Normal,Determined
@@ -5998,7 +5999,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Steenee: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Steenee Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^
 		Sinistea Shiny: Normal,Surprised
-		Zacian Crowned_Sword Shiny: Happy
 	Sprite:
 		Charmeleon Altcolor Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Strike,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Charizard Mega_X Shiny: Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
@@ -6775,7 +6775,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Falinks Trooper Shiny: Normal
 		Eiscue Shiny: Normal
 		Duraludon Shiny: Normal
-		Zacian Crowned_Sword Shiny: Normal
 		Zarude Shiny: Normal
 		Wyrdeer Shiny: Normal
 	Sprite:
@@ -9286,7 +9285,6 @@ EzerArt	Contact:https://twitter.com/EzerArt_
 		Hattrem Alternate: Normal
 		Copperajah: Normal
 		Duraludon: Normal
-		Zacian Crowned_Sword: "
 		Kubfu: Normal
 		Regieleki: Normal
 		Regidrago: Normal
@@ -9490,7 +9488,6 @@ CamusZekeSirius	Discord:<@!533406104256905257>
 		Yveltal Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Decidueye: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Decidueye Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned,Special2,Special3
-		Zacian Crowned_Sword: Normal
 		Regieleki: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Regieleki Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned,Special2,Special3
 		Regidrago: Normal,Normal^,Angry,Crying,Crying^,Determined,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special2,Special3,Special3^,Stunned,Surprised,Teary-Eyed,Teary-Eyed^,Worried,Worried^
@@ -9839,10 +9836,6 @@ Jelly	Discord:<@!402702516866908160>	Contact:https://www.deviantart.com/drjellys
 	Portrait:
 		Silicobra: Normal
 		Snom: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-
-PikaNiko	Discord:<@!675870876532736010>	Contact:https://github.com/PikAsriel
-	Portrait:
-		Zacian Crowned_Sword: Happy
 
 distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
 	Portrait:
