@@ -4338,7 +4338,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Frillish Shiny Female: Normal
 		Frillish Female: Normal
 		Jellicent: Normal
-		Jellicent Shiny: Normal
+		Jellicent Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Jellicent Shiny Female: Normal
 		Jellicent Female: Normal
 		Klink: Normal,Normal^
@@ -4884,7 +4884,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Archaludon: Normal
 		Archaludon Shiny: Normal
 		Hydrapple: Normal,Normal^
-		Hydrapple Shiny: Normal,Normal^
+		Hydrapple Shiny: Normal,Normal^,Sad,Special1,Sad^,Special1^,Pain,Shouting,Pain^,Shouting^,Angry,Special2,Angry^,Special2^,Special0,Special0^
 		Raging_Bolt: Normal,Normal^
 		Raging_Bolt Shiny: Normal,Normal^
 		Terapagos: Normal,Joyous,Happy,Stunned,Teary-Eyed,Dizzy
