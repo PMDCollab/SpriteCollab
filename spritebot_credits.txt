@@ -673,7 +673,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Darkrai: Normal,Normal^
 		Shaymin: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Special0,Surprised,Worried
 		Shaymin Sky: Normal
-		Shaymin Temp: Normal
 	Sprite:
 		Missingno_ Substitute: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Bulbasaur: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
@@ -4214,8 +4213,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Manaphy Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Manaphy Cutscene: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Stunned,Surprised,Teary-Eyed,Worried,Special0
 		Manaphy Cutscene Shiny: Angry,Determined,Dizzy,Inspired,Sad,Shouting,Special1,Worried,Happy,Joyous,Normal,Surprised,Teary-Eyed,Sigh,Pain,Special0
-		Shaymin Temp: Normal^,Special0,Special0^
-		Shaymin Temp Shiny: Normal,Normal^,Special0,Special0^
+		Shaymin Sky: Normal^,Special0,Special0^
+		Shaymin Sky Shiny: Normal,Normal^,Special0,Special0^,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arceus Bug: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arceus Bug Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arceus Dark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -7247,7 +7246,6 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Magnezone Shiny: Normal,Surprised
 		Tangrowth Shiny: Normal
 		Shaymin Shiny: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Special0,Surprised,Worried
-		Shaymin Sky Shiny: Normal
 	Sprite:
 		Nidoran_M Shiny: Walk,Attack,Strike,Shoot,Appeal,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Nidoking Shiny: Walk,Attack,Strike,Shoot,Rumble,Sound,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -8239,7 +8237,7 @@ Smalusion	Discord:<@!177074597315870720>	Contact:https://twitter.com/Smalusion
 
 Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 	Portrait:
-		Shaymin Temp: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Shaymin Sky: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Samurott Hisui: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Venipede: Normal
 		Scraggy: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9204,6 +9202,15 @@ felis_licht	Contact:https://www.deviantart.com/felis-licht
 		Mareep: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Wooper: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 
+chikorene	Discord:<@!1346022682667388968>	Contact:<@1346022682667388968>
+	Portrait:
+		Gloom: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Barboach: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Shellos: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Shellos Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Shellos East: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Shellos East Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 skygummi	Discord:<@!138236921980649472>	Contact:https://twitter.com/skygummi
 	Portrait:
 		Venomoth: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9596,14 +9603,6 @@ PixlHoopa	Discord:<@!310773087417270272>
 	Portrait:
 		Electrike Shiny: Normal
 
-chikorene	Discord:<@!1346022682667388968>	Contact:<@1346022682667388968>
-	Portrait:
-		Barboach: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Shellos: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Shellos Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Shellos East: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Shellos East Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-
 Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 	Portrait:
 		Lileep: Happy,Normal
@@ -9674,24 +9673,6 @@ Eliza	Discord:<@!176197318574342145>	Contact:https://twitter.com/elizathexpresso
 	Portrait:
 		Rotom Rotomi: Normal,Sad,Happy,Pain,Teary-Eyed
 
-Discord:<@!288402314253959169>
-	Portrait:
-		Shaymin Sky: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-
-Child-Of-Hades	Contact:https://www.deviantart.com/child-of-hades
-	Portrait:
-		Shaymin Sky: Normal
-		Shaymin Sky Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-
-MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarber
-	Portrait:
-		Shaymin Sky: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
-		Shaymin Sky Shiny: Sad,Crying,Inspired,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined,Special0
-		Zorua: Special0,Special0^
-		Zorua Shiny: Special0,Special0^
-		Zorua Alternate: Special0
-		Sylveon: Special0,Special0^
-
 LegendaryPhoenix	Discord:<@!573283158674505749>
 	Portrait:
 		Dewott Shiny: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9731,6 +9712,13 @@ CinderedPhoenix	Discord:<@!252249733588975616>	Contact:ridiculouslybluecinderblo
 	Portrait:
 		Audino Mega: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Audino Mega Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
+
+MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarber
+	Portrait:
+		Zorua: Special0,Special0^
+		Zorua Shiny: Special0,Special0^
+		Zorua Alternate: Special0
+		Sylveon: Special0,Special0^
 
 Richelieu	Discord:<@!155159458828255244>
 	Portrait:
