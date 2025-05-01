@@ -2331,6 +2331,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Caterpie Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Metapod: Happy,Pain,Surprised,Worried
 		Rattata Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Raticate: Happy
+		Raticate Shiny: Happy
 		Ekans Shiny: "
 		Ekans Cutscene Shiny: "
 		Pikachu Gigantamax: Normal
