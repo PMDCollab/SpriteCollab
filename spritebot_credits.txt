@@ -3841,8 +3841,9 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gyarados Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gyarados Altcolor Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gyarados Mega_Altcolor: Normal
+		Eevee Gigantamax: Normal,Normal^
+		Eevee Gigantamax Shiny: Normal,Normal^
 		Eevee Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Eevee Temp: Normal,Normal^
 		Porygon: Happy,Inspired,Joyous,Normal,Pain,Surprised
 		Kabutops Altcolor: Normal
 		Aerodactyl Mega Shiny: Normal
@@ -5742,7 +5743,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Lapras Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Lapras Gigantamax Shiny: Normal,Special1
 		Eevee Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Eevee Gigantamax Shiny: Normal,Normal^,Special1
 		Vaporeon Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Porygon Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Omanyte Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9423,7 +9423,6 @@ C_Pariah	Discord:<@!322382592202637322>	Contact:<@322382592202637322>
 chime	Discord:<@!183561486893842432>	Contact:<@!183561486893842432>
 	Portrait:
 		Lapras Gigantamax: Normal,Special1
-		Eevee Gigantamax: Normal,Normal^,Special1
 		Articuno Galar: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
 		Articuno Galar Shiny: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
 		Zapdos Galar: Normal
