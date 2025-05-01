@@ -1,1 +1,1 @@
-2022-10-09 19:18:51.195966	<@!576876006636519434>	CUR	PMDCollab_1	Normal,Sad,Joyous,Happy,Stunned
+2025-05-01 18:05:39.604795	<@!356635814668664832>	CUR	CC_BY-NC_4	Normal,Sad,Joyous,Happy,Pain,Stunned
