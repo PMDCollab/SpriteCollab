@@ -9833,7 +9833,7 @@ Jelly	Discord:<@!402702516866908160>	Contact:https://www.deviantart.com/drjellys
 		Silicobra: Normal
 		Snom: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
-Discord:<@!521264207677620226>
+PinkKecleon	Discord:<@!521264207677620226>	Contact:https://twitter.com/PinkKecleon
 	Portrait:
 		Grimmsnarl Gigantamax: Normal
 
