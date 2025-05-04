@@ -203,8 +203,8 @@
 			</Durations>
 		</Anim>
 		<Anim>
-			<Name>Pain</Name>
-			<Index>13</Index>
+			<Name>Special0</Name>
+			<Index>35</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>32</FrameHeight>
 			<Durations>
