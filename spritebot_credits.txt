@@ -8881,6 +8881,7 @@ DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
 		Cetoddle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Hop
 		Cetoddle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
 		Cetitan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
+		Chi_Yu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 
 RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
 	Portrait:
