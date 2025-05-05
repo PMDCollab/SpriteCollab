@@ -8631,6 +8631,10 @@ metalbear	Contact:<@468408733433593856>
 	Sprite:
 		Lilligant: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
+GustavoMusinTG	Contact:https://x.com/GustavoMusinTG
+	Sprite:
+		Lilligant Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+
 Noivern	Discord:<@!150809243816165377>	Contact:https://twitter.com/notarealnoivern
 	Portrait:
 		Feraligatr Alternate: Determined,Happy,Normal,Pain,Sad,Surprised,Worried,Angry,Crying,Dizzy,Inspired,Joyous,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Teary-Eyed
