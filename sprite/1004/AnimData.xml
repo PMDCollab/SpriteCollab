@@ -83,7 +83,7 @@
       <Name>Hurt</Name>
       <Index>6</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
