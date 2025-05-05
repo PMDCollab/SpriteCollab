@@ -4075,6 +4075,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Barboach Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Whiscash: Pain,Surprised,Teary-Eyed,Worried
 		Whiscash Shiny: Normal,Happy,Pain,Surprised,Teary-Eyed,Worried
+		Crawdaunt Alternate Shiny: Normal,Happy,Pain,Surprised,Angry,Worried
 		Cradily Altcolor: Normal
 		Armaldo Altcolor: Normal,Sad,Crying,Pain,Shouting,Surprised,Angry,Worried
 		Milotic: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
