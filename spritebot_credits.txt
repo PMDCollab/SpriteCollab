@@ -2060,7 +2060,6 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Eternatus Eternamax Shiny: Normal
 		Kubfu Shiny: Normal
 		Zarude: Normal
-		Zarude Shiny: Normal
 		Zarude Dada: Normal,Normal^
 		Calyrex: Normal
 		Calyrex Ice_Rider: Normal
@@ -4309,6 +4308,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Lilligant Alternate Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Krokorok: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Krokorok Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
+		Krookodile Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Darumaka: Normal
 		Darumaka Shiny: Normal
 		Darumaka Galar: Normal
@@ -4756,6 +4756,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Urshifu Shiny: Normal,Determined
 		Urshifu Rapid_Strike: Normal,Determined
 		Urshifu Rapid_Strike Shiny: Normal,Determined
+		Zarude Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Spectrier: Normal,Normal^
 		Sneasler: Normal,Normal^
 		Sneasler Shiny: Normal,Normal^
@@ -6795,7 +6796,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Falinks Trooper Shiny: Normal
 		Eiscue Shiny: Normal
 		Duraludon Shiny: Normal
-		Zarude Shiny: Normal
 		Wyrdeer Shiny: Normal
 	Sprite:
 		Rattata Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop
