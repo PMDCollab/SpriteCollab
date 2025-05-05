@@ -3868,6 +3868,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Crobat Shiny: Normal
 		Crobat Altcolor: Normal
 		Crobat Altcolor Shiny: Normal
+		Chinchou Alternate Shiny: Normal,Joyous,Happy,Sigh,Pain,Surprised,Angry,Worried,Determined
 		Igglybuff Altcolor: Normal,Sad,Normal^,Sad^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Shouting,Surprised,Shouting^,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 		Togetic: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Togetic Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -4071,6 +4072,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Seviper Shiny: Normal,Sad,Normal^,Sad^,Happy,Sigh,Happy^,Sigh^,Surprised,Surprised^,Joyous,Joyous^,Crying,Inspired,Crying^,Inspired^,Pain,Shouting,Stunned,Pain^,Shouting^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Seviper Altcolor: Normal,Normal^,Happy,Happy^,Surprised,Surprised^,Sad,Joyous,Sad^,Joyous^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Shouting,Stunned,Pain^,Shouting^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Seviper Altcolor Shiny: Normal,Normal^,Happy,Happy^,Surprised,Surprised^,Sad,Joyous,Sad^,Joyous^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Shouting,Stunned,Pain^,Shouting^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Barboach Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Whiscash: Pain,Surprised,Teary-Eyed,Worried
 		Whiscash Shiny: Normal,Happy,Pain,Surprised,Teary-Eyed,Worried
 		Cradily Altcolor: Normal
@@ -7650,7 +7652,6 @@ Lovi	Discord:<@!95650095034273792>	Contact:<@95650095034273792>
 		Sceptile Shiny: Normal
 		Mawile Altcolor Shiny: Angry,Happy,Inspired,Normal,Sigh,Surprised,Worried
 		Sharpedo Shiny: Normal
-		Barboach Shiny: Normal
 		Claydol Shiny: Normal
 		Absol Shiny: Normal,Normal^
 		Monferno Shiny: Normal,Normal^
