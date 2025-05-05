@@ -4208,6 +4208,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Mamoswine Shiny: Normal
 		Gallade Mega: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gallade Mega Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Froslass Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rotom Dex: Normal,Normal^
 		Rotom Beta: Normal
 		Dialga Origin: Normal
@@ -5970,7 +5971,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Glaceon Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Glaceon Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Gallade Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Froslass Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Rotom Heat Shiny: Normal
 		Rotom Wash Shiny: Normal
 		Rotom Frost Shiny: Normal
@@ -6921,7 +6921,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Altaria Mega: Normal,Sad,Happy,Sigh,Teary-Eyed,Special0
 		Garchomp Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Weavile Altcolor Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Froslass Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Watchog: Special1,Special0,Special3
 		Duosion: Normal
 		Tornadus Therian: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
@@ -7543,7 +7542,6 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Finneon Shiny: Normal
 		Finneon Shiny Female: Normal
 		Mantyke Shiny: Normal
-		Froslass Shiny: Normal
 		Rotom Shiny: Normal
 		Uxie Shiny: Normal
 		Mesprit Shiny: Normal,Pain
