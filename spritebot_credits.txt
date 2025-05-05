@@ -4979,6 +4979,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Cubone Cutscene Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake,Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,Swing,Double,Rotate,Hop,Pose,Yawn,RaiseArms,CarefulWalk,Special0,Special1,Special2,Special3
 		Marowak Alola: Walk,Attack,Strike,Shoot,Punch,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Marowak Alola Shiny: Walk,Attack,Strike,Shoot,Punch,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Hitmonlee Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Kick,Withdraw,Swing,Double,Rotate,Hop
 		Lickitung Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Lick,Swing,Double,Rotate,Hop
 		Weezing Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Gas,Swing,Double,Rotate,Hop
 		Rhydon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Twirl,Swing,Double,Rotate,Hop
@@ -5142,6 +5143,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Seviper Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swell,Swing,Double,Rotate,Hop
 		Seviper Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swell,Swing,Double,Rotate,Hop
 		Whiscash Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Rumble,Swing,Double,Rotate,Hop
+		Claydol Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike
 		Armaldo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
 		Milotic Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Milotic Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
