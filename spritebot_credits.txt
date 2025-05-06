@@ -2040,6 +2040,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Dubwool Shiny: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
 		Silicobra Shiny: Normal
 		Sandaconda Gigantamax: Normal
+		Sandaconda Gigantamax Shiny: Normal
 		Cramorant: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cramorant Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sinistea Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
