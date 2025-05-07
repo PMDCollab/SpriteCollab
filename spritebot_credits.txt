@@ -1,4 +1,4 @@
-All custom graphics not originating from official PMD games are licensed under Attribution-NonCommercial 4.0 International http://creativecommons.org/licenses/by/4.0/.
+All custom graphics not originating from official PMD games are licensed under Attribution-NonCommercial 4.0 International http://creativecommons.org/licenses/by-nc/4.0/.
 All graphics referred to in this file can be found in http://sprites.pmdcollab.org/
 
 Audino	Discord:<@!117780585635643396>	Contact:https://github.com/audinowho
