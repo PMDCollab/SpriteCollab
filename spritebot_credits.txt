@@ -2309,6 +2309,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Gimmighoul Roaming: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,DeepBreath,Cringe,EventSleep,Wake,Eat,Pose,Pain,Float,Nod,Sit,Sink,Laying,LeapForth,Head,LostBalance
 		Gimmighoul Roaming Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,DeepBreath,Cringe,EventSleep,Wake,Eat,Pose,Pain,Float,Nod,Sit,Sink,Laying,LeapForth,Head,LostBalance
 		Gholdengo: "
+		Ting_Lu: Idle,Rotate
 		Walking_Wake: Idle,Walk,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
 		Walking_Wake Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
 		Gouging_Fire: Idle,Rotate
