@@ -45,7 +45,7 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <HitFrame>4</HitFrame>
       <ReturnFrame>6</ReturnFrame>
