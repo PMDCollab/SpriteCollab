@@ -8739,7 +8739,7 @@ Shitpost_Sunkern	Discord:<@!292039958829727744>	Contact:https://www.youtube.com/
 
 Discord:<@!713792248348672040>
 	Sprite:
-		Tynamo: Idle,Walk,Rotate
+		Tynamo: Idle,Walk,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Hop
 
 FrivolousAqua	Discord:<@!496032574179770379>	Contact:https://twitter.com/FrivolousAqua
 	Portrait:
