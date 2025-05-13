@@ -450,7 +450,7 @@
       <Name>LostBalance</Name>
       <Index>31</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>48</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
@@ -477,7 +477,7 @@
     <Anim>
       <Name>Faint</Name>
       <Index>33</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>40</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>8</Duration>
