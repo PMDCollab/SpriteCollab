@@ -1,1 +1,2 @@
 2022-12-17 00:14:39.464897	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swell,Swing,Double,Rotate,Hop,Eat,Pose
+2025-05-13 05:36:23.143465	<@!330751862590406656>	CUR	CC_BY-NC_4	EventSleep,Wake,Tumble,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
