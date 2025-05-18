@@ -4373,6 +4373,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Jellicent Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Jellicent Shiny Female: Normal
 		Jellicent Female: Normal
+		Alomomola Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Klink: Normal,Normal^
 		Klink Shiny: Normal,Normal^
 		Klang: Normal,Normal^
@@ -4503,6 +4504,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Goodra Hisui Shiny: Normal
 		Avalugg Hisui: Normal,Special1,Normal^,Special1^
 		Avalugg Hisui Shiny: Normal,Special1,Normal^,Special1^
+		Diancie Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Diancie Mega Shiny: Normal
 		Rowlet: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
 		Rowlet Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
@@ -8848,7 +8850,6 @@ Tainted#3886	Discord:<@!283571466891427841>
 Mond	Discord:<@!799737881538723891>
 	Portrait:
 		Arcanine Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Diancie Shiny: Normal
 	Sprite:
 		Sylveon Shiny: Attack,Charge,Double,Hop,Hurt,Idle,QuickStrike,Rotate,Shoot,Sleep,Swing,Walk
 
