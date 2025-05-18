@@ -2471,6 +2471,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Manectric Mega Shiny: Normal
 		Gulpin Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sharpedo: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Sharpedo Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Sharpedo Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Camerupt Mega: Normal
 		Cacturne: Pain,Surprised,Stunned,Angry,Worried
 		Cacturne Shiny Female: Normal,Special1
