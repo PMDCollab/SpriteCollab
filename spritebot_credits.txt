@@ -4407,6 +4407,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Zweilous Shiny: Normal,Happy
 		Reshiram: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Reshiram Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Keldeo Resolute Shiny: Normal,Normal^
 		Meloetta Pirouette Shiny: Normal,Normal^
 		Chespin: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Chespin Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -6025,7 +6026,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Tornadus Therian Shiny: Normal
 		Thundurus Therian: Normal
 		Thundurus Therian Shiny: Normal
-		Keldeo Resolute Shiny: Normal
 		Diggersby: Normal
 		Diggersby Shiny: Normal
 		Scatterbug Shiny: Normal
