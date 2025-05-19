@@ -3302,7 +3302,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Xerneas Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Xerneas Neutral Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Torracat Shiny: Normal
-		Gumshoos Shiny: Normal
 		Grubbin Shiny: Normal
 		Vikavolt Shiny: Normal
 		Rockruff Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
@@ -4426,6 +4425,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Greninja Ash Shiny: Normal,Normal^
 		Fletchling: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Fletchling Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Fletchinder: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Spewpa: Normal
 		Spewpa Shiny: Normal
 		Vivillon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -4517,6 +4517,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Trumbeak Shiny: Normal
 		Yungoos: Normal,Joyous,Happy,Angry
 		Yungoos Shiny: Normal,Joyous,Happy,Angry
+		Gumshoos Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Crabrawler: Normal,Normal^
 		Crabrawler Shiny: Normal,Normal^
 		Crabominable: Normal
