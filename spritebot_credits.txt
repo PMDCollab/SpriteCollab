@@ -1758,6 +1758,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Charizard Gigantamax Shiny: Normal,Normal^
 		Charizard Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Blastoise Gigantamax: Normal
+		Blastoise Gigantamax Shiny: Normal
 		Rattata Alternate: Normal
 		Rattata Alternate Shiny: Normal
 		Raticate: Pain
