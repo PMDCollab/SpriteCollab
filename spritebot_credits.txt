@@ -6886,7 +6886,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Leavanny Shiny: Walk,Attack,SpAttack,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Whimsicott Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Maractus Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Archen: Shoot,Faint,Pain
 		Archen Shiny: Faint,Pain
 		Trubbish Shiny: Walk,Attack,Slam,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Duosion: Attack,Charge,Double,Hop,Hurt,Pain,RearUp,Rotate,Shoot,Sleep,Swing
@@ -8343,7 +8342,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Darmanitan: Idle,Walk,Hurt,Attack,Rumble,Emit,Rotate,Hop,QuickStrike,Sleep,Charge,Shoot,Swing,Double
 		Scraggy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Sigilyph: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
-		Archen Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Pain,Cringe,Faint
+		Archen: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Pain,Cringe,Faint
 		Eelektrik: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
 		Eelektross: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Elgyem: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -8611,7 +8610,6 @@ powercristal	Contact:https://www.deviantart.com/powercristal
 		Pidove: Attack,Hurt,Idle,Sleep,Walk
 		Roggenrola: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Lilligant: "
-		Archen: Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Trubbish: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk,Withdraw
 		Minccino: "
 		Duosion: Attack,Idle,Walk
