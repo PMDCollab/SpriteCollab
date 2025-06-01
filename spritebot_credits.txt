@@ -1439,7 +1439,6 @@ JFain	Discord:<@!702275233125630042>
 		Mienfoo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Mienfoo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Tornadus: Normal,Normal^
-		Thundurus: Normal,Normal^
 		Gourgeist: Happy,Happy^,Normal,Normal^,Stunned,Stunned^,Surprised,Surprised^
 		Grubbin: Normal
 		Steenee: Normal,Angry,Happy,Pain,Worried,Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Special3,Normal^,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
@@ -1969,12 +1968,12 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Volcarona Shiny: Normal
 		Terrakion: Normal
 		Tornadus Temp: Normal
-		Thundurus Temp: Normal
-		Thundurus Temp Shiny: Normal
+		Thundurus: Normal
+		Thundurus Shiny: Normal
+		Landorus: Normal
+		Landorus Shiny: Normal
 		Landorus Therian: Normal
 		Landorus Therian Shiny: Normal
-		Landorus Temp: Normal
-		Landorus Temp Shiny: Normal
 		Kyurem Alternate: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^,Special3,Special3^
 		Kyurem Alternate Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Inspired,Sigh,Happy^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^,Special3^
 		Kyurem Black_Alternate: Normal,Normal^
@@ -6794,7 +6793,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Deino: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried,Special3
 		Deino Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried,Special3
 		Tornadus Shiny: Normal,Normal^
-		Thundurus Shiny: Normal,Normal^
 		Quilladin Shiny: Normal
 		Pangoro Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Spritzee: Pain
@@ -6965,8 +6963,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Duosion: Normal
 		Tornadus Therian: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
 		Tornadus Therian Shiny: Normal,Sad,Happy,Inspired,Pain,Determined,Special0
-		Landorus: Normal
-		Landorus Shiny: Normal
 		Froakie: Crying,Shouting,Special0
 		Frogadier: Sad
 		Frogadier Shiny: Normal,Sad
@@ -9765,7 +9761,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Bouffalant: Normal
 		Deino: Normal
 		Tornadus: Normal
-		Thundurus: Normal
 		Kyurem Black: "
 		Kyurem White: "
 		Kyurem Alternate: "
