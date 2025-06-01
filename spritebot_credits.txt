@@ -4512,6 +4512,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sliggoo Hisui Shiny: Normal,Normal^
 		Goodra Hisui: Normal
 		Goodra Hisui Shiny: Normal
+		Gourgeist: Sad,Joyous,Sad^,Joyous^,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Avalugg Hisui: Normal,Special1,Normal^,Special1^
 		Avalugg Hisui Shiny: Normal,Special1,Normal^,Special1^
 		Diancie Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
