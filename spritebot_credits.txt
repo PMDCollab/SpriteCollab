@@ -1519,7 +1519,6 @@ JFain	Discord:<@!702275233125630042>
 		Venipede: Idle,Walk,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Whimsicott: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Maractus: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Vanillite Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Vanillish: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Escavalier: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Swing,Double,Rotate,Hop,Hover
 		Escavalier Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Swing,Double,Rotate,Hop,Hover
@@ -5183,7 +5182,10 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gulpin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
 		Gulpin Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
 		Gulpin Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
+		Swalot Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
 		Swalot Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
+		Swalot Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
+		Swalot Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
 		Sharpedo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swell,Swing,Double,Rotate,Hop
 		Wailmer Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Numel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
@@ -5348,6 +5350,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Duosion Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Pain
 		Reuniclus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,MultiStrike,Swing,Double,Rotate,Hop
 		Reuniclus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,MultiStrike,Swing,Double,Rotate,Hop
+		Vanillite Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Jellicent Shiny Female: Idle,Walk,Sleep,Swing,Rotate
 		Ferroseed: Special0
 		Ferroseed Shiny: Special0
@@ -5507,6 +5510,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Appletun Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Silicobra Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Toxtricity Lowkey Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop
 		Sizzlipede Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Centiskorch Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Clobbopus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop,Cringe
@@ -5586,6 +5590,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Alcremie Rainbow_Swirl_Ribbon_Sweet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Alcremie Gigantamax Shiny: Idle,Rotate
 		Falinks Trooper Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Pincurchin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Shock,Swing,Double,Rotate,Hop
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Frosmoth Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Stonjourner: Idle,Walk,Attack,Shake,Double,Rotate
