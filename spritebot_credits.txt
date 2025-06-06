@@ -2275,6 +2275,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Torracat Shiny: Idle,Walk,Swing,Double,Rotate
 		Incineroar: Hurt,Punch,Kick,Pose,LookUp,Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop
 		Toucannon: Idle,Rotate
+		Toucannon Shiny: Idle,Rotate
 		Vikavolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
 		Crabrawler Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Golisopod Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
