@@ -2274,6 +2274,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Noibat Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Fainted
 		Torracat Shiny: Idle,Walk,Swing,Double,Rotate
 		Incineroar: Hurt,Punch,Kick,Pose,LookUp,Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop
+		Toucannon: Idle,Rotate
 		Vikavolt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
 		Crabrawler Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Golisopod Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
