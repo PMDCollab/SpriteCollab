@@ -4024,7 +4024,6 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Poochyena Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Zigzagoon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Zigzagoon Galar Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Zigzagoon Altcolor: Normal
 		Zigzagoon Alternate: Normal,Sad,Happy,Pain,Joyous,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Zigzagoon Alternate Shiny: Normal,Sad,Happy,Pain,Joyous,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Linoone Shiny: Normal
@@ -8480,7 +8479,7 @@ Okami	Discord:<@!238146046146904069>	Contact:okamiromhacks@gmail.com
 		Toedscool: Normal
 		Toedscool Shiny: Normal
 	Sprite:
-		Zigzagoon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,RearUp,Swing,Double,Rotate,Hop
+		Zigzagoon Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,RearUp,Swing,Double,Rotate,Hop
 
 Hemlock	Discord:<@!165623433458089984>	Contact:https://baphomets.neocities.org/
 	Sprite:
