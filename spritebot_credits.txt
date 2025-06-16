@@ -634,6 +634,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Abomasnow: Normal
 		Abomasnow Female: Normal
 		Weavile: Angry,Normal,Pain,Surprised
+		Weavile Temp: Normal,Pain,Surprised,Angry
 		Magnezone: Normal,Surprised
 		Lickilicky: Normal
 		Rhyperior: Normal
@@ -1433,6 +1434,7 @@ JFain	Discord:<@!702275233125630042>
 		Carnivine: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Finneon: Joyous,Happy,Sigh,Pain,Shouting,Surprised,Stunned
 		Weavile: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
+		Weavile Temp: Special0
 		Probopass Beta: Normal
 		Regigigas Beta: Normal
 		Dewott: "
