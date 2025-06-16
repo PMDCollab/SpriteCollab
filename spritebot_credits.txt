@@ -633,8 +633,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Snover Female: Normal
 		Abomasnow: Normal
 		Abomasnow Female: Normal
-		Weavile: Angry,Normal,Pain,Surprised
-		Weavile Temp: Normal,Pain,Surprised,Angry
+		Weavile: Normal,Pain,Surprised,Angry
 		Magnezone: Normal,Surprised
 		Lickilicky: Normal
 		Rhyperior: Normal
@@ -1433,8 +1432,7 @@ JFain	Discord:<@!702275233125630042>
 		Gible: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special2
 		Carnivine: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Finneon: Joyous,Happy,Sigh,Pain,Shouting,Surprised,Stunned
-		Weavile: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Stunned,Surprised,Teary-Eyed,Worried
-		Weavile Temp: Special0
+		Weavile: Special0
 		Probopass Beta: Normal
 		Regigigas Beta: Normal
 		Dewott: "
@@ -3294,7 +3292,7 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Glameow Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Glameow Alternate: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Bronzong Shiny: Normal
-		Weavile: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Weavile: Special0
 		Weavile Shiny: "
 		Weavile Altcolor: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Patrat Shiny: Normal
@@ -9327,7 +9325,7 @@ PhillipsYoung	Discord:<@!772726854188400641>	Contact:https://twitter.com/PhilliY
 		Kirlia Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Sableye: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Dizzy,Worried,Determined
 		Sableye Cutscene: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried,Special0
-		Weavile: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Special2,Worried,Determined
+		Weavile: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Weavile Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Glaceon: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 
