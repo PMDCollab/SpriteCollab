@@ -9656,7 +9656,7 @@ Bluetails_the_Buizel	Discord:<@!449065061428887562>	Contact:https://www.devianta
 	Portrait:
 		Girafarig: Happy,Normal
 
-Discord:<@!255219192901402624>
+brookriver	Discord:<@!255219192901402624>	Contact:https://brookriver.carrd.co/
 	Portrait:
 		Qwilfish: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
