@@ -9371,6 +9371,12 @@ Discord:<@!436940337865293834>
 		Flaaffy: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Togekiss: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Special0,Special0^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
 
+brookriver	Discord:<@!255219192901402624>	Contact:https://brookriver.carrd.co/
+	Portrait:
+		Tentacool: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined
+		Qwilfish: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Qwilfish Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+
 EzerArt	Contact:https://twitter.com/EzerArt_
 	Portrait:
 		Ponyta Galar: Normal
@@ -9655,11 +9661,6 @@ RoyalRust	Discord:<@!388709039678423040>
 Bluetails_the_Buizel	Discord:<@!449065061428887562>	Contact:https://www.deviantart.com/tanyuliang
 	Portrait:
 		Girafarig: Happy,Normal
-
-brookriver	Discord:<@!255219192901402624>	Contact:https://brookriver.carrd.co/
-	Portrait:
-		Qwilfish: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Qwilfish Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Angels-Snack	Contact:https://angels-snack.tumblr.com/
 	Portrait:
