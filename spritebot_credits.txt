@@ -9659,6 +9659,7 @@ Bluetails_the_Buizel	Discord:<@!449065061428887562>	Contact:https://www.devianta
 brookriver	Discord:<@!255219192901402624>	Contact:https://brookriver.carrd.co/
 	Portrait:
 		Qwilfish: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Qwilfish Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Angels-Snack	Contact:https://angels-snack.tumblr.com/
 	Portrait:
