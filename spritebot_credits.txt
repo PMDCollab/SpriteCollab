@@ -9210,7 +9210,7 @@ Vex	Discord:<@!157339721729572864>
 		Miltank: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Miltank Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
-Discord:<@!1377429093997477928>
+JustAGunk	Discord:<@!1377429093997477928>
 	Portrait:
 		Nidorino: Pain
 
