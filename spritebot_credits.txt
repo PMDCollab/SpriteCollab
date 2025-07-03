@@ -9213,6 +9213,7 @@ Vex	Discord:<@!157339721729572864>
 JustAGunk	Discord:<@!1377429093997477928>
 	Portrait:
 		Nidorino: Pain
+		Nidorino Shiny: Pain
 		Nidorino Altcolor: Pain
 
 estelstarlight	Contact:https://estelstarlight.tumblr.com/post/186838449949
