@@ -6976,7 +6976,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Poliwhirl Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Abra Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
-◥θ┴θ◤	Discord:<@!215638650434617345>
+◥θ┴θ◤	Discord:<@!215638650434617345>	Contact:.neosquid.
 	Portrait:
 		Ponyta Galar: Normal
 		Ponyta Galar Shiny: Normal
