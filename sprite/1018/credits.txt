@@ -2,3 +2,4 @@
 2024-03-17 08:26:33.594668	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 2025-07-06 16:36:27.409913	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Charge,Shoot,Slam,RearUp,Swing,Double,Rotate,Hop
 2025-07-06 22:45:32.477977	<@!229131140903075840>	CUR	CC_BY-NC_4	Hurt,Attack,Shoot,Slam
+2025-07-06 22:45:40.974644	<@!229131140903075840>	CUR	CC_BY-NC_4	Hurt,Attack,Shoot,Slam
