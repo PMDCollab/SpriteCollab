@@ -8461,7 +8461,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Roaring_Moon: Sleep,Charge,Shoot,Hover
 		Walking_Wake: Walk
 		Dipplin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Appeal,Swing,Double,Rotate,Hop
-		Archaludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Archaludon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Slam,RearUp
 		Hydrapple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,SpAttack,Swing,Double,Rotate,Hop
 
 Avery	Discord:<@!527611425670037516>	Contact:<@527611425670037516>
