@@ -1,1 +1,1 @@
-2023-10-01 02:07:26.544650	<@!593113130213572610>	CUR	PMDCollab_2	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
+2025-06-03 07:31:19.193634	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop

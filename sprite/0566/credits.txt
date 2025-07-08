@@ -1,3 +1,1 @@
-2022-03-23 03:23:55.026607	POWERCRISTAL	CUR	PMDCollab_1	Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
-2022-04-05 15:45:36.151795	<@!330751862590406656>	CUR	PMDCollab_1	Shoot
-2022-04-23 04:25:26.992068	<@!330751862590406656>	CUR	PMDCollab_1	Faint,Pain
+2025-05-29 05:39:25.447006	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Pain,Cringe,Faint
