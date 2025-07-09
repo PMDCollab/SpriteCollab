@@ -6516,6 +6516,7 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Skarmory: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Skarmory Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Hitmontop: Happy,Inspired
+		Hitmontop Shiny: Normal,Happy,Inspired
 		Hitmontop Altcolor: Normal,Happy,Inspired
 		Blaziken: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Blaziken Female: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -7467,7 +7468,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Piloswine Shiny Female: Normal
 		Phanpy Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Tyrogue Shiny: Normal
-		Hitmontop Shiny: Normal
 		Carvanha Shiny: Normal
 		Wailmer Shiny: Normal
 		Camerupt Shiny: Normal
