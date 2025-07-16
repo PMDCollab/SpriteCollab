@@ -2071,6 +2071,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Calyrex: Normal
 		Calyrex Ice_Rider: Normal
 		Wyrdeer: Normal
+		Wyrdeer Shiny: Normal
 		Ursaluna: Normal,Normal^
 		Ursaluna Shiny: Normal,Normal^
 		Ursaluna Bloodmoon_Alternate: Normal,Special1,Normal^,Special1^
@@ -6874,7 +6875,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Falinks Trooper Shiny: Normal
 		Eiscue Shiny: Normal
 		Duraludon Shiny: Normal
-		Wyrdeer Shiny: Normal
 	Sprite:
 		Rattata Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop
 		Aerodactyl Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
