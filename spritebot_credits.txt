@@ -1658,7 +1658,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Copperajah Shiny: Normal
 		Duraludon: "
 		Spectrier Shiny: Normal,Normal^
-		Wyrdeer: Normal
 		Basculegion Shiny: Normal
 		Basculegion Shiny Female: Normal
 		Basculegion Female: Normal
@@ -2071,6 +2070,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Zarude Dada: Normal,Normal^
 		Calyrex: Normal
 		Calyrex Ice_Rider: Normal
+		Wyrdeer: Normal
 		Ursaluna: Normal,Normal^
 		Ursaluna Shiny: Normal,Normal^
 		Ursaluna Bloodmoon_Alternate: Normal,Special1,Normal^,Special1^
