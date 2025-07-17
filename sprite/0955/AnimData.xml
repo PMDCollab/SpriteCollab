@@ -234,5 +234,15 @@
         <Duration>2</Duration>
       </Durations>
     </Anim>
+	    <Anim>
+      <Name>Cringe</Name>
+      <Index>30</Index>
+      <FrameWidth>48</FrameWidth>
+      <FrameHeight>56</FrameHeight>
+      <Durations>
+        <Duration>2</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
   </Anims>
 </AnimData>
