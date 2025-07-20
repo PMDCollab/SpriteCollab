@@ -8764,6 +8764,12 @@ Noivern	Discord:<@!150809243816165377>	Contact:https://twitter.com/notarealnoive
 	Sprite:
 		Sandile: Idle,Walk,Swing,Double,Rotate
 
+Leif	Discord:<@!883792430720225350>
+	Sprite:
+		Dwebble: Idle,Walk,Attack,Strike,Double,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Helioptile: Sleep,Attack,Charge,Shoot,Strike,Twirl,Shock,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Idle,Walk
+		Helioptile Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 cyboy_bit	Discord:<@!810524028871114762>
 	Portrait:
 		Trubbish: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1,Special2,Special3
@@ -8873,11 +8879,6 @@ ZoroarkDX	Discord:<@!219123860417675265>
 stressparticles	Discord:<@!416340821617541141>	Contact:<@416340821617541141>
 	Sprite:
 		Aromatisse: Idle,Rotate
-
-Leif	Discord:<@!883792430720225350>
-	Sprite:
-		Helioptile: Sleep,Attack,Charge,Shoot,Strike,Twirl,Shock,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Idle,Walk
-		Helioptile Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Tainted#3886	Discord:<@!283571466891427841>
 	Portrait:
