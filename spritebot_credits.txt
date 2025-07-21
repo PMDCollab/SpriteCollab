@@ -4824,7 +4824,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sprigatito Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Floragato: Normal,Normal^
 		Floragato Shiny: Normal,Normal^
-		Quaxly: Normal,Normal^
+		Quaxly: Normal,Normal^,Special1
 		Quaxly Shiny: Normal,Normal^
 		Lechonk: Normal,Normal^,Happy,Happy^
 		Lechonk Shiny: Normal,Normal^,Happy,Happy^
@@ -5737,6 +5737,7 @@ bwappi	Discord:<@!193530896211509248>	Contact:https://bsky.app/profile/bwappi.bs
 		Whiscash Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Rumble,Swing,Double,Rotate,Hop
 		Mudbray: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Mudbray Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
+		Mudsdale: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Grookey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Grookey Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
