@@ -2107,10 +2107,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Garganacl Shiny: Normal,Normal^,Happy,Happy^
 		Armarouge: Normal
 		Armarouge Shiny: Normal
-		Bellibolt: Happy
-		Bellibolt Shiny: Happy,Normal,Teary-Eyed
-		Bellibolt Temp: Normal,Joyous,Happy,Crying,Teary-Eyed
-		Bellibolt Temp Shiny: Normal,Joyous,Happy,Crying,Teary-Eyed
+		Bellibolt: Normal,Joyous,Happy,Crying,Teary-Eyed
+		Bellibolt Shiny: Normal,Joyous,Happy,Crying,Teary-Eyed
 		Kilowattrel: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kilowattrel Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Shroodle: Normal
@@ -4865,8 +4863,6 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Nacli Shiny: Normal,Normal^
 		Charcadet: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Charcadet Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Bellibolt: Normal,Teary-Eyed
-		Bellibolt Shiny: Normal,Teary-Eyed
 		Maschiff: Normal
 		Maschiff Shiny: Normal
 		Grafaiai: Normal
@@ -7054,7 +7050,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Ceruledge Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Tadbulb: Normal
 		Tadbulb Shiny: Normal
-		Bellibolt: Normal,Teary-Eyed
 		Finizen: Normal,Happy,Inspired
 		Finizen Shiny: Normal,Happy,Inspired
 		Palafin: Normal,Happy,Inspired
