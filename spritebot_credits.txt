@@ -2110,6 +2110,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Bellibolt: Happy
 		Bellibolt Shiny: Happy,Normal,Teary-Eyed
 		Bellibolt Temp: Normal,Joyous,Happy,Crying,Teary-Eyed
+		Bellibolt Temp Shiny: Normal,Joyous,Happy,Crying,Teary-Eyed
 		Kilowattrel: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kilowattrel Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Shroodle: Normal
@@ -9229,7 +9230,7 @@ Vex	Discord:<@!157339721729572864>
 
 JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 	Portrait:
-		Nidorino: Pain
+		Nidorino: Pain,Happy,Inspired
 		Nidorino Shiny: Pain
 		Nidorino Altcolor: Pain
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
