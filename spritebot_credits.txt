@@ -9226,7 +9226,7 @@ Vex	Discord:<@!157339721729572864>
 JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 	Portrait:
 		Nidorino: Pain,Happy,Inspired
-		Nidorino Shiny: Pain
+		Nidorino Shiny: Pain,Happy,Inspired
 		Nidorino Altcolor: Pain
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rillaboom: Normal^
