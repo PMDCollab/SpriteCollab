@@ -9227,7 +9227,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 	Portrait:
 		Nidorino: Pain,Happy,Inspired
 		Nidorino Shiny: Pain,Happy,Inspired
-		Nidorino Altcolor: Pain
+		Nidorino Altcolor: Pain,Happy,Inspired
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rillaboom: Normal^
 		Rillaboom Shiny: Normal^
