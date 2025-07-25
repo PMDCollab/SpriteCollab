@@ -5353,6 +5353,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Snivy Shiny: Walk,Attack,Strike,Shoot,SpAttack,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Oshawott: Walk,Attack,Strike,Twirl,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Oshawott Shiny: Walk,Attack,Strike,Twirl,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
+		Simisage Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,Swing,Double,Rotate,Hop
 		Boldore Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Gigalith Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Excadrill Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -5668,6 +5669,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tadbulb Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Capsakid Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
 		Flittle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Cringe
+		Flittle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Tinkaton: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Tinkaton Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Float,Laying,Cringe
 		Wiglett Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Wiggle
@@ -5688,7 +5690,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Roaring_Moon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
 		Iron_Valiant: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Iron_Valiant Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
-		Archaludon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+		Archaludon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Slam,RearUp
 		Hydrapple: Idle,Walk,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Hydrapple Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Raging_Bolt Shiny: Idle,Sleep,Swing,Double,Rotate
