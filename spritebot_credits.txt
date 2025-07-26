@@ -8670,6 +8670,7 @@ Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
 	Sprite:
 		Pansage: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Panpour: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+		Yamask Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
 AllPatchedUp	Discord:<@!289213609773498368>	Contact:patchedupgalaxy@gmail.com
 	Sprite:
