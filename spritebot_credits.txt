@@ -156,6 +156,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Grimer: Normal,Pain,Surprised
 		Muk: Normal
 		Shellder: Normal
+		Shellder Temp: Normal
 		Cloyster: Normal
 		Gastly: Normal
 		Haunter: Angry,Dizzy,Joyous,Normal,Pain,Surprised
@@ -258,6 +259,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Mareep: Normal
 		Flaaffy: Normal
 		Ampharos: Happy,Normal
+		Ampharos Alternate: Normal,Happy
 		Bellossom: Normal
 		Marill: Normal,Sad,Joyous,Teary-Eyed
 		Marill Cutscene: Joyous,Normal,Sigh,Teary-Eyed
@@ -4007,6 +4009,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sneasel Hisui Shiny Female: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Sneasel Hisui Female: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Ursaring Altcolor: Normal
+		Swinub Alternate Shiny: Normal
 		Corsola: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Corsola Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Corsola Galar: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
