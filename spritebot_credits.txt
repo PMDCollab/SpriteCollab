@@ -156,7 +156,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Grimer: Normal,Pain,Surprised
 		Muk: Normal
 		Shellder: Normal
-		Shellder Temp: Normal
 		Cloyster: Normal
 		Gastly: Normal
 		Haunter: Angry,Dizzy,Joyous,Normal,Pain,Surprised
@@ -1596,8 +1595,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Machoke Altcolor: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Magnemite: Crying,Crying^,Teary-Eyed,Teary-Eyed^
 		Magnemite Shiny: Crying,Crying^,Teary-Eyed,Teary-Eyed^
-		Shellder: Angry,Normal,Special1,Sad,Happy
-		Shellder Shiny: Angry,Special1,Sad,Happy
 		Gengar Cutscene Shiny: Special0,Special1
 		Vaporeon Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Snorlax: Surprised
@@ -2400,7 +2397,6 @@ baronessfaron	Discord:<@!544245909639397378>
 		Doduo Alternate Shiny Female: Normal
 		Doduo Alternate Female: Normal
 		Seel: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Shellder Altcolor Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gengar Cutscene: Joyous,Special1,Crying,Inspired,Sigh,Shouting,Stunned,Dizzy,Worried,Determined
 		Gengar Cutscene Shiny: Joyous,Special1,Crying,Inspired,Sigh,Shouting,Stunned,Dizzy,Worried,Determined
 		Onix: Surprised
@@ -3818,17 +3814,20 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Slowbro Mega: Normal
 		Slowbro Mega Shiny: Normal
 		Slowbro Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Slowbro Alternate Shiny: Normal
+		Slowbro Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Slowbro Mega_Altcolor: Normal
 		Slowbro Mega_Altcolor Shiny: Normal
 		Slowbro Galar_Alternate: Normal,Normal^,Happy,Happy^
+		Slowbro Galar_Alternate Shiny: Normal,Normal^,Happy,Happy^
 		Dodrio Altcolor: Normal
 		Dodrio Altcolor Female: Normal
 		Seel Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grimer Altcolor: Normal,Pain,Surprised
 		Muk Altcolor: Normal
+		Shellder: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Shellder Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Shellder Altcolor: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Shellder Temp: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Shellder Altcolor Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Cloyster Shiny: Normal
 		Cloyster Altcolor: Normal
 		Cloyster Altcolor Shiny: Normal
@@ -5824,7 +5823,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Seel Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Grimer Alola Shiny: Normal
 		Muk Alola Shiny: Normal
-		Shellder Shiny: Normal,Sad,Crying,Pain,Shouting,Surprised,Stunned,Angry,Dizzy,Worried,Determined
 		Gastly Alternate Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
 		Haunter Shiny: Sad,Special1,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Worried,Determined,Special0
 		Hypno Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -6781,8 +6779,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Golem Altcolor: Normal
 		Slowbro: Determined,Happy,Inspired,Normal,Sad,Special3,Stunned,Teary-Eyed,Dizzy
 		Grimer Shiny: Normal,Pain,Surprised
-		Shellder: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined
-		Shellder Shiny: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined
 		Drowzee: Determined,Happy,Normal,Sad,Sigh,Special3,Stunned,Teary-Eyed,Joyous
 		Hypno: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Koffing: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -7281,7 +7277,6 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Magneton Shiny: Normal
 		Seel Shiny: Normal
 		Muk Shiny: Normal
-		Shellder Shiny: Normal
 		Cloyster Shiny: Normal
 		Krabby Altcolor Shiny: Normal
 		Kingler Altcolor Shiny: Normal,Normal^
@@ -8331,7 +8326,11 @@ Smalusion	Discord:<@!177074597315870720>	Contact:https://twitter.com/Smalusion
 
 Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 	Portrait:
+		Missingno_ Turban: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Slowbro Mega: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Slowbro Mega_Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ampharos Alternate: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Slowking Galar: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Shaymin Sky: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Samurott Hisui: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Venipede: Normal
@@ -8362,6 +8361,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Kommo_o: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Buzzwole: ",Normal,Sad,Joyous,Happy,Pain,Stunned
 		Corviknight: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Eldegoss: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Sandaconda: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grapploct: Normal,Normal^,Happy,Happy^
 		Arctozolt: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
