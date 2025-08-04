@@ -6876,6 +6876,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Falinks Trooper Shiny: Normal
 		Eiscue Shiny: Normal
 		Duraludon Shiny: Normal
+		Quaxly: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^
 	Sprite:
 		Rattata Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop
 		Aerodactyl Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
