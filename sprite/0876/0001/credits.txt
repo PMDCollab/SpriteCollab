@@ -2,3 +2,4 @@
 2025-06-16 16:03:06.903770	<@!653416391201783856>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 2025-06-16 16:03:13.258068	JHONY_REX	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 2025-06-16 19:21:44.004166	<@!350050109741858829>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+2025-08-06 22:47:14.429363	<@!276369635304275968>	CUR	CC_BY-NC_4	EventSleep,Wake,Float,Laying,Cringe
