@@ -6619,7 +6619,7 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Shuckle Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk,Withdraw
 		Corsola Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 		Spinda Cutscene_Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop,Special0,Special1,Special2,Special3,Special4,Special5
-		Altaria Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+		Altaria Altcolor Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Zangoose Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,MultiScratch,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Absol Shiny: "
 		Absol Cutscene Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Jump,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
@@ -7443,7 +7443,7 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Pelipper Cutscene Shiny: Walk,Attack,QuickStrike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0
 		Shroomish Shiny: Walk,Attack,Strike,Shoot,Twirl,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Electrike Shiny: Walk,Attack,QuickStrike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Altaria Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+		Altaria Altcolor Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Barboach Shiny: Walk,Attack,Strike,Shoot,Shake,Rumble,Dance,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Duskull Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Absol Cutscene Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Jump,QuickStrike,Rotate,Shoot,Sleep,SpAttack,Special0,Special1,Swing,Walk
