@@ -1853,6 +1853,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Rayquaza Altcolor: Normal
 		Torterra Altcolor: Normal,Normal^
 		Empoleon Altcolor: Normal
+		Staraptor: Happy,Surprised,Special3
 		Bibarel Shiny: Normal
 		Bibarel Shiny Female: Normal
 		Roserade: Joyous,Joyous^,Crying,Inspired,Crying^,Inspired^,Surprised,Surprised^,Angry,Angry^,Special3,Special3^,Determined,Determined^
