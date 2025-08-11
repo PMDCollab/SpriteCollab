@@ -8976,6 +8976,7 @@ nataniel-sama	Contact:https://pokemon-reloaded.el-foro.net/
 		Solgaleo: Walk,Attack,Strike,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Corviknight: Walk,Attack,Strike,Idle
 		Chewtle: Idle,Walk,Charge,Swing,Double,Rotate
+		Drednaw: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Copperajah: Idle,Walk,Rotate
 
 DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
