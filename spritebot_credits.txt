@@ -5540,6 +5540,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Dottler Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Twirl,Swing,Double,Rotate,Hop
 		Orbeetle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Gossifleur Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,FlapAround,Swing,Double,Rotate,Hop
+		Eldegoss Alternate: Idle,Walk,Swing,Double,Rotate
 		Wooloo: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Stomp,Swing,Walk
 		Wooloo Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Stomp,Swing,Walk
 		Chewtle: Idle,Walk,Charge,Swing,Double,Rotate
