@@ -1,0 +1,1 @@
+2025-08-11 16:09:50.047208	NATANIEL_SAMA	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,SpAttack,RearUp,Swing,Double,Rotate,Hop
