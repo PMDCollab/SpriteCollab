@@ -8449,6 +8449,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Dottler: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Twirl,Swing,Double,Rotate,Hop
 		Orbeetle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Chewtle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
+		Drednaw: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Silicobra: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Sizzlipede: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
