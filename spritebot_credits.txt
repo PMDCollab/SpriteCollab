@@ -8513,6 +8513,13 @@ YoukaiMinori	Discord:<@!91001329228464128>	Contact:<@91001329228464128>
 		Grovyle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Grovyle Cutscene Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4,Special5,DigOut,Fainted,Special7,StandingUp,Special8,Special9,Special10,Special11,Special12,Special13,Special14,Special15,Special16,Special17
 
+Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
+	Sprite:
+		Grovyle Cutscene Shiny: Attack,Charge,Shoot,Double,Pose,Head,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10,Special11,Special12,Special13,Special14,Special15,Special16,Special17,Special18,Special19,Special20
+		Pansage: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+		Panpour: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+		Yamask Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+
 KCN015	Discord:<@!358038459237138432>
 	Sprite:
 		Mightyena: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,RearUp,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
@@ -8685,12 +8692,6 @@ LightBlueBlaze	Discord:<@!283045864509800468>	Contact:LightBlueBlaze@gmail.com
 		Herdier: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Liepard: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 
-Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
-	Sprite:
-		Pansage: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
-		Panpour: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
-		Yamask Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-
 AllPatchedUp	Discord:<@!289213609773498368>	Contact:patchedupgalaxy@gmail.com
 	Sprite:
 		Pansear: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
@@ -8788,6 +8789,7 @@ Noivern	Discord:<@!150809243816165377>	Contact:https://twitter.com/notarealnoive
 Leif	Discord:<@!883792430720225350>
 	Sprite:
 		Dwebble: Idle,Walk,Attack,Strike,Double,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Dwebble Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Helioptile: Sleep,Attack,Charge,Shoot,Strike,Twirl,Shock,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Idle,Walk
 		Helioptile Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
