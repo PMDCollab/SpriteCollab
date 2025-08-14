@@ -3363,7 +3363,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Wattrel Shiny: Normal
 		Mabosstiff Shiny: Normal,Angry
 		Espathra Shiny: Normal
-		Bombirdier Shiny: Normal
 		Annihilape Shiny: Normal
 		Flutter_Mane Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Slither_Wing Shiny: Normal
@@ -4545,7 +4544,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Aurorus Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Sylveon: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Sylveon Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
-		Hawlucha Temp: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
+		Hawlucha Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Carbink: Normal,Sad,Happy,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Determined,Determined^
 		Sliggoo Hisui: Normal,Normal^
 		Sliggoo Hisui Shiny: Normal,Normal^
@@ -4902,7 +4901,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Wiglett Shiny: Normal
 		Wugtrio: Normal,Normal^
 		Wugtrio Shiny: Normal,Normal^
-		Bombirdier Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Bombirdier Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Finizen: Normal,Happy,Inspired
 		Finizen Shiny: Normal,Happy,Inspired
 		Palafin: Normal,Happy,Inspired
@@ -6859,7 +6858,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Spritzee: Pain
 		Spritzee Shiny: Normal,Pain
 		Clauncher Shiny: Normal
-		Hawlucha Shiny: Normal
 		Sliggoo: Happy,Joyous,Special3
 		Klefki Shiny: Normal
 		Phantump Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
