@@ -1393,7 +1393,7 @@ JFain	Discord:<@!702275233125630042>
 		Magby: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Blissey: Angry,Crying,Happy,Normal,Pain,Sad,Worried,Determined,Dizzy,Inspired,Joyous,Shouting,Sigh,Stunned,Surprised,Teary-Eyed
 		Combusken: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Nuzleaf Alternate: Normal
+		Nuzleaf Alternate: Normal,Happy,Teary-Eyed,Determined
 		Surskit: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Breloom: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special3,Special1
 		Nosepass: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
