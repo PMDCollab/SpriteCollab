@@ -7179,6 +7179,7 @@ lokatts	Discord:<@!232091727094218752>	Contact:https://twitter.com/lokatts
 Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 	Portrait:
 		Nidorina Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Victreebel Mega: Normal,Normal^
 		Lapras Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dragonite Mega: Normal,Sigh,Pain,Determined
 		Mewtwo Shadow: Normal,Normal^
