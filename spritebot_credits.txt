@@ -3094,6 +3094,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Furfrou Kabuki: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,TailWhip,Swing,Double,Rotate,Hop
 		Spritzee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Aromatisse: Idle,Rotate
+		Aromatisse Shiny: Idle,Rotate
 		Slurpuff Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
 		Inkay: Idle,Walk,Sleep,Attack,Charge,Slam,Twirl,Swing,Double,Rotate,Hurt,Shoot,Strike,Hop
 		Binacle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
