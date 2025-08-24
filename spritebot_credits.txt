@@ -2057,8 +2057,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Sinistea Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grimmsnarl: Normal,Happy,Pain
 		Mr_Rime: Normal
-		Indeedee Female_Alternate: Normal,Joyous,Happy,Inspired,Pain,Shouting,Crying,Surprised,Stunned,Dizzy,Special2,Worried,Determined,Special0,Sad,Sigh,Angry,Teary-Eyed
-		Indeedee Female_Alternate Shiny: Normal
+		Indeedee Alternate Shiny Female: Normal
+		Indeedee Alternate Female: Normal,Joyous,Happy,Inspired,Pain,Shouting,Crying,Surprised,Stunned,Dizzy,Special2,Worried,Determined,Special0,Sad,Sigh,Angry,Teary-Eyed
 		Morpeko Hangry: Normal,Surprised
 		Cufant Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Duraludon Gigantamax: Normal
@@ -2294,8 +2294,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Corviknight: Idle,Walk,Attack
 		Corviknight Shiny: Idle,Walk,Attack
 		Snom Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
-		Indeedee Female_Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
-		Indeedee Female_Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+		Indeedee Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+		Indeedee Alternate Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Duraludon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Zacian Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Kleavor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
@@ -5658,7 +5658,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Eiscue Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop,Hover
 		Eiscue Noice: Idle,Rotate
 		Eiscue Noice Shiny: Idle,Rotate
-		Indeedee Female_Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop,EventSleep,Wake,Float,Laying,Cringe
+		Indeedee Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop,EventSleep,Wake,Float,Laying,Cringe
 		Morpeko: Idle,Walk,Swing,Double,Rotate,Hop,Special0
 		Morpeko Shiny: Idle,Walk,Swing,Double,Rotate,Hop,Special0
 		Morpeko Hangry: Idle,Walk,Swing,Double,Rotate,Hop,Special0
@@ -6511,7 +6511,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Eldegoss Alternate: Idle,Walk,Swing,Double,Rotate
 		Runerigus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Runerigus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
-		Indeedee Female_Alternate: EventSleep,Wake,Float,Laying,Cringe
+		Indeedee Alternate Female: EventSleep,Wake,Float,Laying,Cringe
 		Kubfu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Pose,Float,Laying,Cringe
 		Kubfu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,EventSleep,Wake,Pose,Float,Laying,Cringe
 		Quaquaval: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
@@ -8029,7 +8029,7 @@ Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/mich
 		Golisopod: "
 		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Pincurchin: Idle,Walk,Sleep,Hurt
-		Indeedee Female_Alternate: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Raging_Bolt: Idle,Swing,Double,Rotate
 
 Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
@@ -8050,7 +8050,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Orbeetle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Arrokuda: Attack,Idle,Walk
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Indeedee Female_Alternate: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Dreepy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack
 		Drakloak: Idle,Walk,Sleep,Hurt,Attack,Strike
 		Zacian Crowned_Sword: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Dance,Swing,Double,Rotate,Hop
@@ -8744,7 +8744,7 @@ Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
 		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Conkeldurr: Idle,Rotate
 		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
-		Indeedee Female_Alternate: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 
