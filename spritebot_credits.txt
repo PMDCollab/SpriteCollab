@@ -7578,7 +7578,6 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Omastar Shiny: Walk,Attack,Strike,Shoot,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Kabuto Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Kabutops Shiny: Walk,Attack,MultiStrike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Ledyba Shiny: Walk,Attack,Strike,Hover,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ledyba Shiny Female: Walk,Attack,Strike,Hover,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ledian Shiny: Walk,Attack,Strike,Hover,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Ledian Shiny Female: Walk,Attack,Strike,Hover,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -8409,6 +8408,22 @@ Pencil	Discord:<@!171030521009274881>	Contact:https://twitter.com/Sea_of_Pencils
 		Dratini Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Noctowl Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
 
+Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
+	Sprite:
+		Ledyba Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Chinchou Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Steelix Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Emit,Swing,Double,Rotate,Hop
+		Grovyle Cutscene Shiny: Attack,Charge,Shoot,Double,Pose,Head,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10,Special11,Special12,Special13,Special14,Special15,Special16,Special17,Special18,Special19,Special20
+		Shuppet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Pansage: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+		Panpour: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
+		Yamask Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Yamask Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Vivillon High_Plains Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Cetitan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
+		Munkidori Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Fezandipiti Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+
 Chi	Discord:<@!95638225439166464>	Contact:<@95638225439166464>
 	Portrait:
 		Dunsparce Cutscene Shiny: Normal,Sigh,Stunned,Surprised
@@ -8444,21 +8459,6 @@ Chi	Discord:<@!95638225439166464>	Contact:<@95638225439166464>
 		Grotle Shiny: Walk,Attack,Strike,Shoot,Rumble,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Darkrai Shiny: "
 		Darkrai Cutscene Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
-
-Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
-	Sprite:
-		Chinchou Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-		Steelix Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Emit,Swing,Double,Rotate,Hop
-		Grovyle Cutscene Shiny: Attack,Charge,Shoot,Double,Pose,Head,Special0,Special1,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10,Special11,Special12,Special13,Special14,Special15,Special16,Special17,Special18,Special19,Special20
-		Shuppet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Pansage: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
-		Panpour: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
-		Yamask Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Yamask Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Vivillon High_Plains Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
-		Cetitan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
-		Munkidori Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
-		Fezandipiti Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 
 Spikey-Valentine	Discord:<@!454421330058805251>	Contact:https://twitter.com/spikeyvalentine?s=21&t=KmiqQo0hvuT6bxZFEGAKbA
 	Sprite:
