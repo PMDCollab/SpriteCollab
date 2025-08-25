@@ -1502,6 +1502,7 @@ JFain	Discord:<@!702275233125630042>
 		Buneary: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Lopunny Mega: Walk,Attack,QuickStrike,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp,Pose,Jump,Special1
 		Mime_Jr_: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Happiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Finneon: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Glaceon: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,Swing,TailWhip,Trip,Tumble,TumbleBack,Wake,Walk
 		Glaceon Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,TailWhip,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -1605,7 +1606,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Girafarig Shiny: Special0
 		Qwilfish Hisui: Normal
 		Scizor: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Scizor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Donphan: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Donphan Female: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Donphan Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -7768,7 +7768,6 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Wooper Shiny: Happy,Normal,Surprised,Worried
 		Wooper Shiny Female: Normal
 		Quagsire Shiny: Normal
-		Scizor Shiny: Normal
 		Heracross Shiny: Normal
 		Heracross Shiny Female: Normal
 		Skarmory Shiny: Normal
@@ -8410,7 +8409,7 @@ Pencil	Discord:<@!171030521009274881>	Contact:https://twitter.com/Sea_of_Pencils
 
 Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
 	Portrait:
-		Scizor Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Scizor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Ledyba Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Chinchou Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
