@@ -2231,6 +2231,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Dusclops Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Swing,Double,Rotate,Hop
 		Tropius Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Regirock Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
+		Registeel Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Kyogre Primal Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Stomp,Swell,Swing,Double,Rotate,Hop
 		Groudon Primal Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Rayquaza Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike
