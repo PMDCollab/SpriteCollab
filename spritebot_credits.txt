@@ -1852,6 +1852,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Dusclops Shiny: Normal,Sad,Happy,Inspired,Sigh,Pain,Surprised,Stunned,Angry,Teary-Eyed,Worried,Special0
 		Tropius Altcolor: Normal
 		Regirock Altcolor: Normal,Normal^
+		Registeel Altcolor: Normal
 		Rayquaza Altcolor: Normal
 		Torterra Altcolor: Normal,Normal^
 		Empoleon Altcolor: Normal
