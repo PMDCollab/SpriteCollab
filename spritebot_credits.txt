@@ -8410,6 +8410,10 @@ Pencil	Discord:<@!171030521009274881>	Contact:https://twitter.com/Sea_of_Pencils
 		Dratini Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Noctowl Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
 
+Neat_Neato	Discord:<@!181900575934382081>	Contact:imneatneato@gmail.com
+	Sprite:
+		Furret: EventSleep,Wake,Laying
+
 Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
 	Portrait:
 		Scizor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
