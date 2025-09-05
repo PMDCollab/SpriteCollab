@@ -142,7 +142,7 @@
       <Name>Swing</Name>
       <Index>8</Index>
       <FrameWidth>80</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameHeight>80</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -241,8 +241,8 @@
     <Anim>
       <Name>EventSleep</Name>
       <Index>13</Index>
-      <FrameWidth>40</FrameWidth>
-      <FrameHeight>16</FrameHeight>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -251,7 +251,7 @@
     <Anim>
       <Name>Wake</Name>
       <Index>14</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
@@ -340,7 +340,7 @@
     <Anim>
       <Name>Float</Name>
       <Index>20</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>9</Duration>
@@ -369,7 +369,7 @@
     <Anim>
       <Name>Nod</Name>
       <Index>22</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>6</Duration>
@@ -435,8 +435,8 @@
     <Anim>
       <Name>Laying</Name>
       <Index>27</Index>
-      <FrameWidth>40</FrameWidth>
-      <FrameHeight>16</FrameHeight>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>24</FrameHeight>
       <Durations>
         <Duration>30</Duration>
       </Durations>
@@ -444,7 +444,7 @@
     <Anim>
       <Name>LeapForth</Name>
       <Index>28</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <Durations>
         <Duration>6</Duration>
@@ -477,7 +477,7 @@
     <Anim>
       <Name>LostBalance</Name>
       <Index>31</Index>
-      <FrameWidth>24</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>8</Duration>
