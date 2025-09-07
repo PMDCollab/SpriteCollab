@@ -2365,6 +2365,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pikachu Ph_D: Normal,Normal^
 		Pikachu Libre: Normal
 		Pikachu Libre Shiny: Normal
+		Sandshrew Alola: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Nidoran_F Alternate: Normal,Shouting,Joyous,Special1,Happy,Crying,Surprised,Angry
 		Nidorina Altcolor: Normal
 		Vulpix Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
