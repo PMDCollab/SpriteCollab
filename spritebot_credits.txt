@@ -2366,6 +2366,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Pikachu Libre: Normal
 		Pikachu Libre Shiny: Normal
 		Sandshrew Alola: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Sandshrew Alola Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Nidoran_F Alternate: Normal,Shouting,Joyous,Special1,Happy,Crying,Surprised,Angry
 		Nidorina Altcolor: Normal
 		Vulpix Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -4193,6 +4194,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Ursaring Altcolor: Normal
 		Swinub Alternate Shiny: Normal
 		Piloswine: Surprised
+		Piloswine Shiny: Normal,Surprised
+		Piloswine Shiny Female: Normal,Surprised
 		Piloswine Female: Surprised
 		Corsola: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Corsola Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -5150,7 +5153,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Okidogi: Normal,Normal^
 		Okidogi Shiny: Normal,Normal^
 		Munkidori: Normal,Normal^
-		Munkidori Shiny: Normal,Normal^
+		Munkidori Shiny: Normal,Normal^,Happy,Happy^,Surprised,Surprised^,Worried,Worried^
 		Fezandipiti: Normal
 		Fezandipiti Shiny: Normal
 		Ogerpon Teal_Mask: Normal,Normal^
@@ -7675,8 +7678,6 @@ Prismatic	Discord:<@!215699178553212929>	Contact:prismaticphenomenal@gmail.com
 		Slugma Shiny: "
 		Slugma Cutscene Shiny: Angry,Normal,Pain
 		Magcargo Shiny: Normal,Normal^
-		Piloswine Shiny: Normal
-		Piloswine Shiny Female: Normal
 		Phanpy Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Tyrogue Shiny: Normal
 		Carvanha Shiny: Normal
