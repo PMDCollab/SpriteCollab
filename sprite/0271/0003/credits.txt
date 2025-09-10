@@ -1,0 +1,1 @@
+2025-09-10 17:43:58.944051	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,QuickStrike,Special0,Special1
