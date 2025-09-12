@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.487999	<@!200385851069300736>	CUR	PMDCollab_1	Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Wiggle,DigIn,DigOut,Special0
+2025-09-12 20:34:34.342955	<@!117780585635643396>	OLD	CC_BY-NC_4	Eat,Pose,Wiggle,Special0
