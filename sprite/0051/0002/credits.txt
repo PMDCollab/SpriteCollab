@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.488997	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Wiggle,Special0,DigIn,DigOut
+2025-09-12 20:24:45.818418	<@!117780585635643396>	OLD	CC_BY-NC_4	Eat,Pose,Wiggle,Special0

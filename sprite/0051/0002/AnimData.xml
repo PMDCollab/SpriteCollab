@@ -176,7 +176,7 @@
 			</Durations>
 		</Anim>
 		<Anim>
-			<Name>Wiggle</Name>
+			<Name>Eat</Name>
 			<Index>13</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>32</FrameHeight>
@@ -188,7 +188,7 @@
 			</Durations>
 		</Anim>
 		<Anim>
-			<Name>Special0</Name>
+			<Name>Pose</Name>
 			<Index>14</Index>
 			<FrameWidth>32</FrameWidth>
 			<FrameHeight>32</FrameHeight>
