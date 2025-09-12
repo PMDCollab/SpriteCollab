@@ -175,6 +175,18 @@
 				<Duration>2</Duration>
 			</Durations>
 		</Anim>
+		<Anim>
+			<Name>Pose</Name>
+			<Index>17</Index>
+			<FrameWidth>32</FrameWidth>
+			<FrameHeight>32</FrameHeight>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>8</Duration>
+			</Durations>
+		</Anim>
 
 	</Anims>
 </AnimData>
