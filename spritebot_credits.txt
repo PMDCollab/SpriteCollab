@@ -2056,7 +2056,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Rookidee: Normal,Special1
 		Rookidee Shiny: Normal,Special1
 		Dubwool: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0,Surprised
-		Dubwool Shiny: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0
+		Dubwool Shiny: Normal,Sad,Special1,Happy,Inspired,Teary-Eyed,Special2,Determined,Special0,Surprised
 		Silicobra Shiny: Normal
 		Sandaconda Gigantamax: Normal
 		Sandaconda Gigantamax Shiny: Normal
