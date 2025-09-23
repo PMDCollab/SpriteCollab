@@ -2065,7 +2065,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Sinistea Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grimmsnarl: Normal,Happy,Pain
 		Mr_Rime: Normal
-		Indeedee Alternate Shiny Female: Normal
+		Indeedee Alternate Shiny Female: Normal,Sad,Joyous,Crying,Inspired,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Special2,Worried,Determined,Special0
 		Indeedee Alternate Female: Normal,Joyous,Happy,Inspired,Pain,Shouting,Crying,Surprised,Stunned,Dizzy,Special2,Worried,Determined,Special0,Sad,Sigh,Angry,Teary-Eyed
 		Morpeko Hangry: Normal,Surprised
 		Cufant Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
