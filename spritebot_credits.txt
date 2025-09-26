@@ -6993,6 +6993,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Pidgeot Mega: Normal
 		Fearow: Joyous,Shouting,Surprised,Angry,Dizzy
 		Pikachu Rock_Star: Normal,Happy,Happy^,Normal^
+		Meowth Galar: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Victreebel Shiny: Normal,Normal^
 		Tentacool: Angry
 		Golem Altcolor: Normal
