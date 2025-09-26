@@ -9319,10 +9319,12 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Incineroar Shiny: Special0
+		Lycanroc Midnight Shiny: Special1,Special0
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rillaboom: Normal^
 		Rillaboom Shiny: Normal^
 		Indeedee Alternate: Normal
+		Indeedee Alternate Shiny: Normal
 
 estelstarlight	Contact:https://estelstarlight.tumblr.com/post/186838449949
 	Portrait:
