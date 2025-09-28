@@ -9267,6 +9267,22 @@ Cloudy	Discord:<@!356187016054046723>	Contact:https://twitter.com/cloudyskys1769
 		Sandaconda Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Terapagos: Inspired
 
+JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
+	Portrait:
+		Spearow Shiny: Worried
+		Nidorino: Pain,Happy,Inspired
+		Nidorino Shiny: Pain,Happy,Inspired
+		Nidorino Altcolor: Pain,Happy,Inspired
+		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Incineroar Shiny: Special0
+		Lycanroc Midnight Shiny: Special1,Special0
+		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Rillaboom: Normal^
+		Rillaboom Shiny: Normal^
+		Indeedee Alternate: Normal
+		Indeedee Alternate Shiny: Normal
+
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
 	Portrait:
 		Ekans: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9310,21 +9326,6 @@ Vex	Discord:<@!157339721729572864>
 		Sandshrew Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Miltank: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Miltank Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-
-JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
-	Portrait:
-		Nidorino: Pain,Happy,Inspired
-		Nidorino Shiny: Pain,Happy,Inspired
-		Nidorino Altcolor: Pain,Happy,Inspired
-		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
-		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
-		Incineroar Shiny: Special0
-		Lycanroc Midnight Shiny: Special1,Special0
-		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Rillaboom: Normal^
-		Rillaboom Shiny: Normal^
-		Indeedee Alternate: Normal
-		Indeedee Alternate Shiny: Normal
 
 estelstarlight	Contact:https://estelstarlight.tumblr.com/post/186838449949
 	Portrait:
