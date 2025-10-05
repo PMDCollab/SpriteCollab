@@ -9281,6 +9281,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Nidorino Shiny: Pain,Happy,Inspired
 		Nidorino Altcolor: Pain,Happy,Inspired
 		Diglett Shiny: Pain
+		Drowzee Shiny: Joyous
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Incineroar Shiny: Special0
