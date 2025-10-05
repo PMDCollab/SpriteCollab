@@ -1660,7 +1660,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Spectrier Shiny: Normal,Normal^
 		Basculegion Shiny: Normal
 		Basculegion Shiny Female: Normal
-		Basculegion Female: Normal
 	Sprite:
 		Missingno_ Egg: Walk,Attack,Strike,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe,DeepBreath,Eat,EventSleep,Float,Faint,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Charizard: Charge,Double,Faint,Hop,Hurt,Rotate,Shoot,Sleep,Strike,Swing
@@ -2092,6 +2091,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Ursaluna Shiny: Normal,Normal^
 		Ursaluna Bloodmoon_Alternate: Normal,Special1,Normal^,Special1^
 		Ursaluna Bloodmoon_Alternate Shiny: Normal,Special1,Normal^,Special1^
+		Basculegion: Normal
 		Basculegion Shiny: Normal
 		Overqwil: Normal,Happy,Special3
 		Overqwil Shiny: Normal,Happy,Special3
@@ -3322,7 +3322,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Zarude: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kleavor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kleavor Shiny: Normal
-		Basculegion: Normal
+		Basculegion Female: Normal
 		Revavroom: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Orthworm: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Hydrapple: Sad,Special1,Sad^,Special1^,Pain,Shouting,Pain^,Shouting^,Angry,Special2,Angry^,Special2^,Special0,Special0^
