@@ -42,6 +42,11 @@
         <Duration>2</Duration>
       </Durations>
     </Anim>
+	<Anim>
+      <Name>Strike</Name>
+      <Index>2</Index>
+      <CopyOf>Attack</CopyOf>
+    </Anim>
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
