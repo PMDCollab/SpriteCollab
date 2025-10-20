@@ -5574,8 +5574,10 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Probopass Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Rotom Heat Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Rotom Wash: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Cringe
+		Rotom Wash Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,Cringe
 		Rotom Frost Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Rotom Fan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,Cringe,Strike
+		Rotom Fan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Dialga Origin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Palkia Origin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Giratina Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
@@ -9312,6 +9314,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Drowzee Shiny: Joyous
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Dunsparce Shiny: Stunned
 		Incineroar Shiny: Special0
 		Lycanroc Midnight Shiny: Special1,Special0
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
