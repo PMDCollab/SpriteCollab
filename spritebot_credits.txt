@@ -369,7 +369,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Tyranitar: Normal,Surprised
 		Lugia: Normal
 		Ho_Oh: Normal
-		Celebi Cutscene: Angry,Crying,Happy,Normal,Pain,Shouting,Sigh,Special2,Stunned,Surprised,Teary-Eyed
+		Celebi Cutscene: Normal,Happy,Sigh
 		Celebi Cutscene Shiny: Angry,Crying,Happy,Normal,Pain,Shouting,Sigh,Special2,Stunned,Surprised,Teary-Eyed
 		Treecko: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
 		Grovyle: Normal,Pain,Surprised
@@ -6201,7 +6201,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Lugia Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Ho_Oh Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Celebi Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Stunned,Surprised,Teary-Eyed,Worried
-		Celebi Cutscene: Crying,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Special2
 		Celebi Cutscene Shiny: Determined,Dizzy,Inspired,Joyous,Sad,Worried,Special0,Special3,Special1
 		Treecko Shiny: Special1
 		Sceptile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9846,7 +9845,6 @@ Discord:<@!215504160991346689>
 leafia_barrett	Discord:<@!149282718578901001>	Contact:leafbarrett@gmail.com
 	Portrait:
 		Celebi: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Special1,Sigh,Stunned,Special2
-		Celebi Cutscene: Worried,Special0,Special3,Sad,Joyous,Special1,Inspired,Dizzy,Determined
 
 DasK	Discord:<@!294668186219970562>	Contact:http://reddit.com/u/thedask
 	Portrait:
