@@ -3942,6 +3942,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Rattata Altcolor: Normal
 		Rattata Altcolor Female: Normal
 		Raticate Altcolor: Normal
+		Raticate Altcolor Female: Normal
 		Arbok: Sad,Joyous,Happy,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Determined
 		Arbok Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arbok Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8766,6 +8767,7 @@ PoliteHoppip	Discord:<@!168414649039978496>
 Sonikku_A	Discord:<@!288510084273668096>	Contact:https://bsky.app/profile/knopguy.bsky.social
 	Portrait:
 		Skarmory Mega: Normal
+		Skarmory Mega Shiny: Normal
 	Sprite:
 		Deoxys Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Deoxys Attack Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
