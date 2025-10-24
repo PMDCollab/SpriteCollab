@@ -3300,6 +3300,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Fletchinder: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pangoro: Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Teary-Eyed^,Dizzy^,Worried^,Determined^,Special0^
 		Barbaracle: Normal,Normal^,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Barbaracle Mega: Normal
 		Tyrantrum: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Hawlucha: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Gourgeist: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9334,7 +9335,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Dunsparce Shiny: Stunned
-		Rotom Phone: Normal
+		Rotom Phone: Normal,Normal^
 		Incineroar Shiny: Special0
 		Lycanroc Midnight Shiny: Special1,Special0
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
