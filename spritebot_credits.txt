@@ -8760,6 +8760,8 @@ PoliteHoppip	Discord:<@!168414649039978496>
 		Groudon Primal Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
 
 Sonikku_A	Discord:<@!288510084273668096>	Contact:https://bsky.app/profile/knopguy.bsky.social
+	Portrait:
+		Skarmory Mega: Normal
 	Sprite:
 		Deoxys Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Deoxys Attack Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
