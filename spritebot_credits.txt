@@ -4584,9 +4584,9 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Crustle: Normal,Normal^
 		Crustle Shiny: Normal,Normal^
 		Scrafty: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
+		Scrafty Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Scrafty Mega: Normal,Normal^
 		Scrafty Mega Shiny: Normal,Normal^
-		Scrafty Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Yamask: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Yamask Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Yamask Galar: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
@@ -6356,7 +6356,6 @@ Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Watchog Shiny: Normal
 		Stoutland Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined
 		Sandile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
-		Scrafty Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
 		Carracosta Shiny: Normal
 		Zorua Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Zoroark Shiny: Normal,Sad,Happy,Inspired,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined
@@ -7116,7 +7115,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Tympole Shiny: Normal
 		Sandile Shiny: Normal
 		Maractus Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
-		Scrafty Shiny: Normal
 		Trubbish Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried,Special0
 		Gothorita Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Special1,Sigh,Stunned,Special2,Special3
 		Karrablast Shiny: Normal
