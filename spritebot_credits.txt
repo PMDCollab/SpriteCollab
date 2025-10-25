@@ -5010,7 +5010,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Alcremie Gigantamax Shiny: Normal,Normal^
 		Falinks: Normal
 		Falinks Shiny: Normal
-		Falinks Mega: Normal
+		Falinks Mega: Normal,Normal^
 		Falinks Mega Shiny: Normal
 		Pincurchin: Normal
 		Pincurchin Shiny: Normal
