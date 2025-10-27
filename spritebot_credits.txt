@@ -4045,6 +4045,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Lickitung Altcolor: Normal
 		Lickitung Altcolor Shiny: Normal
 		Weezing Galar: Normal,Normal^
+		Weezing Galar Shiny: Normal,Normal^
 		Rhydon Altcolor: Normal
 		Rhydon Altcolor Shiny: Normal
 		Rhydon Altcolor Shiny Female: Normal
