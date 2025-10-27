@@ -4044,6 +4044,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Marowak Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Lickitung Altcolor: Normal
 		Lickitung Altcolor Shiny: Normal
+		Weezing Galar: Normal,Normal^
 		Rhydon Altcolor: Normal
 		Rhydon Altcolor Shiny: Normal
 		Rhydon Altcolor Shiny Female: Normal
