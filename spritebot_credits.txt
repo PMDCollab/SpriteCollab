@@ -3436,6 +3436,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Slither_Wing: Idle,Rotate
 		Sandy_Shocks: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Slam,Dance,Rumble,Emit,Swing,Double,Rotate,Hop
 		Iron_Hands: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Iron_Moth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Iron_Thorns: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Arctibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Scratch,Twirl,Swing,Double,Rotate,Hop
