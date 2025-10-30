@@ -4225,11 +4225,11 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Octillery Shiny Female: Normal
 		Octillery Female: Normal
 		Octillery Altcolor Female: Normal
-		Mantine Alternate: Normal
+		Mantine Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mantine Alternate Shiny: Normal
 		Mantine Altcolor: Normal,Normal^
 		Mantine Altcolor Shiny: Normal,Normal^
-		Mantine Alternate_Altcolor: Normal
+		Mantine Alternate_Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Houndoom Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Houndoom Shiny Female: Normal
 		Houndoom Female: Normal
