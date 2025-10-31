@@ -1921,6 +1921,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Simisage Shiny: Normal
 		Gigalith: Normal
 		Gigalith Shiny: Normal
+		Excadrill Mega: Normal
 		Timburr: Normal
 		Timburr Shiny: Normal
 		Gurdurr: Normal,Happy,Determined
