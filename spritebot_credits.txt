@@ -1922,6 +1922,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Gigalith: Normal
 		Gigalith Shiny: Normal
 		Excadrill Mega: Normal
+		Excadrill Mega Shiny: Normal
 		Timburr: Normal
 		Timburr Shiny: Normal
 		Gurdurr: Normal,Happy,Determined
@@ -3471,6 +3472,7 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Diglett Alternate Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowth Alola Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Machop Cutscene: Sigh,Stunned,Dizzy,Determined
+		Slowpoke Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gastly Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gastly Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Electrode Hisui Shiny: Normal,Normal^
