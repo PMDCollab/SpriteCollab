@@ -8322,6 +8322,7 @@ Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 		Zygarde: "
 		Necrozma: Attack,Double,Idle,Rotate,Swing,Walk
 		Melmetal: Idle,Walk,Sleep,Hurt,Attack,Punch,Rotate
+		Skwovet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Swing,Double,Rotate,Hop
 		Orbeetle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,SpAttack,Swing,Double,Rotate,Hop
 		Arrokuda: Attack,Idle,Walk
 		Frosmoth: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
