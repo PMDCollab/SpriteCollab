@@ -1,1 +1,2 @@
 2025-11-08 02:37:07.265317	<@!872983950732165181>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+2025-11-08 03:31:24.423851	<@!823932975916777512>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
