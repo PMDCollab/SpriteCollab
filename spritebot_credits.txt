@@ -8378,6 +8378,7 @@ Pokejavi.	Discord:<@!823932975916777512>	Contact:<@823932975916777512>
 		Panpour: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Yamask Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Yamask Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
+		Karrablast: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Diancie Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cetitan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
 		Munkidori Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
