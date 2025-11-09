@@ -2204,6 +2204,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Wigglytuff Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Withdraw,Swing,Double,Rotate,Hop
 		Parasect Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Venomoth Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Meowth Galar: Idle,Walk,Attack,Shoot,Swing,Double,Rotate,Hop
 		Primeape Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Muk Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Muk Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Pain
@@ -7183,6 +7184,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Quaxly: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^
 	Sprite:
 		Rattata Alternate Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,TailWhip,Swing,Double,Rotate,Hop
+		Meowth Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe
 		Aerodactyl Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Zapdos Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Typhlosion Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -8268,6 +8270,10 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Rhyperior Shiny: Walk,Attack,Strike,Shoot,Rumble,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Cresselia Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Cresselia Cutscene Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Special3,Special4
+
+Smingle	Discord:<@!185431200783925249>	Contact:https://twitter.com/TheSmingle
+	Sprite:
+		Meowth Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe
 
 Pink_no_tori	Discord:<@!872983950732165181>	Contact:https://twitter.com/pink_avian_poke
 	Sprite:
