@@ -4,3 +4,4 @@
 2024-06-08 04:34:35.642191	<@!229131140903075840>	CUR	CC_BY-NC_4	"
 2024-06-13 09:24:36.960642	<@!544245909639397378>	CUR	CC_BY-NC_4	Hurt,Charge
 2025-03-07 16:55:05.781329	<@!702275233125630042>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2025-11-09 02:28:24.639399	<@!702275233125630042>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Charge,Shoot,Swing,Double,Hop,EventSleep,Wake,Pose,Pull,Pain,Float,Nod,Laying,LeapForth,Cringe
