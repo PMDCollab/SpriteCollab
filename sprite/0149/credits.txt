@@ -1,1 +1,2 @@
 2020-10-07 17:58:43.752293	CHUNSOFT	CUR	Unspecified	Walk,Attack,Strike,Shoot,Withdraw,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+2025-11-09 03:55:24.114365	<@!268261643178344448>	CUR	CC_BY-NC_4	Special0
