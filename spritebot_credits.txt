@@ -2308,6 +2308,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Rookidee Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Corviknight: Idle,Walk,Attack
 		Corviknight Shiny: Idle,Walk,Attack
+		Cramorant Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Snom Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Indeedee Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Indeedee Alternate Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
