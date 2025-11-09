@@ -3396,6 +3396,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Buzzwole: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swell,Swing,Double,Rotate,Hop
 		Kartana: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Melmetal: Punch
+		Skwovet: Sleep,Hurt,Attack,Idle,Walk,Charge,Shoot,Strike,Rumble,Swing,Double,Rotate,Hop
 		Rookidee: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop
 		Corviknight: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover
 		Blipbug: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
@@ -7515,6 +7516,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Nidorina Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Twirl,Swing,Double,Rotate,Hop
 		Kangaskhan Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Dratini Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pain,Float,Laying,TumbleBack
+		Dragonite: Special0
 		Dragonite Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Mewtwo Shadow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,Appeal,SpAttack,Swing,Double,Rotate,Hop,Hover
 		Meganium Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
@@ -8540,6 +8542,10 @@ Pencil	Discord:<@!171030521009274881>	Contact:https://twitter.com/Sea_of_Pencils
 	Sprite:
 		Dratini Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Noctowl Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
+
+SethY	Discord:<@!268261643178344448>	Contact:https://linktr.ee/sethyuikora
+	Sprite:
+		Dragonite: Special0
 
 Neat_Neato	Discord:<@!181900575934382081>	Contact:imneatneato@gmail.com
 	Sprite:
