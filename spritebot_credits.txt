@@ -1566,6 +1566,7 @@ JFain	Discord:<@!702275233125630042>
 		Nymble: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Swing,Double,Rotate,Hop
 		Pawmi: Sleep,Hurt,Attack,Charge,Shoot,Double,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Pawmi Shiny: Sleep,Hurt,Attack,Charge,Shoot,Double,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Arboliva: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,Eat
 		Tinkatink: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Tinkatuff: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Iron_Bundle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
