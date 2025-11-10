@@ -1663,7 +1663,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Duraludon: "
 		Spectrier Shiny: Normal,Normal^
 		Basculegion Shiny: Normal
-		Basculegion Shiny Female: Normal
 	Sprite:
 		Missingno_ Egg: Walk,Attack,Strike,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe,DeepBreath,Eat,EventSleep,Float,Faint,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Charizard: Charge,Double,Faint,Hop,Hurt,Rotate,Shoot,Sleep,Strike,Swing
@@ -4011,6 +4010,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Arcanine Altcolor: Normal
 		Kadabra Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Alakazam Mega Shiny: Normal
+		Victreebel Mega: Normal,Normal^
+		Victreebel Mega_Altcolor: Normal,Normal^
 		Geodude Altcolor: Normal
 		Graveler Altcolor: Normal,Joyous,Surprised,Angry
 		Slowpoke Galar: Normal
@@ -4079,6 +4080,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Seaking Altcolor Shiny: Normal
 		Seaking Altcolor Shiny Male: Normal
 		Seaking Altcolor Male: Normal
+		Starmie Mega Shiny: Normal,Special0
 		Jynx Alternate Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Pinsir Mega Shiny: Normal
 		Pinsir Altcolor: Normal
@@ -4774,6 +4776,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sylveon: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Sylveon Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Hawlucha Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0
+		Hawlucha Mega Shiny: Normal
 		Carbink: Normal,Sad,Happy,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Determined,Determined^
 		Sliggoo Hisui: Normal,Normal^
 		Sliggoo Hisui Shiny: Normal,Normal^
@@ -4946,6 +4949,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Clobbopus Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Polteageist: Normal
 		Polteageist Shiny: Normal
+		Hatenna Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Hattrem Alternate: Normal,Normal^
 		Hattrem Alternate Shiny: Normal,Normal^
 		Impidimp: Normal
@@ -5060,6 +5064,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Zacian Shiny: Normal,Normal^,Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special3,Worried^,Determined^,Special3^
 		Zacian Crowned_Sword: Normal,Normal^,Happy,Happy^
 		Zacian Crowned_Sword Shiny: Normal,Normal^,Happy,Happy^
+		Eternatus Shiny: Normal
 		Urshifu: Normal,Determined
 		Urshifu Shiny: Normal,Determined
 		Urshifu Rapid_Strike: Normal,Determined
@@ -5068,6 +5073,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Zarude Dada Shiny: Normal,Normal^
 		Spectrier: Normal,Normal^
 		Kleavor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Basculegion Shiny Female: Normal
 		Sneasler: Normal,Normal^
 		Sneasler Shiny: Normal,Normal^
 		Sprigatito: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -5809,6 +5815,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sandygast: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Sandygast Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Komala: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Rumble,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Float,Laying,Cringe
+		Komala Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Rumble,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Float,Laying,Cringe
 		Turtonator: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Swing,Double,Rotate,Hop
 		Turtonator Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Swing,Double,Rotate,Hop
 		Togedemaru: Walk,Attack,QuickStrike,Shoot,Shock,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Strike,Withdraw,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -6894,7 +6901,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Necrozma Ultra Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Toxtricity Lowkey: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Determined,Special3
 		Toxtricity Lowkey Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Angry,Teary-Eyed,Determined,Special3
-		Eternatus Shiny: Normal
 	Sprite:
 		Butterfree Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Butterfree Altcolor Shiny Female: Attack,Charge,Double,FlapAround,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
@@ -7468,8 +7474,6 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 	Portrait:
 		Raichu Mega_X: Normal
 		Nidorina Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Victreebel Mega: Normal,Normal^
-		Victreebel Mega_Altcolor: Normal,Normal^
 		Starmie Mega: Normal,Special0
 		Lapras Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dragonite Mega: Normal,Sigh,Pain,Determined
@@ -10064,7 +10068,6 @@ Vendily	Discord:<@!329424896927203339>	Contact:<@329424896927203339>
 		Florges Blue Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Florges White Shiny: Normal,Normal^,Happy,Happy^,Pain,Pain^,Angry,Angry^,Worried,Worried^,Sad,Sad^,Crying,Crying^,Shouting,Shouting^,Teary-Eyed,Teary-Eyed^,Determined,Determined^,Joyous,Joyous^,Inspired,Inspired^,Surprised,Surprised^,Dizzy,Dizzy^,Sigh,Sigh^,Stunned,Stunned^
 		Sinistea Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Hatenna Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 
 Discord:<@!557599571170033664>
 	Portrait:
