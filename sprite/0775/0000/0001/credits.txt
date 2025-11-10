@@ -1,0 +1,1 @@
+2025-11-10 00:23:25.604073	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,Rumble,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Float,Laying,Cringe
