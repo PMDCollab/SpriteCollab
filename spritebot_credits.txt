@@ -4011,6 +4011,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Kadabra Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Alakazam Mega Shiny: Normal
 		Victreebel Mega: Normal,Normal^
+		Victreebel Mega Shiny: Normal,Normal^
 		Victreebel Mega_Altcolor: Normal,Normal^
 		Geodude Altcolor: Normal
 		Graveler Altcolor: Normal,Joyous,Surprised,Angry
@@ -4764,7 +4765,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Aegislash Shiny: Normal,Normal^
 		Aegislash Blade: Normal,Normal^
 		Aegislash Blade Shiny: Normal,Normal^
-		Barbaracle Shiny: Normal,Normal^
+		Barbaracle Shiny: Normal,Normal^,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Barbaracle Mega Shiny: Normal,Normal^
 		Dragalge Mega: Normal
 		Dragalge Mega Shiny: Normal
 		Heliolisk: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
@@ -9386,6 +9388,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Nidorino Shiny: Pain,Happy,Inspired
 		Nidorino Altcolor: Pain,Happy,Inspired
 		Diglett Shiny: Pain
+		Alakazam Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Slowbro Shiny: Normal,Sad,Happy,Inspired,Stunned,Teary-Eyed,Dizzy,Determined,Special3
 		Drowzee Shiny: Joyous
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
