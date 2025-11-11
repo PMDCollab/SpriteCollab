@@ -8567,6 +8567,7 @@ SethY	Discord:<@!268261643178344448>	Contact:https://linktr.ee/sethyuikora
 
 Neat_Neato	Discord:<@!181900575934382081>	Contact:imneatneato@gmail.com
 	Sprite:
+		Sentret: Wake,Eat,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
 		Furret: EventSleep,Wake,Laying
 
 Chi	Discord:<@!95638225439166464>	Contact:<@95638225439166464>
