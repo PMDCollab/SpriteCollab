@@ -47,7 +47,7 @@
     <Anim>
       <Name>Shoot</Name>
       <Index>3</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <HitFrame>8</HitFrame>
       <Durations>
@@ -189,7 +189,7 @@
     <Anim>
       <Name>Charge</Name>
       <Index>11</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
