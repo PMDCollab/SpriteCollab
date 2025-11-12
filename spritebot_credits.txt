@@ -1551,7 +1551,6 @@ JFain	Discord:<@!702275233125630042>
 		Eldegoss: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Wooloo: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Flapple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
-		Cramorant: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Toxtricity Lowkey: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop
 		Polteageist: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Morgrem: Walk,Attack,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -2311,7 +2310,8 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Rookidee Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Corviknight: Idle,Walk,Attack
 		Corviknight Shiny: Idle,Walk,Attack
-		Cramorant Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Cramorant: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Cramorant Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Snom Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Indeedee Alternate Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Indeedee Alternate Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
@@ -5863,7 +5863,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Appletun Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Silicobra Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Sandaconda Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
-		Cramorant Temp: Walk,Double
+		Cramorant: Walk,Double
 		Toxtricity Lowkey Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop
 		Sizzlipede Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,Swing,Double,Rotate,Hop
 		Centiskorch Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -6802,7 +6802,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Nickit: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
 		Nickit Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Special0
 		Eldegoss Alternate: Idle,Walk,Swing,Double,Rotate
-		Cramorant Temp: Walk,Double
+		Cramorant: Walk,Double
 		Runerigus: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Runerigus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Indeedee Alternate Female: EventSleep,Wake,Float,Laying,Cringe
@@ -6949,7 +6949,6 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Espurr Shiny: Walk,Attack,QuickStrike,Strike,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Noibat Shiny: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Nod,Eat,Fainted,EventSleep,Wake,Tumble,Pose,Pull,Pain,Float,DeepBreath,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Type_Null Shiny: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
-		Cramorant Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Arrokuda: Double,Hurt,Idle,Rotate,Sleep,Swing,Walk
 		Tatsugiri Stretchy: Idle,Walk,Attack,Strike,SpAttack,RearUp,Rotate,Hop
 		Tatsugiri Droopy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
