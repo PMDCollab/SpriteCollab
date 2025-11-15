@@ -3340,6 +3340,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Hydrapple: Sad,Special1,Sad^,Special1^,Pain,Shouting,Pain^,Shouting^,Angry,Special2,Angry^,Special2^,Special0,Special0^
 	Sprite:
 		Missingno_ Turban: Idle,Walk,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+		Slowbro Mega: Idle,Walk,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Special1
 		Slowbro Mega_Altcolor: Idle,Walk,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Special1
 		Slowking Galar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Rotom Heat: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
