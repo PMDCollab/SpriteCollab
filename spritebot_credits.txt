@@ -1833,6 +1833,7 @@ Garbage	Discord:<@!350050109741858829>	Contact:https://twitter.com/Just_Tr4sh
 		Raikou Altcolor: Normal
 		Entei Shiny: Normal
 		Larvitar Altcolor: Normal
+		Zigzagoon: Surprised
 		Breloom: Angry,Special3
 		Breloom Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Sableye Altcolor: Normal,Pain,Surprised,Stunned,Angry,Teary-Eyed,Special0
