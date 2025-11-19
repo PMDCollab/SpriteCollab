@@ -1745,7 +1745,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Hatenna Shiny: Walk,Attack,Strike,Shoot,Dance,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Lechonk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Sink,Head,Cringe,LostBalance
 
-G~	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.pmd.social
+G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.pmd.social
 	Portrait:
 		Venusaur: Happy,Pain,Angry,Worried
 		Venusaur Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
