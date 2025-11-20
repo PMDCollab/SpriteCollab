@@ -6078,7 +6078,7 @@ Grimlin	Discord:<@!217653022094786560>	Contact:https://twitter.com/Griimlin
 		Charmeleon: EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Sit,LookUp,Laying,LeapForth,Cringe,TumbleBack
 		Jirachi: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
-Murpi	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.bsky.social
+Morei	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.bsky.social
 	Portrait:
 		Bulbasaur Altcolor Shiny: Special1
 		Venusaur Mega Shiny: Normal
