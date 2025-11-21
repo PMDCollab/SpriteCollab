@@ -1814,7 +1814,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Ledian Alternate: Normal
 		Ledian Alternate Shiny: Normal
 		Ariados: Angry
-		Ariados Temp: Normal,Angry
+		Ariados Shiny: Normal,Angry
 		Sudowoodo Alternate Shiny: Normal,Joyous,Happy,Inspired,Pain,Shouting,Surprised,Stunned,Worried
 		Skiploom Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sunflora Altcolor: Normal,Joyous,Special1,Happy,Pain,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined
@@ -7890,7 +7890,6 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Mew Shiny: Normal
 		Typhlosion Altcolor Shiny: Normal
 		Spinarak Altcolor Shiny: Normal
-		Ariados Shiny: Normal
 		Chinchou Shiny: Normal
 		Lanturn Shiny: Normal
 		Cleffa Shiny: Normal
