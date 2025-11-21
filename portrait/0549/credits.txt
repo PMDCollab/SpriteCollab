@@ -1,5 +1,4 @@
-2023-05-13 17:20:40.893466	<@!350050109741858829>	CUR	PMDCollab_1	Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-2023-05-13 18:48:31.126537	<@!350050109741858829>	CUR	PMDCollab_1	Joyous,Crying,Surprised,Teary-Eyed,Dizzy,Worried
-2024-05-23 16:34:06.657490	<@!350050109741858829>	CUR	CC_BY-NC_4	Normal,Special1,Normal^,Special1^
-2024-11-07 01:36:33.090489	<@!350050109741858829>	CUR	CC_BY-NC_4	Normal,Normal^,Happy,Pain,Stunned,Teary-Eyed,Determined
-2024-11-10 16:07:39.617016	<@!350050109741858829>	CUR	CC_BY-NC_4	Inspired,Worried
+2020-10-29 03:21:39.109965	MUCRUSH	OLD	PMDCollab_1	Normal
+2020-10-29 15:31:30.148267	MUCRUSH	OLD	PMDCollab_1	Normal
+2020-10-29 22:06:27.645759	MUCRUSH	OLD	PMDCollab_1	Normal,Normal^
+2021-07-26 15:02:16.682363	<@!356635814668664832>	CUR	PMDCollab_1	Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
