@@ -2153,7 +2153,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Cyclizar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Glimmet: Normal
 		Glimmora: Normal,Happy,Shouting,Angry,Surprised,Special0,Teary-Eyed,Worried,Sad,Sigh,Pain,Determined,Joyous,Special1,Crying,Inspired,Stunned,Dizzy
-		Glimmora Shiny: Normal,Happy,Shouting,Angry
+		Glimmora Shiny: Normal,Happy,Shouting,Angry,Sad,Joyous,Special1,Crying,Inspired,Sigh,Pain,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Veluza: Normal
 		Veluza Shiny: Normal
 		Dondozo Shiny: Normal,Normal^
