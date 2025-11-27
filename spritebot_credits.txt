@@ -6921,7 +6921,7 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Gyarados Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
 		Gyarados Cutscene Shiny: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Swing,Walk,Wiggle
 		Ditto Altcolor Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing,Walk
-		Dragonite Shiny: Attack,Charge,Double,Emit,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+		Dragonite Altcolor Shiny: Attack,Charge,Double,Emit,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Hoothoot Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Noctowl Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,SpAttack,Swing,Walk
 		Ampharos Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
@@ -8254,7 +8254,7 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Articuno Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Articuno Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,StandingUp,Special0,Pose
 		Zapdos Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Injured,StandingUp
-		Dragonite Shiny: Attack,Charge,Double,Emit,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
+		Dragonite Altcolor Shiny: Attack,Charge,Double,Emit,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Mewtwo Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Punch,Rotate,Shoot,Sleep,Swing,Walk
 		Natu Shiny: Walk,Attack,Jab,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Xatu Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2
