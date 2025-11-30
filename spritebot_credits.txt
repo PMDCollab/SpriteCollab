@@ -9406,6 +9406,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Rillaboom Shiny: Normal^
 		Indeedee Alternate: Normal
 		Indeedee Alternate Shiny: Normal
+		Wattrel: Normal,Happy,Inspired,Pain
 
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
 	Portrait:
