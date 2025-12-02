@@ -7534,7 +7534,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Kangaskhan Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Dratini Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pain,Float,Laying,TumbleBack
 		Dragonite: Special0
-		Dragonite Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
+		Dragonite Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,Special0
 		Mewtwo Shadow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,Appeal,SpAttack,Swing,Double,Rotate,Hop,Hover
 		Meganium Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Meganium Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
@@ -9459,6 +9459,10 @@ estelstarlight	Contact:https://estelstarlight.tumblr.com/post/186838449949
 jackolanternjackalope	Discord:<@!784171246011023481>	Contact:https://www.instagram.com/jackolanternjackalope/
 	Portrait:
 		Clefable: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
+
+<ElGian>	Discord:<@!770438729575563284>	Contact:<gfcobross@gmail.com>
+	Portrait:
+		Clefable Altcolor: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 
 Mojo	Discord:<@!314519507869761556>
 	Portrait:
