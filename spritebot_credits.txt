@@ -9051,6 +9051,11 @@ Shitpost_Sunkern	Discord:<@!292039958829727744>	Contact:https://www.youtube.com/
 		Flapple Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Clodsire Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 
+stressparticles	Discord:<@!416340821617541141>	Contact:<@416340821617541141>
+	Sprite:
+		Klink: Idle,Walk,Attack,Charge,Shoot
+		Aromatisse: Idle,Rotate
+
 Discord:<@!713792248348672040>
 	Sprite:
 		Tynamo: Idle,Walk,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Hop
@@ -9088,10 +9093,6 @@ Riodise	Discord:<@!311963515563016193>	Contact:<@311963515563016193>
 ZoroarkDX	Discord:<@!219123860417675265>
 	Sprite:
 		Pyroar Female: "
-
-stressparticles	Discord:<@!416340821617541141>	Contact:<@416340821617541141>
-	Sprite:
-		Aromatisse: Idle,Rotate
 
 Tainted#3886	Discord:<@!283571466891427841>
 	Portrait:
