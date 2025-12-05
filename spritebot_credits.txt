@@ -7543,7 +7543,9 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Kangaskhan Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Dratini Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Tumble,Pain,Float,Laying,TumbleBack
 		Dragonite: Special0
+		Dragonite Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Withdraw,Swing,Double,Rotate,Hop,Special0
 		Dragonite Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,Special0
+		Dragonite Altcolor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop,Special0
 		Mewtwo Shadow: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,Appeal,SpAttack,Swing,Double,Rotate,Hop,Hover
 		Meganium Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Meganium Shiny Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
