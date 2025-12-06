@@ -1835,7 +1835,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Entei Shiny: Normal
 		Larvitar Altcolor: Normal
 		Lugia: Sad,Happy,Sigh,Pain,Shouting,Stunned,Angry,Worried,Special3
-		Lugia Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
+		Lugia Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Zigzagoon: Surprised
 		Zigzagoon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Breloom: Angry,Special3
@@ -6267,7 +6267,6 @@ Morei	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Elekid: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Blissey Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Lugia: Crying,Pain,Surprised,Angry,Teary-Eyed,Determined
-		Lugia Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Ho_Oh Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Celebi Shiny: Sad,Joyous,Crying,Inspired,Sigh,Stunned,Teary-Eyed,Dizzy,Worried,Determined
 		Treecko Shiny: Special1
@@ -8223,7 +8222,6 @@ El_Pangoro_Parse	Discord:<@!200385851069300736>	Contact:<@200385851069300736>
 		Teddiursa Shiny: Normal,Normal^
 		Ursaring Shiny: Normal
 		Magby Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Lugia Shiny: Normal
 		Ho_Oh Shiny: Normal
 		Ninjask Shiny: Normal
 		Shedinja Shiny: Normal
