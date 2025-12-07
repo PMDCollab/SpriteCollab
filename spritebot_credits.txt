@@ -3387,6 +3387,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Barbaracle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop,Rumble
 		Barbaracle Shiny: Idle,Walk,Hurt,Attack,Charge,Shoot,Strike,Punch,Rumble,Swing,Double,Rotate,Hop
 		Tyrantrum: Idle,Walk,Sleep,Hurt,Attack,Shoot,Twirl,Swing,Rotate,Hop,Charge,Double
+		Noivern Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Zygarde: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 		Grubbin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Charjabug: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
