@@ -6749,6 +6749,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Skrelp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Skrelp Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Cringe
 		Noivern: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Noivern Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Yveltal: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
 		Yveltal Shiny: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2
 		Litten: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -8737,6 +8738,7 @@ Okami	Discord:<@!238146046146904069>	Contact:okamiromhacks@gmail.com
 
 Hemlock	Discord:<@!165623433458089984>	Contact:https://baphomets.neocities.org/
 	Sprite:
+		Aggron Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Rumble,Emit,Swing,Double,Rotate,Hop
 		Aggron Cutscene_Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,Dance,Rumble,Emit,Swing,Double,Rotate,Hop,DigIn,DigOut
 		Manectric Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,Eat,LookUp,Cringe
 		Zweilous Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Jab,Swing,Double,Rotate,Hop
