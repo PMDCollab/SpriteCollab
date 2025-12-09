@@ -9182,7 +9182,7 @@ avalancheman	Discord:<@!783493257506062387>	Contact:milesbehemoth@gmail.com
 	Sprite:
 		Incineroar: Walk,Attack,Punch,Shoot,Kick,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 
-<SKREE>	Discord:<@!350778126919401485>	Contact:<frostbite1614@gmail.com>
+<SKREE>	Discord:<@!350778126919401485>	Contact:<https://www.tumblr.com/blog/skree-like-a-pterodactyl>
 	Portrait:
 		Baltoy Shiny: Normal,Happy,Shouting,Angry,Determined
 	Sprite:
