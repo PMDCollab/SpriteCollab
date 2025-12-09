@@ -9964,6 +9964,10 @@ PixlHoopa	Discord:<@!310773087417270272>
 	Portrait:
 		Electrike Shiny: Normal
 
+<SKREE>	Discord:<@!350778126919401485>	Contact:<frostbite1614@gmail.com>
+	Portrait:
+		Baltoy Shiny: Normal,Happy,Shouting,Angry,Determined
+
 Aviivix	Discord:<@!196351316681818112>	Contact:https://twitter.com/aviivix/
 	Portrait:
 		Lileep: Happy,Normal
