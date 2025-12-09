@@ -1507,6 +1507,7 @@ JFain	Discord:<@!702275233125630042>
 		Pachirisu Shiny: EventSleep,Wake,Float,Laying
 		Buneary: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Lopunny Mega: Walk,Attack,QuickStrike,Shoot,Appeal,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Fainted,StandingUp,Pose,Jump,Special1
+		Stunky: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Mime_Jr_: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Happiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Finneon: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -8581,6 +8582,7 @@ FlowerSnek	Discord:<@!228595807132057600>	Contact:https://twitter.com/EthanLac13
 		Luvdisc Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Flareon Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint,Charge,Shoot
+		Delibird: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,LostBalance,TumbleBack,HitGround,Faint
 		Meltan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Meltan Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Veluza: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep,Float,Laying
