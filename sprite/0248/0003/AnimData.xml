@@ -125,7 +125,7 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>96</FrameWidth>
+      <FrameWidth>88</FrameWidth>
       <FrameHeight>88</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
@@ -187,7 +187,7 @@
     <Anim>
       <Name>Charge</Name>
       <Index>11</Index>
-      <FrameWidth>48</FrameWidth>
+      <FrameWidth>40</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
