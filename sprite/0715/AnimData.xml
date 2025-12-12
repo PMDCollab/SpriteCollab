@@ -110,7 +110,7 @@
       <Name>Sleep</Name>
       <Index>5</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>30</Duration>
         <Duration>35</Duration>
@@ -145,8 +145,8 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>80</FrameWidth>
-      <FrameHeight>80</FrameHeight>
+      <FrameWidth>88</FrameWidth>
+      <FrameHeight>88</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
       <Durations>
@@ -189,7 +189,7 @@
       <Name>Hop</Name>
       <Index>10</Index>
       <FrameWidth>40</FrameWidth>
-      <FrameHeight>104</FrameHeight>
+      <FrameHeight>112</FrameHeight>
       <HitFrame>9</HitFrame>
       <Durations>
         <Duration>2</Duration>
