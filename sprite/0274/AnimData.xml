@@ -258,8 +258,8 @@
       <Durations>
         <Duration>8</Duration>
         <Duration>6</Duration>
-        <Duration>14</Duration>
         <Duration>4</Duration>
+        <Duration>14</Duration>
         <Duration>10</Duration>
       </Durations>
     </Anim>
@@ -504,7 +504,7 @@
     <Anim>
       <Name>Faint</Name>
       <Index>33</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
