@@ -3995,6 +3995,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Raichu Alola: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Raichu Alola Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Raichu Mega_Y: Normal
+		Raichu Mega_Y Shiny: Normal
 		Sandshrew Alola: Normal
 		Sandshrew Alola Shiny: Normal
 		Nidoqueen Alternate: Normal
