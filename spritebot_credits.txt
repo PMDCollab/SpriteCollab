@@ -1697,6 +1697,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Aron: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Aron Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Absol Mega: Walk,Attack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
+		Starly: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Skuntank Cutscene: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Fainted,Float,Head,Hop,Hurt,Idle,Jump,LookUp,MultiStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
 		Skuntank Altcolor Shiny: Cringe,DeepBreath,EventSleep,Faint,Float,Head,LookUp
 		Cresselia Cutscene Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -2329,6 +2330,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Enamorus Therian Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Fuecoco: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Eat,Pose
 		Fuecoco Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop,Eat,Pose
+		Tarountula: Idle,Walk,Sleep,Hurt,Attack,Strike,Rotate
 		Tandemaus Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Dolliv: Idle,Rotate
 		Dolliv Shiny: Idle,Rotate
