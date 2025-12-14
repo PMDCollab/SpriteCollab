@@ -3303,6 +3303,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Ampharos: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Slowking Galar: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Sceptile Mega: Happy,Pain
+		Sharpedo Mega: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Shaymin Sky: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Samurott Hisui: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Venipede: Normal
