@@ -7580,6 +7580,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Ho_Oh Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Jab,Swing,Double,Rotate,Hop,Hover
 		Grovyle: Idle,Walk,Hop
 		Grovyle Shiny: Idle,Walk,Hop
+		Masquerain Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Flygon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop
 		Absol: SpAttack
 		Absol Shiny: SpAttack
