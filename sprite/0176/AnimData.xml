@@ -2,219 +2,219 @@
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
-    <Anim>
-      <Name>Walk</Name>
-      <Index>0</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
-      <Durations>
-        <Duration>8</Duration>
-        <Duration>10</Duration>
-        <Duration>8</Duration>
-        <Duration>10</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Attack</Name>
-      <Index>1</Index>
-      <FrameWidth>72</FrameWidth>
-      <FrameHeight>72</FrameHeight>
-      <RushFrame>1</RushFrame>
-      <HitFrame>3</HitFrame>
-      <ReturnFrame>6</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>4</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Strike</Name>
-      <Index>2</Index>
-      <CopyOf>Attack</CopyOf>
-    </Anim>
-    <Anim>
-      <Name>Hover</Name>
-      <Index>3</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>48</FrameHeight>
-      <HitFrame>4</HitFrame>
-      <ReturnFrame>8</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Dance</Name>
-      <Index>4</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
-      <HitFrame>4</HitFrame>
-      <Durations>
-        <Duration>6</Duration>
-        <Duration>4</Duration>
-        <Duration>6</Duration>
-        <Duration>4</Duration>
-        <Duration>6</Duration>
-        <Duration>4</Duration>
-        <Duration>6</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Sleep</Name>
-      <Index>5</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
-      <Durations>
-        <Duration>30</Duration>
-        <Duration>35</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Hurt</Name>
-      <Index>6</Index>
-      <FrameWidth>56</FrameWidth>
-      <FrameHeight>64</FrameHeight>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>8</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Idle</Name>
-      <Index>7</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>48</FrameHeight>
-      <Durations>
-        <Duration>30</Duration>
-        <Duration>4</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>4</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Swing</Name>
-      <Index>8</Index>
-      <FrameWidth>72</FrameWidth>
-      <FrameHeight>80</FrameHeight>
-      <HitFrame>5</HitFrame>
-      <ReturnFrame>5</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>1</Duration>
-        <Duration>1</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Double</Name>
-      <Index>9</Index>
-      <FrameWidth>48</FrameWidth>
-      <FrameHeight>64</FrameHeight>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>3</Duration>
-        <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Hop</Name>
-      <Index>10</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>88</FrameHeight>
-      <HitFrame>9</HitFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>3</Duration>
-        <Duration>4</Duration>
-        <Duration>4</Duration>
-        <Duration>3</Duration>
-        <Duration>2</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Charge</Name>
-      <Index>11</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
-      <HitFrame>5</HitFrame>
-      <ReturnFrame>9</ReturnFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
-    <Anim>
-      <Name>Rotate</Name>
-      <Index>12</Index>
-      <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
-      <HitFrame>8</HitFrame>
-      <Durations>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
-      </Durations>
-    </Anim>
+		<Anim>
+			<Name>Walk</Name>
+			<Index>0</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<Durations>
+				<Duration>8</Duration>
+				<Duration>10</Duration>
+				<Duration>8</Duration>
+				<Duration>10</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Attack</Name>
+			<Index>1</Index>
+			<FrameWidth>72</FrameWidth>
+			<FrameHeight>72</FrameHeight>
+			<RushFrame>1</RushFrame>
+			<HitFrame>3</HitFrame>
+			<ReturnFrame>6</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>4</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Strike</Name>
+			<Index>2</Index>
+			<CopyOf>Attack</CopyOf>
+		</Anim>
+		<Anim>
+			<Name>Hover</Name>
+			<Index>3</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>48</FrameHeight>
+			<HitFrame>4</HitFrame>
+			<ReturnFrame>8</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Dance</Name>
+			<Index>4</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<HitFrame>4</HitFrame>
+			<Durations>
+				<Duration>6</Duration>
+				<Duration>4</Duration>
+				<Duration>6</Duration>
+				<Duration>4</Duration>
+				<Duration>6</Duration>
+				<Duration>4</Duration>
+				<Duration>6</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Sleep</Name>
+			<Index>5</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>32</FrameHeight>
+			<Durations>
+				<Duration>30</Duration>
+				<Duration>35</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Hurt</Name>
+			<Index>6</Index>
+			<FrameWidth>56</FrameWidth>
+			<FrameHeight>64</FrameHeight>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>8</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Idle</Name>
+			<Index>7</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>48</FrameHeight>
+			<Durations>
+				<Duration>30</Duration>
+				<Duration>4</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>4</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Swing</Name>
+			<Index>8</Index>
+			<FrameWidth>72</FrameWidth>
+			<FrameHeight>80</FrameHeight>
+			<HitFrame>5</HitFrame>
+			<ReturnFrame>5</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>1</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Double</Name>
+			<Index>9</Index>
+			<FrameWidth>48</FrameWidth>
+			<FrameHeight>64</FrameHeight>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Hop</Name>
+			<Index>10</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>88</FrameHeight>
+			<HitFrame>9</HitFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+				<Duration>3</Duration>
+				<Duration>4</Duration>
+				<Duration>4</Duration>
+				<Duration>3</Duration>
+				<Duration>2</Duration>
+				<Duration>1</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Charge</Name>
+			<Index>11</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<HitFrame>5</HitFrame>
+			<ReturnFrame>9</ReturnFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
+		<Anim>
+			<Name>Rotate</Name>
+			<Index>12</Index>
+			<FrameWidth>24</FrameWidth>
+			<FrameHeight>40</FrameHeight>
+			<HitFrame>8</HitFrame>
+			<Durations>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+				<Duration>2</Duration>
+			</Durations>
+		</Anim>
     <Anim>
       <Name>EventSleep</Name>
       <Index>13</Index>
@@ -231,11 +231,11 @@
       <FrameWidth>32</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
-        <Duration>16</Duration>
-        <Duration>16</Duration>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
+        <Duration>14</Duration>
+        <Duration>4</Duration>
         <Duration>10</Duration>
-        <Duration>6</Duration>
-        <Duration>6</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -254,7 +254,7 @@
       <Name>Tumble</Name>
       <Index>16</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>3</Duration>
         <Duration>3</Duration>
@@ -272,9 +272,7 @@
       <FrameWidth>24</FrameWidth>
       <FrameHeight>40</FrameHeight>
       <Durations>
-        <Duration>8</Duration>
-        <Duration>1</Duration>
-        <Duration>3</Duration>
+        <Duration>12</Duration>
         <Duration>2</Duration>
         <Duration>8</Duration>
       </Durations>
@@ -283,7 +281,7 @@
       <Name>Pull</Name>
       <Index>18</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>10</Duration>
         <Duration>12</Duration>
@@ -358,7 +356,7 @@
       <Name>Sit</Name>
       <Index>23</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
@@ -371,7 +369,6 @@
       <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
-        <Duration>6</Duration>
         <Duration>6</Duration>
         <Duration>6</Duration>
       </Durations>
@@ -400,7 +397,7 @@
       <Name>Trip</Name>
       <Index>26</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>4</Duration>
         <Duration>6</Duration>
@@ -436,7 +433,7 @@
       <Name>Head</Name>
       <Index>29</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>4</Duration>
       </Durations>
@@ -445,7 +442,7 @@
       <Name>Cringe</Name>
       <Index>30</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>56</FrameHeight>
+      <FrameHeight>64</FrameHeight>
       <Durations>
         <Duration>2</Duration>
         <Duration>8</Duration>
@@ -455,7 +452,7 @@
       <Name>LostBalance</Name>
       <Index>31</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>8</Duration>
@@ -465,7 +462,7 @@
       <Name>TumbleBack</Name>
       <Index>32</Index>
       <FrameWidth>24</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>3</Duration>
         <Duration>3</Duration>
@@ -483,7 +480,7 @@
       <Name>Faint</Name>
       <Index>33</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>32</FrameHeight>
+      <FrameHeight>40</FrameHeight>
       <Durations>
         <Duration>8</Duration>
         <Duration>12</Duration>
@@ -505,6 +502,20 @@
         <Duration>6</Duration>
         <Duration>4</Duration>
         <Duration>4</Duration>
+      </Durations>
+    </Anim>
+    <Anim>
+      <Name>Special0</Name>
+      <Index>35</Index>
+      <FrameWidth>24</FrameWidth>
+      <FrameHeight>48</FrameHeight>
+      <Durations>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
+        <Duration>6</Duration>
       </Durations>
     </Anim>
   </Anims>
