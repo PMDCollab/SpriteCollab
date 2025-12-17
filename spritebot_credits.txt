@@ -6024,6 +6024,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Floragato Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,SpAttack,RearUp,Swing,Double,Rotate,Hop,Cringe
 		Crocalor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Skeledirge Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
+		Quaxwell: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Kick,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Spidops Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Tandemaus Shirt Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Tandemaus Pants Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
