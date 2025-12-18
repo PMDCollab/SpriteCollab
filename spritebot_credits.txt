@@ -2343,6 +2343,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Wattrel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,FlapAround,Swing,Double,Rotate,Hop,QuickStrike
 		Kilowattrel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Grafaiai: Idle,Rotate
+		Grafaiai Shiny: Idle,Rotate
 		Palafin Hero: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,SpAttack,Swell,Swing,Double,Rotate,Hop
 		Palafin Hero Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Appeal,SpAttack,Swell,Swing,Double,Rotate,Hop
 		Glimmet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
