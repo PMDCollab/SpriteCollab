@@ -9585,7 +9585,7 @@ fledermaus	Discord:<@!388753676140806175>	Contact:https://www.furaffinity.net/us
 		Zubat: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Zubat Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special1,Special2,Special3,Stunned,Surprised,Teary-Eyed,Worried
 
-felis_licht	Contact:https://www.deviantart.com/felis-licht
+Felis-Licht	Discord:<@!273594331577974785>	Contact:https://www.deviantart.com/felis-licht/
 	Portrait:
 		Oddish: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Psyduck: Sigh,Stunned,Dizzy,Determined
