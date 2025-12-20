@@ -1,0 +1,1 @@
+2025-12-20 01:01:54.970841	<@!350778126919401485>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Swing,Double,Rotate
