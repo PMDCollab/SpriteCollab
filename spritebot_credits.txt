@@ -9588,6 +9588,7 @@ fledermaus	Discord:<@!388753676140806175>	Contact:https://www.furaffinity.net/us
 Felis-Licht	Discord:<@!273594331577974785>	Contact:https://www.deviantart.com/felis-licht/
 	Portrait:
 		Oddish: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
+		Oddish Shiny: Dizzy
 		Psyduck: Sigh,Stunned,Dizzy,Determined
 		Psyduck Cutscene: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Machop: Sigh,Stunned,Dizzy,Determined
