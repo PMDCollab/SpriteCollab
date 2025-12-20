@@ -9212,6 +9212,7 @@ avalancheman	Discord:<@!783493257506062387>	Contact:milesbehemoth@gmail.com
 		Baltoy Shiny: Normal,Happy,Shouting,Angry,Determined
 	Sprite:
 		Mudsdale Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
+		Toedscool Shiny: Idle,Walk,Sleep,Swing,Double,Rotate
 
 Yari	Contact:Yari#1038
 	Sprite:
