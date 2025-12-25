@@ -2163,6 +2163,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Glimmora: Normal,Happy,Shouting,Angry,Surprised,Special0,Teary-Eyed,Worried,Sad,Sigh,Pain,Determined,Joyous,Special1,Crying,Inspired,Stunned,Dizzy
 		Glimmora Shiny: Normal,Happy,Shouting,Angry,Sad,Joyous,Special1,Crying,Inspired,Sigh,Pain,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Glimmora Mega: Normal
+		Glimmora Mega Shiny: Normal
 		Veluza: Normal
 		Veluza Shiny: Normal
 		Dondozo Shiny: Normal,Normal^
@@ -8060,6 +8061,7 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 <ElGian>	Discord:<@!770438729575563284>	Contact:<gfcobross@gmail.com>
 	Portrait:
 		Clefable Altcolor: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
+		Metang: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Clefable Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Dance,Withdraw,Swing,Double,Rotate,Hop
 
