@@ -7563,6 +7563,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Toxicroak Altcolor Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Weavile Altcolor: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special2
 		Heatran Mega: Normal
+		Heatran Mega Shiny: Normal
 		Heatran Altcolor: Normal
 		Darkrai Mega: Normal,Normal^,Special0
 		Darkrai Mega_Altcolor: Normal,Normal^,Special0
