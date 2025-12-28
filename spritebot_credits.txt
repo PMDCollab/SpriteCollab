@@ -7566,6 +7566,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://github.com/Deeshura
 		Heatran Mega Shiny: Normal
 		Heatran Altcolor: Normal
 		Darkrai Mega: Normal,Normal^,Special0
+		Darkrai Mega Shiny: Normal,Normal^,Special0
 		Darkrai Mega_Altcolor: Normal,Normal^,Special0
 		Servine: Normal,Sad,Happy,Inspired,Sigh,Teary-Eyed,Determined,Joyous,Crying,Pain,Shouting,Surprised,Stunned,Angry,Dizzy,Worried,Special0
 		Servine Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
