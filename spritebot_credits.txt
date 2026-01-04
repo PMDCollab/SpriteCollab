@@ -368,6 +368,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Pupitar: Normal
 		Tyranitar: Normal,Surprised
 		Lugia: Normal
+		Lugia Temp: Normal
 		Ho_Oh: Normal
 		Celebi: Normal,Happy,Special0
 		Celebi Shiny: Normal,Special1,Happy,Pain,Shouting,Surprised,Angry,Special0
@@ -8749,6 +8750,12 @@ Smalusion	Discord:<@!177074597315870720>	Contact:https://twitter.com/Smalusion
 		Fennekin: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk,EventSleep,Float,Laying,Wake
 		Thievul: Attack,Idle,Walk,Charge,Double,Hop,Hurt,Rotate,Shoot,Sleep,Swing
 
+Fresco	Discord:<@!488809643838144543>	Contact:marcfreixer@gmail.com
+	Portrait:
+		Qwilfish Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+	Sprite:
+		Qwilfish Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
+
 Avery	Discord:<@!527611425670037516>	Contact:<@527611425670037516>
 	Portrait:
 		Remoraid Shiny: Normal
@@ -9989,10 +9996,6 @@ RoyalRust	Discord:<@!388709039678423040>
 Bluetails_the_Buizel	Discord:<@!449065061428887562>	Contact:https://www.deviantart.com/tanyuliang
 	Portrait:
 		Girafarig: Happy,Normal
-
-Fresco	Discord:<@!488809643838144543>	Contact:marcfreixer@gmail.com
-	Portrait:
-		Qwilfish Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 
 Angels-Snack	Contact:https://angels-snack.tumblr.com/
 	Portrait:
