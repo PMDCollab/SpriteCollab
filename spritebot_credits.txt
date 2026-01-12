@@ -9494,6 +9494,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Dunsparce Shiny: Stunned
 		Rotom Phone: Normal,Normal^
 		Quilladin: Happy,Inspired,Pain
+		Frogadier: Inspired,Pain
 		Dartrix: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
 		Incineroar Shiny: Special0
 		Lycanroc Midnight Shiny: Special1,Special0
