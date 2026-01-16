@@ -8765,6 +8765,7 @@ Fresco	Discord:<@!488809643838144543>	Contact:marcfreixer@gmail.com
 		Qwilfish Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 	Sprite:
 		Qwilfish Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
+		Qwilfish Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
 
 Avery	Discord:<@!527611425670037516>	Contact:<@527611425670037516>
 	Portrait:
