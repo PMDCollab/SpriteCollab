@@ -4341,7 +4341,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gulpin Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sharpedo Shiny: Normal
 		Sharpedo Mega: Normal,Angry
-		Sharpedo Mega Shiny: Normal,Angry
+		Sharpedo Mega Shiny: Normal,Angry,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Teary-Eyed,Dizzy,Worried,Determined
 		Sharpedo Altcolor: Normal
 		Sharpedo Mega_Altcolor: Normal,Angry
 		Numel: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
