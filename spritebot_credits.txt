@@ -9504,6 +9504,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Dunsparce Shiny: Stunned
+		Baltoy: Stunned
 		Rotom Phone: Normal,Normal^
 		Quilladin: Happy,Inspired,Pain
 		Frogadier: Inspired,Pain
