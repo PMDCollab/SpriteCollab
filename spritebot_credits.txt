@@ -4704,6 +4704,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Stunfisk Galar: Normal,Normal^
 		Stunfisk Galar Shiny: Normal,Normal^
 		Golurk Mega: Normal,Normal^
+		Golurk Mega Shiny: Normal,Normal^
 		Bisharp: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Bisharp Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Rufflet: Normal
