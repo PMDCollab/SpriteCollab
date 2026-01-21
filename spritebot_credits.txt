@@ -9308,6 +9308,7 @@ LazerBlitz	Discord:<@!585276060136898591>	Contact:<@585276060136898591>
 
 DavKriz	Discord:<@!642311628557385738>
 	Sprite:
+		Oinkologne: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shake,TailWhip,Swing,Double,Rotate,Hop
 		Nacli: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Ricochet,Appeal,Swing,Double,Rotate,Hop
 		Wattrel: "
 		Kilowattrel: "
