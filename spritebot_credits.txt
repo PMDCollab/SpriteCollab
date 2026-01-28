@@ -1486,6 +1486,7 @@ JFain	Discord:<@!702275233125630042>
 		Larvitar: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Larvitar Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Tyranitar Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Grovyle: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Nuzleaf: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Ralts: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake,Appeal,Charge,Double,Hop,Hurt,Idle,Rotate,Sleep,Swing
 		Kirlia: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -3120,6 +3121,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Bunnelby: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop,QuickStrike
 		Bunnelby Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Dance,Swing,Double,Rotate,Hop,QuickStrike
 		Scatterbug: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Spewpa: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Hop
 		Vivillon Polar: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
 		Pyroar Shiny Female: Idle,Walk,Swing,Double,Rotate
 		Pyroar Female: Idle,Walk,Swing,Double,Rotate
