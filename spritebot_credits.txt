@@ -2200,8 +2200,6 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Roaring_Moon Alternate Shiny: Normal
 		Miraidon Low_Power: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Walking_Wake: Pain
-		Fezandipiti: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Fezandipiti Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gouging_Fire: Normal
 		Gouging_Fire Shiny: Normal
 		Iron_Boulder: Normal
@@ -5269,8 +5267,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Okidogi Shiny: Normal,Normal^
 		Munkidori: Normal,Normal^
 		Munkidori Shiny: Normal,Normal^,Happy,Happy^,Surprised,Surprised^,Worried,Worried^
-		Fezandipiti: Normal
-		Fezandipiti Shiny: Normal
+		Fezandipiti: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Fezandipiti Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ogerpon Teal_Mask: Normal,Normal^
 		Archaludon: Normal
 		Archaludon Shiny: Normal
