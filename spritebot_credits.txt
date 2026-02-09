@@ -1871,6 +1871,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Tropius Altcolor: Normal
 		Regirock Altcolor: Normal,Normal^
 		Registeel Altcolor: Normal
+		Groudon Altcolor: Normal
 		Rayquaza Altcolor: Normal
 		Torterra Altcolor: Normal,Normal^
 		Empoleon Altcolor: Normal
