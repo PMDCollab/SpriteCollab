@@ -1826,7 +1826,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Ariados Shiny: Normal,Angry
 		Sudowoodo Alternate Shiny: Normal,Joyous,Happy,Inspired,Pain,Shouting,Surprised,Stunned,Worried
 		Skiploom Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Sunflora Altcolor: Normal,Joyous,Special1,Happy,Pain,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined
+		Sunflora Altcolor: Normal,Joyous,Special1,Happy,Pain,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined,Sad,Crying,Inspired,Sigh,Shouting,Dizzy
 		Quagsire Altcolor: Normal
 		Dunsparce: Joyous,Crying,Inspired,Shouting,Angry,Teary-Eyed,Dizzy,Worried,Sigh
 		Dunsparce Shiny: Sad,Joyous,Crying,Inspired,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried,Determined,Sigh
@@ -7181,6 +7181,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Fearow: Joyous,Shouting,Surprised,Angry,Dizzy
 		Pikachu Rock_Star: Normal,Happy,Happy^,Normal^
 		Meowth Galar: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Golduck: Crying,Stunned,Dizzy
 		Victreebel Shiny: Normal,Normal^
 		Tentacool: Angry
 		Golem Altcolor: Normal
