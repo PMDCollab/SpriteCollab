@@ -6093,6 +6093,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Roaring_Moon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
 		Iron_Valiant: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Iron_Valiant Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Slice,Twirl,SpAttack,Swing,Double,Rotate,Hop,Cringe
+		Iron_Leaves: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Archaludon Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Slam,RearUp
 		Hydrapple: Idle,Walk,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Hydrapple Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,SpAttack,Swing,Double,Rotate,Hop
