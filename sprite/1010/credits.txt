@@ -1,1 +1,2 @@
 2026-01-25 18:31:13.875940	<@!608107243329814529>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Rotate,EventSleep,Float,Laying,Cringe
+2026-02-26 02:37:18.566926	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
