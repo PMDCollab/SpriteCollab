@@ -7540,7 +7540,7 @@ XModxGodX	Discord:<@!365627932888268800>
 		Rowlet Shiny: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,Faint,HitGround
 		Dartrix Shiny: Walk,Attack,Strike,Shoot,Dance,Shake,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 
-rhys	Discord:<@!1327394227922931878>	Contact:https://bsky.app/profile/arcanerevelation.bsky.social
+rhys	Discord:<@!1327394227922931878>	Contact:https://bsky.app/profile/geckqua.bsky.social
 	Sprite:
 		Sandslash Alola Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Withdraw,Swing,Double,Rotate,Hop
 		Electrode Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
