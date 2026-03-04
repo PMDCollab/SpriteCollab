@@ -287,3 +287,4 @@ lumiscosity	<@!243013084510289921>	https://github.com/lumiscosity
 <SKREE>	<@!350778126919401485>	<https://www.tumblr.com/blog/skree-like-a-pterodactyl>
 Felis-Licht	<@!273594331577974785>	https://www.deviantart.com/felis-licht/
 Ajifer	<@!1042498956082544640>	<@1042498956082544640>
+	<@!225949425292410880>	
