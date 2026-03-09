@@ -1966,8 +1966,8 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Darmanitan Zen Shiny: Normal
 		Scraggy Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sigilyph: Normal
-		Carracosta Temp: Normal
-		Carracosta Temp Shiny: Normal
+		Carracosta: Normal
+		Carracosta Shiny: Normal
 		Zorua Alternate2: Normal,Normal^,Happy,Happy^
 		Zorua Alternate2 Shiny: Normal,Normal^,Happy,Happy^
 		Swanna: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -6465,7 +6465,6 @@ Morei	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Watchog Shiny: Normal
 		Stoutland Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined
 		Sandile Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
-		Carracosta Shiny: Normal
 		Zorua Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Zoroark Shiny: Normal,Sad,Happy,Inspired,Surprised,Stunned,Angry,Teary-Eyed,Worried,Determined
 		Zoroark Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -10176,7 +10175,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Palpitoad: Normal
 		Throh: Normal
 		Sawk: Normal
-		Carracosta: Normal
 		Zorua Alternate: "
 		Minccino: Normal
 		Vanillish: Normal
