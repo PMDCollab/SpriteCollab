@@ -474,7 +474,7 @@
     <Anim>
       <Name>HitGround</Name>
       <Index>34</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>4</Duration>
