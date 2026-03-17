@@ -9187,7 +9187,7 @@ Discord:<@!225949425292410880>
 		Klang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 		Klinklang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 
-Discord:<@!713792248348672040>
+mosscoated	Discord:<@!713792248348672040>	Contact:<@713792248348672040>
 	Sprite:
 		Tynamo: Idle,Walk,Rotate,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Hop
 
