@@ -7329,6 +7329,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Burmy: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Burmy Shiny: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Cherrim Sunshine: Pose,Pull,Pain,DeepBreath,Head,Cringe
+		Cherrim Sunshine Shiny: Pose,Pull,Pain,DeepBreath,Head,Cringe
 		Honchkrow: EventSleep,Wake,Pose,Pain,Float,DeepBreath,Nod,Laying,Cringe
 		Stunky Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop
 		Bronzor Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
