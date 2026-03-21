@@ -559,6 +559,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Shinx: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Luxio: Normal
 		Luxray: Normal
+		Luxray Temp: Normal
 		Budew: Happy,Happy^,Normal,Normal^,Sad,Sad^,Worried,Worried^
 		Roserade: Normal,Normal^
 		Cranidos: Normal
