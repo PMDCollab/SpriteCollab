@@ -17,8 +17,8 @@
     <Anim>
       <Name>Attack</Name>
       <Index>1</Index>
-      <FrameWidth>80</FrameWidth>
-      <FrameHeight>88</FrameHeight>
+      <FrameWidth>88</FrameWidth>
+      <FrameHeight>96</FrameHeight>
       <RushFrame>2</RushFrame>
       <HitFrame>5</HitFrame>
       <ReturnFrame>8</ReturnFrame>
@@ -199,7 +199,7 @@
     </Anim>
     <Anim>
       <Name>Cringe</Name>
-      <Index>13</Index>
+      <Index>30</Index>
       <FrameWidth>48</FrameWidth>
       <FrameHeight>64</FrameHeight>
       <Durations>
