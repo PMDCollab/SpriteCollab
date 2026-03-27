@@ -9193,7 +9193,7 @@ stressparticles	Discord:<@!416340821617541141>	Contact:<@416340821617541141>
 		Klink: Idle,Walk,Attack,Charge,Shoot
 		Aromatisse: Idle,Rotate
 
-Discord:<@!225949425292410880>
+Johanne2	Discord:<@!225949425292410880>	Contact:https://github.com/Johanne2
 	Sprite:
 		Klink Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 		Klang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
