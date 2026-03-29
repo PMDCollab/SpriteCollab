@@ -6680,6 +6680,10 @@ Kevin0itachi	Contact:https://www.deviantart.com/kevin0itachi
 	Sprite:
 		Charizard Mega_X: Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
 
+Kevin	Discord:<@!479925530129596426>	Contact:<@479925530129596426>
+	Sprite:
+		Charizard Mega_X: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe
+
 Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 	Portrait:
 		Dodrio: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
@@ -9578,6 +9582,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Rillaboom Shiny: Normal^
 		Indeedee Alternate: Normal
 		Indeedee Alternate Shiny: Normal
+		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Wattrel: Normal,Happy,Inspired,Pain
 
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
