@@ -288,3 +288,4 @@ lumiscosity	<@!243013084510289921>	https://github.com/lumiscosity
 Felis-Licht	<@!273594331577974785>	https://www.deviantart.com/felis-licht/
 Ajifer	<@!1042498956082544640>	<@1042498956082544640>
 Johanne2	<@!225949425292410880>	https://github.com/Johanne2
+Kevin	<@!479925530129596426>	<@479925530129596426>

@@ -1,2 +1,3 @@
 2021-11-04 23:42:49.305726	KEVIN0ITACHI	CUR	PMDCollab_1	Walk,Attack,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Cringe
 2026-03-22 18:33:18.762140	<@!350050109741858829>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe
+2026-03-29 23:00:48.129950	<@!479925530129596426>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Cringe
