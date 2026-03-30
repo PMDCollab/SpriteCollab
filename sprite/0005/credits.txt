@@ -3,3 +3,4 @@
 2021-01-26 11:30:34.384747	<@!199989579682414592>	CUR	PMDCollab_1	Double
 2024-10-22 04:27:26.367585	<@!193530896211509248>	CUR	CC_BY-NC_4	Eat,Pose,Pull,Pain,DeepBreath,Nod,Sink,Trip,Head,LostBalance,HitGround,Faint
 2024-10-24 22:08:25.766375	<@!217653022094786560>	CUR	CC_BY-NC_4	EventSleep,Wake,Eat,Tumble,Pose,Float,Nod,Sit,LookUp,Laying,LeapForth,Cringe,TumbleBack
+2026-03-30 00:05:36.049897	<@!217653022094786560>	CUR	CC_BY-NC_4	EventSleep,Wake,Tumble,Float,Trip,Laying,TumbleBack,HitGround,Faint
