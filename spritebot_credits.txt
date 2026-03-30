@@ -4179,7 +4179,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Ariados Altcolor: Normal
 		Crobat: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Crobat Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Crobat Altcolor: Normal
+		Crobat Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Crobat Altcolor Shiny: Normal
 		Chinchou Alternate Shiny: Normal,Joyous,Happy,Sigh,Pain,Surprised,Angry,Worried,Determined
 		Igglybuff Altcolor: Normal,Sad,Normal^,Sad^,Happy,Crying,Inspired,Happy^,Crying^,Inspired^,Shouting,Surprised,Shouting^,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^
