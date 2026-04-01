@@ -8147,6 +8147,8 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Metang: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Metang Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Metang Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Bergmite: Happy
+		Annihilape: Happy
 	Sprite:
 		Clefable Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Dance,Withdraw,Swing,Double,Rotate,Hop
 
