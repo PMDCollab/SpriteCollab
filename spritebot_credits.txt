@@ -559,7 +559,6 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Shinx: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Luxio: Normal
 		Luxray: Normal
-		Luxray Temp: Normal
 		Budew: Happy,Happy^,Normal,Normal^,Sad,Sad^,Worried,Worried^
 		Roserade: Normal,Normal^
 		Cranidos: Normal
@@ -3323,7 +3322,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Slowking Galar: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Sceptile Mega: Happy,Pain
 		Sharpedo Mega: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Luxray Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
+		Luxray: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Shaymin Sky: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Samurott Hisui: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Venipede: Normal
@@ -4486,6 +4485,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Staraptor Mega Shiny: Normal,Normal^
 		Bidoof: Surprised,Stunned
 		Bidoof Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Luxray Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Luxray Shiny Female: Normal,Happy,Stunned,Determined
 		Cranidos Alternate Shiny: Normal
 		Burmy No_Cloak: Normal,Surprised
@@ -8569,7 +8569,6 @@ Reppamon	Discord:<@!162389028061052928>
 		Registeel Shiny: Normal
 		Shinx Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Luxio Shiny: Normal
-		Luxray Shiny: Normal
 	Sprite:
 		Horsea Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Hoppip Shiny: Walk,Attack,Strike,Shoot,FlapAround,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -8805,9 +8804,6 @@ Luna-Alex	Discord:<@!306213523057410048>	Contact:https://twitter.com/LunaAlex64
 		Munchlax Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Smalusion	Discord:<@!177074597315870720>	Contact:https://twitter.com/Smalusion
-	Portrait:
-		Luxray: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried,Special3
-		Luxray Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried,Normal
 	Sprite:
 		Murkrow: Eat,EventSleep,Float,Laying
 		Murkrow Shiny: Eat,EventSleep,Float,Laying
