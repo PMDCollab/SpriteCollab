@@ -1177,6 +1177,8 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Regice: Walk,Attack,Strike,Shoot,Withdraw,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Registeel: Walk,Attack,Strike,Shoot,Withdraw,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Latias Cutscene: Attack,Charge,Double,Hop,Hurt,Idle,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Special2,Swing,Walk
+		Latias Temp_Cutscene: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop,Special0,Special1,Special2
+		Latias Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Latios: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Latios Cutscene: Walk,Attack,Strike,Shoot,Rumble,SpAttack,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Special2,Injured,Faint,Special3,Special4,Special5
 		Kyogre: Walk,Attack,Stomp,Shoot,Swell,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
