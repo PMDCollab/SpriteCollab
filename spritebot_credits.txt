@@ -8151,6 +8151,7 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Bergmite: Happy
 		Bergmite Shiny: Happy
 		Annihilape: Happy
+		Annihilape Shiny: Happy
 	Sprite:
 		Clefable Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,Dance,Withdraw,Swing,Double,Rotate,Hop
 
