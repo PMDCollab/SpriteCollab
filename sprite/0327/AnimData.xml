@@ -506,7 +506,7 @@
     <Anim>
       <Name>Faint</Name>
       <Index>33</Index>
-      <FrameWidth>40</FrameWidth>
+      <FrameWidth>32</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>8</Duration>
@@ -518,7 +518,7 @@
     <Anim>
       <Name>HitGround</Name>
       <Index>34</Index>
-      <FrameWidth>32</FrameWidth>
+      <FrameWidth>24</FrameWidth>
       <FrameHeight>48</FrameHeight>
       <Durations>
         <Duration>4</Duration>
