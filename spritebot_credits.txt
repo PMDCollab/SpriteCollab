@@ -8839,6 +8839,13 @@ Avery	Discord:<@!527611425670037516>	Contact:<@527611425670037516>
 		Dusknoir Shiny: "
 		Dusknoir Cutscene Shiny: Walk,Attack,Punch,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Special0,Special1,Pain,Special2,Special3,Special4,Special5,Special6,Special7,Special8,Special9,Special10,Faint,Special11,Fainted,StandingUp,Special12,Special13,Special14,Special15,Special16,Special17,Special18,Special19,Special20,Special21,Special22,Special23,Special24,Special25,Special26
 
+Johanne2	Discord:<@!225949425292410880>	Contact:https://github.com/Johanne2
+	Sprite:
+		Skarmory Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Klink Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+		Klang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+		Klinklang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
+
 Mr_L	Discord:<@!177522243985866754>
 	Sprite:
 		Lugia Shadow: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Special0,Swing,Walk,EventSleep,Shake
@@ -9202,12 +9209,6 @@ stressparticles	Discord:<@!416340821617541141>	Contact:<@416340821617541141>
 	Sprite:
 		Klink: Idle,Walk,Attack,Charge,Shoot
 		Aromatisse: Idle,Rotate
-
-Johanne2	Discord:<@!225949425292410880>	Contact:https://github.com/Johanne2
-	Sprite:
-		Klink Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
-		Klang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
-		Klinklang Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 
 mosscoated	Discord:<@!713792248348672040>	Contact:<@713792248348672040>
 	Sprite:
