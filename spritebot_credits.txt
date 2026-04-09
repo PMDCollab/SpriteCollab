@@ -9591,6 +9591,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Indeedee Alternate Shiny: Normal
 		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Floragato Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Quaxwell: Happy,Inspired,Pain
 		Wattrel: Normal,Happy,Inspired,Pain
 
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
