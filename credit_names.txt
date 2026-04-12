@@ -211,7 +211,7 @@ dariosparks	<@!399615223083958283>
 anomalocaris	<@!275075929905168384>	https://twitter.com/radiodonta_lord
 ErrantWitch	<@!124232530651119618>	
 mothbeanie	<@!168876782575943680>	https://twitter.com/mothbeanie
-Deeshura	<@!157796074457661440>	https://github.com/Deeshura
+Deeshura	<@!157796074457661440>	https://bsky.app/profile/deeshura.bsky.social
 Ginnie	<@!722542425196724289>	
 silverfox88	<@!476409795239477248>	https://twitter.com/realsilverfox88
 Hemlock	<@!165623433458089984>	https://baphomets.neocities.org/
