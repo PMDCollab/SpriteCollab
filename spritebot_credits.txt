@@ -2805,7 +2805,6 @@ baronessfaron	Discord:<@!544245909639397378>
 		Primarina: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Gumshoos: Normal
 		Vikavolt: Normal
-		Oricorio Pa_U: Normal
 		Cutiefly: Normal,Sad,Joyous,Inspired,Surprised,Teary-Eyed,Determined
 		Lycanroc Midnight: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special1,Special0
 		Mareanie: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
@@ -4879,9 +4878,10 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Oricorio Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Oricorio Pom_Pom: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Oricorio Pom_Pom Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Oricorio Pa_U: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Oricorio Pa_U Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Oricorio Sensu: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Oricorio Sensu Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Oricorio Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ribombee: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ribombee Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rockruff: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -7481,7 +7481,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Popplio Shiny: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Stunned,Surprised,Teary-Eyed,Worried,Sad,Joyous,Crying,Sigh,Dizzy,Special3
 		Primarina: Happy,Normal,Sad,Special1,Stunned,Teary-Eyed
 		Primarina Shiny: Normal,Happy,Sad,Teary-Eyed,Special1,Stunned,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Dizzy,Worried,Determined
-		Oricorio Pa_U Shiny: Normal
 		Tsareena Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Perrserker Shiny: Normal
 		Runerigus Shiny: Normal,Normal^,Special0,Special0^
@@ -7652,6 +7651,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://bsky.app/profile/deeshur
 		Zorua Alternate Shiny: Surprised,Special0
 		Zoroark: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Zoroark Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Zoroark Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Fraxure: Normal
 		Fraxure Shiny: Normal
 		Druddigon: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
