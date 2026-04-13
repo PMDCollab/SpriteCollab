@@ -2181,6 +2181,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Veluza Shiny: Normal
 		Dondozo Shiny: Normal,Normal^
 		Dudunsparce Alternate: Normal,Happy,Surprised
+		Dudunsparce Alternate Shiny: Normal,Happy,Surprised
 		Kingambit: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Kingambit Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Great_Tusk Shiny: Normal
