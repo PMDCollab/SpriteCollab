@@ -9592,6 +9592,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rillaboom: Normal^
 		Rillaboom Shiny: Normal^
+		Toxtricity Lowkey_Alternate: Normal
 		Indeedee Alternate: Normal
 		Indeedee Alternate Shiny: Normal
 		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
