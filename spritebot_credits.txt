@@ -2500,6 +2500,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Slowking Galar: Normal,Normal^
 		Girafarig Alternate: Normal
 		Girafarig Alternate Shiny: Normal
+		Scizor Alternate: Normal
 		Teddiursa Altcolor: Normal,Normal^
 		Teddiursa Altcolor Shiny: Normal,Normal^
 		Ursaring: Angry,Determined,Happy,Normal
