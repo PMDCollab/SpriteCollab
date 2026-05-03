@@ -1151,9 +1151,8 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Chimecho: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop,Eat,Pose
 		Chimecho Cutscene: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat,Pose,Special0
 		Absol: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
-		Absol Cutscene: Attack,Charge,Double,Hop,Hurt,Idle,Jump,QuickStrike,Rotate,Shoot,Sleep,SpAttack,Special0,Special1,Swing,Walk
+		Absol Cutscene: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike,Jump,Special0,Special1
 		Absol Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
-		Absol Temp_Cutscene: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike,Jump,Special0,Special1
 		Wynaut: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,Swing,Double,Rotate,Hop
 		Wynaut Cutscene: Walk,Attack,Strike,Shoot,SpAttack,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Bow
 		Snorunt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
@@ -1502,8 +1501,6 @@ JFain	Discord:<@!702275233125630042>
 		Cradily: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Duskull: Pose
 		Absol: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Absol Cutscene: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Jump,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
-		Absol Cutscene Shiny: Cringe,DeepBreath,Eat,EventSleep,Faint,Float,Head,HitGround,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Sink,Sit,Trip,Tumble,TumbleBack,Wake
 		Snorunt: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Spheal: EventSleep,Wake,Float,Laying
 		Spheal Shiny: EventSleep,Wake,Float,Laying
@@ -7088,7 +7085,7 @@ Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
 		Altaria Altcolor Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Zangoose Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,MultiScratch,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Absol Shiny: "
-		Absol Cutscene Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Jump,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,QuickStrike,Rotate,Shoot,Sink,Sit,Sleep,SpAttack,Special0,Special1,Swing,Trip,Tumble,TumbleBack,Wake,Walk
+		Absol Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike,Jump,Special0,Special1
 		Metagross Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Ricochet,Rotate,Shoot,Sleep,Swing,Walk
 		Ambipom Shiny: Attack,Charge,Double,Hop,Hurt,Idle,MultiStrike,RearUp,Rotate,Shoot,Sleep,Swing,Walk
 		Honchkrow Altcolor: Walk,Attack,Strike,Shoot,Hover,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
@@ -7939,7 +7936,6 @@ Tacocoa	Discord:<@!234720295292895232>	Contact:<@234720295292895232>
 		Altaria Altcolor Shiny: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Swing,Walk
 		Barboach Shiny: Walk,Attack,Strike,Shoot,Shake,Rumble,Dance,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Duskull Altcolor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Absol Cutscene Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Jump,QuickStrike,Rotate,Shoot,Sleep,SpAttack,Special0,Special1,Swing,Walk
 		Wynaut Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,Swing,Double,Rotate,Hop
 		Wynaut Cutscene Shiny: Walk,Attack,Strike,Shoot,SpAttack,Withdraw,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Bow
 		Glalie Shiny: Walk,Attack,Bite,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
