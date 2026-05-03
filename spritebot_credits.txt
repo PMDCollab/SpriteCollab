@@ -2493,7 +2493,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Espeon Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Espeon Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Umbreon Alternate: Normal,Happy,Pain,Worried
-		Umbreon Alternate Shiny: Normal
+		Umbreon Alternate Shiny: Normal,Happy,Pain,Worried
 		Murkrow: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Murkrow Altcolor: Normal
 		Slowking Galar: Normal,Normal^
