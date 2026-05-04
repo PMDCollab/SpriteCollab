@@ -60,6 +60,8 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Wartortle: Normal
 		Blastoise: Normal,Pain,Angry
 		Blastoise Cutscene: Angry,Happy,Normal,Pain
+		Blastoise Temp_Cutscene: Normal,Happy,Pain,Angry
+		Blastoise Temp: Normal,Joyous,Pain,Angry
 		Caterpie: Inspired,Normal,Teary-Eyed
 		Metapod: Normal
 		Butterfree: Normal
