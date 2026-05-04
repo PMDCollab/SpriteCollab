@@ -3166,6 +3166,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Tyrunt: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,RearUp,Swing,Double,Rotate,Hop
 		Tyrantrum Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
 		Sylveon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
+		Dedenne: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
 		Trevenant: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop
 		Pumpkaboo: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
 		Pumpkaboo Small: Walk,Attack,Strike,Shoot,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate,Eat
@@ -9097,7 +9098,7 @@ Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
 		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Conkeldurr: Idle,Rotate
 		Alomomola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
-		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike
+		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike,Hurt
 		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
 		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
