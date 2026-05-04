@@ -1,3 +1,4 @@
 2026-05-04 18:00:18.387688	CHUNSOFT	CUR	CC_BY-NC_4	Normal,Joyous,Pain,Angry
 2026-05-04 18:54:41.224832	<@!356635814668664832>	CUR	CC_BY-NC_4	Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 2026-05-04 18:56:44.753391	<@!276369635304275968>	CUR	CC_BY-NC_4	Happy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Dizzy,Worried,Determined
+2026-05-04 18:56:50.740973	<@!276369635304275968>	CUR	CC_BY-NC_4	Happy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Dizzy,Worried,Determined
