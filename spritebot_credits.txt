@@ -59,8 +59,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Squirtle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried,Special1
 		Wartortle: Normal
 		Blastoise: Normal,Pain,Angry
-		Blastoise Cutscene: Angry,Happy,Normal,Pain
-		Blastoise Temp_Cutscene: Normal,Happy,Pain,Angry
+		Blastoise Cutscene: Normal,Happy,Pain,Angry
 		Blastoise Temp: Normal,Joyous,Pain,Angry
 		Caterpie: Inspired,Normal,Teary-Eyed
 		Metapod: Normal
@@ -1589,8 +1588,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Charizard Mega_X: Normal,Surprised
 		Charizard Mega_Y: Normal
 		Blastoise: Sad,Joyous,Crying,Inspired,Sigh,Shouting,Stunned,Teary-Eyed,Dizzy,Worried,Happy,Determined
-		Blastoise Cutscene: Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Special0,Stunned,Teary-Eyed,Worried
-		Blastoise Cutscene Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
 		Caterpie Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Metapod: Happy,Normal,Pain
 		Beedrill Mega: Normal
@@ -3519,7 +3516,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Bulbasaur Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Charmeleon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Squirtle Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Blastoise Cutscene Shiny: Normal,Sad,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Weedle Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Weedle Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rattata Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3999,8 +3995,10 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Wartortle Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Wartortle Altcolor Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Blastoise Mega Shiny: Normal
+		Blastoise Cutscene Shiny: Normal,Happy,Pain,Angry
 		Blastoise Altcolor: Normal
 		Blastoise Altcolor Shiny: Normal
+		Blastoise Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Butterfree: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Butterfree Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Butterfree Gigantamax: Normal
@@ -6722,6 +6720,7 @@ Kevin	Discord:<@!479925530129596426>	Contact:<@479925530129596426>
 
 Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 	Portrait:
+		Blastoise Temp: Happy,Crying,Inspired,Sigh,Shouting,Surprised,Stunned,Dizzy,Worried,Determined
 		Dodrio: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Dodrio Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Dodrio Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
@@ -8680,7 +8679,6 @@ Limomon	Discord:<@!360948625901223950>	Contact:https://twitter.com/TheLimomon
 
 RaoKurai	Discord:<@!173896352554549248>	Contact:https://twitter.com/RaoKurai
 	Portrait:
-		Blastoise Cutscene Shiny: Angry,Happy,Normal,Pain
 		Gloom Shiny: Normal,Normal^
 		Gloom Shiny Female: Normal,Normal^
 		Meowth Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
@@ -9469,7 +9467,6 @@ Sugi	Discord:<@!537560911716810763>	Contact:<@537560911716810763>
 Miju	Discord:<@!343474614820667392>	Contact:https://mobile.twitter.com/MijumewAndCo
 	Portrait:
 		Blastoise: Happy,Surprised,Determined
-		Blastoise Cutscene: Angry,Determined,Happy,Normal,Pain,Special0,Surprised
 		Zigzagoon Galar: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Zigzagoon Galar Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
