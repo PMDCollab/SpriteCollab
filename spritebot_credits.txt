@@ -9590,6 +9590,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Nidorino Altcolor: Pain,Happy,Inspired
 		Diglett Shiny: Pain
 		Alakazam Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Geodude: Happy,Inspired,Pain
 		Slowbro Shiny: Normal,Sad,Happy,Inspired,Stunned,Teary-Eyed,Dizzy,Determined,Special3
 		Drowzee Shiny: Joyous
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
