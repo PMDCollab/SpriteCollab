@@ -9612,7 +9612,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Rillaboom: Normal^
 		Rillaboom Shiny: Normal^
 		Toxtricity Lowkey_Alternate: Normal
-		Indeedee Alternate: Normal
+		Indeedee Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Indeedee Alternate Shiny: Normal
 		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Floragato Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
