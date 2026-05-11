@@ -10378,7 +10378,7 @@ Ajifer	Discord:<@!1042498956082544640>	Contact:<@1042498956082544640>
 		Smoliv: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Smoliv Shiny: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 
-Discord:<@!1058057407592407081>
+jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
 	Portrait:
 		Flamigo: Joyous,Happy,Pain,Surprised
 
