@@ -3432,6 +3432,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Barbaracle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop,Rumble
 		Barbaracle Shiny: Idle,Walk,Hurt,Attack,Charge,Shoot,Strike,Punch,Rumble,Swing,Double,Rotate,Hop
 		Tyrantrum: Idle,Walk,Sleep,Hurt,Attack,Shoot,Twirl,Swing,Rotate,Hop,Charge,Double
+		Hawlucha Mega: Walk
 		Noivern: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Zygarde: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
 		Grubbin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
@@ -5898,6 +5899,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Aurorus Shiny: Walk,Attack,Strike,Shoot,Twirl,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Hawlucha: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,Cringe
 		Hawlucha Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop,Cringe
+		Hawlucha Mega: Idle,Walk,Swing,Double,Rotate
 		Hawlucha Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Kick,Swing,Double,Rotate,Hop,Cringe
 		Goomy: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Goomy Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
@@ -10376,6 +10378,10 @@ Ajifer	Discord:<@!1042498956082544640>	Contact:<@1042498956082544640>
 		Smoliv: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Smoliv Shiny: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Dizzy,Angry^,Dizzy^,Worried,Determined,Worried^,Determined^
 
+Discord:<@!1058057407592407081>
+	Portrait:
+		Flamigo: Joyous,Happy,Pain,Surprised
+
 Cocosquid.	Discord:<@!1133042779782647808>	Contact:<@1133042779782647808>
 	Portrait:
 		Iron_Treads: Happy
@@ -10383,4 +10389,8 @@ Cocosquid.	Discord:<@!1133042779782647808>	Contact:<@1133042779782647808>
 Rustnuttie	Discord:<@!179733726421450752>	Contact:<@179733726421450752>
 	Portrait:
 		Munkidori: Happy,Happy^,Surprised,Surprised^,Worried,Worried^
+
+GenarftheUnfunny	Discord:<@!1038291154032136192>	Contact:bigshot1977kr0mer@gmail.com
+	Portrait:
+		Hydrapple: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Teary-Eyed,Dizzy,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 
