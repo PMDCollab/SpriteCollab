@@ -7634,6 +7634,7 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://bsky.app/profile/deeshur
 	Portrait:
 		Raichu Mega_X: Normal
 		Nidorina Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Dugtrio Alola: Normal
 		Starmie Mega: Normal,Special0
 		Lapras Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dragonite Mega: Normal,Sigh,Pain,Determined
