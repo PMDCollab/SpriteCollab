@@ -1,0 +1,1 @@
+2026-05-13 17:17:04.321060	FERMRACK	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
