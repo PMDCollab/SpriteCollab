@@ -3397,6 +3397,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Boldore: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Gigalith: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Excadrill: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Excadrill Mega: Idle,Walk,Attack,Shoot,Strike,Twirl,Swing,Rotate,Hop
 		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
 		Conkeldurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Swing,Double,Hop
 		Seismitoad: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
@@ -3431,6 +3432,7 @@ Soulja	Discord:<@!229131140903075840>	Contact:https://twitter.com/OlSoulja
 		Binacle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
 		Barbaracle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Punch,Swing,Double,Rotate,Hop,Rumble
 		Barbaracle Shiny: Idle,Walk,Hurt,Attack,Charge,Shoot,Strike,Punch,Rumble,Swing,Double,Rotate,Hop
+		Dragalge Mega: Idle,Walk,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Tyrantrum: Idle,Walk,Sleep,Hurt,Attack,Shoot,Twirl,Swing,Rotate,Hop,Charge,Double
 		Hawlucha Mega: Walk
 		Noivern: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
@@ -9123,6 +9125,18 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Ogerpon Cornerstone_Mask: "
 		Raging_Bolt: Idle,Sleep,Swing,Double,Rotate
 
+DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
+	Sprite:
+		Excadrill Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Dragalge Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
+		Zamazenta: Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Hop,QuickStrike
+		Calyrex: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
+		Cetoddle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Hop
+		Cetoddle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
+		Cetitan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
+		Chi_Yu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+
 Katach314	Discord:<@!503377084656254986>	Contact:katamari.roller.314@gmail.com
 	Sprite:
 		Timburr: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,Pose,Pain,Nod
@@ -9372,15 +9386,6 @@ nataniel-sama	Contact:https://pokemon-reloaded.el-foro.net/
 		Chewtle: Idle,Walk,Charge,Swing,Double,Rotate
 		Drednaw: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Copperajah: Idle,Walk,Rotate
-
-DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
-	Sprite:
-		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
-		Calyrex: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
-		Cetoddle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Hop
-		Cetoddle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
-		Cetitan: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
-		Chi_Yu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 
 RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
 	Portrait:
