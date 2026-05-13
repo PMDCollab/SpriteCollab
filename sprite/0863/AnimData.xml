@@ -17,7 +17,7 @@
     <Anim>
       <Name>Attack</Name>
       <Index>1</Index>
-      <FrameWidth>64</FrameWidth>
+      <FrameWidth>56</FrameWidth>
       <FrameHeight>72</FrameHeight>
       <RushFrame>2</RushFrame>
       <HitFrame>6</HitFrame>
