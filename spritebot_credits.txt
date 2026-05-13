@@ -9130,7 +9130,7 @@ DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
 		Excadrill Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Dragalge Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
-		Zamazenta: Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Hop,QuickStrike
+		Zamazenta: Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Hop,QuickStrike,Idle,Rotate
 		Calyrex: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop
 		Cetoddle: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Hop
 		Cetoddle Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Emit,Swing,Double,Rotate,Hop
@@ -9404,6 +9404,7 @@ Shadowcrafts	Discord:<@!1116961261331152986>	Contact:shadowcrafts@outlook.com
 FerMrack	Contact:https://x.com/FerMrack_FM
 	Sprite:
 		Zamazenta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
+		Zamazenta Crowned_Shield: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
 		Calyrex: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Roaring_Moon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,Hover
 
@@ -9415,6 +9416,10 @@ LazerBlitz	Discord:<@!585276060136898591>	Contact:<@585276060136898591>
 	Sprite:
 		Meowscarada: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep
 		Meowscarada Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,EventSleep
+
+NickOnimura	Discord:<@!151462460316975104>	Contact:nickonimura.bsky.social
+	Sprite:
+		Quaxly: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 DavKriz	Discord:<@!642311628557385738>
 	Sprite:
