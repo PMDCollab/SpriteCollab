@@ -233,7 +233,7 @@
     <Anim>
       <Name>Special0</Name>
       <Index>35</Index>
-      <FrameWidth>64</FrameWidth>
+      <FrameWidth>96</FrameWidth>
       <FrameHeight>120</FrameHeight>
       <Durations>
         <Duration>8</Duration>
