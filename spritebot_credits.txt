@@ -9089,26 +9089,9 @@ powercristal	Contact:https://www.deviantart.com/powercristal
 		Volcarona: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 		Cobalion: Attack,Idle,Walk
 
-Katach314	Discord:<@!503377084656254986>	Contact:katamari.roller.314@gmail.com
-	Sprite:
-		Timburr: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,Pose,Pain,Nod
-		Gurdurr: Special0,Special1
-		Swanna: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
-		Clodsire: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
-		Clodsire Shiny: Sleep
-
-Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
-	Sprite:
-		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
-		Conkeldurr: Idle,Rotate
-		Alomomola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
-		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike,Hurt
-		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
-		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
-		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
-
 pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 	Sprite:
+		Excadrill Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Venipede: "
 		Volcarona: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop
 		Landorus Therian: Idle,Walk,Sleep,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
@@ -9138,6 +9121,24 @@ pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 		Ogerpon Hearthflame_Mask: "
 		Ogerpon Cornerstone_Mask: "
 		Raging_Bolt: Idle,Sleep,Swing,Double,Rotate
+
+Katach314	Discord:<@!503377084656254986>	Contact:katamari.roller.314@gmail.com
+	Sprite:
+		Timburr: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop,Pose,Pain,Nod
+		Gurdurr: Special0,Special1
+		Swanna: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,FlapAround,Swing,Double,Rotate,Hop
+		Clodsire: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,RearUp,Swing,Double,Rotate,Hop
+		Clodsire Shiny: Sleep
+
+Inv3rse	Discord:<@!656696412087648257>	Contact:<@656696412087648257>
+	Sprite:
+		Gurdurr: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Punch,SpAttack,Withdraw,RearUp,Swing,Double,Rotate,Hop
+		Conkeldurr: Idle,Rotate
+		Alomomola: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Twirl,Swing,Double,Rotate,Hop,QuickStrike
+		Dedenne: Idle,Walk,Sleep,Attack,Charge,Swing,Double,Rotate,Hop,QuickStrike,Hurt
+		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
+		Tadbulb: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike
+		Frigibax: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 
 metalbear	Contact:<@468408733433593856>
 	Sprite:
