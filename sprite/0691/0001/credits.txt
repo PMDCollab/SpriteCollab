@@ -1,2 +1,3 @@
 2026-05-13 16:51:58.913450	<@!608107243329814529>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 2026-05-13 18:31:26.329756	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+2026-05-13 18:31:32.747247	<@!272761782269902848>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
