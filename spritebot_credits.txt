@@ -1909,6 +1909,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Glaceon Alternate Shiny: Normal
 		Gliscor Shiny: Normal
 		Gliscor Altcolor: Normal
+		Mamoswine: Pain,Angry
 		Porygon_Z: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Porygon_Z Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Porygon_Z Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
@@ -4424,6 +4425,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Whiscash Shiny: Normal,Happy,Pain,Surprised,Teary-Eyed,Worried
 		Crawdaunt Alternate Shiny: Normal,Happy,Pain,Surprised,Angry,Worried
 		Claydol: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Claydol Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cradily Altcolor: Normal
 		Armaldo Altcolor: Normal,Sad,Crying,Pain,Shouting,Surprised,Angry,Worried
 		Milotic: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8241,7 +8243,6 @@ Lovi	Discord:<@!95650095034273792>	Contact:<@95650095034273792>
 		Tyranitar Shiny: Normal,Surprised
 		Mawile Altcolor Shiny: Angry,Happy,Inspired,Normal,Sigh,Surprised,Worried
 		Sharpedo Shiny: Normal
-		Claydol Shiny: Normal
 		Absol Shiny: Normal,Normal^
 		Monferno Shiny: Normal,Normal^
 		Piplup Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
