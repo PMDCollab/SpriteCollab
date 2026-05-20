@@ -5212,7 +5212,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Dachsbun Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Smoliv: Normal,Teary-Eyed,Normal^,Teary-Eyed^,Joyous,Joyous^,Crying,Crying^,Shouting,Surprised,Shouting^,Surprised^,Dizzy,Dizzy^,Worried,Worried^
 		Smoliv Shiny: Normal,Teary-Eyed,Normal^,Teary-Eyed^
-		Dolliv: Normal
+		Dolliv: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dolliv Shiny: Normal
 		Arboliva: Normal
 		Arboliva Shiny: Normal
