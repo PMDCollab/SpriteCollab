@@ -4999,6 +4999,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Magearna Mega: Normal
 		Magearna Mega Shiny: Normal
 		Magearna Original_Mega: Normal
+		Magearna Original_Mega Shiny: Normal
 		Zeraora: Normal
 		Zeraora Shiny: Normal
 		Zeraora Mega: Normal
@@ -5273,6 +5274,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tatsugiri Stretchy Shiny: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Tatsugiri Droopy: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Tatsugiri Droopy Shiny: Normal,Special1,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Tatsugiri Mega: Normal,Normal^
 		Clodsire: Normal,Joyous
 		Clodsire Shiny: Normal,Joyous
 		Farigiraf: Normal,Special0
