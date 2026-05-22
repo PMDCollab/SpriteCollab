@@ -5277,7 +5277,9 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Tatsugiri Mega: Normal,Normal^
 		Tatsugiri Mega Shiny: Normal,Normal^
 		Tatsugiri Stretchy_Mega: Normal,Normal^
+		Tatsugiri Stretchy_Mega Shiny: Normal,Normal^
 		Tatsugiri Droopy_Mega: Normal,Normal^
+		Tatsugiri Droopy_Mega Shiny: Normal,Normal^
 		Clodsire: Normal,Joyous
 		Clodsire Shiny: Normal,Joyous
 		Farigiraf: Normal,Special0
