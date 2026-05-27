@@ -5605,6 +5605,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Swalot Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
 		Swalot Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
 		Swalot Altcolor Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,RearUp,Swell,Swing,Double,Rotate,Hop
+		Sharpedo Mega Shiny: Idle,Walk,Attack,Double,Rotate
 		Sharpedo Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Swell,Swing,Double,Rotate,Hop
 		Wailmer Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Numel Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,RearUp,Swing,Double,Rotate,Hop
@@ -5823,6 +5824,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Litwick: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack,"
 		Litwick Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk,Twirl,SpAttack,"
 		Beartic Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,Twirl,Swing,Double,Rotate,Hop
+		Accelgor Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Stunfisk: Idle,Rotate
 		Stunfisk Shiny: Idle,Rotate
 		Bisharp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
@@ -5909,6 +5911,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Doublade Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slice,SpAttack,Swing,Double,Rotate,Hop,Cringe,Special0
 		Inkay Shiny: Idle,Walk,Sleep,Attack,Charge,Slam,Twirl,Swing,Double,Rotate,Hurt,Shoot,Strike,Hop
 		Malamar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Dragalge Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Helioptile: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Helioptile Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Heliolisk: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Shock,Swing,Double,Rotate,Hop,Cringe
@@ -5938,6 +5941,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Phantump Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Gourgeist Super: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,Cringe
 		Gourgeist Super Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop,Cringe
+		Avalugg Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
 		Avalugg Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Emit,Swing,Double,Rotate,Hop
 		Avalugg Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
 		Zygarde: Idle,Walk,Sleep,Hurt,Attack,Charge,Swing,Double,Rotate,Hop
@@ -5949,6 +5953,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Rowlet: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Rowlet Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Decidueye Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Kick,Swing,Double,Rotate,Hop
+		Pikipek Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Grubbin Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Charjabug Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Oricorio Pom_Pom Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Shock,Swing,Double,Rotate,Hop
