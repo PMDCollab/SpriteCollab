@@ -1,2 +1,3 @@
 2026-05-27 00:02:54.433804	<@!608107243329814529>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Attack,Swing,Double,Rotate
 2026-05-27 01:11:24.015813	<@!229131140903075840>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Attack,Swing,Double,Rotate
+2026-05-27 01:27:59.967964	<@!356635814668664832>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Attack,Swing,Double,Rotate
