@@ -1,1 +1,2 @@
 2026-04-07 01:28:38.672272	<@!228595807132057600>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
+2026-05-27 01:29:42.551305	<@!228595807132057600>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Shoot,Swing,Double,Rotate,Hop,Hover
