@@ -10375,6 +10375,7 @@ jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jelt
 	Portrait:
 		Meloetta Beta: Normal,Normal^
 		Arboliva: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
+		Arboliva Shiny: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
 		Flamigo: Joyous,Happy,Pain,Surprised
 
 Xrit63	Discord:<@!512597386279780354>	Contact:Xrit63PMD@outlook.com
