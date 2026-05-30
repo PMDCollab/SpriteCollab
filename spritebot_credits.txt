@@ -5729,8 +5729,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Mismagius Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Sound,SpAttack,RearUp,Swing,Double,Rotate,Hop
 		Glameow Alternate: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Sound,Emit,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Purugly Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Sound,Emit,SpAttack,Swing,Double,Rotate,Hop
+		Chingling Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Sound,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Chingling Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Sound,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-		Chingling Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Appeal,Dance,Sound,Emit,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Stunky Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Skuntank Cutscene Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop,EventSleep,Eat,Float,DeepBreath,LookUp,Head,Cringe,Faint,Fainted,Jump
 		Skuntank Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiStrike,RearUp,Swing,Double,Rotate,Hop
@@ -8414,7 +8414,6 @@ Lovi	Discord:<@!95650095034273792>	Contact:<@95650095034273792>
 		Mismagius Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sound,RearUp,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Glameow Shiny: Attack,Charge,Double,Emit,Hop,Hurt,Idle,MultiScratch,Rotate,Shoot,Sleep,Swing,Walk
 		Purugly Shiny: Walk,Attack,MultiScratch,Shoot,SpAttack,Sound,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
-		Chingling Shiny: Walk,Attack,Strike,Shoot,Dance,Appeal,Sound,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Bronzor Shiny: Walk,Attack,Strike,Shoot,SpAttack,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Bronzong Shiny: Walk,Attack,Strike,Shoot,SpAttack,Emit,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
 		Bonsly Shiny: Walk,Attack,Strike,Shoot,Twirl,Sleep,Hurt,Idle,Swing,Double,Hop,Charge,Rotate
