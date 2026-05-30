@@ -4080,6 +4080,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Arcanine Altcolor: Normal
 		Kadabra Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Alakazam Mega Shiny: Normal
+		Machamp Alternate Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Victreebel Mega: Normal,Normal^
 		Victreebel Mega Shiny: Normal,Normal^
 		Victreebel Mega_Altcolor: Normal,Normal^
@@ -5817,6 +5818,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Darmanitan Zen Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Darmanitan Galar Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Rumble,Emit,Swing,Double,Rotate,Hop
 		Scrafty Mega: Idle,Walk,Sleep,Attack,Swing,Double,Rotate
+		Scrafty Mega Shiny: Idle,Walk,Sleep,Attack,Swing,Double,Rotate
 		Zorua: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Zorua Shiny: Attack,Charge,Cringe,DeepBreath,Double,Eat,EventSleep,Faint,Float,Head,HitGround,Hop,Hurt,Idle,Laying,LeapForth,LookUp,LostBalance,Nod,Pain,Pose,Pull,Rotate,Shoot,Sink,Sit,Sleep,Swing,Trip,Tumble,TumbleBack,Wake,Walk
 		Cinccino: EventSleep,Wake,Float,Laying,Cringe
