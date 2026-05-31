@@ -4022,6 +4022,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Arbok Circular: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Arbok Circular Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Pikachu Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined
+		Pikachu Libre: Normal^,Sad^,Joyous^,Special1^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Special2^,Worried^,Determined^,Special0^
 		Pikachu Original_Cap: Normal,Normal^
 		Pikachu Original_Cap Shiny: Normal,Normal^
 		Pikachu Hoenn_Cap: Normal,Normal^
@@ -4086,7 +4087,8 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Victreebel Mega: Normal,Normal^
 		Victreebel Mega Shiny: Normal,Normal^
 		Victreebel Mega_Altcolor: Normal,Normal^
-		Geodude Altcolor: Normal
+		Geodude Shiny: Normal,Happy,Inspired,Pain
+		Geodude Altcolor: Normal,Happy,Inspired,Pain
 		Graveler Altcolor: Normal,Joyous,Surprised,Angry
 		Slowpoke Galar: Normal
 		Slowpoke Galar Shiny: Normal
@@ -5276,6 +5278,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Greavard Shiny: Normal,Happy,Sad
 		Houndstone: Normal,Happy
 		Houndstone Shiny: Normal,Happy
+		Flamigo Shiny: Joyous,Happy,Pain,Surprised
 		Cetoddle: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cetoddle Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cetitan: Normal
@@ -5346,7 +5349,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Archaludon: Normal
 		Archaludon Shiny: Normal
 		Hydrapple: Normal,Normal^
-		Hydrapple Shiny: Normal,Normal^,Sad,Special1,Sad^,Special1^,Pain,Shouting,Pain^,Shouting^,Angry,Special2,Angry^,Special2^,Special0,Special0^
+		Hydrapple Shiny: Normal,Normal^,Sad,Special1,Sad^,Special1^,Pain,Shouting,Pain^,Shouting^,Angry,Special2,Angry^,Special2^,Special0,Special0^,Joyous,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Surprised,Stunned,Surprised^,Stunned^,Teary-Eyed,Dizzy,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Raging_Bolt: Normal,Normal^
 		Raging_Bolt Shiny: Normal,Normal^
 		Terapagos: Normal,Joyous,Happy,Stunned,Teary-Eyed,Dizzy
