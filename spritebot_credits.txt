@@ -2792,6 +2792,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Clawitzer: Normal
 		Carbink: Normal
 		Sliggoo: Normal,Normal^,Happy,Happy^
+		Sliggoo Temp: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Sigh,Happy^,Sigh^,Stunned,Stunned^,Teary-Eyed,Teary-Eyed^,Worried,Special3,Worried^,Special3^
 		Goodra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Goodra Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Klefki: Normal,Joyous,Happy,Pain,Surprised,Stunned,Teary-Eyed
