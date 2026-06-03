@@ -2791,8 +2791,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Clauncher: Normal
 		Clawitzer: Normal
 		Carbink: Normal
-		Sliggoo: Normal,Normal^,Happy,Happy^
-		Sliggoo Temp: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Sigh,Happy^,Sigh^,Stunned,Stunned^,Teary-Eyed,Teary-Eyed^,Worried,Special3,Worried^,Special3^
+		Sliggoo: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Sigh,Happy^,Sigh^,Stunned,Stunned^,Teary-Eyed,Teary-Eyed^,Worried,Special3,Worried^,Special3^
+		Sliggoo Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Sigh,Happy^,Sigh^,Stunned,Stunned^,Teary-Eyed,Teary-Eyed^,Worried,Special3,Worried^,Special3^
 		Goodra: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Goodra Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Klefki: Normal,Joyous,Happy,Pain,Surprised,Stunned,Teary-Eyed
@@ -3590,7 +3590,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Meowstic Female_Alternate Shiny: Sigh,Sigh^,Determined,Determined^
 		Skrelp Shiny: Normal
 		Carbink Shiny: Normal,Sad,Happy,Crying,Shouting,Teary-Eyed,Determined
-		Sliggoo Shiny: Normal,Sad,Joyous,Happy,Sigh,Stunned,Teary-Eyed,Worried,Special3,Normal^,Happy^
 		Xerneas Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Xerneas Neutral Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Torracat Shiny: Normal
@@ -7372,7 +7371,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Spritzee: Pain
 		Spritzee Shiny: Normal,Pain
 		Clauncher Shiny: Normal
-		Sliggoo: Happy,Joyous,Special3
 		Klefki Shiny: Normal
 		Phantump Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Bergmite Shiny: Normal
@@ -10360,7 +10358,6 @@ Richelieu	Discord:<@!155159458828255244>
 ZoZoBab	Discord:<@!459080372672790548>	Contact:https://bsky.app/profile/zozobab.bsky.social
 	Portrait:
 		Frillish Female: Normal,Sad,Joyous,Happy,Inspired,Sigh,Pain,Stunned,Angry,Teary-Eyed,Worried,Determined
-		Sliggoo: Sad,Sigh,Stunned,Teary-Eyed,Worried
 
 CeleryGuy	Discord:<@!966056976217935872>	Contact:https://celeryguy.tumblr.com
 	Portrait:
