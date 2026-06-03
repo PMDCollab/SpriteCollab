@@ -1,1 +1,0 @@
-2026-06-02 23:19:18.829029	<@!544245909639397378>	CUR	CC_BY-NC_4	Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Sigh,Happy^,Sigh^,Stunned,Stunned^,Teary-Eyed,Teary-Eyed^,Worried,Special3,Worried^,Special3^
