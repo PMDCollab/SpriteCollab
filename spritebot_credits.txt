@@ -2778,7 +2778,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Aegislash: Normal
 		Spritzee: Normal
 		Spritzee Shiny: Normal
-		Aromatisse: Normal
+		Aromatisse: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Aromatisse Shiny: Normal
 		Swirlix: Normal,Normal^
 		Swirlix Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
