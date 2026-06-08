@@ -2779,7 +2779,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Spritzee: Normal
 		Spritzee Shiny: Normal
 		Aromatisse: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Aromatisse Shiny: Normal
+		Aromatisse Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Swirlix: Normal,Normal^
 		Swirlix Shiny: Normal,Sad,Joyous,Normal^,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Malamar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
