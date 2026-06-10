@@ -6852,6 +6852,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Volcanion: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Volcanion Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Decidueye: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Decidueye Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Brionne: Sad,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Brionne Shiny: Sad,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Oricorio: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -10339,6 +10340,14 @@ CinderedPhoenix	Discord:<@!252249733588975616>	Contact:ridiculouslybluecinderblo
 		Audino Mega: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Audino Mega Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 
+jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
+	Portrait:
+		Sandile Alternate: Normal,Happy,Teary-Eyed
+		Meloetta Beta: Normal,Normal^
+		Arboliva: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
+		Arboliva Shiny: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
+		Flamigo: Joyous,Happy,Pain,Surprised
+
 MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarber
 	Portrait:
 		Zorua: Special0,Special0^
@@ -10386,13 +10395,6 @@ Dasawkem	Discord:<@!183136061487054848>	Contact:https://dasawkem.carrd.co/#socia
 SkeleSpider	Discord:<@!291732421332697098>	Contact:https://linktr.ee/skelespider
 	Portrait:
 		Meloetta: Sad,Joyous,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-
-jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
-	Portrait:
-		Meloetta Beta: Normal,Normal^
-		Arboliva: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
-		Arboliva Shiny: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
-		Flamigo: Joyous,Happy,Pain,Surprised
 
 Xrit63	Discord:<@!512597386279780354>	Contact:Xrit63PMD@outlook.com
 	Portrait:
