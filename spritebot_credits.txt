@@ -1926,6 +1926,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Dialga Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3,Special2
 		Dialga Primal: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Dialga Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3,Special2
+		Heatran: Pain
 		Giratina: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Giratina Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Giratina Altcolor: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
@@ -9703,6 +9704,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Toxtricity Lowkey_Alternate: Normal
 		Indeedee Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Indeedee Alternate Shiny: Normal
+		Kubfu Temp: Normal,Normal^
 		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Floragato Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Crocalor: Happy,Inspired,Pain
@@ -10343,6 +10345,7 @@ CinderedPhoenix	Discord:<@!252249733588975616>	Contact:ridiculouslybluecinderblo
 jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
 	Portrait:
 		Sandile Alternate: Normal,Happy,Teary-Eyed
+		Sandile Alternate Shiny: Normal,Happy,Teary-Eyed
 		Meloetta Beta: Normal,Normal^
 		Arboliva: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
 		Arboliva Shiny: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
