@@ -7038,7 +7038,7 @@ Michael12	Discord:<@!653416391201783856>	Contact:https://www.deviantart.com/mich
 		Indeedee Alternate Female: Idle,Walk,Sleep,Attack,Charge,Shoot,Slam,Swing,Double,Rotate,Hop
 		Raging_Bolt: Idle,Swing,Double,Rotate
 
-Noo	Discord:<@!217899432652308480>	Contact:comics.town/@noo
+Noo	Discord:<@!217899432652308480>	Contact:https://artfight.net/~NooNoo_Skidoo
 	Portrait:
 		Missingno_ Madaamu: Normal
 		Missingno_ Madaamu Shiny: Normal
