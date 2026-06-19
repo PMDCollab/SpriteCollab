@@ -1928,6 +1928,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Dialga Primal: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Dialga Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3,Special2
 		Heatran: Pain
+		Heatran Shiny: Normal,Pain
 		Giratina: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Giratina Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
 		Giratina Altcolor: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special0,Special3
@@ -4316,7 +4317,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Corsola Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Corsola Galar: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
 		Corsola Galar Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
-		Remoraid Altcolor: Normal
+		Remoraid Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Octillery Shiny: Normal
 		Octillery Shiny Female: Normal
 		Octillery Female: Normal
@@ -4410,7 +4411,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Numel Alternate Female: Normal
 		Camerupt Mega Shiny: Normal
 		Camerupt Altcolor: Normal
-		Torkoal Altcolor: Normal,Surprised,Worried
+		Torkoal Altcolor: Normal,Surprised,Worried,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Determined
 		Spoink: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Spoink Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Flygon Alternate: Normal
@@ -8174,7 +8175,6 @@ Anonymous	Discord:<@!200318546750865418>	Contact:<@200318546750865418>
 		Mesprit Shiny: Normal,Pain
 		Azelf Shiny: Normal
 		Dialga Shiny: Normal
-		Heatran Shiny: Normal
 		Phione Shiny: Normal
 		Manaphy Cutscene Shiny: Crying,Happy,Joyous,Normal,Pain,Sigh,Stunned,Surprised,Teary-Eyed
 	Sprite:
