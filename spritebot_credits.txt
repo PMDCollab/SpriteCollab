@@ -10255,6 +10255,16 @@ PixlHoopa	Discord:<@!310773087417270272>
 	Portrait:
 		Electrike Shiny: Normal
 
+jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
+	Portrait:
+		Wailmer Alternate: Sad,Joyous,Happy,Pain
+		Sandile Alternate: Normal,Happy,Teary-Eyed
+		Sandile Alternate Shiny: Normal,Happy,Teary-Eyed
+		Meloetta Beta: Normal,Normal^
+		Arboliva: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
+		Arboliva Shiny: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
+		Flamigo: Joyous,Happy,Pain,Surprised
+
 lumiscosity	Discord:<@!243013084510289921>	Contact:https://github.com/lumiscosity
 	Portrait:
 		Baltoy: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Angry,Teary-Eyed,Dizzy,Worried
@@ -10359,15 +10369,6 @@ CinderedPhoenix	Discord:<@!252249733588975616>	Contact:ridiculouslybluecinderblo
 	Portrait:
 		Audino Mega: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
 		Audino Mega Shiny: Normal,Sad,Joyous,Special1,Normal^,Sad^,Joyous^,Special1^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Special0,Worried^,Determined^,Special0^
-
-jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
-	Portrait:
-		Sandile Alternate: Normal,Happy,Teary-Eyed
-		Sandile Alternate Shiny: Normal,Happy,Teary-Eyed
-		Meloetta Beta: Normal,Normal^
-		Arboliva: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
-		Arboliva Shiny: Sad,Joyous,Happy,Crying,Pain,Shouting,Stunned,Dizzy
-		Flamigo: Joyous,Happy,Pain,Surprised
 
 MilesFarber	Discord:<@!207815740399681538>	Contact:https://github.com/MilesFarber
 	Portrait:
