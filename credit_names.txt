@@ -281,6 +281,7 @@ NickOnimura	<@!151462460316975104>	nickonimura.bsky.social
 brookriver	<@!255219192901402624>	https://brookriver.carrd.co/
 JustAGunk	<@!1377429093997477928>	<@1377429093997477928>
 Fresco	<@!488809643838144543>	marcfreixer@gmail.com
+Mitsubachi	<@!472136803554557956>	
 Neat_Neato	<@!181900575934382081>	imneatneato@gmail.com
 SethY	<@!268261643178344448>	https://linktr.ee/sethyuikora
 lumiscosity	<@!243013084510289921>	https://github.com/lumiscosity
