@@ -9470,6 +9470,7 @@ RelicCipher	Discord:<@!739304144552198285>	Contact:<@739304144552198285>
 Shadowcrafts	Discord:<@!1116961261331152986>	Contact:shadowcrafts@outlook.com
 	Sprite:
 		Pincurchin: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Shock,Swing,Double,Rotate,Hop
+		Poltchageist: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Cringe
 
 FerMrack	Contact:https://x.com/FerMrack_FM
 	Sprite:
