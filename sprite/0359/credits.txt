@@ -1,3 +1,4 @@
-2022-08-24 13:24:37.040140	CHUNSOFT	CUR	Unspecified	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
-2022-09-02 16:10:22.608850	<@!702275233125630042>	CUR	PMDCollab_1	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
-2024-01-18 21:06:40.002347	<@!157796074457661440>	CUR	PMDCollab_2	SpAttack
+2026-05-02 17:54:42.554309	CHUNSOFT	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop,QuickStrike
+2026-05-02 17:57:30.132703	<@!157796074457661440>	CUR	CC_BY-NC_4	SpAttack
+2026-06-19 03:34:43.686867	<@!276369635304275968>	CUR	CC_BY-NC_4	EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2026-06-19 14:18:23.133390	<@!276369635304275968>	CUR	CC_BY-NC_4	Head
