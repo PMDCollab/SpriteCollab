@@ -10262,7 +10262,7 @@ PixlHoopa	Discord:<@!310773087417270272>
 	Portrait:
 		Electrike Shiny: Normal
 
-jeltemreal	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
+jelEmerald	Discord:<@!1058057407592407081>	Contact:https://www.youtube.com/@jeltemreal
 	Portrait:
 		Wailmer Alternate: Sad,Joyous,Happy,Pain
 		Wailmer Alternate Shiny: Sad,Joyous,Happy,Pain
