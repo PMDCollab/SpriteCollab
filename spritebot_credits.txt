@@ -1649,7 +1649,6 @@ Emboarger	Discord:<@!237286997645983744>
 		Cosmog: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Cosmoem: Normal,Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Solgaleo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Lunala: Happy,Normal,Pain,Sad,Worried,Angry,Crying,Determined,Dizzy,Inspired,Joyous,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed
 		Nihilego: Happy,Sad,Joyous,Sigh,Stunned,Angry,Crying,Determined,Dizzy,Inspired,Pain,Shouting,Surprised,Teary-Eyed,Worried
 		Xurkitree: Angry,Happy,Sad,Stunned,Worried,Crying,Determined,Dizzy,Inspired,Joyous,Normal,Pain,Shouting,Sigh,Surprised,Teary-Eyed
 		Xurkitree Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
@@ -3605,7 +3604,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Stufful Shiny: Joyous,Happy,Crying,Inspired,Shouting,Surprised,Angry,Dizzy
 		Wimpod Shiny: Normal,Happy
 		Jangmo_o Shiny: Normal
-		Lunala Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Celesteela Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sobble Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
 		Silicobra Shiny: Normal
@@ -7777,7 +7775,8 @@ Deeshura	Discord:<@!157796074457661440>	Contact:https://bsky.app/profile/deeshur
 		Hawlucha Mega: Normal
 		Charjabug: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
 		Charjabug Shiny: Normal,Sad,Joyous,Normal^,Sad^,Joyous^,Happy,Crying,Inspired,Sigh,Happy^,Crying^,Inspired^,Sigh^,Pain,Shouting,Surprised,Stunned,Pain^,Shouting^,Surprised^,Stunned^,Angry,Teary-Eyed,Dizzy,Angry^,Teary-Eyed^,Dizzy^,Worried,Determined,Worried^,Determined^
-		Lunala Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Lunala: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
+		Lunala Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dreepy: Joyous
 		Dreepy Shiny: Joyous
 		Glimmet: Happy,Pain,Surprised,Worried,Determined
@@ -9545,7 +9544,6 @@ Discord:<@!276175146304405514>
 		Zoroark: Normal
 		Zoroark Shiny: Normal
 		Solgaleo: Normal
-		Lunala: Normal
 		Necrozma: Normal,Normal^
 
 Meganai	Discord:<@!336650663293616140>
