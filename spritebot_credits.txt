@@ -7337,6 +7337,7 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Aerodactyl: Inspired,Stunned,Determined
 		Aerodactyl Shiny: Inspired,Stunned,Determined
 		Articuno Galar: Special2
+		Articuno Alternate: Normal
 		Typhlosion Hisui: Happy,Worried
 		Typhlosion Hisui Shiny: Happy,Worried
 		Politoed: Inspired,Shouting,Surprised
