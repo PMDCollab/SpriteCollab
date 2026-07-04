@@ -8869,7 +8869,7 @@ Chi	Discord:<@!95638225439166464>	Contact:<@95638225439166464>
 		Darkrai Shiny: "
 		Darkrai Cutscene Shiny: Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
 
-Spikey-Valentine	Discord:<@!454421330058805251>	Contact:https://twitter.com/spikeyvalentine?s=21&t=KmiqQo0hvuT6bxZFEGAKbA
+Spikey-Valentine	Discord:<@!454421330058805251>	Contact:https://twitter.com/spikeyvalentine
 	Sprite:
 		Pichu: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Pichu Shiny: Shock,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
