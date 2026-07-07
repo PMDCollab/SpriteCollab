@@ -2570,6 +2570,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Kyogre Primal: Normal
 		Monferno: Angry,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Normal^,Pain,Sad,Sad^,Shouting,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Angry^,Pain^,Shouting^,Worried^,Special1,Special1^
 		Monferno Shiny: Angry,Angry^,Crying,Crying^,Determined,Determined^,Dizzy,Dizzy^,Happy,Happy^,Inspired,Inspired^,Joyous,Joyous^,Normal,Pain,Pain^,Sad,Sad^,Shouting,Shouting^,Sigh,Sigh^,Stunned,Stunned^,Surprised,Surprised^,Teary-Eyed,Teary-Eyed^,Worried,Worried^,Special1,Special1^
+		Starly Alternate: Normal,Sad,Joyous,Surprised
 		Shinx Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Luxio Shiny Female: Normal
 		Luxio Female: Normal
