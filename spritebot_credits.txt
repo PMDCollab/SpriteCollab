@@ -2813,6 +2813,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Diancie: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Diancie Mega: Normal
 		Decidueye: Normal,Special2,Special0
+		Torracat Temp: Normal,Happy,Inspired,Pain
 		Incineroar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Brionne: Normal,Joyous
 		Primarina: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -9725,6 +9726,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Seismitoad: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Seismitoad Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Hydreigon: Sad,Teary-Eyed,Determined
+		Hydreigon Shiny: Sad,Teary-Eyed,Determined
 		Quilladin: Happy,Inspired,Pain
 		Frogadier: Inspired,Pain
 		Frogadier Shiny: Inspired,Pain
