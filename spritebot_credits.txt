@@ -9741,6 +9741,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Rillaboom: Normal^
 		Rillaboom Shiny: Normal^
 		Toxtricity Lowkey_Alternate: Normal
+		Toxtricity Lowkey_Alternate Shiny: Normal
 		Indeedee Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Indeedee Alternate Shiny: Normal
 		Kubfu: Normal,Normal^
