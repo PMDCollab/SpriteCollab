@@ -2813,7 +2813,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Diancie: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Diancie Mega: Normal
 		Decidueye: Normal,Special2,Special0
-		Torracat Temp: Normal,Happy,Inspired,Pain
+		Torracat: Normal,Happy,Inspired,Pain
+		Torracat Shiny: Normal,Happy,Inspired,Pain
 		Incineroar: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Brionne: Normal,Joyous
 		Primarina: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -3598,7 +3599,6 @@ ShyStarryRain	Discord:<@!576876006636519434>
 		Carbink Shiny: Normal,Sad,Happy,Crying,Shouting,Teary-Eyed,Determined
 		Xerneas Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Xerneas Neutral Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Torracat Shiny: Normal
 		Grubbin Shiny: Normal
 		Vikavolt Shiny: Normal
 		Rockruff Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0,Special3
@@ -7400,7 +7400,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Noibat Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Rowlet Alternate Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Decidueye Hisui Shiny: Normal
-		Torracat: Normal
 		Incineroar Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Cutiefly Shiny: Normal
 		Mareanie Shiny: Normal
@@ -7583,8 +7582,6 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Zygarde Cell Shiny: Normal,Normal^
 		Dartrix: Normal,Normal^
 		Dartrix Shiny: Normal,Normal^
-		Torracat: Normal
-		Torracat Shiny: Normal
 		Popplio: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Stunned,Surprised,Teary-Eyed,Worried,Sad,Joyous,Crying,Sigh,Dizzy,Special3
 		Popplio Shiny: Angry,Determined,Happy,Inspired,Normal,Pain,Shouting,Stunned,Surprised,Teary-Eyed,Worried,Sad,Joyous,Crying,Sigh,Dizzy,Special3
 		Primarina: Happy,Normal,Sad,Special1,Stunned,Teary-Eyed
@@ -9732,8 +9729,6 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Frogadier Shiny: Inspired,Pain
 		Dartrix: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
 		Dartrix Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
-		Torracat: Happy,Inspired,Pain
-		Torracat Shiny: Happy,Inspired,Pain
 		Incineroar Shiny: Special0
 		Lycanroc Midnight Shiny: Special1,Special0
 		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
