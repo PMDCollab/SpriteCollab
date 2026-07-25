@@ -250426,9 +250426,7 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1491555169815498983/sprite-0727.zip?ex=69d81e80&is=69d6cd00&hm=aae7c4465d456c4de41a63cc9c211e84175867655fb548f10b98936e487d61c1&",
     "sprite_modified": "2024-07-21 20:35:50.662338",
-    "sprite_pending": {
-      "1491555440813670500": 764610870357131265
-    },
+    "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1299923510981951538/sprite_recolor-0727-0000-0001.png?ex=671ef79c&is=671da61c&hm=d2634a465d38f0785d80f807347d31a27097ad8ec659056f2c6aea270b4f8677&",
     "sprite_required": true,
     "sprite_talk": {
