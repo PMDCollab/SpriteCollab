@@ -88849,9 +88849,7 @@
         },
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530341593213571103/sprite-0215-0003.zip?ex=6a65392c&is=6a63e7ac&hm=b7e1580ae387ae428b444605fd403901a48dc88952c3fff7d89bc8954c2d5d8e&",
         "sprite_modified": "2024-09-11 23:28:59.396115",
-        "sprite_pending": {
-          "1530355794720329930": 764610870357131265
-        },
+        "sprite_pending": {},
         "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1517696800335855706/sprite_recolor-0215-0003-0001.png?ex=6a3738ca&is=6a35e74a&hm=34c4ce79f5f000be2e6d7335a67cd45acaf2cd74e3b05a6643a81ecf7382d709&",
         "sprite_required": true,
         "sprite_talk": {
@@ -216978,18 +216976,19 @@
             "modreward": true,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!1377429093997477928>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {
-              "1527332300608770229": 764610870357131265
+            "portrait_files": {
+              "Normal": false,
+              "Normal^": false
             },
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530715342471430284/portrait-0607-0001-0001.png?ex=6a669540&is=6a6543c0&hm=ce858f18001e0cd66dd20ecc25a2d7e60e79f3de1df448f98d05d0627c366dbc&",
+            "portrait_modified": "2026-07-25 23:16:16.652292",
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
