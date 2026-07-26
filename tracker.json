@@ -27560,7 +27560,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!215699178553212929>",
               "secondary": [
@@ -27663,13 +27663,14 @@
     "modreward": false,
     "name": "Poliwrath",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "CHUNSOFT",
       "secondary": [
-        "<@!108260609241423872>"
+        "<@!108260609241423872>",
+        "<@!1377429093997477928>"
       ],
-      "total": 2
+      "total": 3
     },
     "portrait_files": {
       "Normal": true,
@@ -27688,13 +27689,26 @@
       "Angry": false,
       "Worried": false,
       "Stunned": false,
-      "Happy": false
+      "Happy": false,
+      "Angry^": false,
+      "Shouting^": false,
+      "Sigh^": false,
+      "Determined^": false,
+      "Inspired^": false,
+      "Crying^": false,
+      "Happy^": false,
+      "Teary-Eyed^": false,
+      "Sad^": false,
+      "Pain^": false,
+      "Dizzy^": false,
+      "Worried^": false,
+      "Stunned^": false,
+      "Surprised^": false,
+      "Joyous^": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1529685777833791680/portrait-0062.png?ex=6a62d665&is=6a6184e5&hm=6bc02f14151392267f354cf33c1fb682f28d2df7dd43e2422e444d7e096db348&",
-    "portrait_modified": "2026-07-18 02:03:06.759062",
-    "portrait_pending": {
-      "1529685786260410399": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1531042679901650995/portrait-0062.png?ex=6a67c61c&is=6a66749c&hm=0a0a7fc3887da11b5431746d424921fbf1038bd9b030acb16bbb84184c88c3e9&",
+    "portrait_modified": "2026-07-26 20:56:59.334065",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
