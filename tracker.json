@@ -142372,7 +142372,9 @@
         },
         "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530887958893432872/portrait-0374-0001.png?ex=6a673603&is=6a65e483&hm=23c7e040bdda9cb938effdc6e02972274130a07f74993e53b8e8d6d3ca4e8410&",
         "portrait_modified": "2024-02-19 05:19:57.894374",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1530929831162810471": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -142402,10 +142404,14 @@
         },
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530928895694471248/sprite-0374-0001.zip?ex=6a675c24&is=6a660aa4&hm=578665fa37e670f6664f4228cc4d6d50a4707def4a758c6bb6387995341d40b3&",
         "sprite_modified": "2023-03-08 21:11:10.864809",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1530929977682559168": 764610870357131265
+        },
         "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1390537163266982000/sprite_recolor-0374-0001-0001.png?ex=68689e26&is=68674ca6&hm=4363b7f05be2ade08a0bd7618f5b51624515595f521de61c6aaa83b23e2d81ad&",
         "sprite_required": true,
-        "sprite_talk": {}
+        "sprite_talk": {
+          "710190644152369162": 1530929956429893793
+        }
       }
     },
     "canon": true,
@@ -142666,9 +142672,11 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1454579563349934202/portrait-0375-0001.png?ex=69519a48&is=695048c8&hm=6b4b86b24b41388c60564deba3eda08175aff5e16299e5278dfca38816d5ff64&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530930418864623639/portrait-0375-0001.png?ex=6a675d8f&is=6a660c0f&hm=635379d2386a45e566629a1d068caa96e4ee8b18cad9bac7fe506837fbd12495&",
         "portrait_modified": "2025-12-27 20:59:52.415464",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1530930425990483989": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -142698,10 +142706,14 @@
         },
         "sprite_link": "",
         "sprite_modified": "2023-03-08 21:11:15.809334",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1530930596132556981": 764610870357131265
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
-        "sprite_talk": {}
+        "sprite_talk": {
+          "710190644152369162": 1530930557423456287
+        }
       }
     },
     "canon": true,
