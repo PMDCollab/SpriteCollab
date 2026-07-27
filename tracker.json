@@ -143071,12 +143071,10 @@
           "Charge": false,
           "Rotate": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530933658540839003/sprite-0376-0002.zip?ex=6a676093&is=6a660f13&hm=9c1028af23f3111231be46cd2894ef3703f0813108bd9622a05305d2426770c6&",
-        "sprite_modified": "2023-03-08 22:28:13.821688",
-        "sprite_pending": {
-          "1530976427854266411": 764610870357131265
-        },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1530969036915998811/sprite_recolor-0376-0002-0001.png?ex=6a678186&is=6a663006&hm=a7891457cc16729ff0b4eeacbfdf4016776dab944ab0724abc83a7518750e5a6&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1531317536929349824/sprite-0376-0002.zip?ex=6a68c617&is=6a677497&hm=4ec28dcf95f1efbe2f14ccba95fe1a37021dd3e3cb60f565b69fa0052adbc816&",
+        "sprite_modified": "2026-07-27 15:09:11.095127",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1530933794012401726
