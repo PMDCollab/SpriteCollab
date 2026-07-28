@@ -259474,9 +259474,11 @@
             "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1445608834872639648/sprite-0772-0000-0001.zip?ex=6930f7a4&is=692fa624&hm=63b0377c53f478f144445a0286eda5ec0a0c71bca1925d77602fad1ff8c55137&",
             "sprite_modified": "2022-02-06 05:28:46.894198",
             "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1531472430445363321/sprite_recolor-0772-0000-0001.png?ex=6a695658&is=6a6804d8&hm=3de0842324efe08bbc11a6f124463d48c441a605d6594589b89319aff989d02c&",
             "sprite_required": true,
-            "sprite_talk": {}
+            "sprite_talk": {
+              "710190644152369162": 1531472377903448297
+            }
           }
         },
         "canon": true,
