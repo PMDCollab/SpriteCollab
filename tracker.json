@@ -216359,10 +216359,14 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "1531645417014689903": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {}
+            "sprite_talk": {
+              "710190644152369162": 1531645413298405467
+            }
           }
         },
         "canon": true,
