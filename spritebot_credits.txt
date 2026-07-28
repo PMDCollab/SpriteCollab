@@ -6920,6 +6920,7 @@ Top_Kec	Discord:<@!276369635304275968>	Contact:@topkec.bsky.social
 		Unfezant Female: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Hover,QuickStrike,Cringe
 		Archeops: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop,Hover
 		Ferrothorn: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop,Special0
+		Eelektross Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Fraxure: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Fraxure Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Hydreigon: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
@@ -8595,6 +8596,74 @@ NeonCityRain	Discord:<@!331183966508023808>	Contact:https://neoncityrain.tumblr.
 		Primeape Altcolor: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,MultiStrike,Swing,Double,Rotate,Hop
 		Minccino Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Appeal,Dance,Sing,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
+JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
+	Portrait:
+		Spearow Shiny: Worried
+		Nidorino: Pain,Happy,Inspired
+		Nidorino Shiny: Pain,Happy,Inspired
+		Nidorino Altcolor: Pain,Happy,Inspired
+		Diglett Shiny: Pain
+		Poliwrath: Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
+		Poliwrath Shiny: Crying,Inspired,Pain,Surprised,Stunned,Teary-Eyed,Worried
+		Alakazam Shiny Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Alakazam Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Geodude: Happy,Inspired,Pain
+		Slowbro Shiny: Normal,Sad,Happy,Inspired,Stunned,Teary-Eyed,Dizzy,Determined,Special3
+		Drowzee Shiny: Joyous
+		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Zapdos Altcolor: Normal
+		Meganium Alternate Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Dunsparce Shiny: Stunned
+		Combusken Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Blaziken Mega_Alternate Shiny: Normal
+		Baltoy: Stunned
+		Baltoy Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Burmy Sand: Happy,Inspired,Pain
+		Burmy Sand Shiny: Happy,Inspired,Pain
+		Burmy Trash: Happy,Inspired,Pain
+		Burmy Trash Shiny: Happy,Inspired,Pain
+		Burmy No_Cloak: Happy,Inspired,Pain
+		Burmy No_Cloak Shiny: Happy,Inspired,Pain
+		Electivire: Happy,Inspired,Pain,Determined
+		Electivire Shiny: Normal,Happy,Inspired,Pain,Determined
+		Rotom Phone: Normal,Normal^
+		Tympole: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Palpitoad: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Palpitoad Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Seismitoad: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Seismitoad Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Litwick Alternate Shiny: Normal,Normal^
+		Hydreigon: Sad,Teary-Eyed,Determined
+		Hydreigon Shiny: Sad,Teary-Eyed,Determined
+		Quilladin: Happy,Inspired,Pain
+		Frogadier: Inspired,Pain
+		Frogadier Shiny: Inspired,Pain
+		Dartrix: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
+		Dartrix Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
+		Incineroar Shiny: Special0
+		Lycanroc Midnight Shiny: Special1,Special0
+		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Thwackey: Happy,Sigh,Pain
+		Thwackey Shiny: Happy,Sigh,Pain
+		Rillaboom: Normal^
+		Rillaboom Shiny: Normal^
+		Toxtricity Lowkey_Alternate: Normal
+		Toxtricity Lowkey_Alternate Shiny: Normal
+		Indeedee Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Indeedee Alternate Shiny: Normal
+		Kubfu: Normal,Normal^,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Floragato Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
+		Crocalor: Happy,Inspired,Pain
+		Crocalor Shiny: Happy,Inspired,Pain
+		Quaxwell: Happy,Inspired,Pain
+		Quaxwell Shiny: Happy,Inspired,Pain
+		Wattrel: Normal,Happy,Inspired,Pain
+		Wattrel Shiny: Normal,Happy,Inspired,Pain
+	Sprite:
+		Growlithe: EventSleep
+
 Jhony-Rex	Contact:https://www.deviantart.com/jhony-rex
 	Sprite:
 		Ponyta Galar: Idle,Walk,Sleep,Hurt,RearUp,Rotate
@@ -9689,72 +9758,6 @@ Cloudy	Discord:<@!356187016054046723>	Contact:https://twitter.com/cloudyskys1769
 		Rookidee: Inspired
 		Sandaconda Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Terapagos: Inspired
-
-JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
-	Portrait:
-		Spearow Shiny: Worried
-		Nidorino: Pain,Happy,Inspired
-		Nidorino Shiny: Pain,Happy,Inspired
-		Nidorino Altcolor: Pain,Happy,Inspired
-		Diglett Shiny: Pain
-		Poliwrath: Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
-		Poliwrath Shiny: Crying,Inspired,Pain,Surprised,Stunned,Teary-Eyed,Worried
-		Alakazam Shiny Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Alakazam Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Geodude: Happy,Inspired,Pain
-		Slowbro Shiny: Normal,Sad,Happy,Inspired,Stunned,Teary-Eyed,Dizzy,Determined,Special3
-		Drowzee Shiny: Joyous
-		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
-		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
-		Zapdos Altcolor: Normal
-		Meganium Alternate Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Dunsparce Shiny: Stunned
-		Combusken Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Blaziken Mega_Alternate Shiny: Normal
-		Baltoy: Stunned
-		Baltoy Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Burmy Sand: Happy,Inspired,Pain
-		Burmy Sand Shiny: Happy,Inspired,Pain
-		Burmy Trash: Happy,Inspired,Pain
-		Burmy Trash Shiny: Happy,Inspired,Pain
-		Burmy No_Cloak: Happy,Inspired,Pain
-		Burmy No_Cloak Shiny: Happy,Inspired,Pain
-		Electivire: Happy,Inspired,Pain,Determined
-		Electivire Shiny: Normal,Happy,Inspired,Pain,Determined
-		Rotom Phone: Normal,Normal^
-		Tympole: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Palpitoad: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Palpitoad Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Seismitoad: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Seismitoad Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Litwick Alternate Shiny: Normal,Normal^
-		Hydreigon: Sad,Teary-Eyed,Determined
-		Hydreigon Shiny: Sad,Teary-Eyed,Determined
-		Quilladin: Happy,Inspired,Pain
-		Frogadier: Inspired,Pain
-		Frogadier Shiny: Inspired,Pain
-		Dartrix: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
-		Dartrix Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Surprised,Pain^,Surprised^,Worried,Worried^
-		Incineroar Shiny: Special0
-		Lycanroc Midnight Shiny: Special1,Special0
-		Grookey: Sad,Joyous,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Thwackey: Happy,Sigh,Pain
-		Thwackey Shiny: Happy,Sigh,Pain
-		Rillaboom: Normal^
-		Rillaboom Shiny: Normal^
-		Toxtricity Lowkey_Alternate: Normal
-		Toxtricity Lowkey_Alternate Shiny: Normal
-		Indeedee Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Indeedee Alternate Shiny: Normal
-		Kubfu: Normal,Normal^,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Floragato: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
-		Floragato Shiny: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
-		Crocalor: Happy,Inspired,Pain
-		Crocalor Shiny: Happy,Inspired,Pain
-		Quaxwell: Happy,Inspired,Pain
-		Quaxwell Shiny: Happy,Inspired,Pain
-		Wattrel: Normal,Happy,Inspired,Pain
-		Wattrel Shiny: Normal,Happy,Inspired,Pain
 
 drawsstuff	Discord:<@!128989288665710592>	Contact:https://bugfu.newgrounds.com/
 	Portrait:
