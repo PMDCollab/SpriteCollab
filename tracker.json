@@ -156520,7 +156520,7 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1491552830555815957/sprite-0408.zip?ex=69d81c52&is=69d6cad2&hm=e2d933fd47570c28e856f6abb2f7b1619eb804bec5dfe21eb01f9f13445832cd&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1531836332047990874/sprite-0408.zip?ex=6a6aa941&is=6a6957c1&hm=cbc6e14ddffaeab62e7842ddd8e21076952766f70ce2249f04e697034634b396&",
     "sprite_modified": "2021-03-16 02:59:18.222477",
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1526670649207160902/sprite_recolor-0408-0000-0001.png?ex=6a57de56&is=6a568cd6&hm=5db6fbbebe4de9927e3efbd7a055d34802ab31c93efa8583a701566aa84b7609&",
@@ -216350,18 +216350,30 @@
               "710190644152369162": 1446216653275791462
             },
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "",
+              "primary": "<@!276369635304275968>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {
-              "1531645417014689903": 764610870357131265
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Strike": false,
+              "Shoot": false,
+              "RearUp": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1531837665941655615/sprite-0604-0001-0001.zip?ex=6a6aaa7f&is=6a6958ff&hm=329f0080220f78ce94543f1176a235830e1f8994e29f81029df64d1cd22bc4bc&",
+            "sprite_modified": "2026-07-29 01:35:59.521446",
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
