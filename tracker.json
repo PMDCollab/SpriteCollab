@@ -63466,10 +63466,14 @@
             "portrait_files": {},
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1454874028388122704/portrait-0160-0001-0001.png?ex=6952ac86&is=69515b06&hm=248634fc45fc4e7cc826d2366588a4c42c496cec4cb733eca5f844da3fcbeb22&",
             "portrait_modified": "",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1532248116449902752": 764610870357131265
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "710190644152369162": 1532248112758784020
+            },
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
