@@ -174403,12 +174403,16 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1482769948173668563/portrait-0455.png?ex=69b828a0&is=69b6d720&hm=e8ea97431d10fcbc11f4412e11777812b31e8f515c89b7d448d72270a827ef0d&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532801414235947258/portrait-0455.png?ex=6a6e2c0f&is=6a6cda8f&hm=d36bb32a4528ef01e9336c79577b0f3ecb4e0e6daac9f33025a4eca0faca0dd4&",
     "portrait_modified": "2021-03-17 03:28:27.631149",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1532801421605339186": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "710190644152369162": 1532801410490699920
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
@@ -237681,7 +237685,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -237705,12 +237709,10 @@
               "Stunned": false,
               "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1353864342810136596/portrait-0676-0008-0001.png?ex=67e333ec&is=67e1e26c&hm=0960fbbef7884b44d67121fb5f8b556d0f0994f48515537418391f1d72e66d31&",
-            "portrait_modified": "2025-03-24 22:53:32.639069",
-            "portrait_pending": {
-              "1532799245583781970": 764610870357131265
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532798424972267590/portrait_recolor-0676-0008-0001.png?ex=6a6e2946&is=6a6cd7c6&hm=4a090d3098133f0560f5ef0c36069baa869cf547c8532694a7a142d92f3e135b&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532801708957241364/portrait-0676-0008-0001.png?ex=6a6e2c55&is=6a6cdad5&hm=58adeddbc092076064679bb6ec3a4ac4143bfa3026c91c5aa2e559b1a9bf729c&",
+            "portrait_modified": "2026-07-31 17:26:45.301229",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1102657553911009290
