@@ -309171,18 +309171,19 @@
         "modreward": false,
         "name": "Mega",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!356635814668664832>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1532798438998016062": 764610870357131265
+        "portrait_files": {
+          "Normal": false,
+          "Normal^": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532810116305518883/portrait-0952-0001.png?ex=6a6e3429&is=6a6ce2a9&hm=164aa7d59de2e00882d2165ff9a04f1c8327dac31c270d5dd6d38525250391cd&",
+        "portrait_modified": "2026-07-31 18:00:09.662077",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -313932,7 +313933,7 @@
             "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1306093802536308857/sprite-0978-0001-0001.zip?ex=67356a24&is=673418a4&hm=2e127cebe942668000a27e29ea6835f380ba8183b722af6746792843c15c7960&",
             "sprite_modified": "2024-11-13 03:10:28.350154",
             "sprite_pending": {},
-            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1511901129456488538/sprite_recolor-0978-0001-0001.png?ex=6a222327&is=6a20d1a7&hm=c87e33cf7dd009c87b8d2d1ce51183f1a07c2f038ab6aaa8ba884c5e9b49b6d4&",
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532805224140509316/sprite_recolor-0978-0001-0001.png?ex=6a6e2f9b&is=6a6cde1b&hm=1651d306e0981af81d44faad7568ed4b6c472e9fe2b217e7364440e5b42f0135&",
             "sprite_required": true,
             "sprite_talk": {
               "710190644152369162": 1304352769251082262
