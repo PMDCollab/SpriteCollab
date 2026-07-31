@@ -237707,8 +237707,10 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1353864342810136596/portrait-0676-0008-0001.png?ex=67e333ec&is=67e1e26c&hm=0960fbbef7884b44d67121fb5f8b556d0f0994f48515537418391f1d72e66d31&",
             "portrait_modified": "2025-03-24 22:53:32.639069",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_pending": {
+              "1532799245583781970": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532798424972267590/portrait_recolor-0676-0008-0001.png?ex=6a6e2946&is=6a6cd7c6&hm=4a090d3098133f0560f5ef0c36069baa869cf547c8532694a7a142d92f3e135b&",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1102657553911009290
@@ -237775,7 +237777,7 @@
         "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532798373420073150/portrait-0676-0008.png?ex=6a6e293a&is=6a6cd7ba&hm=e76be3d2b5fde0d4a191b0b1145ddbc1a6b030d0e52b0f747980fd29683e0340&",
         "portrait_modified": "2026-07-31 17:13:29.972641",
         "portrait_pending": {},
-        "portrait_recolor_link": "",
+        "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1532799175899742238/portrait_recolor-0676-0008-0001.png?ex=6a6e29f9&is=6a6cd879&hm=ad0c4dfab2a6fad0fa269e4ef63a84b744a54ebc868d5608745adf8d2c1c3af1&",
         "portrait_required": true,
         "portrait_talk": {
           "710190644152369162": 1102634965692317828
@@ -309176,10 +309178,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1532798438998016062": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "710190644152369162": 1532798434837532794
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
