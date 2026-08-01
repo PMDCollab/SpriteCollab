@@ -208649,11 +208649,9 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533169488709681214/sprite-0570.zip?ex=6a6f82db&is=6a6e315b&hm=9cb2b88921b0896669528a40244463217adec915be4dae8f8138dad6ef2cfe4b&",
-    "sprite_modified": "2026-08-01 17:48:10.839696",
-    "sprite_pending": {
-      "1533169853043572868": 764610870357131265
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533177420801114343/sprite-0570.zip?ex=6a6f8a3e&is=6a6e38be&hm=ccd21cf931c73a352000f7ea4adb434f34d55e918a0244a7ccd8700104087a6b&",
+    "sprite_modified": "2026-08-01 18:19:41.963118",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
