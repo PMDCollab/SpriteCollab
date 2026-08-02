@@ -55,7 +55,7 @@
       <FrameWidth>128</FrameWidth>
       <FrameHeight>184</FrameHeight>
       <HitFrame>1</HitFrame>
-      <ReturnFrame>4</ReturnFrame>
+      <ReturnFrame>5</ReturnFrame>
       <Durations>
         <Duration>2</Duration>
         <Duration>10</Duration>
@@ -69,6 +69,8 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>4</Duration>
       </Durations>
     </Anim>
     <Anim>
@@ -79,11 +81,11 @@
       <HitFrame>3</HitFrame>
       <ReturnFrame>7</ReturnFrame>
       <Durations>
+        <Duration>4</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>4</Duration>
-        <Duration>1</Duration>
-        <Duration>2</Duration>
-        <Duration>2</Duration>
         <Duration>8</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
@@ -95,9 +97,10 @@
         <Duration>2</Duration>
         <Duration>2</Duration>
         <Duration>8</Duration>
+        <Duration>4</Duration>
         <Duration>2</Duration>
         <Duration>2</Duration>
-        <Duration>2</Duration>
+        <Duration>4</Duration>
         <Duration>4</Duration>
       </Durations>
     </Anim>
