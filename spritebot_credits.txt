@@ -10522,7 +10522,7 @@ PinkKecleon	Discord:<@!521264207677620226>	Contact:https://twitter.com/PinkKecle
 	Portrait:
 		Grimmsnarl Gigantamax: Normal
 
-distress	Discord:<@!177489961275097088>	Contact:artstation.com/distress
+distress	Discord:<@!177489961275097088>	Contact:https://www.artstation.com/distress/albums/1200843
 	Portrait:
 		Meowscarada: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Meowscarada Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
