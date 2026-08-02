@@ -253862,7 +253862,7 @@
               "710190644152369162": 1105020077251768401
             },
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -254286,13 +254286,14 @@
       "710190644152369162": 1105004552857595974
     },
     "sprite_bounty": {},
-    "sprite_complete": 1,
+    "sprite_complete": 2,
     "sprite_credit": {
       "primary": "<@!544245909639397378>",
       "secondary": [
-        "<@!356635814668664832>"
+        "<@!356635814668664832>",
+        "<@!702275233125630042>"
       ],
-      "total": 2
+      "total": 3
     },
     "sprite_files": {
       "Walk": false,
@@ -254307,14 +254308,34 @@
       "Double": false,
       "Hop": false,
       "Charge": false,
-      "Rotate": false
+      "Rotate": false,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1518254039484338247/sprite-0745.zip?ex=6a393fc2&is=6a37ee42&hm=9e19055f81d18e115de31d4ed45e01acbf7643d06357c2f2b751b8ad9ef08fcf&",
-    "sprite_modified": "2023-09-02 17:31:59.273324",
-    "sprite_pending": {
-      "1496195331451523217": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1499783078565122098/sprite_recolor-0745-0000-0001.png?ex=69f60d56&is=69f4bbd6&hm=6c1ba1917d569281620bcbbb58ec6a85aa0df36d940e3d02bc39a80f7daa152f&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533373491322294403/sprite-0745.zip?ex=6a7040d9&is=6a6eef59&hm=b9884f80e65fb68ed479fe4493301fb14471ccd0ceda8377cb7d3c0058719730&",
+    "sprite_modified": "2026-08-02 07:18:48.761166",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
       "710190644152369162": 1141792379725164585
