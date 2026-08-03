@@ -269446,10 +269446,14 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533744041080918106/sprite-0800.zip?ex=6a7199f2&is=6a704872&hm=9e00e42ebb976ba6c55e351fa18c760108fe9951146bddab124974d34892ff0e&",
     "sprite_modified": "2022-05-11 16:46:11.727072",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1533830464756781299": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1274471196003532811/sprite_recolor-0800-0000-0001.png?ex=66c25f4b&is=66c10dcb&hm=4496ece58a0c132e7ca6bbc4fcceb20181a39395e556708f0107657585967a6b&",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "710190644152369162": 1533830394971951207
+    }
   },
   "0801": {
     "subgroups": {
