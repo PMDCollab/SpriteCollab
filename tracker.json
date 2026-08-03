@@ -200914,7 +200914,9 @@
         "portrait_files": {},
         "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1528540180309475409/portrait-0535-0001.png?ex=6a5eab79&is=6a5d59f9&hm=80f38dfa9d0fabc5f59abc5a5212d8d2c0e58ecd04c4a37e22cb4099ffac3469&",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1533957428318572665": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
