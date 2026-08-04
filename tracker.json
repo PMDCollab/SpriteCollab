@@ -89074,7 +89074,9 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534007795349852400/sprite-0215.zip?ex=6a728f96&is=6a713e16&hm=071804fc076ee74baf05c33402b02129132d6649529dcba2036ddc84b331e126&",
     "sprite_modified": "2026-08-04 01:19:18.685061",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1534008948452098228": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
@@ -156110,7 +156112,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
               "primary": "<@!350050109741858829>",
               "secondary": [],
@@ -156120,12 +156122,10 @@
               "Normal": false,
               "Normal^": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533927241405432028/portrait-0407-0001-0001.png?ex=6a724491&is=6a70f311&hm=399383fcef89319239b151fc577190b8a30fa2412047230e24c92cae797ac44f&",
-            "portrait_modified": "2024-08-15 06:37:53.179284",
-            "portrait_pending": {
-              "1533929181895725387": 764610870357131265
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533868534625730702/portrait_recolor-0407-0001-0001.png?ex=6a720de4&is=6a70bc64&hm=d656260e4b415337ff8c98e06a8d90590fdd673898525b8820e28659e6d7ce06&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534010093207687328/portrait-0407-0001-0001.png?ex=6a7291ba&is=6a71403a&hm=6a7914f28edd5a627f61d84cf927dbda54cf21113a4c9139d992c9007102c2cb&",
+            "portrait_modified": "2026-08-04 01:28:26.566786",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1273530951074316288
