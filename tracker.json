@@ -58680,7 +58680,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!157796074457661440>",
               "secondary": [],
@@ -58720,23 +58720,37 @@
         "modreward": false,
         "name": "Mega",
         "portrait_bounty": {},
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": {
           "primary": "<@!157796074457661440>",
-          "secondary": [],
-          "total": 1
+          "secondary": [
+            "<@!605175889793253377>"
+          ],
+          "total": 2
         },
         "portrait_files": {
           "Normal": false,
           "Sigh": false,
           "Determined": false,
-          "Pain": false
+          "Pain": false,
+          "Joyous": false,
+          "Sad": false,
+          "Shouting": false,
+          "Special0": false,
+          "Crying": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Special1": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Worried": false,
+          "Stunned": false,
+          "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1529081454334578698/portrait-0149-0001.png?ex=6a60a393&is=6a5f5213&hm=bc89855773a018436c9e7b582254580a7425aed5e7d88fb2e003ff3eaff9f1e4&",
-        "portrait_modified": "2025-08-19 21:19:44.681114",
-        "portrait_pending": {
-          "1529394817409482784": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534090315626057911/portrait-0149-0001.png?ex=6a72dc71&is=6a718af1&hm=3d38142c34eea33314565d0892d3eaf871c5ea98675ae41e6c0fecbac9070a19&",
+        "portrait_modified": "2026-08-04 06:47:13.076703",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
