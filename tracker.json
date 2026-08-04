@@ -233829,18 +233829,19 @@
         "modreward": false,
         "name": "Mega",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!356635814668664832>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1439367377501290606/portrait-0668-0001.png?ex=691a42d4&is=6918f154&hm=50b8226287f35880d654f3c2f83461009dfa4cae1d066563d895697d17eb280a&",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1533357809146658827": 764610870357131265
+        "portrait_files": {
+          "Normal": false,
+          "Normal^": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534090021085122560/portrait-0668-0001.png?ex=6a72dc2b&is=6a718aab&hm=d94e4b683589d01c240052433ad3b22d04874254c6a9cd784d2d9650b6e87041&",
+        "portrait_modified": "2026-08-04 06:46:02.816269",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
