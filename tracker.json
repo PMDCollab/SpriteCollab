@@ -88053,7 +88053,7 @@
               "710190644152369162": 1099063250559180911
             },
             "sprite_bounty": {},
-            "sprite_complete": 2,
+            "sprite_complete": 0,
             "sprite_credit": {
               "primary": "<@!95650095034273792>",
               "secondary": [
@@ -89030,9 +89030,10 @@
     "sprite_credit": {
       "primary": "CHUNSOFT",
       "secondary": [
-        "<@!702275233125630042>"
+        "<@!702275233125630042>",
+        "<@!217653022094786560>"
       ],
-      "total": 2
+      "total": 3
     },
     "sprite_files": {
       "Walk": false,
@@ -89071,12 +89072,10 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533480487514013838/sprite-0215.zip?ex=6a70a47e&is=6a6f52fe&hm=fab2762f5d853b2ec416cbbf2fbb09101a3f9262ae915bab89eb918bd5e2f054&",
-    "sprite_modified": "2024-12-02 02:15:46.317665",
-    "sprite_pending": {
-      "1533489461940326480": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1489506626254799009/sprite_recolor-0215-0000-0001.png?ex=69d0aaa5&is=69cf5925&hm=0bce16227f3a317e6d37c8de442cf88fd77d6d6ea727149b868a2974958b0f4e&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534007795349852400/sprite-0215.zip?ex=6a728f96&is=6a713e16&hm=071804fc076ee74baf05c33402b02129132d6649529dcba2036ddc84b331e126&",
+    "sprite_modified": "2026-08-04 01:19:18.685061",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
       "710190644152369162": 1526751320550150224
