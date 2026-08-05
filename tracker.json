@@ -93367,7 +93367,7 @@
           "0001": {
             "subgroups": {},
             "canon": false,
-            "modreward": true,
+            "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
@@ -93400,7 +93400,7 @@
           }
         },
         "canon": false,
-        "modreward": true,
+        "modreward": false,
         "name": "Alternate",
         "portrait_bounty": {},
         "portrait_complete": 0,
@@ -149956,7 +149956,7 @@
       "Teary-Eyed": true,
       "Worried": true
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1518195932322070569/portrait-0393.png?ex=6a3909a4&is=6a37b824&hm=e390f2f4794eda82c1874d80553bce78f679e621f639da3208258aca34da37f0&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534527373159174226/portrait-0393.png?ex=6a74737b&is=6a7321fb&hm=c8d59b913669b7704226343719e3ceb9e95727d05d8a4f72b29967f3feb58fdd&",
     "portrait_modified": "2020-10-13 04:45:22.357282",
     "portrait_pending": {},
     "portrait_recolor_link": "",
