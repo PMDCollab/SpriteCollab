@@ -10220,7 +10220,7 @@ AlexGroeger	Discord:<@!141718238336778241>
 		Dragonite: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Dragonite Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 
-Crazy_Dragon	Discord:<@!605175889793253377>	Contact:discordapp.com/users/605175889793253377
+Crazy_Dragon	Discord:<@!605175889793253377>	Contact:<@605175889793253377>
 	Portrait:
 		Dragonite Mega: Sad,Joyous,Special1,Happy,Crying,Inspired,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Special0
 
