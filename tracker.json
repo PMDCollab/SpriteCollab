@@ -59504,7 +59504,9 @@
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "710190644152369162": 1534586758820532354
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
