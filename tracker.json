@@ -280013,7 +280013,7 @@
           "total": 0
         },
         "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1493495130349502574/portrait-0849-0002.png?ex=69df2d3a&is=69dddbba&hm=646d95af5bdc046d231fb62bf8ca320454457c7585e0557ae08a65be2733280b&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535348029849083945/portrait-0849-0002.png?ex=6a776fc7&is=6a761e47&hm=58ff4072b73d2d539ee749a0790b816f9548147dc74cdfc65ac3dd5f39a1e289&",
         "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -314516,7 +314516,7 @@
               "710190644152369162": 1507031451969912955
             },
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -314593,12 +314593,10 @@
           "Charge": false,
           "Rotate": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533505471674191872/sprite-0978-0003.zip?ex=6a70bbc3&is=6a6f6a43&hm=a53b15758b24a89f4ae6209c3866696104b3adcf49f4f0d07d381ee4dc00a568&",
-        "sprite_modified": "2026-08-01 04:25:06.411619",
-        "sprite_pending": {
-          "1535167233314136064": 764610870357131265
-        },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535167225495949312/sprite_recolor-0978-0003-0001.png?ex=6a76c764&is=6a7575e4&hm=9fdf0d089e3d4252bac1e771dcea2c9366e41b2d38bade62c7994ce82a31d491&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535348312117616691/sprite-0978-0003.zip?ex=6a77700b&is=6a761e8b&hm=6c826fb0916bcc240f4abf23a8604a18c4223493f6e8c7214824c1f407011eb2&",
+        "sprite_modified": "2026-08-07 18:06:02.779881",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1523911741124247552
