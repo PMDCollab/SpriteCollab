@@ -8622,7 +8622,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Nidorino Altcolor: Pain,Happy,Inspired
 		Diglett Shiny: Pain
 		Poliwrath: Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
-		Poliwrath Shiny: Crying,Inspired,Pain,Surprised,Stunned,Teary-Eyed,Worried
+		Poliwrath Shiny: Crying,Inspired,Pain,Surprised,Stunned,Teary-Eyed,Worried,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
 		Alakazam Shiny Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Alakazam Female: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Geodude: Happy,Inspired,Pain
@@ -9300,6 +9300,7 @@ DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
 		Dragalge Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Zygarde: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Zygarde Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
+		Zygarde Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Drampa Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Zeraora Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike,Cringe
 		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
