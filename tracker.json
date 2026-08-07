@@ -294455,21 +294455,34 @@
             "modreward": true,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
               "primary": "<@!1377429093997477928>",
               "secondary": [],
               "total": 1
             },
             "portrait_files": {
-              "Normal": false
+              "Normal": false,
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535406210587566212/portrait-0876-0001-0001.png?ex=6a77a5f7&is=6a765477&hm=ccd3a3518eb6cdf0d1e48bc031bb8459ab500e6aac6d02ecd3120e390cdd96b6&",
-            "portrait_modified": "2025-09-26 20:13:42.548038",
-            "portrait_pending": {
-              "1535406218179383456": 764610870357131265
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1502582228432195594/portrait_recolor-0876-0001-0001.png?ex=6a003c3f&is=69feeabf&hm=27e553e7b15764f95828aa5825627fbe9ea139cca2df947b939f9ddad3bf4205&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535408884011900928/portrait-0876-0001-0001.png?ex=6a77a874&is=6a7656f4&hm=e8667c761398aa70dda2686d1eb5d3c1fb3a974d387983b95580d8bdabdb3ef1&",
+            "portrait_modified": "2026-08-07 22:06:44.248076",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1419112342108639273
