@@ -283190,26 +283190,40 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
               "primary": "<@!576876006636519434>",
               "secondary": [
-                "<@!215638650434617345>"
+                "<@!215638650434617345>",
+                "<@!356635814668664832>"
               ],
-              "total": 2
+              "total": 3
             },
             "portrait_files": {
               "Special0^": false,
               "Special0": false,
               "Normal": false,
-              "Normal^": false
+              "Normal^": false,
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535535299487080498/portrait-0867-0000-0001.png?ex=6a781e30&is=6a76ccb0&hm=8733b9fefe3bb4427a02d92f076dff1b0f4dd283ce02460852fb1cb438386178&",
-            "portrait_modified": "2023-03-13 17:36:15.241713",
-            "portrait_pending": {
-              "1535535306479108096": 764610870357131265
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535166394717569044/portrait_recolor-0867-0000-0001.png?ex=6a76c69e&is=6a75751e&hm=287999eb4ad31f613ad8159530413c757c979167c016ed04fe1c2b3fb6327cd5&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535542954725474304/portrait-0867-0000-0001.png?ex=6a782551&is=6a76d3d1&hm=bb2f9d532df5137e8d339a2e031dd59a7df67839535e398784e08eb967b749bd&",
+            "portrait_modified": "2026-08-08 06:59:29.173636",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1484954203255210104
