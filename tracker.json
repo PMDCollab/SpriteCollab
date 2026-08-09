@@ -219471,9 +219471,11 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1503062013130051644/portrait-0619.png?ex=6a01fb15&is=6a00a995&hm=e032805f9eef2df83ebeda219d93ab4159e8c64f981f06530882219cd843f7d2&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1536150037216755862/portrait-0619.png?ex=6a7a5ab5&is=6a790935&hm=d63160e30f46a564f2913a8f39bac0aedcf0eda20012566716d797c936ef56dd&",
     "portrait_modified": "2024-11-13 01:13:58.766763",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1536150918993678388": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -297632,9 +297634,11 @@
             "portrait_files": {
               "Normal": false
             },
-            "portrait_link": "",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1536144831120810014/portrait-0891-0000-0001.png?ex=6a7a55db&is=6a79045b&hm=5de3e897e490c12dfb78a057f2cac6e59dfead3ad134933bef1609da3a3d53b7&",
             "portrait_modified": "2023-07-27 10:43:35.513652",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1536144839115276360": 764610870357131265
+            },
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
