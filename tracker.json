@@ -297740,9 +297740,11 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533668484544991495/portrait-0891.png?ex=6a715394&is=6a700214&hm=7189f8488287c9d192d38a796111d347fd593cb7a0b5685f8d3beee41b51f1fd&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1536113768008777768/portrait-0891.png?ex=6a7a38ed&is=6a78e76d&hm=d96e8b94da8f87485c03f936a24454960557ef1f46c3c2791e20ef3263907718&",
     "portrait_modified": "2026-07-26 20:58:21.065099",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1536113776921809021": 764610870357131265
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533527144565571734/portrait_recolor-0891-0000-0001.png?ex=6a70cff2&is=6a6f7e72&hm=64fe774b5d631b8de3ef0d75cb2e864b6cbabaefcc15e7c746e5139e97e5f5a5&",
     "portrait_required": true,
     "portrait_talk": {
