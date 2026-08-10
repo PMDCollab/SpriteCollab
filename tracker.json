@@ -259769,9 +259769,9 @@
               "710190644152369162": 1101161636385005710
             },
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 2,
             "sprite_credit": {
-              "primary": "<@!217899432652308480>",
+              "primary": "<@!276369635304275968>",
               "secondary": [],
               "total": 1
             },
@@ -259811,10 +259811,11 @@
               "LostBalance": false,
               "TumbleBack": false,
               "Faint": false,
-              "HitGround": false
+              "HitGround": false,
+              "RearUp": false
             },
             "sprite_link": "",
-            "sprite_modified": "2022-02-06 05:28:46.894198",
+            "sprite_modified": "2026-08-10 08:11:33.384829",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
@@ -259910,57 +259911,19 @@
         "portrait_required": true,
         "portrait_talk": {},
         "sprite_bounty": {},
-        "sprite_complete": 2,
+        "sprite_complete": 0,
         "sprite_credit": {
-          "primary": "<@!276369635304275968>",
+          "primary": "",
           "secondary": [],
-          "total": 1
+          "total": 0
         },
-        "sprite_files": {
-          "Walk": false,
-          "Attack": false,
-          "Strike": false,
-          "Shoot": false,
-          "RearUp": false,
-          "Sleep": false,
-          "Hurt": false,
-          "Idle": false,
-          "Swing": false,
-          "Double": false,
-          "Hop": false,
-          "Charge": false,
-          "Rotate": false,
-          "EventSleep": false,
-          "Wake": false,
-          "Eat": false,
-          "Tumble": false,
-          "Pose": false,
-          "Pull": false,
-          "Pain": false,
-          "Float": false,
-          "DeepBreath": false,
-          "Nod": false,
-          "Sit": false,
-          "LookUp": false,
-          "Sink": false,
-          "Trip": false,
-          "Laying": false,
-          "LeapForth": false,
-          "Head": false,
-          "Cringe": false,
-          "LostBalance": false,
-          "TumbleBack": false,
-          "Faint": false,
-          "HitGround": false
-        },
+        "sprite_files": {},
         "sprite_link": "",
-        "sprite_modified": "2026-08-10 08:11:33.384829",
+        "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
-        "sprite_required": true,
-        "sprite_talk": {
-          "710190644152369162": 1531537729362329782
-        }
+        "sprite_required": false,
+        "sprite_talk": {}
       }
     },
     "canon": true,
