@@ -259734,40 +259734,19 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 2,
+            "portrait_complete": 0,
             "portrait_credit": {
-              "primary": "<@!356635814668664832>",
+              "primary": "",
               "secondary": [],
-              "total": 1
+              "total": 0
             },
-            "portrait_files": {
-              "Normal": false,
-              "Sigh": false,
-              "Sad": false,
-              "Pain": false,
-              "Worried": false,
-              "Happy": false,
-              "Joyous": false,
-              "Shouting": false,
-              "Determined": false,
-              "Special0": false,
-              "Crying": false,
-              "Teary-Eyed": false,
-              "Dizzy": false,
-              "Special2": false,
-              "Inspired": false,
-              "Surprised": false,
-              "Angry": false,
-              "Stunned": false
-            },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1445563588675768482/portrait-0772-0000-0001.png?ex=6930cd80&is=692f7c00&hm=ab77128e2bd24d62724a3161fe66a07746ac2df2509977b607c0e4a58e78da2b&",
-            "portrait_modified": "2025-12-02 23:52:34.341316",
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
-            "portrait_talk": {
-              "710190644152369162": 1101161636385005710
-            },
+            "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
@@ -259813,10 +259792,10 @@
               "Faint": false,
               "HitGround": false
             },
-            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1445608834872639648/sprite-0772-0000-0001.zip?ex=6930f7a4&is=692fa624&hm=63b0377c53f478f144445a0286eda5ec0a0c71bca1925d77602fad1ff8c55137&",
+            "sprite_link": "",
             "sprite_modified": "2022-02-06 05:28:46.894198",
             "sprite_pending": {},
-            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1531472430445363321/sprite_recolor-0772-0000-0001.png?ex=6a695658&is=6a6804d8&hm=3de0842324efe08bbc11a6f124463d48c441a605d6594589b89319aff989d02c&",
+            "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
               "710190644152369162": 1531472377903448297
@@ -259896,19 +259875,40 @@
         "modreward": true,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!356635814668664832>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
+        "portrait_files": {
+          "Normal": false,
+          "Sigh": false,
+          "Sad": false,
+          "Pain": false,
+          "Worried": false,
+          "Happy": false,
+          "Joyous": false,
+          "Shouting": false,
+          "Determined": false,
+          "Special0": false,
+          "Crying": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Special2": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Stunned": false
+        },
         "portrait_link": "",
-        "portrait_modified": "",
+        "portrait_modified": "2025-12-02 23:52:34.341316",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "710190644152369162": 1101161636385005710
+        },
         "sprite_bounty": {},
         "sprite_complete": 2,
         "sprite_credit": {
@@ -259953,7 +259953,7 @@
           "Faint": false,
           "HitGround": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1536285867805769808/sprite-0772-0001.zip?ex=6a7ad935&is=6a7987b5&hm=4d5d3bc58b9627a5a2354b09cef5611192845dbeaff2641f428f94cf71ea7440&",
+        "sprite_link": "",
         "sprite_modified": "2026-08-10 08:11:33.384829",
         "sprite_pending": {},
         "sprite_recolor_link": "",
