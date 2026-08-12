@@ -219449,7 +219449,7 @@
           "0001": {
             "subgroups": {},
             "canon": false,
-            "modreward": true,
+            "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
             "portrait_complete": 0,
@@ -219486,7 +219486,7 @@
           }
         },
         "canon": false,
-        "modreward": true,
+        "modreward": false,
         "name": "Temp",
         "portrait_bounty": {},
         "portrait_complete": 2,
