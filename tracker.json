@@ -35139,18 +35139,18 @@
         "modreward": false,
         "name": "Alternate",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!356635814668664832>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1537867608273985587": 764610870357131265
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1537874505844654181/portrait-0082-0002.png?ex=6a80a0be&is=6a7f4f3e&hm=0938521a23f37d745597f93b482fc00b01dbbf41066205e5fec8bef6fac053f5&",
+        "portrait_modified": "2026-08-14 17:24:14.298591",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -219534,9 +219534,7 @@
             "portrait_files": {},
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {
-              "1536796199552688168": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
@@ -219586,7 +219584,7 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1536440237423726724/portrait-0619-0001.png?ex=6a7b68fa&is=6a7a177a&hm=e265147d5969b29d9408abf02db3888e6cbf62a4438172d57b8810be2a86c50c&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1537874220074147930/portrait-0619-0001.png?ex=6a80a07a&is=6a7f4efa&hm=fb53d715feec8357aec70bf921a90e9008c1bd946c8719fcaa7d62a83fda8bda&",
         "portrait_modified": "2026-08-10 18:24:57.850494",
         "portrait_pending": {},
         "portrait_recolor_link": "",
