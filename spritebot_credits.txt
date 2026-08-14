@@ -4221,6 +4221,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Slowbro Mega_Altcolor Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Slowbro Galar_Alternate: Normal,Normal^,Happy,Happy^
 		Slowbro Galar_Alternate Shiny: Normal,Normal^,Happy,Happy^
+		Magneton Alternate: Normal
 		Dodrio Altcolor: Normal
 		Dodrio Altcolor Female: Normal
 		Seel Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
