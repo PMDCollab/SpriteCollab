@@ -4238,7 +4238,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Gengar Mega Shiny: Normal
 		Gengar Gigantamax: Normal
 		Gengar Gigantamax Shiny: Normal
-		Krabby Altcolor: Normal
+		Krabby Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special3
 		Kingler Altcolor: Normal,Normal^
 		Voltorb Hisui: Normal,Normal^
 		Voltorb Hisui Shiny: Normal,Normal^
