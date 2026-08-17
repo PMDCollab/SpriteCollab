@@ -259902,8 +259902,6 @@
               "Attack": false,
               "Strike": false,
               "Shoot": false,
-              "Dance": false,
-              "Shake": false,
               "Sleep": false,
               "Hurt": false,
               "Idle": false,
