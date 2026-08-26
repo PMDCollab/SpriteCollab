@@ -316926,10 +316926,14 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1542186079409545276/portrait-0989.png?ex=6a905035&is=6a8efeb5&hm=8869469cc04160a1011131b25ec86099df48d32d9190cfb0984794fdf1dbee8f&",
     "portrait_modified": "2023-04-15 03:56:44.898592",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1542288098673696770": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "710190644152369162": 1542286887631458327
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
