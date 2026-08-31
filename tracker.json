@@ -236671,7 +236671,7 @@
               "Faint": false,
               "HitGround": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544068103913082970/sprite-0672-0000-0001.zip?ex=6a9728fb&is=6a95d77b&hm=9f422cf1b5975bcc470b191d28ef870c537f964fecbd5751c435cad6e0b5a797&",
             "sprite_modified": "2023-04-21 18:01:28.315229",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -236855,7 +236855,7 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544068316220624966/sprite-0673-0000-0001.zip?ex=6a97292d&is=6a95d7ad&hm=333616ad86012d2c1afd1ef416bc3e51e4ef02d2e7b72b64166e54692970ad48&",
             "sprite_modified": "2025-02-01 20:04:41.638458",
             "sprite_pending": {},
             "sprite_recolor_link": "",
@@ -236949,7 +236949,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1372770911979048961/portrait-0673-0001.png?ex=6827fc0a&is=6826aa8a&hm=74d7bc935543cfd1295fd58b82ed4ea922f9b0c23bbda470c34d158a0802c0bb&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544067967711445082/portrait-0673-0001.png?ex=6a9728da&is=6a95d75a&hm=8f909ecc633ed8dfd3e57318cf8783aff4065ca543582c6975110dd875578b9e&",
         "portrait_modified": "2022-02-06 05:28:43.454782",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -236987,7 +236987,7 @@
       "Normal": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1372770882598211626/portrait-0673.png?ex=6827fc03&is=6826aa83&hm=4790071039a132ef6ae88e924802b04a87597708412b66552f121369b671adf4&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544067802514718811/portrait-0673.png?ex=6a9728b3&is=6a95d733&hm=38a99ff2552fe48482983ac9cf2e623bbd6b7021c15fef90aee76fb3f0a3b89e&",
     "portrait_modified": "2025-05-16 02:52:55.493005",
     "portrait_pending": {},
     "portrait_recolor_link": "",
