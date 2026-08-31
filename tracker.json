@@ -219667,9 +219667,11 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1539493156230275103/portrait-0619.png?ex=6a86843a&is=6a8532ba&hm=d0b0032bc5c59d90fcf6ead148d716301ebc457419faab7e881b5a08895467d7&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1543832675012321300/portrait-0619.png?ex=6a964db8&is=6a94fc38&hm=1658422f1d40d6348937171691940974912f53b2883d189920fa6a715f516ca2&",
     "portrait_modified": "2024-11-13 01:13:58.766763",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1543832682532962327": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
