@@ -238333,7 +238333,9 @@
     "sprite_pending": {},
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1481853501079556126/sprite_recolor-0676-0000-0001.png?ex=69b4d31e&is=69b3819e&hm=401e190c2c18cef0d9f7b65eb6d0952a3b90fe1acc177429bf11f7321d58c27d&",
     "sprite_required": true,
-    "sprite_talk": {}
+    "sprite_talk": {
+      "710190644152369162": 1544400517864890398
+    }
   },
   "0677": {
     "subgroups": {
