@@ -219607,38 +219607,19 @@
         "modreward": false,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 2,
+        "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "<@!488809643838144543>",
+          "primary": "",
           "secondary": [],
-          "total": 1
+          "total": 0
         },
-        "portrait_files": {
-          "Sigh": false,
-          "Joyous": false,
-          "Sad": false,
-          "Shouting": false,
-          "Determined": false,
-          "Pain": false,
-          "Crying": false,
-          "Normal": false,
-          "Teary-Eyed": false,
-          "Dizzy": false,
-          "Inspired": false,
-          "Surprised": false,
-          "Angry": false,
-          "Worried": false,
-          "Stunned": false,
-          "Happy": false
-        },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544453732010295397/portrait-0619-0001.png?ex=6a989020&is=6a973ea0&hm=e0715d182ab8c68f64c6dd632bcef5cc5483ec9c026bf8ba294c3f0b2558307e&",
-        "portrait_modified": "2026-09-01 21:07:43.943022",
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
-        "portrait_required": true,
-        "portrait_talk": {
-          "710190644152369162": 1544453466011738134
-        },
+        "portrait_required": false,
+        "portrait_talk": {},
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
@@ -219734,12 +219715,9 @@
     "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": {
-      "primary": "MUCRUSH",
-      "secondary": [
-        "<@!702275233125630042>",
-        "<@!350050109741858829>"
-      ],
-      "total": 3
+      "primary": "<@!488809643838144543>",
+      "secondary": [],
+      "total": 1
     },
     "portrait_files": {
       "Sigh": false,
@@ -219760,7 +219738,7 @@
       "Happy": false
     },
     "portrait_link": "",
-    "portrait_modified": "2024-11-13 01:13:58.766763",
+    "portrait_modified": "2026-09-01 21:07:43.943022",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
