@@ -85014,7 +85014,9 @@
         "sprite_files": {},
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1397436826087854231/sprite-0207-0004.zip?ex=6881b7f6&is=68806676&hm=2fa7694a5ea5f2ac76591e3c6e25d6eba7f0df0a0f9730af72a1118837c9992c&",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1544210417470148618": 764610870357131265
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
