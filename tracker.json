@@ -237621,10 +237621,14 @@
         "sprite_files": {},
         "sprite_link": "",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1544401785609785478": 764610870357131265
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
-        "sprite_talk": {}
+        "sprite_talk": {
+          "710190644152369162": 1544401756023160873
+        }
       },
       "0002": {
         "subgroups": {
