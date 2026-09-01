@@ -219457,7 +219457,7 @@
               "Teary-Eyed": false,
               "Worried": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1306093238653816884/portrait-0619-0000-0001.png?ex=6735699e&is=6734181e&hm=516663e431d410a5df146fbde7a67d03cece4f7303727863f02732455054d596&",
+            "portrait_link": "",
             "portrait_modified": "2024-11-13 03:08:13.899830",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -219579,7 +219579,7 @@
               "Stunned": false,
               "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544442119727611986/portrait-0619-0001-0001.png?ex=6a98854f&is=6a9733cf&hm=f6326c034edfcd3015083bc985908b94669e4fb891d4dd7ab01b1b49f4eabb8d&",
+            "portrait_link": "",
             "portrait_modified": "2026-09-01 20:21:35.378817",
             "portrait_pending": {},
             "portrait_recolor_link": "",
@@ -219609,9 +219609,12 @@
         "portrait_bounty": {},
         "portrait_complete": 2,
         "portrait_credit": {
-          "primary": "<@!488809643838144543>",
-          "secondary": [],
-          "total": 1
+          "primary": "MUCRUSH",
+          "secondary": [
+            "<@!702275233125630042>",
+            "<@!350050109741858829>"
+          ],
+          "total": 3
         },
         "portrait_files": {
           "Sigh": false,
@@ -219631,8 +219634,8 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1544328131178139728/portrait-0619-0001.png?ex=6a981b26&is=6a96c9a6&hm=c2138292bb66dcf1817d604d4871c5963fe3cda1f495bacbd1ba14c59e0f6f8d&",
-        "portrait_modified": "2026-08-10 18:24:57.850494",
+        "portrait_link": "",
+        "portrait_modified": "2024-11-13 01:13:58.766763",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
@@ -219702,7 +219705,7 @@
           "total": 0
         },
         "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1543874147514581043/portrait-0619-0002.png?ex=6a967458&is=6a9522d8&hm=cefa3a41a82f15dc06840d1cd83454592d4f3d7a089e1c891261b3aaa50cc18d&",
+        "portrait_link": "",
         "portrait_modified": "",
         "portrait_pending": {
           "1543874343787040788": 764610870357131265
@@ -219732,41 +219735,19 @@
     "modreward": false,
     "name": "Mienfoo",
     "portrait_bounty": {},
-    "portrait_complete": 2,
+    "portrait_complete": 0,
     "portrait_credit": {
-      "primary": "MUCRUSH",
-      "secondary": [
-        "<@!702275233125630042>",
-        "<@!350050109741858829>"
-      ],
-      "total": 3
+      "primary": "",
+      "secondary": [],
+      "total": 0
     },
-    "portrait_files": {
-      "Angry": false,
-      "Crying": false,
-      "Determined": false,
-      "Dizzy": false,
-      "Happy": false,
-      "Inspired": false,
-      "Joyous": false,
-      "Normal": false,
-      "Pain": false,
-      "Sad": false,
-      "Shouting": false,
-      "Sigh": false,
-      "Stunned": false,
-      "Surprised": false,
-      "Teary-Eyed": false,
-      "Worried": false
-    },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1543832675012321300/portrait-0619.png?ex=6a964db8&is=6a94fc38&hm=1658422f1d40d6348937171691940974912f53b2883d189920fa6a715f516ca2&",
-    "portrait_modified": "2024-11-13 01:13:58.766763",
+    "portrait_files": {},
+    "portrait_link": "",
+    "portrait_modified": "",
     "portrait_pending": {},
     "portrait_recolor_link": "",
-    "portrait_required": true,
-    "portrait_talk": {
-      "710190644152369162": 1165542942585409547
-    },
+    "portrait_required": false,
+    "portrait_talk": {},
     "sprite_bounty": {},
     "sprite_complete": 2,
     "sprite_credit": {
@@ -219809,10 +219790,10 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1361398353824583781/sprite-0619.zip?ex=67fe9c85&is=67fd4b05&hm=dc6d446c2a159c1b9340650d04985a058347a5a6125e0bc9ec6368a12d121672&",
+    "sprite_link": "",
     "sprite_modified": "2021-11-06 19:11:09.485076",
     "sprite_pending": {},
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1335622422551990292/sprite_recolor-0619-0000-0001.png?ex=67a0d6d0&is=679f8550&hm=0bc6a9e75bf7751b94f00031de6b797a26c0ebc31ed576aa7f04ff58b0d523e7&",
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {}
   },
