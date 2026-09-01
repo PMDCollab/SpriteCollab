@@ -1439,8 +1439,6 @@ JFain	Discord:<@!702275233125630042>
 		Probopass Beta: Normal
 		Regigigas Beta: Normal
 		Dewott: "
-		Mienfoo: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
-		Mienfoo Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Braviary Hisui: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Grubbin: Normal
 		Steenee: Normal,Angry,Happy,Pain,Worried,Crying,Determined,Dizzy,Inspired,Joyous,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Special3,Normal^,Sad^,Joyous^,Happy^,Crying^,Inspired^,Sigh^,Pain^,Shouting^,Surprised^,Stunned^,Angry^,Teary-Eyed^,Dizzy^,Worried^,Determined^
@@ -1993,8 +1991,6 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Cryogonal Shiny: Normal
 		Stunfisk: Normal
 		Stunfisk Shiny: Normal
-		Mienfoo: Normal,Joyous,Determined
-		Mienfoo Shiny: Normal,Joyous,Sigh,Pain,Surprised,Angry,Dizzy,Determined
 		Hydreigon Alternate: Normal,Special1,Happy
 		Hydreigon Alternate Shiny: Normal,Special1,Happy
 		Volcarona: Normal
@@ -9034,8 +9030,8 @@ Fresco	Discord:<@!488809643838144543>	Contact:marcfreixer@gmail.com
 	Portrait:
 		Qwilfish Hisui: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Qwilfish Hisui Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Mienfoo Temp: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
-		Mienfoo Temp Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Mienfoo: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Mienfoo Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 	Sprite:
 		Qwilfish Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
 		Qwilfish Hisui Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Withdraw,Swing,Double,Rotate,Hop
@@ -10428,7 +10424,6 @@ mucrush	Contact:https://www.deviantart.com/mucrush
 		Karrablast: Normal
 		Frillish: Normal
 		Frillish Female: Normal
-		Mienfoo: Normal
 		Bouffalant: Normal
 		Deino: Normal
 		Kyurem Black: "
