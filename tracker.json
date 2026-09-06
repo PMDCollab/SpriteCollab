@@ -59596,18 +59596,18 @@
         "modreward": false,
         "name": "Shadow_Mega_X",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!1327761924011720837>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534579927456940112/portrait-0150-0004.png?ex=6a74a46d&is=6a7352ed&hm=693f18d92204525d99b7c50e9358c88ce4237d87a80e6471cc591de3002e51b1&",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1536322439179542548": 764610870357131265
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1546278102538133585/portrait-0150-0004.png?ex=6a9f3334&is=6a9de1b4&hm=5fc17fac9dbe3b08d1b05af632f14b3cced7ec3cc497d04b931cbabc660d34b5&",
+        "portrait_modified": "2026-09-06 21:57:07.965110",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
