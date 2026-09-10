@@ -204080,7 +204080,7 @@
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1217599781149474896/portrait-0532-0000-0001.png?ex=66049d29&is=65f22829&hm=c0f57bc93ba3d746de8aa56afdf3be820db4b05f6c607ab1999c9bce0f541217&",
             "portrait_modified": "2024-03-13 22:32:14.588113",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1547618494949105706/portrait_recolor-0532-0000-0001.png?ex=6aa4138a&is=6aa2c20a&hm=f3aceed2abb1e896c15b78b5e27784025e918186e56f0e7b706c9e698b7fe3d8&",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1191913428063899679
@@ -204155,9 +204155,7 @@
     "canon": true,
     "modreward": false,
     "name": "Timburr",
-    "portrait_bounty": {
-      "2": 1
-    },
+    "portrait_bounty": {},
     "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!350050109741858829>",

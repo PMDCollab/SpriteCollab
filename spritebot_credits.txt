@@ -8648,6 +8648,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Electivire: Happy,Inspired,Pain,Determined
 		Electivire Shiny: Normal,Happy,Inspired,Pain,Determined
 		Rotom Phone: Normal,Normal^
+		Timburr: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Tympole: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Tympole Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Palpitoad: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
