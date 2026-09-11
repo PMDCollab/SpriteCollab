@@ -9262,6 +9262,10 @@ powercristal	Contact:https://www.deviantart.com/powercristal
 		Volcarona: Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shake,Shoot,Sleep,Swing,Walk
 		Cobalion: Attack,Idle,Walk
 
+Skycloud383	Discord:<@!546904324098490368>	Contact:<@546904324098490368>
+	Sprite:
+		Excadrill: Eat
+
 pi3.14	Discord:<@!608107243329814529>	Contact:https://twitter.com/Pi_y_ranitas
 	Sprite:
 		Excadrill Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
