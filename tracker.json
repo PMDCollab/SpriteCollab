@@ -87915,18 +87915,20 @@
             "modreward": true,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 1,
             "portrait_credit": {
-              "primary": "",
+              "primary": "<@!356635814668664832>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "portrait_files": {},
+            "portrait_files": {
+              "Normal": false
+            },
             "portrait_link": "",
-            "portrait_modified": "",
+            "portrait_modified": "2026-09-11 18:16:33.430445",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": false,
+            "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
@@ -87947,7 +87949,7 @@
         },
         "canon": false,
         "modreward": true,
-        "name": "Altcolor",
+        "name": "Alternate",
         "portrait_bounty": {},
         "portrait_complete": 1,
         "portrait_credit": {
@@ -88006,23 +88008,19 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
-              "primary": "<@!356635814668664832>",
+              "primary": "",
               "secondary": [],
-              "total": 1
+              "total": 0
             },
-            "portrait_files": {
-              "Normal": false
-            },
+            "portrait_files": {},
             "portrait_link": "",
-            "portrait_modified": "2026-09-11 18:16:33.430445",
+            "portrait_modified": "",
             "portrait_pending": {},
             "portrait_recolor_link": "",
-            "portrait_required": true,
-            "portrait_talk": {
-              "710190644152369162": 1548029644752683121
-            },
+            "portrait_required": false,
+            "portrait_talk": {},
             "sprite_bounty": {},
             "sprite_complete": 0,
             "sprite_credit": {
