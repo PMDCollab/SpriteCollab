@@ -61186,9 +61186,11 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1517402294558130256/portrait-0151.png?ex=6a362682&is=6a34d502&hm=1480ba461cc49ba208e55da1495134ff1c2bb217f2ea9d56f0131a164ea76318&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1547953640659099738/portrait-0151.png?ex=6aa54bab&is=6aa3fa2b&hm=89f6f893524d4d1dec10d4d94af2905f675ecce8d21785edbed4a910448221eb&",
     "portrait_modified": "2024-06-30 04:10:58.967439",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1547954399186395199": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
