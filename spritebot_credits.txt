@@ -85,6 +85,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Nidoran_F: Normal
 		Nidorina: Normal
 		Nidoqueen: Normal
+		Nidoqueen Temp: Normal
 		Nidoran_M: Normal
 		Nidorino: Normal
 		Nidoking: Normal,Surprised
@@ -1591,6 +1592,7 @@ Emboarger	Discord:<@!237286997645983744>
 		Beedrill Mega: Normal
 		Nidoqueen: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Nidoqueen Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
+		Nidoqueen Temp: Special0,Special3
 		Nidoking: Normal,Special0,Special3,Surprised
 		Nidoking Shiny: Crying,Happy,Normal,Pain,Sad,Shouting,Sigh,Special0,Special3,Stunned,Surprised,Teary-Eyed,Worried
 		Ninetales Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Special2,Stunned,Surprised,Teary-Eyed,Worried
@@ -4161,6 +4163,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Sandshrew Alola Shiny: Normal
 		Nidoqueen Alternate: Normal
 		Nidoqueen Alternate Shiny: Normal
+		Nidoqueen Temp Shiny: Normal,Special0,Special3
 		Nidoran_M Altcolor: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Nidorino Altcolor: Normal
 		Clefable Mega: Normal
