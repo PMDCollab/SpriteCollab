@@ -15095,14 +15095,18 @@
         "portrait_complete": 1,
         "portrait_credit": {
           "primary": "CHUNSOFT",
-          "secondary": [],
-          "total": 1
+          "secondary": [
+            "<@!237286997645983744>"
+          ],
+          "total": 2
         },
         "portrait_files": {
-          "Normal": false
+          "Normal": false,
+          "Special3": false,
+          "Special0": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548006375026589826/portrait-0031-0002.png?ex=6aa57cc8&is=6aa42b48&hm=5e8fe51f2d544dacd3ba332d9096249c32ce604924c5f48e9625ae85116145ea&",
-        "portrait_modified": "2026-09-11 16:24:40.078134",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548006903190266019/portrait-0031-0002.png?ex=6aa57d46&is=6aa42bc6&hm=52673598c0be1bcd9aee3b11b8778050024666116df062c5ad32b0a0ca10e88c&",
+        "portrait_modified": "2026-09-11 16:26:45.912991",
         "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
