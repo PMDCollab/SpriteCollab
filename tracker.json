@@ -15083,12 +15083,14 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1372944697361698876/portrait-0031.png?ex=68289de3&is=68274c63&hm=0b5f08be6e089a5d892413272d25adc4c06a68ea4ce8d3527e3ceedfa70b4182&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548003982675280062/portrait-0031.png?ex=6aa57a8d&is=6aa4290d&hm=eabc968b48e3a704354a4b004d056807c63985100d4dd6fcc038aeadb752b04d&",
     "portrait_modified": "2023-01-29 04:07:54.588274",
     "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "710190644152369162": 1548003978342563953
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
