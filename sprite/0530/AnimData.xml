@@ -218,5 +218,17 @@
         <Duration>2</Duration>
       </Durations>
     </Anim>
+	<Anim>
+      <Name>Eat</Name>
+      <Index>15</Index>
+      <FrameWidth>40</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
+        <Duration>6</Duration>
+        <Duration>8</Duration>
+      </Durations>
+    </Anim>
   </Anims>
 </AnimData>
