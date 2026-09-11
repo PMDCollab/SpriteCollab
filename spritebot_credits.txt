@@ -4414,6 +4414,7 @@ Emmuffin	Discord:<@!356635814668664832>	Contact:https://twitter.com/Ernmuffin
 		Snubbull Altcolor: Normal,Surprised,Teary-Eyed
 		Granbull Altcolor: Normal
 		Qwilfish Temp: Normal
+		Qwilfish Temp Shiny: Normal
 		Scizor Mega: Normal
 		Scizor Mega Shiny: Normal
 		Shuckle: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
