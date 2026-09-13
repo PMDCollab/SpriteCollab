@@ -8924,6 +8924,10 @@ SethY	Discord:<@!268261643178344448>	Contact:https://linktr.ee/sethyuikora
 	Sprite:
 		Dragonite: Special0
 
+Some_Shinx	Discord:<@!1519393734008115314>	Contact:<@1519393734008115314>
+	Sprite:
+		Mew Alternate: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 Neat_Neato	Discord:<@!181900575934382081>	Contact:imneatneato@gmail.com
 	Sprite:
 		Sentret: Wake,Eat,Tumble,Pose,Pull,Pain,DeepBreath,Nod,Sit,LookUp,Sink,Trip,LeapForth,Head,LostBalance,TumbleBack,HitGround,Faint
