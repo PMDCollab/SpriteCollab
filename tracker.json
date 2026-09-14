@@ -304376,18 +304376,29 @@
     "portrait_required": true,
     "portrait_talk": {},
     "sprite_bounty": {},
-    "sprite_complete": 0,
+    "sprite_complete": 1,
     "sprite_credit": {
-      "primary": "",
+      "primary": "<@!702275233125630042>",
       "secondary": [],
-      "total": 0
+      "total": 1
     },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1478290064764305541/sprite-0896.zip?ex=69a7dc68&is=69a68ae8&hm=31cee83e59f7eb4cfd8c64992cad69079e3f8651c5f295b8a2084f514a1ea800&",
-    "sprite_modified": "",
-    "sprite_pending": {
-      "1531782247462731826": 764610870357131265
+    "sprite_files": {
+      "Walk": false,
+      "Attack": false,
+      "Shoot": false,
+      "RearUp": false,
+      "Sleep": false,
+      "Hurt": false,
+      "Idle": false,
+      "Swing": false,
+      "Double": false,
+      "Hop": false,
+      "Charge": false,
+      "Rotate": false
     },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549030130054074468/sprite-0896.zip?ex=6aa9363a&is=6aa7e4ba&hm=3fa9ecb6af773ea300d0523bd6ae991c93dc176ffdfc4699785c959011522584&",
+    "sprite_modified": "2026-09-14 12:12:41.446126",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
