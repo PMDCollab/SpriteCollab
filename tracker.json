@@ -172024,12 +172024,16 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1547668542248460388/portrait-0443.png?ex=6aa44226&is=6aa2f0a6&hm=e8ce26a69945696eb5d4a904cd7bae9e91d37f521f8ecb599cdb965af75ba8a2&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549084795177410661/portrait-0443.png?ex=6aa96923&is=6aa817a3&hm=49d15fa9c220b2d1820ca2aae3c2f079d235f937b49e9cb9b2faf935110bc6ec&",
     "portrait_modified": "2021-03-17 03:28:27.631149",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1549084804794814545": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "710190644152369162": 1549084789879873658
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
