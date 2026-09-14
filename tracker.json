@@ -171924,9 +171924,11 @@
             "portrait_link": "",
             "portrait_modified": "2021-09-13 04:41:22.053548",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549117050180608120/portrait_recolor-0443-0000-0001.png?ex=6aa9872d&is=6aa835ad&hm=fa40b4fc8ac8016b568483547bde2630fae84471817fa1b1f489d0b0301122e0&",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "710190644152369162": 1549117046342819961
+            },
             "sprite_bounty": {},
             "sprite_complete": 1,
             "sprite_credit": {
