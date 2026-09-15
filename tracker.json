@@ -274051,7 +274051,7 @@
             "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": {
               "primary": "<@!276369635304275968>",
               "secondary": [
@@ -274586,9 +274586,10 @@
     "sprite_credit": {
       "primary": "JHONY_REX",
       "secondary": [
-        "<@!276369635304275968>"
+        "<@!276369635304275968>",
+        "<@!157796074457661440>"
       ],
-      "total": 2
+      "total": 3
     },
     "sprite_files": {
       "Walk": false,
@@ -274603,12 +274604,10 @@
       "Hop": false,
       "Charge": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533744041080918106/sprite-0800.zip?ex=6a7199f2&is=6a704872&hm=9e00e42ebb976ba6c55e351fa18c760108fe9951146bddab124974d34892ff0e&",
-    "sprite_modified": "2022-05-11 16:46:11.727072",
-    "sprite_pending": {
-      "1533830464756781299": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1274471196003532811/sprite_recolor-0800-0000-0001.png?ex=66c25f4b&is=66c10dcb&hm=4496ece58a0c132e7ca6bbc4fcceb20181a39395e556708f0107657585967a6b&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549419807982493696/sprite-0800.zip?ex=6aaaa125&is=6aa94fa5&hm=d342395007e599ed070b270c12b3aa617c43414e4305fc0bf1e97821413dd516&",
+    "sprite_modified": "2026-09-15 14:01:08.583271",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
       "710190644152369162": 1533830394971951207
