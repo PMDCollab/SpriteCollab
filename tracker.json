@@ -114260,7 +114260,7 @@
       "Angry": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1541279664851521716/portrait-0282.png?ex=6a8d040b&is=6a8bb28b&hm=44b3cb9a0b49a9833191f49b7c0dd62047849726dc63365b0b9fbc1a7261abe8&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549206491821506611/portrait-0282.png?ex=6aa9da7a&is=6aa888fa&hm=7305e1d0d310476233dccf3b7e2575516b97c6ecc8e0ef5085e9c843589e81b7&",
     "portrait_modified": "2024-12-02 02:15:45.873668",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -258179,7 +258179,9 @@
         "sprite_files": {},
         "sprite_link": "",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1549210948793798716": 764610870357131265
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
