@@ -2,3 +2,4 @@
 2022-04-12 07:28:13.842042	<@!276369635304275968>	CUR	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Idle,Shoot,Sleep,Swing,Walk
 2022-05-09 16:58:01.033018	<@!276369635304275968>	CUR	PMDCollab_1	Attack,Charge,Double,Hop,Hurt,Idle,Rotate,Shoot,Swing,Walk
 2026-09-15 14:01:08.579714	<@!157796074457661440>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
+2026-09-16 19:53:48.400209	<@!157796074457661440>	CUR	CC_BY-NC_4	Sleep,Attack,Charge,Shoot,Swing,Double,Hop
