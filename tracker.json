@@ -284770,11 +284770,9 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1550022801363308594/sprite-0847.zip?ex=6aacd2b9&is=6aab8139&hm=5641292fdb1bdfe9b01164f999dc29c447bc90d9a235ca4c3fe82eff08ce2e30&",
-    "sprite_modified": "2026-09-17 05:57:13.653092",
-    "sprite_pending": {
-      "1550023057278763009": 764610870357131265
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1550034733021397052/sprite-0847.zip?ex=6aacddd6&is=6aab8c56&hm=7e30d867eaae493a6e1d50654f3c85ba05535f3abfde4ae4f560b17889b8c2ef&",
+    "sprite_modified": "2026-09-17 06:44:38.337822",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
