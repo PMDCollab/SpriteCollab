@@ -1847,6 +1847,7 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Lugia Shadow_Alternate: Normal
 		Zigzagoon: Surprised
 		Zigzagoon Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Gardevoir Alternate: Normal,Joyous,Happy,Inspired,Stunned,Teary-Eyed,Dizzy,Worried
 		Breloom: Angry,Special3
 		Breloom Shiny: Normal,Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Special2,Worried,Determined,Special3
 		Sableye Altcolor: Normal,Pain,Surprised,Stunned,Angry,Teary-Eyed,Special0
