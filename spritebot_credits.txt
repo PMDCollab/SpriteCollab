@@ -10483,6 +10483,7 @@ CeleryGuy	Discord:<@!966056976217935872>	Contact:https://celeryguy.tumblr.com
 PikaGirl	Discord:<@!1354873665258524857>	Contact:https://x.com/99_Pika_99
 	Portrait:
 		Mienfoo Alternate: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Mienfoo Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 
 Vendily	Discord:<@!329424896927203339>	Contact:<@329424896927203339>
 	Portrait:
