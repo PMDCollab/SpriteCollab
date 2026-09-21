@@ -281359,9 +281359,11 @@
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1460050387280203798/portrait-0831-0000-0001.png?ex=69658162&is=69642fe2&hm=aac8456c3b03c91176d536dcad1e69df3f38d0bb119e7f0b4f3e384c05641471&",
             "portrait_modified": "2021-11-06 19:11:04.222870",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1551428096446439534/portrait_recolor-0831-0000-0001.png?ex=6ab1ef82&is=6ab09e02&hm=4a53f448180d74fa5e3d03bee102bb8e90a6b14ac775ae1c5e582e172fbd6217&",
             "portrait_required": true,
-            "portrait_talk": {},
+            "portrait_talk": {
+              "710190644152369162": 1551428092122235033
+            },
             "sprite_bounty": {},
             "sprite_complete": 2,
             "sprite_credit": {
