@@ -101553,12 +101553,10 @@
           "Faint": false,
           "HitGround": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1240099023642431539/sprite-0246-0001.zip?ex=664553b7&is=66440237&hm=75795eb6ac7aa9ef3bc1f510ad432c052efcdea8ac97545af4aebbf68e484cb3&",
-        "sprite_modified": "2023-06-21 11:38:21.890860",
-        "sprite_pending": {
-          "1538210026647453698": 764610870357131265
-        },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1349353043921211403/sprite_recolor-0246-0001-0001.png?ex=67d2ca73&is=67d178f3&hm=56aade2aa7ca1352c5f165cb7e8e29c366bb6fce3779a374e24b739829490c0b&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552182903423897631/sprite-0246-0001.zip?ex=6ab4ae7a&is=6ab35cfa&hm=3f285ee494554fdbc8bb4a0071a3a8b45dd6785d76f63b01f651b3f2a59ce382&",
+        "sprite_modified": "2026-09-23 05:00:42.125975",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1120935561843200070
