@@ -253206,12 +253206,10 @@
           "Charge": false,
           "Rotate": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549233765346181230/sprite-0718-0007.zip?ex=6aa9f3e1&is=6aa8a261&hm=9c158c261ff69361f4bb0df447c0d8c2c0e2f447c73094ff19736f01ec412b4b&",
-        "sprite_modified": "2026-09-15 01:41:52.648825",
-        "sprite_pending": {
-          "1549343982423900250": 764610870357131265
-        },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1549322742166331433/sprite_recolor-0718-0007-0001.png?ex=6aaa46be&is=6aa8f53e&hm=21b75957e55ebf0feef71384a44ea0e063cac931d6ad51f88e814c4264bd7132&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552179441747107900/sprite-0718-0007.zip?ex=6ab4ab41&is=6ab359c1&hm=df7e1f0c8fe432ecf0f3ef1c3b2e5a08b91ee34ab232d02ef78765bdc2d871f7&",
+        "sprite_modified": "2026-09-23 04:46:56.714428",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1533482147229204560
