@@ -273531,6 +273531,81 @@
         "sprite_required": false,
         "sprite_talk": {},
         "past_work": []
+      },
+      "0001": {
+        "subgroups": {
+          "0001": {
+            "subgroups": {},
+            "canon": false,
+            "modreward": false,
+            "name": "Shiny",
+            "portrait_bounty": {},
+            "portrait_complete": 0,
+            "portrait_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "portrait_files": {},
+            "portrait_link": "",
+            "portrait_modified": "",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
+            "portrait_required": true,
+            "portrait_talk": {},
+            "sprite_bounty": {},
+            "sprite_complete": 0,
+            "sprite_credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "sprite_files": {},
+            "sprite_link": "",
+            "sprite_modified": "",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
+            "sprite_required": true,
+            "sprite_talk": {},
+            "past_work": []
+          }
+        },
+        "canon": false,
+        "modreward": false,
+        "name": "Temp",
+        "portrait_bounty": {},
+        "portrait_complete": 0,
+        "portrait_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
+        "portrait_pending": {
+          "1552582883221446687": 764610870357131265
+        },
+        "portrait_recolor_link": "",
+        "portrait_required": true,
+        "portrait_talk": {
+          "710190644152369162": 1552582878057996392
+        },
+        "sprite_bounty": {},
+        "sprite_complete": 0,
+        "sprite_credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "sprite_files": {},
+        "sprite_link": "",
+        "sprite_modified": "",
+        "sprite_pending": {},
+        "sprite_recolor_link": "",
+        "sprite_required": true,
+        "sprite_talk": {},
+        "past_work": []
       }
     },
     "canon": true,
@@ -273564,7 +273639,7 @@
       "Inspired": false,
       "Surprised": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1533720112492707953/portrait-0796.png?ex=6a7183a9&is=6a703229&hm=d159bab39c993fb8e0a4970b074ec69838ec76718afe0d8d8b9d81602351d557&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552583155062415440/portrait-0796.png?ex=6ab6233d&is=6ab4d1bd&hm=09d92c90e948e0e8ce48e4280ceb5f72ceadf121e4d5c398fb255739acaac10c&",
     "portrait_modified": "2024-07-29 15:40:04.761806",
     "portrait_pending": {},
     "portrait_recolor_link": "",
