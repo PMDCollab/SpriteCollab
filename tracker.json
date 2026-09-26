@@ -57559,18 +57559,19 @@
         "modreward": false,
         "name": "Gigantamax",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!356635814668664832>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1553104688193339463": 764610870357131265
+        "portrait_files": {
+          "Normal": false,
+          "Normal^": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1553404336695017493/portrait-0143-0001.png?ex=6ab92006&is=6ab7ce86&hm=f6463639ada543bbe398191f3636a54e93761e52aa7d2849f3debe14afc20516&",
+        "portrait_modified": "2026-09-26 13:54:14.517615",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
