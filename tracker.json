@@ -15058,7 +15058,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -15098,24 +15098,38 @@
         "modreward": false,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": {
           "primary": "CHUNSOFT",
           "secondary": [
-            "<@!237286997645983744>"
+            "<@!237286997645983744>",
+            "<@!216640380408430592>"
           ],
-          "total": 2
+          "total": 3
         },
         "portrait_files": {
           "Normal": false,
           "Special3": false,
-          "Special0": false
+          "Special0": false,
+          "Sigh": false,
+          "Joyous": false,
+          "Sad": false,
+          "Shouting": false,
+          "Determined": false,
+          "Pain": false,
+          "Crying": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Worried": false,
+          "Stunned": false,
+          "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1553374139723817070/portrait-0031-0002.png?ex=6ab903e7&is=6ab7b267&hm=47711700c67d6b44504123d4e60bd00b599bf82414f59e859e379ed7f342a12f&",
-        "portrait_modified": "2026-09-11 16:26:45.912991",
-        "portrait_pending": {
-          "1553374148062085171": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1555270717317193738/portrait-0031-0002.png?backend=b2&ex=6abfea3a&is=6abe98ba&hm=54d2af23594427bfaf397d80cf473759b5681376decd1f6c2a7c327f19354aa0&",
+        "portrait_modified": "2026-10-01 17:30:34.239983",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
