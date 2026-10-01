@@ -15072,7 +15072,7 @@
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548012224495231019/portrait-0031-0002-0001.png?ex=6aa5823a&is=6aa430ba&hm=39f1b45435e3559b437cfb36e9d721d2011fc0283f88a38104e1b1a1f86ce676&",
             "portrait_modified": "2026-09-11 16:47:54.758455",
             "portrait_pending": {},
-            "portrait_recolor_link": "",
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1555270938575241216/portrait_recolor-0031-0002-0001.png?backend=b2&ex=6abfea6f&is=6abe98ef&hm=970bd7f3bca47aa4bc5b6d2db0ee543159402afd70e88eb0819c860a64109a44&",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1548011013478162504
@@ -253069,7 +253069,7 @@
             "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
               "primary": "<@!272761782269902848>",
               "secondary": [],
@@ -253090,12 +253090,10 @@
               "Charge": false,
               "Rotate": false
             },
-            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1536484506666668072/sprite-0718-0005-0001.zip?ex=6a7b9234&is=6a7a40b4&hm=bb233d534050f4d653698c4e555a9134ea59e4c9a84ebdfc1f44d84e74438f23&",
-            "sprite_modified": "2026-08-10 21:20:52.505301",
-            "sprite_pending": {
-              "1552219824363540480": 764610870357131265
-            },
-            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552181177451024444/sprite_recolor-0718-0005-0001.png?ex=6ab4acde&is=6ab35b5e&hm=7630f9fcbd15026658fd09d3c851f94075b87dab8e8ffea0f4308fade3aa47a2&",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1555271812940701706/sprite-0718-0005-0001.zip?backend=b2&ex=6abfeb3f&is=6abe99bf&hm=63b41ee5dfedf82994d4508764fc1a4d4a58a247ab03aa65f623c8e9790cba1d&",
+            "sprite_modified": "2026-10-01 17:34:55.393335",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
               "710190644152369162": 1534095144540835860
