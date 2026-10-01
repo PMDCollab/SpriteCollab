@@ -9147,6 +9147,7 @@ TawnySoup	Discord:<@!216640380408430592>	Contact:https://linktr.ee/tawnysoup
 		Ekans: Sad,Joyous,Special1,Happy,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Ekans Cutscene: Sad,Joyous,Special1,Crying,Inspired,Sigh,Pain,Shouting,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Nidorina: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Nidoqueen Temp: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Persian Alola: Normal
 		Persian Alola Shiny: Normal
 		Mr_Mime Galar: Normal
@@ -9333,6 +9334,7 @@ DeltaL	Discord:<@!272761782269902848>	Contact:averyderp.sm2@gmail.com
 		Zygarde Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,SpAttack,Swing,Double,Rotate,Hop
 		Zygarde Mega Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Zygarde Mega_Skytemple: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
+		Zygarde Mega_Skytemple Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,SpAttack,Swing,Double,Rotate,Hop
 		Drampa Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,RearUp,Swing,Double,Rotate,Hop
 		Zeraora Mega: Idle,Walk,Sleep,Hurt,Attack,Charge,Strike,SpAttack,RearUp,Swing,Double,Rotate,Hop,QuickStrike,Cringe
 		Melmetal: Charge,Shoot,Strike,Punch,Swing,Double,Hop,Sleep
