@@ -127706,9 +127706,11 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1236930242581364836/portrait-0323-0001.png?ex=6639cc8e&is=66387b0e&hm=79a488c2fda3999c3d05574a71fc6d863d361bb41df94e93eaceb3ee6d70e61b&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1556113582490386554/portrait-0323-0001.png?backend=b2&ex=6ac2fb35&is=6ac1a9b5&hm=0c4cb479023ed77a472279b3bfae8928b087bcc09578de6f6526d2470296114f&",
         "portrait_modified": "2023-05-01 02:38:34.505530",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1556113589876690994": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
