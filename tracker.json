@@ -30155,10 +30155,14 @@
         "portrait_files": {},
         "portrait_link": "",
         "portrait_modified": "",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1556101843917209670": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
-        "portrait_talk": {},
+        "portrait_talk": {
+          "710190644152369162": 1556101838376271946
+        },
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
