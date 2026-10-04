@@ -11530,8 +11530,10 @@
         },
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1528184276321960126/sprite-0025-0006.zip?ex=6a5d6003&is=6a5c0e83&hm=a105575b985ab9c01015dabc813c8e7b574d3aed7b6e26f713ab63b477dff1a3&",
         "sprite_modified": "2022-10-07 01:34:07.640431",
-        "sprite_pending": {},
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548376062965063720/sprite_recolor-0025-0006-0001.png?ex=6aa6d514&is=6aa58394&hm=0df0930ffc6df8e699cdac5df52ffbe234d8d05ab1ca888b154c249677366be0&",
+        "sprite_pending": {
+          "1556337561792811092": 764610870357131265
+        },
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1556337553290825900/sprite_recolor-0025-0006-0001.png?backend=b2&ex=6ac3cbcc&is=6ac27a4c&hm=0fcd1fd81bfd1ec4638b3d6d46a4b6049eb289276097d0a0cf2b4640f3e74624&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1519417311956570313
@@ -11675,12 +11677,12 @@
           "Faint": false,
           "HitGround": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548367868536815750/sprite-0025-0007.zip?ex=6aa6cd73&is=6aa57bf3&hm=f6316a3a6d676c07cf3f99b1527b91b194658239db2d1aa900bdc3d184b41f3e&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1556337463667200000/sprite-0025-0007.zip?backend=b2&ex=6ac3cbb6&is=6ac27a36&hm=dfac94acf60acbf4af3d2b0ddfa381b4ecaf84cd05541a1b802c8a1bafe82018&",
         "sprite_modified": "2026-07-18 01:28:56.165677",
         "sprite_pending": {
           "1552758388989894808": 764610870357131265
         },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552758376944111707/sprite_recolor-0025-0007-0001.png?ex=6ab6c66d&is=6ab574ed&hm=25f519a9e19069834d3e8cf20460ccf7c1adcfd3a2b7967522ba2d7c71456af4&",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1556337455169409197/sprite_recolor-0025-0007-0001.png?backend=b2&ex=6ac3cbb4&is=6ac27a34&hm=672d4053a032e6a4c78edb8ab8e2fc2f1b864d11c7f227d31d681d9aa2a6c0f0&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1519417727956029592
