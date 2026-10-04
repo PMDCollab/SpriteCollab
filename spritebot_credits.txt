@@ -2548,6 +2548,7 @@ baronessfaron	Discord:<@!544245909639397378>
 		Sharpedo Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Sharpedo Altcolor: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Camerupt Mega: Normal
+		Camerupt Mega Shiny: Normal
 		Cacturne: Pain,Surprised,Stunned,Angry,Worried
 		Cacturne Shiny Female: Normal,Special1
 		Cacturne Cutscene: Pain,Surprised,Angry,Special2,Worried,Stunned
