@@ -15071,9 +15071,11 @@
               "Special0": false,
               "Normal": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1548012224495231019/portrait-0031-0002-0001.png?ex=6aa5823a&is=6aa430ba&hm=39f1b45435e3559b437cfb36e9d721d2011fc0283f88a38104e1b1a1f86ce676&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558990235658887228/portrait-0031-0002-0001.png?ex=6acd724c&is=6acc20cc&hm=9c582889e8f6185ef4703bcab4ec214240fbcfc587266a8c7f6d1534c8a212b0&",
             "portrait_modified": "2026-09-11 16:47:54.758455",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1558990243045310544": 764610870357131265
+            },
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1555270938575241216/portrait_recolor-0031-0002-0001.png?backend=b2&ex=6abfea6f&is=6abe98ef&hm=970bd7f3bca47aa4bc5b6d2db0ee543159402afd70e88eb0819c860a64109a44&",
             "portrait_required": true,
             "portrait_talk": {
@@ -15129,7 +15131,7 @@
           "Stunned": false,
           "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1555270717317193738/portrait-0031-0002.png?backend=b2&ex=6abfea3a&is=6abe98ba&hm=54d2af23594427bfaf397d80cf473759b5681376decd1f6c2a7c327f19354aa0&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558990223273365564/portrait-0031-0002.png?ex=6acd7249&is=6acc20c9&hm=11383243c122aa98eec2fba9305609e657fc1c79515d135fd6620b0897b84d7f&",
         "portrait_modified": "2026-10-01 17:30:34.239983",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -43873,7 +43875,7 @@
             "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558962908887777380/sprite-0104-0000-0001.zip?ex=6acd58d9&is=6acc0759&hm=2c4aa773b4a766da486e5c8fe2e13b751bc801be3c36ea8a319c16cb7ff66aae&",
             "sprite_modified": "2024-12-02 02:15:46.173666",
             "sprite_pending": {
-              "1558963019768275027": 764610870357131265
+              "1558990170261295275": 764610870357131265
             },
             "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558960623885230200/sprite_recolor-0104-0000-0001.png?ex=6acd56b8&is=6acc0538&hm=ffe8a9f03f65d2a0a6cd7b269ed427f06f9ef4d4a588a2a128e5e1dfc2fd17e8&",
             "sprite_required": true,
