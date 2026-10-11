@@ -307718,7 +307718,8 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1527868806578307123/sprite-0908.zip?ex=6a5c3a35&is=6a5ae8b5&hm=2164761af545e2021c38fd8f6d7e350d9db5de29af068e61c8ca9652ccd15193&",
     "sprite_modified": "2025-03-14 06:25:23.907266",
     "sprite_pending": {
-      "1527869194111291553": 764610870357131265
+      "1527869194111291553": 764610870357131265,
+      "1558902034135130276": 764610870357131265
     },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1527789027372040273/sprite_recolor-0908-0000-0001.png?ex=6a5befe9&is=6a5a9e69&hm=1185f57bd885ae2c26dc03f8fe4df5e7ff7ac31c2f35c062b07e70aca8323316&",
     "sprite_required": true,
