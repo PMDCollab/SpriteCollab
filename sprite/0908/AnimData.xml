@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0"?>
 <AnimData>
   <ShadowSize>1</ShadowSize>
   <Anims>
@@ -18,7 +18,7 @@
       <Name>Attack</Name>
       <Index>1</Index>
       <FrameWidth>88</FrameWidth>
-      <FrameHeight>96</FrameHeight>
+      <FrameHeight>88</FrameHeight>
       <HitFrame>4</HitFrame>
       <ReturnFrame>6</ReturnFrame>
       <Durations>
