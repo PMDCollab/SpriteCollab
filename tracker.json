@@ -197032,18 +197032,30 @@
             "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "",
+              "primary": "<@!544245909639397378>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {
-              "1559114806429225010": 764610870357131265
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Slam": false,
+              "Shoot": false,
+              "Twirl": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559251136383557824/sprite-0494-0001-0001.zip?ex=6ace6548&is=6acd13c8&hm=97dbc8c3a8364470868998e4dc993bb1077bcf6215ab7a0b4c873d5292e753b7&",
+            "sprite_modified": "2026-10-12 17:07:18.919521",
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
@@ -281775,9 +281787,11 @@
               "Happy": false,
               "Surprised": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1416912711899549738/portrait-0832-0000-0001.png?ex=68c8924b&is=68c740cb&hm=ea7b550e20dd367a5b38c000b260bccfe48905cf3a2d9b2f2733d1e0b753ea56&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559250313922486383/portrait-0832-0000-0001.png?ex=6ace6484&is=6acd1304&hm=e3690c5f99ae9a807e940159953999f1b250a7cfa8d7ca554725bac5ddae8e05&",
             "portrait_modified": "2025-09-14 22:25:15.239732",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1559250322042527784": 764610870357131265
+            },
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559068137813450812/portrait_recolor-0832-0000-0001.png?ex=6acdbada&is=6acc695a&hm=8b6c0c6ece374c61b59d20f1180dc8a93eac097a3029a2aecc6b34284e2b9b4d&",
             "portrait_required": true,
             "portrait_talk": {
