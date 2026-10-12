@@ -196950,7 +196950,7 @@
             "sprite_bounty": {},
             "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "<@!324999377946935297>",
+              "primary": "<@!544245909639397378>",
               "secondary": [],
               "total": 1
             },
@@ -196966,10 +196966,12 @@
               "Strike": false,
               "Double": false,
               "Hop": false,
-              "Rotate": false
+              "Rotate": false,
+              "Slam": false,
+              "Twirl": false
             },
             "sprite_link": "",
-            "sprite_modified": "2023-01-01 01:36:56.646313",
+            "sprite_modified": "2026-10-12 17:07:18.919521",
             "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
@@ -197032,35 +197034,19 @@
             "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": {
-              "primary": "<@!544245909639397378>",
+              "primary": "",
               "secondary": [],
-              "total": 1
+              "total": 0
             },
-            "sprite_files": {
-              "Walk": false,
-              "Attack": false,
-              "Slam": false,
-              "Shoot": false,
-              "Twirl": false,
-              "Sleep": false,
-              "Hurt": false,
-              "Idle": false,
-              "Swing": false,
-              "Double": false,
-              "Hop": false,
-              "Charge": false,
-              "Rotate": false
-            },
+            "sprite_files": {},
             "sprite_link": "",
-            "sprite_modified": "2026-10-12 17:07:18.919521",
+            "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
-            "sprite_talk": {
-              "710190644152369162": 1559114799780995133
-            },
+            "sprite_required": false,
+            "sprite_talk": {},
             "past_work": []
           }
         },
