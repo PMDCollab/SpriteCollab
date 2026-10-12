@@ -3043,7 +3043,8 @@ baronessfaron	Discord:<@!544245909639397378>
 		Arceus Question_Mark: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Arceus Question_Mark Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Bite,Stomp,SpAttack,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 		Arceus Beta: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
-		Victini Temp: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
+		Victini: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
+		Victini Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Slam,Twirl,Swing,Double,Rotate,Hop
 		Samurott Hisui: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 		Patrat: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Swing,Double,Rotate,Hop
 		Watchog: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,MultiScratch,Appeal,Swing,Double,Rotate,Hop
@@ -9240,14 +9241,6 @@ Darkrai	Discord:<@!224976040265646082>
 		Darkrai Altcolor: Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
 		Darkrai Cutscene_Altcolor: Attack,Charge,Double,Hop,Hurt,Idle,Pose,QuickStrike,RearUp,Rotate,Shoot,Sleep,Special0,Special1,Swing,Walk
 
-MonochromeKirby	Discord:<@!324999377946935297>
-	Portrait:
-		Victini: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
-		Victini Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
-	Sprite:
-		Victini: Attack,Charge,Hurt,Idle,Shoot,Sleep,Swing,Walk,Double,Hop,Rotate,Strike
-		Victini Shiny: Attack,Charge,Hurt,Idle,Shoot,Sleep,Swing,Walk,Double,Hop,Rotate,Strike
-
 NikolaP	Discord:<@!704349360929898516>	Contact:nikolasnonsense@gmail.com
 	Portrait:
 		Rampardos: Joyous,Crying,Shouting,Surprised,Dizzy
@@ -10433,6 +10426,11 @@ Orange	Discord:<@!304391035209908244>	Contact:https://linktr.ee/orangeoceann
 Eliza	Discord:<@!176197318574342145>	Contact:https://twitter.com/elizathexpresso
 	Portrait:
 		Rotom Rotomi: Normal,Sad,Happy,Pain,Teary-Eyed
+
+MonochromeKirby	Discord:<@!324999377946935297>
+	Portrait:
+		Victini: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special0,Stunned,Surprised,Teary-Eyed,Worried
+		Victini Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
 
 LegendaryPhoenix	Discord:<@!573283158674505749>
 	Portrait:
