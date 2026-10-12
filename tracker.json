@@ -281975,9 +281975,11 @@
       "Happy": false,
       "Surprised": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1551492037029666926/portrait-0832.png?ex=6ab22b0e&is=6ab0d98e&hm=41a6c55feeeb4756c4f41af10b72f382f69a2997283871dfd5721e20f6c121b7&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559054416273735730/portrait-0832.png?ex=6acdae12&is=6acc5c92&hm=856cd81d2f12d91064ebba304101c31d7f1e05e3c7be631144bb46dbc2fe8ded&",
     "portrait_modified": "2025-08-02 16:20:04.617288",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1559054434456043712": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
