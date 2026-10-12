@@ -197041,10 +197041,14 @@
             "sprite_files": {},
             "sprite_link": "",
             "sprite_modified": "",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "1559114806429225010": 764610870357131265
+            },
             "sprite_recolor_link": "",
             "sprite_required": true,
-            "sprite_talk": {},
+            "sprite_talk": {
+              "710190644152369162": 1559114799780995133
+            },
             "past_work": []
           }
         },
@@ -197090,7 +197094,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559111690509881355/sprite-0494-0001.zip?ex=6acde369&is=6acc91e9&hm=57f81e88299e4df3df7ebe9625c26aacdfe3976d8dbf5deb118c3e63518b94c4&",
         "sprite_modified": "2026-10-12 07:53:13.592496",
         "sprite_pending": {},
-        "sprite_recolor_link": "",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559113297305800755/sprite_recolor-0494-0001-0001.png?ex=6acde4e9&is=6acc9369&hm=b43cb8809f8d8fbc29f514ab4cb2b55d5ed165890e973b1748e9d5eef8509fed&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1519173508477751416
