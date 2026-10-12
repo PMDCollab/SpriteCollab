@@ -15060,7 +15060,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -15069,14 +15069,27 @@
             "portrait_files": {
               "Special3": false,
               "Special0": false,
-              "Normal": false
+              "Normal": false,
+              "Sigh": false,
+              "Joyous": false,
+              "Sad": false,
+              "Shouting": false,
+              "Determined": false,
+              "Pain": false,
+              "Crying": false,
+              "Teary-Eyed": false,
+              "Dizzy": false,
+              "Inspired": false,
+              "Surprised": false,
+              "Angry": false,
+              "Worried": false,
+              "Stunned": false,
+              "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558990235658887228/portrait-0031-0002-0001.png?ex=6acd724c&is=6acc20cc&hm=9c582889e8f6185ef4703bcab4ec214240fbcfc587266a8c7f6d1534c8a212b0&",
-            "portrait_modified": "2026-09-11 16:47:54.758455",
-            "portrait_pending": {
-              "1558990243045310544": 764610870357131265
-            },
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1555270938575241216/portrait_recolor-0031-0002-0001.png?backend=b2&ex=6abfea6f&is=6abe98ef&hm=970bd7f3bca47aa4bc5b6d2db0ee543159402afd70e88eb0819c860a64109a44&",
+            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559104484821569637/portrait-0031-0002-0001.png?ex=6acddcb3&is=6acc8b33&hm=14d0118ccbe8f0d410d6c88c3eded87a0e9e29a39fbd56f9b265a049d4357b8a&",
+            "portrait_modified": "2026-10-12 07:24:35.698223",
+            "portrait_pending": {},
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1548011013478162504
