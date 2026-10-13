@@ -594,6 +594,7 @@ CHUNSOFT	Contact:https://www.spike-chunsoft.com/
 		Lopunny Cutscene: Angry,Happy,Inspired,Normal,Pain,Sigh,Surprised,Worried
 		Mismagius: Normal
 		Honchkrow: Normal
+		Honchkrow Temp: Normal
 		Glameow: Normal
 		Purugly: Normal
 		Chingling: Normal
@@ -3210,7 +3211,9 @@ baronessfaron	Discord:<@!544245909639397378>
 		Oricorio Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Swing,Double,Rotate,Hop
 		Oricorio Pom_Pom: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Dance,Shock,Swing,Double,Rotate,Hop
 		Oricorio Pa_U: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Oricorio Pa_U Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Oricorio Sensu: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
+		Oricorio Sensu Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Twirl,Swing,Double,Rotate,Hop
 		Cutiefly: Walk,Attack,Hover,Shoot,Sleep,Hurt,Idle,Double,Hop,Charge,Rotate,Swing,Strike
 		Ribombee: Attack,Charge,Double,Hop,Hover,Hurt,Idle,Rotate,Shoot,Sleep,Strike,Swing,Walk
 		Rockruff: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shake,Appeal,TailWhip,Swing,Double,Rotate,Hop,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
