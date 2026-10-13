@@ -167623,20 +167623,39 @@
         "modreward": false,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 1,
+        "portrait_complete": 2,
         "portrait_credit": {
           "primary": "CHUNSOFT",
-          "secondary": [],
-          "total": 1
+          "secondary": [
+            "<@!544245909639397378>"
+          ],
+          "total": 2
         },
         "portrait_files": {
-          "Normal": false
+          "Normal": false,
+          "Sigh": false,
+          "Joyous": false,
+          "Sad": false,
+          "Shouting": false,
+          "Determined": false,
+          "Pain": false,
+          "Special3": false,
+          "Special0": false,
+          "Crying": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Special1": false,
+          "Special2": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Worried": false,
+          "Stunned": false,
+          "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559466029678329905/portrait-0430-0002.png?ex=6acf2d6a&is=6acddbea&hm=3d1be48f58a6b3616c5c06d6f696640f53290255ed88550f52f147da3dab8796&",
-        "portrait_modified": "2026-10-13 07:21:14.758226",
-        "portrait_pending": {
-          "1559467854825394176": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559510918063194162/portrait-0430-0002.png?ex=6acf5739&is=6ace05b9&hm=c9e51feb60ea2c860dbfb43383be9be8627ea62fc1e02eb4c02f29b971552445&",
+        "portrait_modified": "2026-10-13 10:19:36.871958",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
