@@ -258128,18 +258128,30 @@
             "portrait_required": true,
             "portrait_talk": {},
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
-              "primary": "",
+              "primary": "<@!544245909639397378>",
               "secondary": [],
-              "total": 0
+              "total": 1
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {
-              "1559273657967186160": 764610870357131265
+            "sprite_files": {
+              "Walk": false,
+              "Attack": false,
+              "Strike": false,
+              "Shoot": false,
+              "Twirl": false,
+              "Sleep": false,
+              "Hurt": false,
+              "Idle": false,
+              "Swing": false,
+              "Double": false,
+              "Hop": false,
+              "Charge": false,
+              "Rotate": false
             },
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559466734665334784/sprite-0741-0002-0001.zip?ex=6acf2e13&is=6acddc93&hm=e70c33256675dbdcddc66230490a34f720139c8db7fed9ce8393edee766d475c&",
+            "sprite_modified": "2026-10-13 07:24:02.770826",
+            "sprite_pending": {},
             "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
@@ -258209,7 +258221,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559273613079879700/sprite-0741-0002.zip?ex=6ace7a37&is=6acd28b7&hm=77255cd09215993d39556f629291cfea26da4b966db676a4df7961b733c37559&",
         "sprite_modified": "2026-10-11 17:01:45.056278",
         "sprite_pending": {},
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558959894340833341/sprite_recolor-0741-0002-0001.png?ex=6acd560a&is=6acc048a&hm=afbff3290f80586ff0ab22b01249cff5fc71c3a352dfba63142032e1c4f66ddd&",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559466276689027092/sprite_recolor-0741-0002-0001.png?ex=6acf2da5&is=6acddc25&hm=d869e8560d605b3150b0d67a91245ca3725c7ec0a30e7ffa261a7b46855a63d0&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1518350714911326461
