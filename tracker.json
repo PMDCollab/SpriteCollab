@@ -167059,7 +167059,7 @@
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559883674764312576/sprite-0428.zip?ex=6ad0b261&is=6acf60e1&hm=68dfcccf35ff476da70b8d79f2209fc14a596a47e30f7d5e51c54b23a1074cb0&",
     "sprite_modified": "2024-12-02 02:15:46.765662",
     "sprite_pending": {
-      "1559886119221338142": 764610870357131265
+      "1559886691529916507": 764610870357131265
     },
     "sprite_recolor_link": "",
     "sprite_required": true,
@@ -307525,7 +307525,7 @@
           "Normal": false,
           "Normal^": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1541964262031753318/portrait-0908-0001.png?ex=6a8f81a0&is=6a8e3020&hm=d8c73984abf79bcf1661e8fa6333c214823c32715daa0edb777f5a2a0aabf2e3&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559890939936251984/portrait-0908-0001.png?ex=6ad0b925&is=6acf67a5&hm=bb010ef195a4f2b35d17392e4e016b5ef615bfb57002e7f91f0f0b25166774d5&",
         "portrait_modified": "2026-06-08 01:41:07.897100",
         "portrait_pending": {},
         "portrait_recolor_link": "",
@@ -307578,7 +307578,7 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1524783148179787936/portrait-0908.png?ex=6a510077&is=6a4faef7&hm=4bed5c6893e59fda9341ebe25a08e2cb2c64de7defe36a9d5b2cf5728acd6341&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559890825263972403/portrait-0908.png?ex=6ad0b90a&is=6acf678a&hm=8ef6f7a60ea44946aac94954890aacca39a006c54fd529c763f541b5743383e5&",
     "portrait_modified": "2023-05-25 02:44:25.267121",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -307613,7 +307613,7 @@
     "sprite_pending": {
       "1559011406127435778": 764610870357131265
     },
-    "sprite_recolor_link": "",
+    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559890564587978802/sprite_recolor-0908-0000-0001.png?ex=6ad0b8cb&is=6acf674b&hm=a00e431ecaa9ba384036590b8ae810d94041f4e84a747b89e94b07dded16ee68&",
     "sprite_required": true,
     "sprite_talk": {
       "710190644152369162": 1192280010879422505
