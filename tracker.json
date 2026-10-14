@@ -167056,12 +167056,16 @@
       "Charge": false,
       "Rotate": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1519492999023689899/sprite-0428.zip?ex=6a3dc1a1&is=6a3c7021&hm=9200252b07d787e2d2bdac7dc6e5ed8839208771d8b6a92df2299c7d05ac03d8&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1559883674764312576/sprite-0428.zip?ex=6ad0b261&is=6acf60e1&hm=68dfcccf35ff476da70b8d79f2209fc14a596a47e30f7d5e51c54b23a1074cb0&",
     "sprite_modified": "2024-12-02 02:15:46.765662",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1559886119221338142": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "710190644152369162": 1559883926128828498
+    },
     "past_work": []
   },
   "0429": {
