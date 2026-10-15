@@ -139088,7 +139088,9 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1556462186858160239/sprite-0355.zip?backend=b2&ex=6ac43fdf&is=6ac2ee5f&hm=07957b91713b938bbf53326d67282cf85e16630b156b282d03e1f0215c0814e2&",
     "sprite_modified": "2023-12-17 00:12:08.496758",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1560114614467952702": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552762356365398126/sprite_recolor-0355-0000-0001.png?ex=6ab6ca22&is=6ab578a2&hm=51fab6865ceedd73305480cf2743d29ac8547b007ba78842cb76774134825fbb&",
     "sprite_required": true,
     "sprite_talk": {
