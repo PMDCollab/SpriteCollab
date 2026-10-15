@@ -11440,9 +11440,11 @@
             "sprite_link": "",
             "sprite_modified": "2022-11-27 21:11:58.828597",
             "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1560421333773328544/sprite_recolor-0025-0006-0001.png?ex=6ad2a71d&is=6ad1559d&hm=a709854886099189e25424534a10c00f3395e9491518c6e79474fd72e993bedd&",
             "sprite_required": true,
-            "sprite_talk": {},
+            "sprite_talk": {
+              "710190644152369162": 1560421296255275049
+            },
             "past_work": []
           }
         },
@@ -43748,7 +43750,7 @@
               "710190644152369162": 1157484808226754580
             },
             "sprite_bounty": {},
-            "sprite_complete": 0,
+            "sprite_complete": 1,
             "sprite_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -43790,12 +43792,10 @@
               "HitGround": false,
               "DeepBreath": false
             },
-            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558962908887777380/sprite-0104-0000-0001.zip?ex=6acd58d9&is=6acc0759&hm=2c4aa773b4a766da486e5c8fe2e13b751bc801be3c36ea8a319c16cb7ff66aae&",
-            "sprite_modified": "2024-12-02 02:15:46.173666",
-            "sprite_pending": {
-              "1558990170261295275": 764610870357131265
-            },
-            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558960623885230200/sprite_recolor-0104-0000-0001.png?ex=6acd56b8&is=6acc0538&hm=ffe8a9f03f65d2a0a6cd7b269ed427f06f9ef4d4a588a2a128e5e1dfc2fd17e8&",
+            "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1560421368498094141/sprite-0104-0000-0001.zip?ex=6ad2a725&is=6ad155a5&hm=0a7692eea108fbbf5b8c99ea01792da5b30e73fec1072de84bf0b9f672c293a1&",
+            "sprite_modified": "2026-10-15 22:37:23.763168",
+            "sprite_pending": {},
+            "sprite_recolor_link": "",
             "sprite_required": true,
             "sprite_talk": {
               "710190644152369162": 1164963435344310386
