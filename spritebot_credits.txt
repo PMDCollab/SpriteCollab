@@ -7698,6 +7698,11 @@ Caitemis	Discord:<@!330751862590406656>	Contact:https://caitemis-art.tumblr.com/
 		Poliwhirl Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Abra Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Strike,Swing,Double,Rotate,Hop
 
+Some_Shinx	Discord:<@!1519393734008115314>	Contact:<@1519393734008115314>
+	Sprite:
+		Pikachu Libre: Idle,Walk,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+		Mew Alternate: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+
 3P1C	Discord:<@!169247379453640706>
 	Portrait:
 		Tepig Beta: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -8941,10 +8946,6 @@ Pencil	Discord:<@!171030521009274881>	Contact:https://twitter.com/Sea_of_Pencils
 SethY	Discord:<@!268261643178344448>	Contact:https://linktr.ee/sethyuikora
 	Sprite:
 		Dragonite: Special0
-
-Some_Shinx	Discord:<@!1519393734008115314>	Contact:<@1519393734008115314>
-	Sprite:
-		Mew Alternate: EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
 
 Neat_Neato	Discord:<@!181900575934382081>	Contact:imneatneato@gmail.com
 	Sprite:
