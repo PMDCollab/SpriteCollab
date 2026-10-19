@@ -8660,10 +8660,13 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Zapdos Altcolor: Normal
 		Meganium Alternate Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dunsparce Shiny: Stunned
+		Sceptile Mega Shiny: Happy,Pain
 		Combusken Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Blaziken Mega_Alternate Shiny: Normal
 		Baltoy: Stunned
 		Baltoy Shiny: Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
+		Chimecho Mega Shiny: Normal
+		Chimecho Mega_Altcolor: Normal
 		Burmy Sand: Happy,Inspired,Pain
 		Burmy Sand Shiny: Happy,Inspired,Pain
 		Burmy Trash: Happy,Inspired,Pain
