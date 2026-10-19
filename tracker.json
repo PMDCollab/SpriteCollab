@@ -139971,18 +139971,18 @@
         "modreward": true,
         "name": "Mega_Altcolor",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 1,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!1377429093997477928>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1561493829813673994": 764610870357131265
+        "portrait_files": {
+          "Normal": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1561530425774575726/portrait-0358-0003.png?ex=6ad6b009&is=6ad55e89&hm=6b4ad5fb89f76b6a42655655838c50ca12734ef7c63f3c145719c54fefdbe975&",
+        "portrait_modified": "2026-10-19 00:04:25.174643",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -257687,9 +257687,7 @@
             "portrait_files": {},
             "portrait_link": "",
             "portrait_modified": "",
-            "portrait_pending": {
-              "1561493787388153950": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
