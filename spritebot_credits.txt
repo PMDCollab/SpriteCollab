@@ -10529,6 +10529,10 @@ radpeepo	Discord:<@!150308109489799169>	Contact:<https://linktr.ee/radpeepo>
 	Portrait:
 		Aegislash Blade: Sad,Sad^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Determined,Determined^
 
+TDLoriat	Discord:<@!804879146731569213>	Contact:<@804879146731569213>
+	Portrait:
+		Clawitzer: Normal^
+
 Xrit63	Discord:<@!512597386279780354>	Contact:Xrit63PMD@outlook.com
 	Portrait:
 		Tyrantrum Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
