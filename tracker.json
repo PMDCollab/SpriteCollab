@@ -86682,7 +86682,9 @@
         },
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1562639159930257408/sprite-0207-0004.zip?ex=6adab8a0&is=6ad96720&hm=da83d2a8d8648ad272bbb20c31bf6e07416ac55c48ea7b79897cb1c47c6e2365&",
         "sprite_modified": "2026-10-22 01:30:07.938934",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1562881583801700444": 764610870357131265
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
         "sprite_talk": {
