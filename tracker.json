@@ -44134,7 +44134,9 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558960449553178684/sprite-0104.zip?ex=6acd568f&is=6acc050f&hm=34c84171b2266553a2f5928aea1670feb8ebcb334a5d19f32332a64fe442609b&",
     "sprite_modified": "2026-10-11 21:52:15.064994",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1563327875476758670": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1558962868853022730/sprite_recolor-0104-0000-0001.png?ex=6acd58d0&is=6acc0750&hm=180efa9225636b9f710c0ae1c896f3f3a3f4a3088f2362d75ddf2c708efc6614&",
     "sprite_required": true,
     "sprite_talk": {
@@ -243655,7 +243657,7 @@
             "modreward": true,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!350050109741858829>",
               "secondary": [],
@@ -243698,17 +243700,18 @@
         "portrait_complete": 1,
         "portrait_credit": {
           "primary": "<@!350050109741858829>",
-          "secondary": [],
-          "total": 1
+          "secondary": [
+            "<@!474424490382589952>"
+          ],
+          "total": 2
         },
         "portrait_files": {
-          "Normal": false
+          "Normal": false,
+          "Happy": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1563181084169211904/portrait-0679-0001.png?ex=6adcb154&is=6adb5fd4&hm=28be8cac53a3683bfae21b20f2d44d2e3ee8c4284a062ea1208d03385c941b38&",
-        "portrait_modified": "2023-04-21 20:12:33.158651",
-        "portrait_pending": {
-          "1563240970202390669": 764610870357131265
-        },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1563328432253960223/portrait-0679-0001.png?ex=6add3a8f&is=6adbe90f&hm=8d52dac8418fc0c4b7c3fe40befcd9a330baf60e0bceb8cb3757bb90a73bd7b8&",
+        "portrait_modified": "2026-10-23 23:09:03.221451",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
