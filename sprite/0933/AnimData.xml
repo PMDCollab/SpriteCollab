@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AnimData>
-  <ShadowSize>0</ShadowSize>
+  <ShadowSize>2</ShadowSize>
   <Anims>
     <Anim>
       <Name>Walk</Name>
@@ -91,7 +91,7 @@
       <Name>Idle</Name>
       <Index>7</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <Durations>
         <Duration>40</Duration>
         <Duration>12</Duration>
@@ -102,7 +102,7 @@
     <Anim>
       <Name>Swing</Name>
       <Index>8</Index>
-      <FrameWidth>64</FrameWidth>
+      <FrameWidth>72</FrameWidth>
       <FrameHeight>80</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>5</ReturnFrame>
@@ -165,7 +165,7 @@
       <Name>Charge</Name>
       <Index>11</Index>
       <FrameWidth>32</FrameWidth>
-      <FrameHeight>40</FrameHeight>
+      <FrameHeight>32</FrameHeight>
       <HitFrame>5</HitFrame>
       <ReturnFrame>9</ReturnFrame>
       <Durations>
