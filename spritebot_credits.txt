@@ -1810,7 +1810,6 @@ G〜	Discord:<@!350050109741858829>	Contact:https://bsky.app/profile/justtr4sh.p
 		Moltres Alternate: Normal
 		Moltres Alternate Shiny: Normal
 		Dragonite Altcolor: Normal
-		Mewtwo Mega_Y Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Mew: Happy,Dizzy
 		Mew Shiny: Happy,Dizzy
 		Meganium Alternate Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
@@ -6524,7 +6523,6 @@ Morei	Discord:<@!593113130213572610>	Contact:https://bsky.app/profile/murpia57.b
 		Kabuto Shiny: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 		Aerodactyl Altcolor: Inspired,Stunned,Determined
 		Dratini Altcolor: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
-		Mewtwo Mega_Y Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Chikorita Shiny: Special1,Special0
 		Chikorita Alternate Shiny: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Sigh,Stunned
 		Cyndaquil Shiny: Joyous,Special1,Special2
@@ -8660,6 +8658,7 @@ JustAGunk	Discord:<@!1377429093997477928>	Contact:<@1377429093997477928>
 		Staryu: Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Staryu Shiny: Normal,Normal^,Happy,Inspired,Happy^,Inspired^,Pain,Pain^
 		Zapdos Altcolor: Normal
+		Mewtwo Mega_Y Shiny: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined,Special0
 		Meganium Alternate Shiny Female: Normal,Sad,Joyous,Happy,Crying,Inspired,Sigh,Pain,Shouting,Surprised,Stunned,Angry,Teary-Eyed,Dizzy,Worried,Determined
 		Dunsparce Shiny: Stunned
 		Sceptile Mega Shiny: Happy,Pain
