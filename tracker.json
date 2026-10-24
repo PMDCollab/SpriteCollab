@@ -11557,9 +11557,9 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1560956705012056125/sprite-0025-0006.zip?ex=6ad499b7&is=6ad34837&hm=ce0923657e0fb237fa728f188ccdc63868fdb929531f29e2b78aa70a6ff50ed1&",
         "sprite_modified": "2026-10-15 22:36:20.442034",
         "sprite_pending": {
-          "1562145673468706948": 764610870357131265
+          "1563507162452598834": 764610870357131265
         },
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1562145662894612550/sprite_recolor-0025-0006-0001.png?ex=6ad8ed05&is=6ad79b85&hm=fe24cb9470d6471775df1c0cd06100b765fa31431da3a1c171f7c140284aff91&",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1563507152650502204/sprite_recolor-0025-0006-0001.png?ex=6adde101&is=6adc8f81&hm=3f94acbbdafda1246ef5af9b168c5421cdaf4518f109b280131fb7e525e1aedf&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1519417311956570313
@@ -11705,10 +11705,10 @@
           "Faint": false,
           "HitGround": false
         },
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1562145557047414845/sprite-0025-0007.zip?ex=6ad8ecec&is=6ad79b6c&hm=dddb93623b6d2dbbed76790c8e037f26c8a02117f800f7d59084480baccf12ec&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1563507043602792448/sprite-0025-0007.zip?ex=6adde0e7&is=6adc8f67&hm=1a618cfefe48b0fb6e2563cdbd4fe4ce5f48731c12978183c94f93c1a2f325a5&",
         "sprite_modified": "2026-10-15 22:34:43.333251",
         "sprite_pending": {},
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1562145546788151406/sprite_recolor-0025-0007-0001.png?ex=6ad8ece9&is=6ad79b69&hm=36638b21c4b0aefbca3a64384b6adcdfdce9d30983e6bc4f3d1e3672391d6989&",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1563507034153025577/sprite_recolor-0025-0007-0001.png?ex=6adde0e5&is=6adc8f65&hm=25a07c81e2e5364e0d577502105e3c3b01f692a8d52ff4838fe806e5b6e3a518&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1519417727956029592
