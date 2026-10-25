@@ -5806,9 +5806,11 @@
       "Surprised": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534757725609918625/portrait-0010.png?ex=6a754a04&is=6a73f884&hm=41e33da6f9d3596135e7810f51f844edf251d0c8fc18dc76d58708d28bf99d66&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564052386975060099/portrait-0010.png?ex=6adfdccb&is=6ade8b4b&hm=92fa7fee27eb18eaf4299b3a4a6e68fdac181e2ab34294e24bc9223cad676923&",
     "portrait_modified": "2023-12-24 05:33:57.562038",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1564052396051529800": 764610870357131265
+    },
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1404192007928156170/portrait_recolor-0010-0000-0001.png?ex=689a4b37&is=6898f9b7&hm=034b70c6869362c655e46f27463e3f23218af7eb80ff6e63225147c15fbc95dc&",
     "portrait_required": true,
     "portrait_talk": {
