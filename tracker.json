@@ -5816,18 +5816,33 @@
         "modreward": true,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!1519393734008115314>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1564069677750157342": 764610870357131265
+        "portrait_files": {
+          "Sigh": false,
+          "Joyous": false,
+          "Sad": false,
+          "Shouting": false,
+          "Determined": false,
+          "Pain": false,
+          "Crying": false,
+          "Normal": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Worried": false,
+          "Stunned": false,
+          "Happy": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564075621230059650/portrait-0010-0001.png?ex=6adff26f&is=6adea0ef&hm=5599fca774053c0a560dbf2e8761d53314efe964973baf231a49bb40d97a0a27&",
+        "portrait_modified": "2026-10-26 00:38:05.510383",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
@@ -54009,7 +54024,7 @@
             "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1275333277317726292/sprite-0132-0000-0001.zip?ex=66c5822b&is=66c430ab&hm=dc91dc19a537740f0dc71efb7d7a5d27c8815bf3d31be85dec6708a57dd6cfff&",
             "sprite_modified": "2024-03-01 02:24:31.378337",
             "sprite_pending": {},
-            "sprite_recolor_link": "",
+            "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564075612799238184/sprite_recolor-0132-0000-0001.png?ex=6adff26d&is=6adea0ed&hm=212e67056324b4adfe8fa1f44ddaaafd4c1385f384de6dc0d28148dd116c4dbd&",
             "sprite_required": true,
             "sprite_talk": {
               "710190644152369162": 1211863644783120405
@@ -54235,9 +54250,7 @@
     "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1211716991908446268/portrait_recolor-0132-0000-0001.png?ex=65ef3663&is=65dcc163&hm=45d39e4a8e1d4d3f83f4fe99b047c9a646dc9cfba4cc7b3c5b3615b980042fcc&",
     "portrait_required": true,
     "portrait_talk": {},
-    "sprite_bounty": {
-      "2": 103
-    },
+    "sprite_bounty": {},
     "sprite_complete": 2,
     "sprite_credit": {
       "primary": "CHUNSOFT",
