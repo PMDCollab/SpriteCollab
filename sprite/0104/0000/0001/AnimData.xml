@@ -287,7 +287,26 @@
         <Duration>10</Duration>
       </Durations>
     </Anim>
-
+    <Anim>
+      <Name>Pain</Name>
+      <Index>19</Index>
+      <FrameWidth>32</FrameWidth>
+      <FrameHeight>40</FrameHeight>
+      <Durations>
+        <Duration>4</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>1</Duration>
+        <Duration>2</Duration>
+        <Duration>1</Duration>
+        <Duration>4</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+        <Duration>2</Duration>
+      </Durations>
+    </Anim>
     <Anim>
       <Name>Float</Name>
       <Index>20</Index>
