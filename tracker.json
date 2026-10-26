@@ -5704,9 +5704,7 @@
             },
             "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564060683946037258/portrait-0010-0000-0001.png?ex=6adfe485&is=6ade9305&hm=b16be8e46c3997e43dd341b796f3044d2675adec97a892a80680d3dc8d26c880&",
             "portrait_modified": "2023-07-07 14:44:11.963431",
-            "portrait_pending": {
-              "1564060691894239252": 764610870357131265
-            },
+            "portrait_pending": {},
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564056541416390737/portrait_recolor-0010-0000-0001.png?ex=6adfe0aa&is=6ade8f2a&hm=192a3685fb9712f26073326028f5dbb6a8fac252969ae71db44f9d67c0bbe299&",
             "portrait_required": true,
             "portrait_talk": {
@@ -11442,7 +11440,7 @@
             "sprite_link": "",
             "sprite_modified": "2022-11-27 21:11:58.828597",
             "sprite_pending": {
-              "1564067141983146105": 764610870357131265
+              "1564068947840471171": 764610870357131265
             },
             "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564067133728497827/sprite_recolor-0025-0006-0001.png?ex=6adfea87&is=6ade9907&hm=43c3d0f366ac390f777ef7acaff80cc5b551f4de06d187eea1149255853e5982&",
             "sprite_required": true,
@@ -11561,7 +11559,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564066890718904460/sprite-0025-0006.zip?ex=6adfea4d&is=6ade98cd&hm=e62115ba3e40ad7fb50414a119f280b3a9a897e374225a14f01a09f70623fbd6&",
         "sprite_modified": "2026-10-26 00:03:25.367401",
         "sprite_pending": {},
-        "sprite_recolor_link": "",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564068891972472862/sprite_recolor-0025-0006-0001.png?ex=6adfec2a&is=6ade9aaa&hm=50fd8d317292b38583ccfc03af2dc739344154f579d88bf64aca48512c7e57dd&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1519417311956570313
@@ -138101,7 +138099,7 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1340850814679257239/portrait-0353.png?ex=67b3dc22&is=67b28aa2&hm=04b0a1f30cfd6936b279167fada564715741e93fa263aaee2657da576773983d&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564068562019287152/portrait-0353.png?ex=6adfebdc&is=6ade9a5c&hm=f55bb0d103a7ea2451584cc9ca17fc75dc5c10146382c5245c207b58fcee7560&",
     "portrait_modified": "2023-05-09 02:15:27.385805",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -167306,7 +167304,7 @@
       "Stunned": false,
       "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1337822814148886599/portrait-0429.png?ex=67a8d816&is=67a78696&hm=d9776e476f5f3e15bd14c36810a8dc44fcacac196b4b13f8bc05803f9b70b590&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564068300630134896/portrait-0429.png?ex=6adfeb9d&is=6ade9a1d&hm=bd49fbab4f79cea75ebd6b2071463af2113461dc52803719d40ff6773f07166b&",
     "portrait_modified": "2023-05-15 17:00:09.029525",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -185911,7 +185909,7 @@
       "Teary-Eyed": false,
       "Worried": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1535290254414848030/portrait-0478.png?ex=6a7739f8&is=6a75e878&hm=99bd05d68fbab95037a9490cb77bb84e284e3450b7c925a356ca75234e1fdca0&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564069065176121375/portrait-0478.png?ex=6adfec54&is=6ade9ad4&hm=d73b8282750566038891b61d2858cb649a591a346a042add89972404a812efd0&",
     "portrait_modified": "2024-05-13 22:09:24.519965",
     "portrait_pending": {},
     "portrait_recolor_link": "",
@@ -327263,9 +327261,7 @@
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1563669375800709211/portrait-1013.png?ex=6ade7816&is=6add2696&hm=ea61c005e5d6aa315cd49ad2f271e1bcdd8e55616aeb50ae9e555ecdee0ca7ba&",
     "portrait_modified": "2023-09-20 19:20:14.789043",
-    "portrait_pending": {
-      "1563695918253875300": 764610870357131265
-    },
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
