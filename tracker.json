@@ -53985,7 +53985,7 @@
               "710190644152369162": 1211720480298631210
             },
             "sprite_bounty": {},
-            "sprite_complete": 1,
+            "sprite_complete": 0,
             "sprite_credit": {
               "primary": "<@!576876006636519434>",
               "secondary": [],
@@ -54238,11 +54238,13 @@
     "sprite_bounty": {
       "2": 103
     },
-    "sprite_complete": 1,
+    "sprite_complete": 2,
     "sprite_credit": {
       "primary": "CHUNSOFT",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!330751862590406656>"
+      ],
+      "total": 2
     },
     "sprite_files": {
       "Walk": true,
@@ -54257,14 +54259,34 @@
       "Double": true,
       "Hop": true,
       "Charge": true,
-      "Rotate": true
+      "Rotate": true,
+      "EventSleep": false,
+      "Wake": false,
+      "Eat": false,
+      "Tumble": false,
+      "Pose": false,
+      "Pull": false,
+      "Pain": false,
+      "Float": false,
+      "DeepBreath": false,
+      "Nod": false,
+      "Sit": false,
+      "LookUp": false,
+      "Sink": false,
+      "Trip": false,
+      "Laying": false,
+      "LeapForth": false,
+      "Head": false,
+      "Cringe": false,
+      "LostBalance": false,
+      "TumbleBack": false,
+      "Faint": false,
+      "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1540410518601465956/sprite-0132.zip?ex=6a89da97&is=6a888917&hm=59a28d89c1b5f5b47e729f73813111eedd84fecd366b2ccc37645a15e7fd9341&",
-    "sprite_modified": "2021-03-16 02:59:00.705334",
-    "sprite_pending": {
-      "1528249853501640845": 764610870357131265
-    },
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1409314912546717787/sprite_recolor-0132-0000-0001.png?ex=68acee4a&is=68ab9cca&hm=a61c59bf56e2cf9e3b8dd7cc40ee2195bb2d8e357964c894dc4a4d6db10ac701&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564075446335705098/sprite-0132.zip?ex=6adff245&is=6adea0c5&hm=f401407c6d552ac9087014ffd4144c9925e2bf5a5c0dbb93f22c51d909b2d1a3&",
+    "sprite_modified": "2026-10-26 00:37:25.228463",
+    "sprite_pending": {},
+    "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
       "710190644152369162": 1528249832542568488
