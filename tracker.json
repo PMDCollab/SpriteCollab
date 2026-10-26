@@ -5675,14 +5675,11 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 0,
+            "portrait_complete": 2,
             "portrait_credit": {
-              "primary": "<@!276949114212712449>",
-              "secondary": [
-                "<@!237286997645983744>",
-                "<@!544245909639397378>"
-              ],
-              "total": 3
+              "primary": "<@!1519393734008115314>",
+              "secondary": [],
+              "total": 1
             },
             "portrait_files": {
               "Inspired": false,
@@ -5702,10 +5699,10 @@
               "Stunned": false,
               "Happy": false
             },
-            "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564060683946037258/portrait-0010-0000-0001.png?ex=6adfe485&is=6ade9305&hm=b16be8e46c3997e43dd341b796f3044d2675adec97a892a80680d3dc8d26c880&",
-            "portrait_modified": "2023-07-07 14:44:11.963431",
+            "portrait_link": "",
+            "portrait_modified": "2026-10-26 00:38:05.510383",
             "portrait_pending": {},
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564056541416390737/portrait_recolor-0010-0000-0001.png?ex=6adfe0aa&is=6ade8f2a&hm=192a3685fb9712f26073326028f5dbb6a8fac252969ae71db44f9d67c0bbe299&",
+            "portrait_recolor_link": "",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1126745956751249528
@@ -5816,38 +5813,19 @@
         "modreward": true,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 2,
+        "portrait_complete": 0,
         "portrait_credit": {
-          "primary": "<@!1519393734008115314>",
+          "primary": "",
           "secondary": [],
-          "total": 1
+          "total": 0
         },
-        "portrait_files": {
-          "Sigh": false,
-          "Joyous": false,
-          "Sad": false,
-          "Shouting": false,
-          "Determined": false,
-          "Pain": false,
-          "Crying": false,
-          "Normal": false,
-          "Teary-Eyed": false,
-          "Dizzy": false,
-          "Inspired": false,
-          "Surprised": false,
-          "Angry": false,
-          "Worried": false,
-          "Stunned": false,
-          "Happy": false
-        },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1564075621230059650/portrait-0010-0001.png?ex=6adff26f&is=6adea0ef&hm=5599fca774053c0a560dbf2e8761d53314efe964973baf231a49bb40d97a0a27&",
-        "portrait_modified": "2026-10-26 00:38:05.510383",
+        "portrait_files": {},
+        "portrait_link": "",
+        "portrait_modified": "",
         "portrait_pending": {},
         "portrait_recolor_link": "",
-        "portrait_required": true,
-        "portrait_talk": {
-          "710190644152369162": 1564069672813330544
-        },
+        "portrait_required": false,
+        "portrait_talk": {},
         "sprite_bounty": {},
         "sprite_complete": 0,
         "sprite_credit": {
