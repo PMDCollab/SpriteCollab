@@ -1,2 +1,3 @@
 2022-09-25 01:54:21.904425	<@!544245909639397378>	CUR	PMDCollab_1	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike
 2026-10-15 22:36:20.439991	<@!1519393734008115314>	CUR	CC_BY-NC_4	Idle,Walk,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,EventSleep,Wake,Eat,Tumble,Pose,Pull,Pain,Float,DeepBreath,Nod,Sit,LookUp,Sink,Trip,Laying,LeapForth,Head,Cringe,LostBalance,TumbleBack,HitGround,Faint
+2026-10-26 00:03:25.365039	<@!1519393734008115314>	CUR	CC_BY-NC_4	Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,Shock,Swing,Double,Rotate,Hop,QuickStrike,Eat,Tumble,Pose,Pain,DeepBreath,Nod,Cringe,TumbleBack
