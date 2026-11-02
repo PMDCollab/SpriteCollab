@@ -60025,12 +60025,16 @@
           "total": 0
         },
         "sprite_files": {},
-        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1552390127584804945/sprite-0149-0001.zip?ex=6ab56f78&is=6ab41df8&hm=45278bd890c4674220f089f5ac88ba7012e6c214a70e40be0a7e2100d9e29722&",
+        "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1566709713347936286/sprite-0149-0001.zip?ex=6ae9879f&is=6ae8361f&hm=f1ef6d4f4504b3583107e69647a74a7ae1f64fd3a981342c3b1b438a54f24def&",
         "sprite_modified": "",
-        "sprite_pending": {},
+        "sprite_pending": {
+          "1566710358440415262": 764610870357131265
+        },
         "sprite_recolor_link": "",
         "sprite_required": true,
-        "sprite_talk": {},
+        "sprite_talk": {
+          "710190644152369162": 1566710294426951683
+        },
         "past_work": []
       },
       "0002": {
