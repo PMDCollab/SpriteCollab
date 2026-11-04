@@ -10118,6 +10118,7 @@ Discord:<@!218959749276893184>
 radpeepo	Discord:<@!150308109489799169>	Contact:<https://linktr.ee/radpeepo>
 	Portrait:
 		Onix: Pain
+		Ariados: Pain
 		Slakoth: Pain
 		Aegislash Blade: Sad,Sad^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Determined,Determined^
 
