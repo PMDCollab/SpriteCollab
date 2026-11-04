@@ -10114,6 +10114,12 @@ Discord:<@!218959749276893184>
 		Gastly Alternate: Normal,Happy,Pain,Angry,Worried,Sad,Crying,Shouting,Teary-Eyed,Determined,Joyous,Inspired,Surprised,Dizzy,Special0,Sigh,Stunned
 		Phantump: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Pain,Sad,Shouting,Sigh,Stunned,Surprised,Teary-Eyed,Worried
 
+radpeepo	Discord:<@!150308109489799169>	Contact:<https://linktr.ee/radpeepo>
+	Portrait:
+		Onix: Pain
+		Slakoth: Pain
+		Aegislash Blade: Sad,Sad^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Determined,Determined^
+
 Discord:<@!967585139485999154>
 	Portrait:
 		Krabby: Angry,Crying,Determined,Dizzy,Happy,Inspired,Joyous,Normal,Pain,Sad,Shouting,Sigh,Special3,Stunned,Surprised,Teary-Eyed,Worried
@@ -10536,10 +10542,6 @@ SkeleSpider	Discord:<@!291732421332697098>	Contact:https://linktr.ee/skelespider
 NovaeSys	Discord:<@!474424490382589952>	Contact:https://novae.observer/
 	Portrait:
 		Honedge Unsheathed: Normal,Happy
-
-radpeepo	Discord:<@!150308109489799169>	Contact:<https://linktr.ee/radpeepo>
-	Portrait:
-		Aegislash Blade: Sad,Sad^,Crying,Inspired,Sigh,Crying^,Inspired^,Sigh^,Pain,Surprised,Stunned,Pain^,Surprised^,Stunned^,Determined,Determined^
 
 TDLoriat	Discord:<@!804879146731569213>	Contact:<@804879146731569213>
 	Portrait:
