@@ -40704,7 +40704,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!276949114212712449>",
               "secondary": [
@@ -40886,19 +40886,19 @@
     "portrait_credit": {
       "primary": "CHUNSOFT",
       "secondary": [
-        "<@!544245909639397378>"
+        "<@!544245909639397378>",
+        "<@!150308109489799169>"
       ],
-      "total": 2
+      "total": 3
     },
     "portrait_files": {
       "Normal": true,
-      "Surprised": false
+      "Surprised": false,
+      "Pain": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1567607572939145216/portrait-0095.png?ex=6aeccbd2&is=6aeb7a52&hm=f76c09ff3dceeeff3e600b3a31e8d9cb8ffffc504fdfba52e19bdc753fa11e70&",
-    "portrait_modified": "2023-03-04 18:43:55.553217",
-    "portrait_pending": {
-      "1567638386166992987": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1567660975463596162/portrait-0095.png?ex=6aecfd8e&is=6aebac0e&hm=6a72022c40f1ea1895295747fe84e2fe1e62d0f6b3497dac60459ebfd1cdbe09&",
+    "portrait_modified": "2026-11-04 22:05:02.030189",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
@@ -115466,22 +115466,22 @@
     "portrait_credit": {
       "primary": "CHUNSOFT",
       "secondary": [
-        "<@!330751862590406656>"
+        "<@!330751862590406656>",
+        "<@!150308109489799169>"
       ],
-      "total": 2
+      "total": 3
     },
     "portrait_files": {
       "Normal": true,
       "Sigh": false,
       "Sad": false,
       "Inspired": false,
-      "Happy": false
+      "Happy": false,
+      "Pain": false
     },
     "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1567608918895628438/portrait-0287.png?ex=6aeccd13&is=6aeb7b93&hm=6a52a1096394df84c2a2072a3e4f2fa4fe0dd14fd1dcb17b4e6929117de5665d&",
-    "portrait_modified": "2022-12-23 22:22:08.978546",
-    "portrait_pending": {
-      "1567640840028033085": 764610870357131265
-    },
+    "portrait_modified": "2026-11-04 22:04:59.958960",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
