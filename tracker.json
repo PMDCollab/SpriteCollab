@@ -7470,7 +7470,9 @@
             },
             "sprite_link": "",
             "sprite_modified": "2021-03-16 02:58:54.191756",
-            "sprite_pending": {},
+            "sprite_pending": {
+              "1567985925072625764": 764610870357131265
+            },
             "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1567965437881225328/sprite_recolor-0016-0000-0001.png?ex=6aee191b&is=6aecc79b&hm=aedb94a63e34c50f28ddb5be413a6cd8a65265b9d79f4fe6527f634e067e8544&",
             "sprite_required": true,
             "sprite_talk": {
