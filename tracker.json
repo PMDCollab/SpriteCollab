@@ -6556,9 +6556,11 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1464421297013522604/portrait-0012-0002.png?ex=6975681c&is=6974169c&hm=c47a126bd2ce229099b71f507037c12986b79c105d3ee9efb21800c406b94f29&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1567962120002215956/portrait-0012-0002.png?ex=6aee1604&is=6aecc484&hm=c91595f83db53f3586a1f18559b81f79235e3e9d54d061ac84f8549d1bcab84e&",
         "portrait_modified": "2023-05-02 20:12:41.713321",
-        "portrait_pending": {},
+        "portrait_pending": {
+          "1567962129410031672": 764610870357131265
+        },
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
