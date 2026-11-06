@@ -145890,10 +145890,14 @@
     },
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568381968976974016/sprite-0375.zip?ex=6aef9d08&is=6aee4b88&hm=9fb86f45884ecc449cd255a4261d003cf005a53ec2619934bdc3aac94a206e24&",
     "sprite_modified": "2021-03-16 02:59:15.965514",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1568397671574798447": 764610870357131265
+    },
     "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568373364567838820/sprite_recolor-0375-0000-0001.png?ex=6aef9505&is=6aee4385&hm=8f5f5eb135348f245004affe725f7adefa8e60f8e9aefb913d489c305dbf646b&",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "710190644152369162": 1568397634765332480
+    },
     "past_work": []
   },
   "0376": {
