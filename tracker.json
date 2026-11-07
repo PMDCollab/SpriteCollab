@@ -87507,7 +87507,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!95638225439166464>",
               "secondary": [],
@@ -87678,20 +87678,35 @@
     "modreward": false,
     "name": "Granbull",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "CHUNSOFT",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!225949425292410880>"
+      ],
+      "total": 2
     },
     "portrait_files": {
-      "Normal": true
+      "Normal": true,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Determined": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568640807563559055/portrait-0210.png?ex=6af08e18&is=6aef3c98&hm=25e6eec52b8c2b9e58a4c64017ad578012327349244e04810307c810dd67ee87&",
-    "portrait_modified": "2020-10-13 04:45:21.258016",
-    "portrait_pending": {
-      "1568648000514040038": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568712991929663701/portrait-0210.png?ex=6af0d152&is=6aef7fd2&hm=06ca029dd68c7e24f36a3bc13d0860b7ec580dc23235a5ce384288a84317783c&",
+    "portrait_modified": "2026-11-07 19:45:22.251587",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
