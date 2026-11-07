@@ -87518,7 +87518,9 @@
             },
             "portrait_link": "",
             "portrait_modified": "2020-10-13 04:45:21.256022",
-            "portrait_pending": {},
+            "portrait_pending": {
+              "1568713192358678712": 764610870357131265
+            },
             "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568713183647105064/portrait_recolor-0210-0000-0001.png?ex=6af0d180&is=6aef8000&hm=1fe4a4f01520e0ad26ac75694718f725a4c12067635e0b988c88d90b043b4a3d&",
             "portrait_required": true,
             "portrait_talk": {
@@ -254988,7 +254990,7 @@
         "portrait_files": {
           "Normal": false
         },
-        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568364852475592865/portrait-0724-0001.png?ex=6aef8d17&is=6aee3b97&hm=a0e96432a62d765d46f8dc29d6b25ceaaa346c6fbc32b6913545fa2e3d7d72a1&",
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568729673016541284/portrait-0724-0001.png?ex=6af0e0db&is=6aef8f5b&hm=1bcbd2af778221ef495a1181c0246fdc9b984209e08a1a70775a4ed31b3bc843&",
         "portrait_modified": "2022-05-29 22:58:04.840755",
         "portrait_pending": {},
         "portrait_recolor_link": "",
