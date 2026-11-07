@@ -87687,12 +87687,16 @@
     "portrait_files": {
       "Normal": true
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1463349769429848086/portrait-0210.png?ex=6971822c&is=697030ac&hm=0a5d45d2abf592792e261ac43cfbc2210ce8a0bc539cdaa9812953dc3f91485f&",
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1568640807563559055/portrait-0210.png?ex=6af08e18&is=6aef3c98&hm=25e6eec52b8c2b9e58a4c64017ad578012327349244e04810307c810dd67ee87&",
     "portrait_modified": "2020-10-13 04:45:21.258016",
-    "portrait_pending": {},
+    "portrait_pending": {
+      "1568640816086253578": 764610870357131265
+    },
     "portrait_recolor_link": "",
     "portrait_required": true,
-    "portrait_talk": {},
+    "portrait_talk": {
+      "710190644152369162": 1568640801834008577
+    },
     "sprite_bounty": {},
     "sprite_complete": 1,
     "sprite_credit": {
