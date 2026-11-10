@@ -8842,18 +8842,33 @@
         "modreward": true,
         "name": "Temp",
         "portrait_bounty": {},
-        "portrait_complete": 0,
+        "portrait_complete": 2,
         "portrait_credit": {
-          "primary": "",
+          "primary": "<@!576876006636519434>",
           "secondary": [],
-          "total": 0
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {
-          "1569531878925402243": 764610870357131265
+        "portrait_files": {
+          "Sigh": false,
+          "Joyous": false,
+          "Sad": false,
+          "Shouting": false,
+          "Determined": false,
+          "Pain": false,
+          "Crying": false,
+          "Normal": false,
+          "Teary-Eyed": false,
+          "Dizzy": false,
+          "Inspired": false,
+          "Surprised": false,
+          "Angry": false,
+          "Worried": false,
+          "Stunned": false,
+          "Happy": false
         },
+        "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1569537005321191587/portrait-0019-0004.png?ex=6af3d0be&is=6af27f3e&hm=f96b8806e858e290dc74a76512af588451d98b5e6de4f73c8ba4bb5d8b7dfe41&",
+        "portrait_modified": "2026-11-10 02:19:42.386274",
+        "portrait_pending": {},
         "portrait_recolor_link": "",
         "portrait_required": true,
         "portrait_talk": {
