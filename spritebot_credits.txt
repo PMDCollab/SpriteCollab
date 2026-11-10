@@ -9604,6 +9604,7 @@ Mitsubachi	Discord:<@!472136803554557956>
 <SKREE>	Discord:<@!350778126919401485>	Contact:<https://www.tumblr.com/blog/skree-like-a-pterodactyl>
 	Portrait:
 		Baltoy Shiny: Normal,Happy,Shouting,Angry,Determined
+		Carbink Shiny: Pain
 	Sprite:
 		Mudsdale Shiny: Idle,Walk,Sleep,Hurt,Attack,Charge,Shoot,RearUp,Swing,Double,Rotate,Hop
 		Toedscool Shiny: Idle,Walk,Sleep,Swing,Double,Rotate
