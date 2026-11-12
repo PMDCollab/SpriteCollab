@@ -262405,8 +262405,10 @@
             },
             "portrait_link": "",
             "portrait_modified": "2022-10-07 01:34:07.175673",
-            "portrait_pending": {},
-            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1272045942261944400/portrait_recolor-0760-0000-0001.png?ex=66b98c9a&is=66b83b1a&hm=21eabcb8fb7a062b74c800a42bd35902db521d5a5d1e4035584a210f29939459&",
+            "portrait_pending": {
+              "1570500005964288043": 764610870357131265
+            },
+            "portrait_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1570499996770509001/portrait_recolor-0760-0000-0001.png?ex=6af75199&is=6af60019&hm=e53c3f16dac5118811548537732d75d4a08c55dcead9a2f3eccbf13e6aab3be5&",
             "portrait_required": true,
             "portrait_talk": {
               "710190644152369162": 1272045938290196513
