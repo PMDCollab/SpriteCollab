@@ -283260,10 +283260,14 @@
     "sprite_files": {},
     "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1519879524844834826/sprite-0839.zip?ex=6a3f299c&is=6a3dd81c&hm=14321e8d0810d146e810bb5d802b95e004099328e7e170ab78c4f70096206db5&",
     "sprite_modified": "",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1571307887140012032": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "710190644152369162": 1571307845356359722
+    },
     "past_work": []
   },
   "0840": {
