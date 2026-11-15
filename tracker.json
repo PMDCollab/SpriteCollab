@@ -34749,7 +34749,7 @@
         "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1334945392827175063/sprite-0080-0001.zip?ex=679e6047&is=679d0ec7&hm=5f077c296ca5c5f0736307ae22e24bf83ed1693c0bd4144cdcbbaf4e371d3f40&",
         "sprite_modified": "2024-12-27 04:22:09.110370",
         "sprite_pending": {},
-        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1546049344409575484/sprite_recolor-0080-0001-0001.png?ex=6a9e5e27&is=6a9d0ca7&hm=8fe42ba5caf70830cfa282f618903156c57995ac13250ed6477f84416622907a&",
+        "sprite_recolor_link": "https://cdn.discordapp.com/attachments/822865440489472020/1571617314250563816/sprite_recolor-0080-0001-0001.png?ex=6afb622e&is=6afa10ae&hm=8e13fde8cde2f578671e7a4efa350b960014096176801f3a7e8c096345c1d3ae&",
         "sprite_required": true,
         "sprite_talk": {
           "710190644152369162": 1314042680057139331
@@ -35191,7 +35191,7 @@
             "sprite_modified": "",
             "sprite_pending": {},
             "sprite_recolor_link": "",
-            "sprite_required": true,
+            "sprite_required": false,
             "sprite_talk": {},
             "past_work": []
           }
@@ -35232,7 +35232,7 @@
         "sprite_modified": "",
         "sprite_pending": {},
         "sprite_recolor_link": "",
-        "sprite_required": true,
+        "sprite_required": false,
         "sprite_talk": {},
         "past_work": []
       }
