@@ -303721,7 +303721,7 @@
             "modreward": false,
             "name": "Shiny",
             "portrait_bounty": {},
-            "portrait_complete": 1,
+            "portrait_complete": 0,
             "portrait_credit": {
               "primary": "<@!356635814668664832>",
               "secondary": [],
@@ -304067,21 +304067,35 @@
     "modreward": false,
     "name": "Urshifu",
     "portrait_bounty": {},
-    "portrait_complete": 1,
+    "portrait_complete": 2,
     "portrait_credit": {
       "primary": "<@!356635814668664832>",
-      "secondary": [],
-      "total": 1
+      "secondary": [
+        "<@!276369635304275968>"
+      ],
+      "total": 2
     },
     "portrait_files": {
       "Normal": false,
-      "Determined": false
+      "Determined": false,
+      "Sigh": false,
+      "Joyous": false,
+      "Sad": false,
+      "Shouting": false,
+      "Pain": false,
+      "Crying": false,
+      "Teary-Eyed": false,
+      "Dizzy": false,
+      "Inspired": false,
+      "Surprised": false,
+      "Angry": false,
+      "Worried": false,
+      "Stunned": false,
+      "Happy": false
     },
-    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1570655894109294642/portrait-0892.png?ex=6af7e2ca&is=6af6914a&hm=13da1ad6e54fecdd40746a53dafed1d6586f672d82299dd668512f250803f5c6&",
-    "portrait_modified": "2023-07-31 23:45:20.670401",
-    "portrait_pending": {
-      "1570655905349902457": 764610870357131265
-    },
+    "portrait_link": "https://cdn.discordapp.com/attachments/822865440489472020/1572073812932042942/portrait-0892.png?ex=6afd0b54&is=6afbb9d4&hm=696806647b718bd38ec0ffeeeb9817cd2e2439b7b1a731e58c821c22ab7f57f8&",
+    "portrait_modified": "2026-11-17 02:20:04.500113",
+    "portrait_pending": {},
     "portrait_recolor_link": "",
     "portrait_required": true,
     "portrait_talk": {
