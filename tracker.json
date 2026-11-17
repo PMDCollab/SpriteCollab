@@ -91010,11 +91010,9 @@
       "Faint": false,
       "HitGround": false
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1534007795349852400/sprite-0215.zip?ex=6a728f96&is=6a713e16&hm=071804fc076ee74baf05c33402b02129132d6649529dcba2036ddc84b331e126&",
-    "sprite_modified": "2026-08-04 01:19:18.685061",
-    "sprite_pending": {
-      "1534008948452098228": 764610870357131265
-    },
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1572072933847990322/sprite-0215.zip?ex=6afd0a83&is=6afbb903&hm=09697df29c94ee8cf55a6abd9e83b7249d4d6d49ce7b7033aabc38520f0ac9d4&",
+    "sprite_modified": "2026-11-17 02:16:34.743484",
+    "sprite_pending": {},
     "sprite_recolor_link": "",
     "sprite_required": true,
     "sprite_talk": {
