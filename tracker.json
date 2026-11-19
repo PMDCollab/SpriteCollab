@@ -14634,12 +14634,16 @@
       "Charge": true,
       "Rotate": true
     },
-    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1409825409314586644/sprite-0029.zip?ex=68aec9ba&is=68ad783a&hm=7a0cdd826febef1fd4f59a157c543755ec44135a4ed58207ff052fb898997242&",
+    "sprite_link": "https://cdn.discordapp.com/attachments/822865440489472020/1572870134408806400/sprite-0029.zip?ex=6afff0f6&is=6afe9f76&hm=0a1496acb817cf0cde8c2b6049228cfa52d889dc5c906a265b1a484e4a605e08&",
     "sprite_modified": "2021-03-16 02:58:55.151189",
-    "sprite_pending": {},
+    "sprite_pending": {
+      "1572870345894133790": 764610870357131265
+    },
     "sprite_recolor_link": "",
     "sprite_required": true,
-    "sprite_talk": {},
+    "sprite_talk": {
+      "710190644152369162": 1572870318727626785
+    },
     "past_work": []
   },
   "0030": {
